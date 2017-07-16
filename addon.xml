@@ -1,6 +1,7 @@
 <addons>
 </addon>
 <addon id="plugin.video.f4mTester" version="2.7.1" name="f4mTester" provider-name="Shani">
+<addon id="script.video.F4mProxy" version="2.8.7" name="F4mProxy" provider-name="Shani">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.video.F4mProxy" version="2.8.7"/>
