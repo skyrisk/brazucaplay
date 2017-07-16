@@ -1,8 +1,5 @@
 <addons>
-<addon id="plugin.video.BrazucaPlay"
-name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
-version="[B][COLOR white]1.7[/COLOR][/B]"
-provider-name="[B][COLOR white]Lucas Cardoso[/COLOR][/B]">
+<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="[B][COLOR white]1.7[/COLOR][/B]" provider-name="[B][COLOR white]Lucas Cardoso[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.20.0"/>
 <import addon="script.module.t0mm0.common" version="2.1.1"/>
