@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.BrazucaPlay"
+name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
+version="[B][COLOR white]1.7[/COLOR][/B]"
+provider-name="[B][COLOR white]Lucas Cardoso[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.20.0"/>
+<import addon="script.module.t0mm0.common" version="2.1.1"/>
+<import addon="script.module.beautifulsoup" version="3.2.1"/>
+<import addon="script.module.beautifulsoup4" version="4.3.2"/>
+<import addon="script.module.simple.downloader" version="1.9.5"/>
+<import addon="script.module.requests" version="2.12.4"/>
+<import addon="script.module.httplib2" version="0.8.0"/>
+<import addon="script.module.urlresolver" optional="true"/>
+<import addon="script.module.simplejson" version="3.3.0"/>
+<import addon="script.common.plugin.cache" version="2.5.8"/>
+<import addon="script.module.metahandler" version="2.9.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
+<description lang="pt">[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
+<disclaimer lang="en">[B][COLOR white]DOAÇÕES MANTEM O ADDON ATUALIZADO > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/DOARPLAY[/COLOR][/B]</disclaimer>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/home.png</screenshot>
+<screenshot>resources/screenshots/movies.png</screenshot>
+<screenshot>resources/screenshots/series.png</screenshot>
+</assets>
+</extension>
+</addon>
