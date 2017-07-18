@@ -1,5 +1,3 @@
-<item>
-</item>
 <channels>
 </channels>
 <channel>
@@ -8,12 +6,10 @@
 <externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/playtv1.m3u</externallink>
 <fanart>http://i.imgur.com/oVVI97U.jpg</fanart>
 </channel>
-<item>
+<channels>
 <title>[B][COLOR  lawngreen]»» [/COLOR][COLOR white]GUIA DE TV[/COLOR][/B]</title>
-<thumbnail>https://s26.postimg.org/g0yf2bzuh/meu.png</thumbnail>
+<thumbnail>https://s26.postimg.org/jw1t4wj09/meu_guia.png</thumbnail>
+<externallink>https://cld.pt/dl/download/842afc03-80b5-456b-9e60-152423deeea4/meu%20guia.xml</externallink>
+<jsonrpc>plugin://plugin.video.MEU-GUIA.TV/?action=https://meuguia.tv/</jsonrpc>
 <fanart>http://i.imgur.com/oVVI97U.jpg</fanart>
-<link>http://ignoreme</link>
-<jsonrpc>
-plugin://plugin.video.MEU-GUIA.TV/?action=https://meuguia.tv/
-</jsonrpc>
-</item>
+</channel> 
