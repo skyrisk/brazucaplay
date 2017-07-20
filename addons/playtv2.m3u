@@ -1,0 +1,614 @@
+#EXTM3U
+
+################################################################################# INFORMAÇÕES
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]LISTA ATUALIZADA:[/COLOR] [COLOR gold]18/07/2017[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]DOAÇÕES:[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]PAGSEGURO R$: [COLOR gold]BIT.LY/DOARPLAY[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFORMAÇÕES",[B][COLOR white]PAYPAL $: [COLOR gold]BIT.LY/DOARPLAY2[/COLOR][/B]
+here
+
+################################################################################# CANAIS ABERTOS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="CANAIS ABERTOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]CANAIS ABERTOS[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/193.ts&name=[B][COLOR white]BAND[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="BAND SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band.png" group-title="CANAIS ABERTOS",[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/124.ts&name=[B][COLOR white]BAND[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOBO PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/449.ts&name=[B][COLOR white]GLOBO PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOBO RJ HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/170.ts&name=[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOBO RJ SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/1448.ts&name=[B][COLOR white]GLOBO RJ[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOBO SP SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/89.ts&name=[B][COLOR white]GLOBO SP[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="RBS TV PORTO ALEGRE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globo.png" group-title="CANAIS ABERTOS",[B][COLOR white]RBS TV PORTO ALEGRE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/43.ts&name=[B][COLOR white]RBS TV PORTO ALEGRE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="RECORD HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png" group-title="CANAIS ABERTOS",[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/149.ts&name=[B][COLOR white]RECORD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="RECORD SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record.png" group-title="CANAIS ABERTOS",[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/41.ts&name=[B][COLOR white]RECORD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="REDE TV HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png" group-title="CANAIS ABERTOS",[B][COLOR white]REDE TV[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/148.ts&name=[B][COLOR white]REDE TV[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="REDE TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png" group-title="CANAIS ABERTOS",[B][COLOR white]REDE TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/39.ts&name=[B][COLOR white]REDE TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="REDE TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/redetv.png" group-title="CANAIS ABERTOS",[B][COLOR white]REDE TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/147.ts&name=[B][COLOR white]SBT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/36.ts&name=[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SBT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sbt.png" group-title="CANAIS ABERTOS",[B][COLOR white]SBT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV APARECIDA HD" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2016/09/tv_aparecida.png" group-title="CANAIS ABERTOS",[B][COLOR white]TV APARECIDA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+rtmp://69.46.0.170/tvaparecida//tvaparecida.stream
+
+#EXTINF:-1 tvg-id="TV CULTURA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvcultura.png" group-title="CANAIS ABERTOS",[B][COLOR white]TV CULTURA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/564.ts&name=[B][COLOR white]TV CULTURA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TV CULTURA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvcultura.png" group-title="CANAIS ABERTOS",[B][COLOR white]TV CULTURA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/8.ts&name=[B][COLOR white]TV CULTURA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TV CULTURA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvcultura.png" group-title="CANAIS ABERTOS",[B][COLOR white]TV CULTURA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV ESCOLA HD" tvg-logo="https://yt3.ggpht.com/-ing2K4ksoA8/AAAAAAAAAAI/AAAAAAAAAAA/w2R6ALTfP_M/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS ABERTOS",[B][COLOR white]TV ESCOLA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="VIVA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png" group-title="CANAIS ABERTOS",[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/133.ts&name=[B][COLOR white]VIVA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="VIVA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/viva.png" group-title="CANAIS ABERTOS",[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/3.ts&name=[B][COLOR white]VIVA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# DOCUMENTÁRIOS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="DOCUMENTÁRIOS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]DOCUMENTÁRIOS[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/195.ts&name=[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/animal_planet.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/131.ts&name=[B][COLOR white]ANIMAL PLANET[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/188.ts&name=[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_channel.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/111.ts&name=[B][COLOR white]DISCOVERY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_civilization.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/110.ts&name=[B][COLOR white]DISCOVERY CIVILIZATION[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/187.ts&name=[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY HOME & HEALTH SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_home_health.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/109.ts&name=[B][COLOR white]DISCOVERY HOME & HEALTH[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/161.ts&name=[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY ID SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_investigation.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/77.ts&name=[B][COLOR white]DISCOVERY ID[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_science.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/107.ts&name=[B][COLOR white]DISCOVERY SCIENCE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/185.ts&name=[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_turbo.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/106.ts&name=[B][COLOR white]DISCOVERY TURBO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_theater.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/186.ts&name=[B][COLOR white]DISCOVERY THEATER[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_world.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/184.ts&name=[B][COLOR white]DISCOVERY WORLD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FISHTV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fishtv.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]FISHTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/97.ts&name=[B][COLOR white]FISHTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HISTORY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/162.ts&name=[B][COLOR white]HISTORY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HISTORY SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/history.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/15.ts&name=[B][COLOR white]HISTORY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="H2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/168.ts&name=[B][COLOR white]H2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="H2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/h2.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/85.ts&name=[B][COLOR white]H2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/157.ts&name=[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NAT GEO SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/64.ts&name=[B][COLOR white]NAT GEO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/158.ts&name=[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NAT GEO WILD SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/natgeo_wild.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/65.ts&name=[B][COLOR white]NAT GEO WILD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TLC SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tlc.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]TLC[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/14.ts&name=[B][COLOR white]TLC[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TRUTV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/trutv.png" group-title="DOCUMENTÁRIOS",[B][COLOR white]TRUTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/10.ts&name=[B][COLOR white]TRUTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# ESPORTES
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="ESPORTES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ESPORTES[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="ALL SPORTS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/allsports.png" group-title="ESPORTES",[B][COLOR white]ALL SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png" group-title="ESPORTES",[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/192.ts&name=[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="BAND SPORTS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bandsports.png" group-title="ESPORTES",[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/125.ts&name=[B][COLOR white]BAND SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png" group-title="ESPORTES",[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/189.ts&name=[B][COLOR white]COMBATE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="COMBATE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/combate.png" group-title="ESPORTES",[B][COLOR white]COMBATE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/114.ts&name=[B][COLOR white]COMBATE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="EI MAXX HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/eimaxx.png" group-title="ESPORTES",[B][COLOR white]EI MAXX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/182.ts&name=[B][COLOR white]EI MAXX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="EI MAXX SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/eimaxx.png" group-title="ESPORTES",[B][COLOR white]EI MAXX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/101.ts&name=[B][COLOR white]EI MAXX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="EI MAXX 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/eimaxx2.png" group-title="ESPORTES",[B][COLOR white]EI MAXX 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/183.ts&name=[B][COLOR white]EI MAXX 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="EI MAXX 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/eimaxx2.png" group-title="ESPORTES",[B][COLOR white]EI MAXX 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/100.ts&name=[B][COLOR white]EI MAXX 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ESPN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png" group-title="ESPORTES",[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/180.ts&name=[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ESPN BRASIL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_brasil.png" group-title="ESPORTES",[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/98.ts&name=[B][COLOR white]ESPN BRASIL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ESPN HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png" group-title="ESPORTES",[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/179.ts&name=[B][COLOR white]ESPN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ESPN SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn.png" group-title="ESPORTES",[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/99.ts&name=[B][COLOR white]ESPN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="ESPN+ SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/espn_plus.png" group-title="ESPORTES",[B][COLOR white]ESPN+[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/181.ts&name=[B][COLOR white]ESPN+[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX SPORTS HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png" group-title="ESPORTES",[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/173.ts&name=[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX SPORTS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports.png" group-title="ESPORTES",[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/93.ts&name=[B][COLOR white]FOX SPORTS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png" group-title="ESPORTES",[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/172.ts&name=[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX SPORTS 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/foxsports2.png" group-title="ESPORTES",[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/92.ts&name=[B][COLOR white]FOX SPORTS 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/143.ts&name=[B][COLOR white]SPORTV[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/31.ts&name=[B][COLOR white]SPORTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/145.ts&name=[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/30.ts&name=[B][COLOR white]SPORTV 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV 3 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/144.ts&name=[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPORTV 3 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sportv.png" group-title="ESPORTES",[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/28.ts&name=[B][COLOR white]SPORTV 3[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/154.ts&name=[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE CLUBES SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/46.ts&name=[B][COLOR white]PREMIERE CLUBES[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/153.ts&name=[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/54.ts&name=[B][COLOR white]PREMIERE 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/152.ts&name=[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 3 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/53.ts&name=[B][COLOR white]PREMIERE 3[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/151.ts&name=[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 4 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/52.ts&name=[B][COLOR white]PREMIERE 4[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/150.ts&name=[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 5 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/51.ts&name=[B][COLOR white]PREMIERE 5[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 6 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/50.ts&name=[B][COLOR white]PREMIERE 6[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 7 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/49.ts&name=[B][COLOR white]PREMIERE 7[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 8 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/48.ts&name=[B][COLOR white]PREMIERE 8[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 9 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/47.ts&name=[B][COLOR white]PREMIERE 9[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 10 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 10[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/27.ts&name=[B][COLOR white]PREMIERE 10[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PREMIERE 11 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/premiere.png" group-title="ESPORTES",[B][COLOR white]PREMIERE 11[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/29.ts&name=[B][COLOR white]PREMIERE 11[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# FILMES & SÉRIES
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="FILMES & SÉRIES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]FILMES & SÉRIES[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="AMC PT HD" tvg-logo="http://cdn2.appaix.com/2015/1122/amc-1074_d324a.png" group-title="FILMES & SÉRIES",[B][COLOR white]AMC[/COLOR] [COLOR gold]PT HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/1013.ts&name=[B][COLOR white]AMC[/COLOR] [COLOR gold]PT HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="A&E SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/ae.png" group-title="FILMES & SÉRIES",[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/132.ts&name=[B][COLOR white]A&E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png" group-title="FILMES & SÉRIES",[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/194.ts&name=[B][COLOR white]AXN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="AXN SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/axn.png" group-title="FILMES & SÉRIES",[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/128.ts&name=[B][COLOR white]AXN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="CINEMAX SD" tvg-logo="https://brplay.000webhostapp.com/logos/cinemax" group-title="FILMES & SÉRIES",[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/115.ts&name=[B][COLOR white]CINEMAX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="COMEDY CENTRAL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/comedy_central.png" group-title="FILMES & SÉRIES",[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/113.ts&name=[B][COLOR white]COMEDY CENTRAL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/175.ts&name=[B][COLOR white]FOX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/95.ts&name=[B][COLOR white]FOX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/174.ts&name=[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX LIFE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_life.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/94.ts&name=[B][COLOR white]FOX LIFE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 1 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/177.ts&name=[B][COLOR white]FOX PREMIUM 1[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FOX PREMIUM 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fox_premium.png" group-title="FILMES & SÉRIES",[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/176.ts&name=[B][COLOR white]FOX PREMIUM 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png" group-title="FILMES & SÉRIES",[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/171.ts&name=[B][COLOR white]FX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="FX SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/fx.png" group-title="FILMES & SÉRIES",[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/90.ts&name=[B][COLOR white]FX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/165.ts&name=[B][COLOR white]HBO[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/84.ts&name=[B][COLOR white]HBO[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/167.ts&name=[B][COLOR white]HBO 2[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO 2 SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo2.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/79.ts&name=[B][COLOR white]HBO 2[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/164.ts&name=[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO PLUS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/82.ts&name=[B][COLOR white]HBO PLUS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO PLUS *E SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_plus_e.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO PLUS *E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/81.ts&name=[B][COLOR white]HBO PLUS *E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/166.ts&name=[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO FAMILY SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_family.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/83.ts&name=[B][COLOR white]HBO FAMILY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/163.ts&name=[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hbo_signature.png" group-title="FILMES & SÉRIES",[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/80.ts&name=[B][COLOR white]HBO SIGNATURE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MAX SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max.png" group-title="FILMES & SÉRIES",[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/73.ts&name=[B][COLOR white]MAX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MAX UP HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_up.png" group-title="FILMES & SÉRIES",[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/70.ts&name=[B][COLOR white]MAX UP[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MAX PRIME SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime.png" group-title="FILMES & SÉRIES",[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/72.ts&name=[B][COLOR white]MAX PRIME[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MAX PRIME *E SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/max_prime_e.png" group-title="FILMES & SÉRIES",[B][COLOR white]MAX PRIME *E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/71.ts&name=[B][COLOR white]MAX PRIME *E[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MEGAPIX HD " tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png" group-title="FILMES & SÉRIES",[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/160.ts&name=[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MEGAPIX SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/megapix.png" group-title="FILMES & SÉRIES",[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/69.ts&name=[B][COLOR white]MEGAPIX[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MTV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mtv.png" group-title="FILMES & SÉRIES",[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/68.ts&name=[B][COLOR white]MTV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PARAMOUNT HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png" group-title="FILMES & SÉRIES",[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/155.ts&name=[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="PARAMOUNT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/paramount.png" group-title="FILMES & SÉRIES",[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/57.ts&name=[B][COLOR white]PARAMOUNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SONY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png" group-title="FILMES & SÉRIES",[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/190.ts&name=[B][COLOR white]SONY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SONY SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sony.png" group-title="FILMES & SÉRIES",[B][COLOR white]SONY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/118.ts&name=[B][COLOR white]SONY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png" group-title="FILMES & SÉRIES",[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/146.ts&name=[B][COLOR white]SPACE[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SPACE SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/space.png" group-title="FILMES & SÉRIES",[B][COLOR white]SPACE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/32.ts&name=[B][COLOR white]SPACE[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="SYFY SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/syfy.png" group-title="FILMES & SÉRIES",[B][COLOR white]SYFY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/25.ts&name=[B][COLOR white]SYFY[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/studio_universal.png" group-title="FILMES & SÉRIES",[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/26.ts&name=[B][COLOR white]STUDIO UNIVERSAL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TBS HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tbs.png" group-title="FILMES & SÉRIES",[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/142.ts&name=[B][COLOR white]TBS[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TBS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tbs.png" group-title="FILMES & SÉRIES",[B][COLOR white]TBS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/24.ts&name=[B][COLOR white]TBS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TCM SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tcm.png" group-title="FILMES & SÉRIES",[B][COLOR white]TCM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/23.ts&name=[B][COLOR white]TCM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png" group-title="FILMES & SÉRIES",[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/136.ts&name=[B][COLOR white]TNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TNT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt.png" group-title="FILMES & SÉRIES",[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/13.ts&name=[B][COLOR white]TNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png" group-title="FILMES & SÉRIES",[B][COLOR white]TNT SERIES[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/135.ts&name=[B][COLOR white]TNT SERIES[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TNT SERIES SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tnt_series.png" group-title="FILMES & SÉRIES",[B][COLOR white]TNT SERIES[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/12.ts&name=[B][COLOR white]TNT SERIES[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE ACTION HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/141.ts&name=[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE ACTION SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_action.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/22.ts&name=[B][COLOR white]TELECINE ACTION[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/139.ts&name=[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_pipoca.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/19.ts&name=[B][COLOR white]TELECINE PIPOCA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/138.ts&name=[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_premium.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/18.ts&name=[B][COLOR white]TELECINE PREMIUM[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE FUN HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/140.ts&name=[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE FUN SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_fun.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/20.ts&name=[B][COLOR white]TELECINE FUN[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE CULT SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_cult.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/21.ts&name=[B][COLOR white]TELECINE CULT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/137.ts&name=[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tc_touch.png" group-title="FILMES & SÉRIES",[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/17.ts&name=[B][COLOR white]TELECINE TOUCH[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png" group-title="FILMES & SÉRIES",[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/134.ts&name=[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/universal_channel.png" group-title="FILMES & SÉRIES",[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/5.ts&name=[B][COLOR white]UNIVERSAL CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png" group-title="FILMES & SÉRIES",[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/580.ts&name=[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="WARNER CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/warner_channel.png" group-title="FILMES & SÉRIES",[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/2.ts&name=[B][COLOR white]WARNER CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# INFANTIL
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="INFANTIL",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]INFANTIL[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/127.ts&name=[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/cartoon_network.png" group-title="INFANTIL",[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/116.ts&name=[B][COLOR white]CARTOON NETWORK[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/boomerang.png" group-title="INFANTIL",[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/121.ts&name=[B][COLOR white]BOOMERANG[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_channel.png" group-title="INFANTIL",[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/105.ts&name=[B][COLOR white]DISNEY CHANNEL[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS SD" tvg-logo="https://lh6.googleusercontent.com/-ElwZc-hojPY/AAAAAAAAAAI/AAAAAAAACpA/0GPx8xiclhk/s0-c-k-no-ns/photo.jpg" group-title="INFANTIL",[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/108.ts&name=[B][COLOR white]DISCOVERY KIDS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_junior.png" group-title="INFANTIL",[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/104.ts&name=[B][COLOR white]DISNEY JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="DISNEY XD SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/disney_xd.png" group-title="INFANTIL",[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/103.ts&name=[B][COLOR white]DISNEY XD[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GLOOB SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gloob.png" group-title="INFANTIL",[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/87.ts&name=[B][COLOR white]GLOOB[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NICK JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick_jr.png" group-title="INFANTIL",[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/61.ts&name=[B][COLOR white]NICK JUNIOR[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="NICKELODEON SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/nick.png" group-title="INFANTIL",[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/60.ts&name=[B][COLOR white]NICKELODEON[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TOONCAST SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tooncast.png" group-title="INFANTIL",[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/11.ts&name=[B][COLOR white]TOONCAST[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# MÚSICAS & VARIEDADES
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]MÚSICAS & VARIEDADES[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="1 HD MUSIC HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/1hd.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]1 HD MUSIC[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DIJING IBIZA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/djing.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]DIJING IBIZA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-id="GNT HD" tvg-logo="https://lh6.googleusercontent.com/-_4NEFWwQkhM/AAAAAAAAAAI/AAAAAAAAdPk/bDpyBZNYFkg/s0-c-k-no-ns/photo.jpg" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/169.ts&name=[B][COLOR white]GNT[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GNT SD" tvg-logo="https://lh6.googleusercontent.com/-_4NEFWwQkhM/AAAAAAAAAAI/AAAAAAAAdPk/bDpyBZNYFkg/s0-c-k-no-ns/photo.jpg" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]GNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/86.ts&name=[B][COLOR white]GNT[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="GOSPEL MUSIC TELEVISION SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/gospelmusic_tv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]GOSPEL MUSIC TELEVISION[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+
+#EXTINF:-1 tvg-id="HEART TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/heartv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]HEART TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
+
+#EXTINF:-1 tvg-id="HIT TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/hittv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]HIT TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LIFETIME SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/lifetime.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/75.ts&name=[B][COLOR white]LIFETIME[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MIMUSICA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/mimusica.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]MIMUSICA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1 tvg-id="MIX TV SD" tvg-logo="https://brplay.000webhostapp.com/logos/mixtv" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]MIX TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/572.ts&name=[B][COLOR white]MIX TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png" group-title="NOTÍCIAS",[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/159.ts&name=[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MULTISHOW SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/multishow.png" group-title="NOTÍCIAS",[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/67.ts&name=[B][COLOR white]MULTISHOW[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="MUZ TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/muztv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]MUZ TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
+
+#EXTINF:-1 tvg-id="PLAY TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playtv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]PLAY TV [/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/56.ts&name=[B][COLOR white]PLAY TV [/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="RADIO MONTE CARLOS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/radiomontecarlo.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]RADIO MONTE CARLOS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://fms.105.net:1935/live/rmc1/chunklist_w1660735550.m3u8
+
+#EXTINF:-1 tvg-id="SLAM TV HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/slam.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]SLAM TV[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAxNiA2OjQ1OjIyIFBNJmhhc2hfdmFsdWU9OTFjbEtqNlp5QU55UXNpZWpDY1RqZz09JnZhbGlkbWludXRlcz0x?
+
+#EXTINF:-1 tvg-id="TV CLIMA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvclima.png" group-title="NOTÍCIAS",[B][COLOR white]TV CLIMA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV CLIMA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvclima.png" group-title="NOTÍCIAS",[B][COLOR white]TV CLIMA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+rtmp://stmv1.srvstm.com/tvcadm/tvcadm
+
+#EXTINF:-1 tvg-id="VIRGIN TV SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/virgintv.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]VIRGIN TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VH1 MEGAHITS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/vh1.png" group-title="MÚSICAS & VARIEDADES",[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/4.ts&name=[B][COLOR white]VH1 MEGAHITS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+################################################################################# NOTÍCIAS
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S9ayVt9.png" group-title="NOTÍCIAS",[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]NOTÍCIAS[/COLOR][/B]
+here
+
+#EXTINF:-1 tvg-id="ACRITICAPLAY HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/acriticaplay.png" group-title="NOTÍCIAS",[B][COLOR white]ACRITICAPLAY[/COLOR] [COLOR gold]HD[/COLOR][/B]
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND NEWS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/band_news.png" group-title="NOTÍCIAS",[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/126.ts&name=[B][COLOR white]BAND NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="BH NEWS TV SD" tvg-logo="http://blog.chicomaia.com.br/wordpress/wp-content/uploads/2011/03/BHNEWS2.jpg" group-title="NOTÍCIAS",[B][COLOR white]BH NEWS TV[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO NEWS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/globonews.png" group-title="NOTÍCIAS",[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/88.ts&name=[B][COLOR white]GLOBO NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="RECORD NEWS SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png" group-title="NOTÍCIAS",[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/42.ts&name=[B][COLOR white]RECORD NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TV GAZETA HD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvgazeta.png" group-title="NOTÍCIAS",[B][COLOR white]TV GAZETA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://192.99.66.34:25461/live/MonicA/@moniQUEmxq/570.ts&name=[B][COLOR white]TV GAZETA[/COLOR] [COLOR gold]HD[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="TV GAZETA SD" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/tvgazeta.png" group-title="NOTÍCIAS",[B][COLOR white]TV GAZETA[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://172.93.110.130:1935/tvalternativa/tvalternativa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV PONTA NEGRA NEWS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ec/Logotipo_TV_Ponta_Negra.jpg" group-title="NOTÍCIAS",[B][COLOR white]TV PONTA NEGRA NEWS[/COLOR] [COLOR gold]SD[/COLOR][/B]
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
