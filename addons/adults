@@ -10,17 +10,18 @@ here
 #EXTINF:-1 tvg-id="HUSTLER HD" tvg-logo="",[B][COLOR white]HUSTLER HD[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="PLAYBOY" tvg-logo="",[B][COLOR white]PLAYBOY[/COLOR][/B]
-rtmp://edge2.everyon.tv/etv2sb//pld10499
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&maxbitrate=1264000&url=http://dragoniptv99.dyndns.tv:8505/live/francis/francis/626.ts&name=[B][COLOR white]PLAYBOY[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="PRIVATE TV" tvg-logo="",[B][COLOR white]PRIVATE TV[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="SEXTREME" tvg-logo="",[B][COLOR white]SEXTREME[/COLOR][/B]
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&maxbitrate=1264000&url=http://dragoniptv99.dyndns.tv:8505/live/francis/francis/606.ts&name=[B][COLOR white]SEXTREME[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="",[B][COLOR white]SEXY HOT[/COLOR][/B]
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&maxbitrate=1264000&url=http://dragoniptv99.dyndns.tv:8505/live/francis/francis/605.ts&name=[B][COLOR white]SEXY HOT[/COLOR] [COLOR gold]SD[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="VENUX HD" tvg-logo="",[B][COLOR white]VENUX HD[/COLOR][/B]
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
 
 ################################################################################# OUTROS
 
@@ -40,6 +41,15 @@ http://media.platinumstream.ru/candy/tracks-v2a1/index-1486694848-now.m3u8
 
 #EXTINF:-1 tvg-id="CCTV HOT CHINESE" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]CCTV HOT CHINESE[/COLOR][/B]
 http://219.146.248.44/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=web.cloudplay
+
+#EXTINF:-1 tvg-id="DREAM 1-PORNO" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]DREAM 1-PORNO[/COLOR][/B]
+http://62.210.113.177:19000/udp/238.0.100.6:5000?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="DORCEL 1-PORNO" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]DORCEL[/COLOR][/B]
+rtmp://5.196.200.228/live playpath=n37541 swfUrl=http://ero-tv.org/uppod/uppod32.swf live=1 pageUrl=http://ero-tv.org/dorceltv_live/
+
+#EXTINF:-1 tvg-id="EROXXX" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]EROXXX[/COLOR][/B]
+rtmp://5.196.189.39/live playpath=n889124 swfUrl=http://ero-tv.org/uppod/uppod32.swf live=1 pageUrl=http://ero-tv.org/hallo-tv_online/
 
 #EXTINF:-1 tvg-id="EXXXTASY TV" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]EXXXTASY TV[/COLOR][/B]
 http://81.89.48.215:1935/xyz666wkz/xy6/playlist.m3u8
@@ -71,6 +81,7 @@ rtmp://edge1.everyon.tv/etv1sb/ playpath=phd10927 swfUrl=http://adult-channels.c
 #EXTINF:-1 tvg-id="PLAY 19 5" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]PLAY 19 5[/COLOR][/B]
 
 #EXTINF:-1 tvg-id="PLAYBOY INTERNACIONAL" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]PLAYBOY INTERNACIONAL[/COLOR][/B]
+rtmp://edge2.everyon.tv/etv2sb//pld10499
 
 #EXTINF:-1 tvg-id="PASSIE XXX TV" tvg-logo="http://i.imgur.com/y709TRg.png",[B][COLOR white]PASSIE XXX TV[/COLOR][/B]
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlist.m3u8
