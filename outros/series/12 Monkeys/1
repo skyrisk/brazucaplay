@@ -1,6 +1,28 @@
-item>
+<item>
+<title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
+<link>here</link>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]12MONKT01EP01.mp4|Referer=http://www.redecanais.com/</link>
+<regex>
+<name>BrazucaPlay</name>
+<expres>(.*)</expres>
+<page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/servidor4</page>
+</regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/fanart.jpg</fanart>
+</item>
+<item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]12MONKT01EP02.mp4|Referer=http://www.redecanais.com/</link>
+<regex>
+<name>BrazucaPlay</name>
+<expres>(.*)</expres>
+<page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/servidor4</page>
+</regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/12%20Monkeys/fanart.jpg</fanart>
 </item>
