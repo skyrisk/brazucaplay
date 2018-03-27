@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR white][B]A MÚMIA[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMUMIA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf.php</page></regex>
 <thumbnail>https://i.imgur.com/TICczvn.jpg</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>Em 1923, um grupo de arqueólogos liderados por Rick, O'Connel, Evelyn e seu irmão Jonathan exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando Evelyn lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Imhotep primeiramente não passa de um esqueleto, mas absorve órgãos humanos daqueles que abriram a arca e se transforma em um ser humano.</info>
@@ -9,7 +9,7 @@
 
 <item>
 <title>[COLOR white][B]A MÚMIA: TUMBA DO IMPERADOR DRAGÃO[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMUMIATMBDIMPRDDRG.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf.php</page></regex>
 <thumbnail>https://http2.mlstatic.com/a-mumia-tumba-do-imperador-drago-dvd-original-D_NQ_NP_616901-MLB20442972969_102015-F.jpg</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército.</info>
@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR white][B]A MÚMIA[/B][/COLOR]</title>
-<link>http://origin.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>|Referer=http://netcine.us/</link><regex><name>Igor_Rangel_Video</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[Igor_Rangel_Link]</page><referer>$doregex[Igor_Rangel_Site]</referer></regex><regex><name>Igor_Rangel_Link</name><expres>src="(.*)" fra</expres><page>$doregex[Igor_Rangel_Site]</page></regex><regex><name>Igor_Rangel_Site</name><expres>src="(.*DUB.*?)" fra</expres><page>http://netcine.us/o-estrangeiro/</page></regex>
 <thumbnail>http://ntimg.ntcdn.us/wp-content/uploads/2017/07/596203.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>Na Mesopotâmia, séculos atrás, Ahmanet (Sofia Boutella) tem seus planos interrompidos justamente quando está prestes a invocar Set, o deus da morte, de forma que juntos possam governar o mundo.  Mumificada, ela é aprisionada dentro de uma tumba. Nos dias atuais, o local é descoberto por acidente por Nick Morton (Tom Cruise) e Chris Vail (Jake Johnson), saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey (Annabelle Wallis), eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet. Ela logo elege Nick como seu escolhido e, a partir de então, busca a adaga de Set para que possa invocá-lo no corpo do saqueador.</info>
