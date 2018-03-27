@@ -1235,7 +1235,7 @@
 
 <item>
 <title>[COLOR white][B]LEGO SCOOBY-DOO! O GOLPE DA PRAIA[/B][/COLOR]</title>
-<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RCServer09/ondemand/SCBDFLM29.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]SCBDFLM29.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.net/player3/server9.php</page></regex>
 <thumbnail>https://i.imgur.com/vnMx2lp.jpg</thumbnail>
 <info>A Máquina do Mistério vai a Blowout Beach para uma verdadeira festa na praia. Porém, quando os Piratas Fantasmas ameaçam as boas vibrações, cabe a Scooby-Doo e sua turma fazerem a galera voltar à pista e salvar o dia!</info>
 </item>
@@ -1466,7 +1466,7 @@
 
 <item>
 <title>[COLOR white][B]SCOOBY-DOO! E O COMBATE DO SALSICHA[/B][/COLOR]</title>
-<link>http://d3eryu5vlst7sb.ec.cx/RedeCanais/RCServer09/ondemand/SCBDFLM28.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]SCBDFLM28.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.net/player3/server9.php</page></regex>
 <thumbnail>https://i.imgur.com/OMORovq.jpg</thumbnail>
 <info>Quando a turma do Scooby-Doo visita um rancho, eles descobrem que ele e a cidade vizinha foram assombrados por um vaqueiro fantasmagórico, Dapper Jack. O mistério se aprofunda quando descobrem que o fantasma é também parente do Salsicha.</info>
 </item>
