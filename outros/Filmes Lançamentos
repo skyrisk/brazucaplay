@@ -55,7 +55,7 @@
 
 <item>
 <title>[COLOR white][B]ASSASSINATO NO MISSISSIPI[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ASSNTONMSISPI.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ASSNTONMSISPI.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/6AIW2IZfJJPArSHXxnrxuEN20ng.jpg</thumbnail>
 <info>Uma jovem mulher tenta se recuperar de um trauma que envolve um assassinato misterioroso na região onde mora, no Mississippi. Porém o prospecto de uma vida normal é ameçado quando ela começa a sentir que os horrores de seu passado estão voltando a assombrá-la.</info>
 </item>
@@ -111,7 +111,7 @@
 
 <item>
 <title>[COLOR white][B]CRIMINOSOS DE NOVEMBRO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CRMNOSDNOV.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CRMNOSDNOV.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.midiaflixhd.net/wp-content/uploads/2018/02/criminosos-de-novembro-460-poster.jpg</thumbnail>
 <info>Addison tem 18 anos de idade e está terminando o Ensino Médio. Enquanto pensa se deve entrar na universidade, ele leva uma vida cheia de conflitos, vendendo drogas aos colegas e brigando com os professores. Quando Kevin, um colega de turma, é assassinado, Addison decide fazer a sua própria investigação.</info>
 </item>
@@ -146,7 +146,7 @@
 
 <item>
 <title>[COLOR white][B]FÚTIL E INÚTIL[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/FUTLEINTL.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]FUTLEINTL.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://pics.filmaffinity.com/a_futile_and_stupid_gesture-357622968-large.jpg</thumbnail>
 <info>A história de Douglas Kenney (Will Forte), o criador da National Lampoon, uma revista de humor que ficou muito famosa nos anos 70, junto com programas de rádio e filmes. Mesmo com todo o sucesso, Doug teve problemas com drogas e álcool, sendo encontrado morto aos 33 anos.</info>
 </item>
@@ -188,7 +188,7 @@
 
 <item>
 <title>[COLOR white][B]MEIA-IRMÃ[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/BARCDA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]BARCDA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://pics.filmaffinity.com/barracuda-801341926-large.jpg</thumbnail>
 <info>Sinaloa (Sophie Reid) é uma jovem britânica que ruma em direção ao Texas para encontrar Merle (Allison Tolman), sua meio-irmã por parte do seu falecido pai, que era músico do ritmo country. Não demora para que Sinaloa se insira na vida de Merle. Sua música acorda algo na vida da sua nova meio-irmã, apagando as dúvidas do parentesco entre as duas. Enquanto o legado musical da família trouxe esta estranha para a cidade, motivos mais obscuros estão entrelaçados na música que Sinaloa canta, mostrando sinais de uma violenta raiva construída há anos.</info>
 </item>
@@ -230,7 +230,7 @@
 
 <item>
 <title>[COLOR white][B]O ESTRANGEIRO [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/OESTNGROLEG.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]OESTNGROLEG.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT-EayKAOSQosIDo2Uw3RDtvQeazV35hvLD5_DgKN2_ljZDEHWU</thumbnail>
 <info>Quando vê a sua filha, a única família que lhe resta, ser morta por uma bomba num atentado terrorista cometido pelo Exército Republicano Irlandês, Quan (Jackie Chan) procura os culpados da sua morte, através de Liam Hennessy (Pierce Brosnan), um antigo membro desse Exército. Hennessy não sabe que Quan foi treinado pelas forças especiais dos EUA e subestima-o gravemente.</info>
 </item>
@@ -690,21 +690,21 @@
 
 <item>
 <title>[COLOR white][B]GUARDIÕES DA GALÁXIA VOL. 2[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]GRDOESDGLXIAVL2.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcT3jhaTLkrcaiAxYv7EamUq2R--8wK4l6wH9UwQi97iYwaYn4Zm</thumbnail>
 <info>Agora já conhecidos como os Guardiões da Galáxia, os guerreiros viajam ao longo do cosmos e lutam para manter sua nova família unida. Enquanto isso tentam desvendar os mistérios da verdadeira paternidade de Peter Quill (Chris Pratt).</info>
 </item>
 
 <item>
 <title>[COLOR white][B]HOMEM-ARANHA: DE VOLTA AO LAR[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/HOMARNHDVLTALR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]HOMARNHDVLTALR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT4O7xrHjQ1NMu_9kg6E9HUO4X7KtB9lVpVLglQfWH2BJIke3IB</thumbnail>
 <info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]IT - A COISA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ITACOS.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ITACOS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg</thumbnail>
 <info>Um grupo de sete adolescentes de Derry, uma cidade no Maine, formam o auto-intitulado "Losers Club" - o clube dos perdedores. A pacata rotina da cidade é abalada quando crianças começam a desaparecer e tudo o que pode ser encontrado delas são partes de seus corpos. Logo, os integrantes do "Losers Club" acabam ficando face a face com o responsável pelos crimes: o palhaço Pennywise.</info>
 </item>
@@ -725,14 +725,14 @@
 
 <item>
 <title>[COLOR white][B]LOGAN[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/LOGN.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]LOGN.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcR_k0ShtzP-2rhzHtF30v9DiH0bgSogYU99juiiDna_oQEgo2dx</thumbnail>
 <info>Em 2029, Logan (Hugh Jackman) ganha a vida como chofer de limousine para cuidar do nonagenário Charles Xavier (Patrick Stewart). Debilitado fisicamente e esgotado emocionalmente, ele é procurado por Gabriela (Elizabeth Rodriguez), uma mexicana que precisa da ajuda do ex-X-Men para defender a pequena Laura Kinney / X-23 (Dafne Keen). Ao mesmo tempo em que se recusa a voltar à ativa, Logan é perseguido pelo mercenário Donald Pierce (Boyd Holbrook), interessado na menina.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]MEU MALVADO FAVORITO 3[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/MEMLVDFAV3.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]MEMLVDFAV3.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRJAki68kKKcebh63wRfCRY4H-7rO0786eMqOOGV-2S5g8OD9ke</thumbnail>
 <info>Nos anos 1980, Balthazar Bratt fazia muito sucesso através de sua série de TV, onde interpretava um vilão chamado EvilBratt. Entretanto, o tempo passou, ele cresceu, a voz mudou e a fama se foi. Com a série cancelada, Balthazar tornou-se uma pessoa vingativa que, nas décadas seguintes, planejou seu retorno triunfal como vingança. Gru e Lucy são chamados para enfrentá-lo logo em sua reaparição, mas acabam sendo demitidos por não terem conseguido capturá-lo. Gru então descobre que possui um irmão gêmeo, Dru, e parte com a família para encontrá-lo no país em que vive.</info>
 </item>
@@ -836,63 +836,63 @@
 
 <item>
 <title>[COLOR white][B]A CASA CAIU: UM CASSINO NA VIZINHANÇA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ACSCUCSNVIZ.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ACSCUCSNVIZ.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w1280/spuvETkcLh47DJi1Fu151Nl2167.jpg</thumbnail>
 <info>Um casal acidentalmente perde todo o dinheiro que haviam poupado para a universidade da filha. Para recuperar o valor, eles abrem um cassino clandestino em casa e convidam vizinhos e amigos para apostar.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]A COLHEITA DA FÉ[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ACLHTDFE.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ACLHTDFE.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/PabSkZp.jpg</thumbnail>
 <info>Retrata a história real da vida de Michael Spurlock, que recebeu a ordem de fechar uma pequena igreja do interior mas, ao invés disso, decidiu tomar outros rumos e acabou se tornando pastor do local. E tudo isso após descobrir que, no momento, os fiéis estavam tentando ajudar um grupo de refugiados vindos do sudeste asiático. Juntos, eles farão de tudo para salvar o local.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]A LEI DA NOITE[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ALEIDNOT.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ALEIDNOT.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2017/02/A-LEI-DA-NOITE.jpg</thumbnail>
 <info>Boston, década de 1920. Joe, filho mais novo de um capitão de polícia, se envolve com o crime organizado. Ele aproveita seus dias rodeado de dinheiro e poder, mas suas escolhas podem levá-lo à prisão ou até mesmo à morte.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]ALIBI.COM[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ALBCM.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ALBCM.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://medias.unifrance.org/medias/28/174/175644/format_page/media.jpg</thumbnail>
 <info>Grégory Van Huffel é o bem-sucedido proprietário da Alibi.com, uma empresa com um serviço algo "sui generis": cria álibis à medida para quem, por um motivo ou outro, deseje evitar encontros inconvenientes, manter escondidas infidelidades ou, pura e simplesmente, preservar a sua vida íntima. Tudo lhe corre de feição até conhecer Flo Martin, por quem se apaixona perdidamente. Como ela é obcecada pela verdade (e porque o negócio dele não é propriamente digno de louvores à honestidade), ele evita contar-lhe detalhes da sua profissão. O grande problema surge quando Flo apresenta Grégory à família e ele descobre que o seu sogro é nem mais nem menos do que Gérard Martin, um cliente que recentemente recorreu aos seus serviços para ocultar uma relação extraconjugal…</info>
 </item>
 
 <item>
 <title>[COLOR white][B]AMALDIÇOADA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/AMLDODA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMLDODA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/cNHndmVFC7hBL969oe59LzQvjW4.jpg</thumbnail>
 <info>Liz (Dakota Fanning) é uma corajosa mulher que tenta fugir de seu passado, mas passa a ser perseguida por um fanático diabólico (Guy Pearce). Diante dessa adversidade, Liz é uma verdadeira sobrevivente, que vai lutar para criar uma vida melhor para ela e sua filha. Custe o que custar, Liz fará de tudo para trazer retribuição.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]A MALA E OS ERRANTES[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/AMLDODA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMLDODA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/I0R4MCs.jpg</thumbnail>
 <info>Danny (Callum Turner) inesperadamente vai precisar substituir seu irmão Darren, preso por contravenção, em uma missão que é aparentemente fácil: entrar em um carro, ir até um ponto de encontro e depois recuperar uma pasta com um conteúdo secreto. O problema começa quando ele pega a pasta errada, e agora terá que fazer de tudo para corrigir seu erro, vagando pelo subúrbio ao lado da hostil motorista Ellie (Grace Van Patten).</info>
 </item>
 
 <item>
 <title>[COLOR white][B]A MULHER MAIS ODIADA DOS ESTADOS UNIDOS[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/AMLHRMSODADEUA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMLHRMSODADEUA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/17/03/27/09/19/367326.jpg</thumbnail>
 <info>Na década de 1960, a ativista ateísta Madalyn Murray O'Hair decidiu lutar contra a religiosidade de seu país com o objetivo de criar uma sociedade mais laica ao conseguir que a Suprema Corte dos Estados Unidos derrubasse a obrigatoriedade da leitura da Bíblia nas escolas públicas. No entanto, este ato político gerou uma verdadeira onda de perseguições e ódio que Madalyn nunca pôde prever.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]A SÍNDROME DE BERLIN[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ASNDRMDBRLM.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ASNDRMDBRLM.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSXCUgFVAFI0SXJgHpMuM09LE_x57JMhPMQwtRc4s-dfZkXCryC</thumbnail>
 <info>Clare (Teresa Palmer) é uma fotógrafa australiana que está passando férias em Berlim. Lá, ela conhece Andi (Max Riemelt), um jovem carismático que logo conquista a atenção da moça. A atração entre os dois é instantânea e eles acabam passando uma noite juntos. No entanto, quando Clare acorda na manhã seguinte, se vê sozinha e presa no apartamento de Andi.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]ATÔMICA: AGENTE ESPECIAL[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ATMCAGNTESPC.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ATMCAGNTESPC.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://allmanaque.com/uploads/images/atomica.jpg</thumbnail>
 <info>Lorraine Broughton (Charlize Theron), uma agente disfarçada do MI6, é enviada para Berlim durante a Guerra Fria para investigar o assassinato de um oficial e recuperar uma lista perdida de agentes duplos. Ao lado de David Percival (James McAvoy), chefe da localidade, a assassina brutal usará todas as suas habilidades nesse confronto de espiões.</info>
 </item>
@@ -906,7 +906,7 @@
 
 <item>
 <title>[COLOR white][B]A BELA E A FERA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/ABLEAFR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]ABLEAFR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/01/09/12/22/442219.jpg</thumbnail>
 <info>Moradora de uma pequena aldeia francesa, Bela (Emma Watson) tem o pai capturado pela Fera (Dan Stevens) e decide entregar sua vida ao estranho ser em troca da liberdade dele. No castelo, ela conhece objetos mágicos e descobre que a Fera é, na verdade, um príncipe que precisa de amor para voltar à forma humana.</info>
 </item>
@@ -941,21 +941,21 @@
 
 <item>
 <title>[COLOR white][B]BE AFRAID [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/BEAFRDLEG.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]BEAFRDLEG.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/13838740/p13838740_p_v8_ab.jpg</thumbnail>
 <info>Pouco depois de John Chambers e sua família chegarem à sua nova casa em uma pequena cidade rural da Pensilvânia, John começa a sofrer paralisia do sono. Parado paralisado, preso dentro de seu próprio pesadelo, outros seres mundanos visitam João. São entidades que existem nas sombras mais sombrias da noite e só podem ser vistas pelo canto do olho. Esses encontros começam a assombrar John, transformando-se para completar o terror enquanto descobre o único objetivo das entidades ... o seqüestro de seu filho de sete anos.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]BINGO: O REI DAS MANHÃS[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/BNGORDSMNH.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]BNGORDSMNH.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQnqoQ1SPoAqLIDbCNlmhXaDPTPdW7KRdj4UPr0__OXjOksT6KY</thumbnail>
 <info>Cinebiografia de Arlindo Barreto, um dos intérpretes do palhaço Bozo no programa matinal homônimo exibido pelo SBT durante a década de 1980. Barreto alcançou a fama graças ao personagem, apesar de jamais ser reconhecido pelas pessoas por sempre estar fantasiado. Esta frustração o levou a se envolver com drogas, chegando a utilizar cocaína e crack nos bastidores do programa.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]BLAME![/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/BLME.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]BLME.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14112289/p14112289_p_v8_aa.jpg</thumbnail>
 <info>Num futuro distante, onde os seres humanos vivem dentro de um perigoso e gigantesco labirinto, que está sem controle. E Killy (Takahiro Sakurai), um homem misterioso e de poucas palavras, está determinado a salvar a humanidade do esquecimento.</info>
 </item>
@@ -976,70 +976,70 @@
 
 <item>
 <title>[COLOR white][B]CARTÃO DE NATAL[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CRTAODNTL.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CRTAODNTL.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i1.wp.com/teaser-trailer.com/wp-content/uploads/Christmas-Inheritance-movie-poster.jpg</thumbnail>
 <info>Antes que a ambiciosa Ellen Langford possa herdar o negócio de presentes de seu pai, ela deve entregar um cartão de Natal especial para o ex-parceiro de seu pai em Snow Falls, a cidade natal que ela nunca conheceu de verdade. Quando uma tempestade de neve a obriga a parar numa pousada da cidade, ela acaba encontrando um amor e descobre o verdadeiro significado do Natal.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CASTELO DE AREIA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CSTLDAREA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CSTLDAREA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/13762196/p13762196_p_v8_aa.jpg</thumbnail>
 <info>Durante a ocupação americana no Iraque, um grupo de soldados acaba de concluir uma ação vitoriosa em Badgá. Antes de voltarem aos Estados Unidos, eles têm uma última missão: ir ao pequeno vilarejo Baquba, região pouco conhecida pelas tropas estrangeiras. A tarefa dos militares é reativar o serviço de água dos habitantes, destruído pelo próprio exército americano. O soldado Matt Ocre (Nicholas Hoult) não tem vocação para a vida no exército, mas precisa buscar ajuda dos iraquianos a fim de concluir o difícil serviço. Mas como confiar nos inimigos? Como fazer o povo atacado confiar nos americanos?</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CINQUENTA TONS MAIS ESCUROS[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CQNTTNSMSESCR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CQNTTNSMSESCR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/01/10/20/25/590717.jpg</thumbnail>
 <info>Incomodada com os hábitos e atitudes de Christian Grey, Anastasia decide terminar o relacionamento e focar no desenvolvimento de sua carreira. O desejo, porém, fala mais alto e ela logo volta aos jogos sexuais do conturbado empresário.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CLOWNTERGEIST[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CLWNTRGST.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CLWNTRGST.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14055605/p14055605_p_v8_aa.jpg</thumbnail>
 <info>Emma, uma estudante que tem medo de palhaços, deve enfrentar sua fobia quando um espírito maligno no corpo de um palhaço é invocado, aterrorizando sua cidade natal. Um a um, Emma e seus amigos recebem um balão com o horário e a data exatos em que serão mortos. Depois de receber o balão, Emma percebe que tem apenas dois dias para sobreviver, e precisa lutar contra o tempo para não ser a próxima vítima.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CÓDIGO DE SILÊNCIO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CDGDSLNC.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CDGDSLNC.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://image.tmdb.org/t/p/original/zNW48KyCe9Dk4ZNv56yYHGa3xGg.jpg</thumbnail>
 <info>Mergulhando na "Semana do Inferno" de uma fraternidade, um candidato está dividido entre honrar um código de silêncio ou enfrentar a violência intensa desse trote perigoso.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CORAÇÃO DE DRAGÃO 4: A BATALHA PELO CORAÇÃO DE FOGO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CRCDRG4.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CRCDRG4.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://static2.tribute.ca/poster/540x800/dragonheart-battle-for-the-heartfire-117413.jpg</thumbnail>
 <info>Ação, aventura e fantasia esperam por você neste novo capítulo da saga “Coração de Dragão”. Drago, um dragão que compartilha seu coração com o Rei da Britânia, precisa encontrar um herdeiro para o trono por causa do falecimento do Rei. Mas os possíveis herdeiros, os irmãos gêmeos Edric e Meghan, usam sua força e habilidade de controlar o fogo herdados do dragão um contra o outro.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CONEXÃO MORTAL[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CNXMRTL.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CNXMRTL.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/16/04/26/20/31/503893.jpg</thumbnail>
 <info>Um artista inicia uma busca desesperada por sua distante esposa e seu filho, depois que um misterioso sinal de celular transforma os habitantes de Boston em assassinos selvagens.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CHET BAKER: A LENDA DO JAZZ[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CHTBKRALNDJZ.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CHTBKRALNDJZ.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT-8PP6WzhmEMbOjGwSqYs4xa6PK-bx1X5BwdoRLwaZjTOPj5mF</thumbnail>
 <info>Anos 1960. Quando o astro do jazz Chet Baker (Ethan Hawke) estrela um filme sobre si mesmo, ele logo se apaixona por sua colega de trabalho, a atriz Jane (Carmen Ejogo). Entretanto, fatos do passado atormentam Chet ao ponto da produção ser interrompida, fazendo com que até mesmo sua carreira musical seja posta em risco.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CHRISTINE[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CHRSTINE.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CHRSTINE.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/16/09/09/09/02/287460.jpg</thumbnail>
 <info>No ano de 1974, Christine Chubbuck (Rebecca Hall), ambiciosa e talentosa repórter de uma emissora local de televisão, entra em crise por frustrações profissionais e amorosas e toma uma decisão que os telespectadores em Sarasota, Flórida, jamais esquecerão. Baseado em fatos reais.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]CRASH PAD: DANDO O TROCO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CRSHPD.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CRSHPD.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://image.tmdb.org/t/p/w1280/4K9URqevzVINwGuDWDuGj5bV6qZ.jpg</thumbnail>
 <info>O jovem romântico Stensland (Gleeson) acredita no amor verdadeiro quando conhece e se apaixona por Morgan (Christina Applegate), uma mulher mais velha. Mas tudo muda quando ele descobre que a mulher é casada e usa ele e o relacionamento deles para fazer ciúmes no marido, Grady (Thomas Haden Church).</info>
 </item>
@@ -1053,21 +1053,21 @@
 
 <item>
 <title>[COLOR white][B]COMO SE TORNAR O PIOR ALUNO DA ESCOLA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/CMSTNROPRALN.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CMSTNROPRALN.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcSyApn7wylFm8sMF3dNKlGsJEN_HTc28Hza_aDz54IhlLq7bZDl</thumbnail>
 <info>Os estudantes Bernardo e Pedro têm dificuldades para cumprir todas as regras de uma escola que adota medidas politicamente corretas graças ao diretor Ademar. No banheiro do colégio, Pedro encontra um diário com dicas para instaurar o caos na escola sem ser notado.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]DEATH NOTE[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/DTHNT.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]DTHNT.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2017/06/death-note-netflix.jpg</thumbnail>
 <info>Death Note é um filme americano de suspense e terror de 2017 dirigido por Adam Wingard. É baseado na série de mangá homônima japonesa de Tsugumi Ohba e Takeshi Obata.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]DEATH NOTE: ILUMINANDO UM NOVO MUNDO [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/DTHNTIUNM.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]DTHNTIUNM.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.anmtv.com.br/wp-content/uploads/death-note-iluminando-um-novo-mundo.jpg</thumbnail>
 <info>Com Light morto, a força-tarefa Death Note é reintegrada. O mundo está em alerta máximo, com novos assassinatos. Um investigador privado se junta ao grupo. Ele é considerado um sucessor de L e é dele a descoberta de que há seis Death Notes desta vez.</info>
 </item>
@@ -1081,7 +1081,7 @@
 
 <item>
 <title>[COLOR white][B]DUPLA EXPLOSIVA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/DPLEXPL.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]DPLEXPL.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTvIvS7ZwqWa-Mn9EYJKcasrTVS7h3AJZ35DppwQO4tVn0i5pvg</thumbnail>
 <info>O principal guarda-costas do mundo possui um novo cliente: um assassino de aluguel que precisa testemunhar na Corte Internacional de Justiça. Por anos eles estavam em lados opostos de um tiro, mas agora eles estão presos juntos. Eles precisam colocar as diferenças de lado para chegarem ao julgamento a tempo.</info>
 </item>
@@ -1095,7 +1095,7 @@
 
 <item>
 <title>[COLOR white][B]EMOJI: O FILME[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/EMJOFLM.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]EMJOFLM.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/08/23/00/05/534361.jpg</thumbnail>
 <info>Escondido dentro do aplicativo de texto está Textopolis, uma cidade cheia de vida onde todos os emojis vivem, aguardando serem selecionados pelo dono do celular. Cada emoji tem apenas uma expressão facial, exceto Gene que nasceu sem filtro.</info>
 </item>
@@ -1130,35 +1130,35 @@
 
 <item>
 <title>[COLOR white][B]GUERRA DOS CHEFES: COOK-OFF![/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/GURDSCHFS.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]GURDSCHFS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://hospedafilmesonline.net/wp-content/uploads/2017/11/cook-off-2755-poster.jpg</thumbnail>
 <info>Chefes de cozinha amadores competem entre si no Concurso de Culinária Van Rookle Farms, concorrendo ao prêmio de um milhão de dólares.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]HERBERT[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/HERBRT.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]HERBRT.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/2a0kbSJ.jpg</thumbnail>
 <info>Cheio de tatuagens e com uma figura imponente, Hebert (Peter Kurth) é um ex-campeão de boxe alemão. Sua força é a sua maior arma de persuação, mas, hoje em dia, seu trabalho é reduzida à segurança e cobrador de dívidas, tendo como única satisfação o tempo que treina com Eddy (Edin Hasanovic), seu protegido no boxe. Diagnosticado com uma doença fatal, Hebert tenta se reconectar com Sandra (Lena Lauzemis), a filha que ele abandonou anos atrás.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]HONRA E LEALDADE[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/HONRELEAD.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]HONRELEAD.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/FcSxI1x.jpg</thumbnail>
 <info>Depois de ter lutado em diferentes campos, um soldado patriota e devoto da 1a. Divisão da SS Panzer de Adolf Hitler enfrenta sua pior batalha: sua consciência.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]INVASÃO ALIENÍGENA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/INVSALIEN.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]INVSALIEN.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://2.bp.blogspot.com/-QtTYBKrvMZQ/WZH2MIZZbcI/AAAAAAAADeQ/QQm7bzszD68M0jbzNRG3tHjaRWxc9-BqgCLcBGAs/s1600/recall_xlg.jpg</thumbnail>
 <info>História sobre cinco amigos de férias em uma remota casa do lago, que não estão cientes de que a Terra está sob uma invasão alienígena e abdução em massa.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]INFERNO NO FAROESTE 2[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/INFRNOFRSTE2.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]INFRNOFRSTE2.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://bloginterocitro.files.wordpress.com/2013/11/inferno-no-faroeste-03.jpg</thumbnail>
 <info>Guerrero Hernandez volta dos mortos mais uma vez, para que uma relíquia roubada não caia nas mãos de um grupo de soldados, o que poderá causar o inferno na terra.</info>
 </item>
@@ -1186,28 +1186,28 @@
 
 <item>
 <title>[COLOR white][B]KICKBOXER: A VINGANÇA DO DRAGÃO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/KCKBXRVNGA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]KCKBXRVNGA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/16/07/22/22/08/049657.jpg</thumbnail>
 <info>Kurt Sloan (Alain Moussi) e seu irmão, David Sloan (Darren Shahlavi), são campeões de uma dinastia de lutadores na Califórnia. Após vencer um campeonato mundial, David é atraído por um sombrio produtor para lutar sem regras em Hong Kong. Quando David morre, Kurt, com a ajuda de Durand (Jean-Claude Van Damme), ex-treinador de David, decide dominar as artes marciais para combater Tong Po (Dave Bautista), kickboxer que assassinou seu irmão.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]KITE: ANJO DA VINGANÇA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/KTANJDVNGC.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]KTANJDVNGC.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.telecineon.com.br/arquivo/filme/37a838ec1dcd226538ca730c49050923.jpg</thumbnail>
 <info>Sawa (India Eisley), uma jovem menina, perde o pai policial e a mãe, vítimas de um macabro duplo homicídio. Com a ajuda do parceiro de seu pai, Karl Aker (Samuel L. Jackson), e uma misteriosa amiga de seu passado (Callan McAuliffe). Com a ajuda do ex-sócio de seu pai, Karl Aker (Samuel L. Jackson), e uma amiga de seu passado, Oburi (Callan McAuliffe), Sawa começa uma perseguição implacável em busca de quem os matou. Ela se torna uma assassina adolescente impiedosa. Nunca subestime uma menina com nada a perder.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]KONG: A ILHA DA CAVEIRA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/KONGAILHCVR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]KONGAILHCVR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS6VQtbQQciwE_zLOgcfTfm4pinERAxr5usph9UWR_8pm-Bcv96</thumbnail>
 <info>1944, durante a Segunda Guerra Mundial. Dois aviões, um americano e outro japonês, são abatidos em pleno combate aéreo. Os pilotos sobrevivem, chegando a uma ilha desconhecida no Pacífico Sul. Lá eles dão continuidade à batalha, sendo surpreendidos pela aparição de um macaco gigante: Kong. Em 1973, Bill Randa (John Goodman) tenta obter junto a um político norte-americano a verba necessária para bancar uma expedição à tal ilha perdida. Ele acredita que lá existam monstros, mas precisa de provas concretas. Após obter a quantia, ele coordena uma expedição que reúne militares, liderados pelo coronel Preston Packard (Samuel L. Jackson), o rastreador James Conrad (Tom Hiddleston) e a fotógrafa Mason Weaver (Brie Larson).</info>
 </item>
 
 <item>
 <title>[COLOR white][B]LENDAS DO TEMPLO PERDIDO: O FILME[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/LNDSDTMPLPERD.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]LNDSDTMPLPERD.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/j1O8nwB.jpg</thumbnail>
 <info>A lenda é real! Três irmãos embarcam nessa grande aventura cheia de ação ao cair num templo antigo. Dentro do templo, cada sala contém novos obstáculos e desafios de lógica para completar. Se eles não os solucionarem, serão selados lá dentro por toda a eternidade! A história toma vida com o poderoso Olmec, guardas malignos do templo e um guia turístico muito sabichão - Kirk Fogg.</info>
 </item>
@@ -1221,14 +1221,14 @@
 
 <item>
 <title>[COLOR white][B]LONG SHOT[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/LNGSHT.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]LNGSHT.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://i.imgur.com/zE5595x.jpg</thumbnail>
 <info>Ao ser preso por um assassinato que não cometeu, Juan Catalan tenta provar sua inocência usando as cenas cortadas de um programa de TV.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]LEATHERFACE [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/LETHRFCLEG.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]LETHRFCLEG.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://cdn.cinepop.com.br/2015/09/poster-leatherface.jpg</thumbnail>
 <info>Um adolescente violento escapa de uma instituição psiquiátrica junto com outros rapazes igualmente desequilibrados. Na fuga eles sequestram uma jovem enfermeira e são perseguidos por um policial perturbado.</info>
 </item>
@@ -1242,21 +1242,21 @@
 
 <item>
 <title>[COLOR white][B]MÃE![/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/MAE.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]MAE.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQx7KBu4H4fmngp-Sg4uDshSb3nxVL8q4w5hK23DuUmMgcwoxgO</thumbnail>
 <info>Uma mulher pensa que terá um final de semana tranquilo com o marido em casa. Porém, começam a chegar diversos convidados na residência dos dois. Isso faz com que o casamento deles seja testado das mais variadas maneiras.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]MECÂNICA DAS SOMBRAS[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/MECMDSMBRS.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]MECMDSMBRS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://i.imgur.com/oz9VOBP.jpg</thumbnail>
 <info>O desempregado Duval é contactado por uma misteriosa organização para transcrever as chamadas interceptadas. Ele aceita o trabalho sem suspeitas, uma vez que restaura a estabilidade à sua vida. Aos poucos, no entanto, ele vai ser colocado no centro de uma trama política, mergulhando no submundo brutal e bizarro do serviço secreto.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]MOONLIGHT: SOB A LUZ DO LUAR[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/MONLGHTSBLZDLR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]MONLGHTSBLZDLR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSQ3GXKYfgcNEGL_RcwBYmXctO79nzI-JMcHpOH2jtNPxjZilAy</thumbnail>
 <info>Black trilha uma jornada de autoconhecimento enquanto tenta escapar do caminho fácil da criminalidade e do mundo das drogas de Miami. Encontrando amor em locais surpreendentes, ele sonha com um futuro maravilhoso.</info>
 </item>
@@ -1284,35 +1284,35 @@
 
 <item>
 <title>[COLOR white][B]NATAL EM EL CAMINO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/NTLEMELCMNO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]NTLEMELCMNO.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14868105/p14868105_p_v8_aa.jpg</thumbnail>
 <info>Na cidade de El Camino, Eric Roth (Luke Grimes) está em busca de seu pai, quem nunca conheceu. Até que, sem ter culpa, o jovem acaba preso em uma loja de bebidas, na véspera de Natal, com mais cinco pessoas.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]NA MIRA DO ATIRADOR[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/NAMRDATRDR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]NAMRDATRDR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcS6PPH3O7-bPJ7ygv9ZKuzdsX-Kfq-otwvhH9QWwot9F_NnH5yo</thumbnail>
 <info>Em pleno campo de batalha, dois soldados americanos descobrem que estão na mira de um atirador iraquiano. Eles não sabem onde o inimigo se esconde, nem podem se comunicar um com o outro, já que o adversário está interceptando a conversa dos americanos via rádio comunicador. Exposto no campo de batalha ou atrás de uma pequena parede de pedra, eles terão de contornar suas poucas chances para encontrar uma maneira de sair vivos.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]NOSSAS NOITES[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/NOSNITS.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]NOSNITS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/09/15/13/03/0368624.jpg</thumbnail>
 <info>Addie Moore (Jane Fonda) é uma viúva solitária que decide certa noite convidar o vizinho também viúvo Louis Waters (Robert Redford) para dormir em sua casa. A proposta inusitada, que tem por objetivo ajudar os dois a vencer a insônia, a princípio deixa o professor aposentado sem reação, mas conforme eles colocam o projeto em prática uma bonita relação de cumplicidade floresce.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]NOSSO REINO[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/NOSRNO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]NOSRNO.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/09/15/16/00/4374414.jpg</thumbnail>
 <info>O documentário retrata as lutas da família West Midlands, que atravessa uma tragédia com a morte do pai, Paul Shanks.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]NO TOPO DO PODER[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/NTOPDPDR.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]NTOPDPDR.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://cinema10.com.br/upload/filmes/filmes_10176_2.jpg</thumbnail>
 <info>Uma guerra de classes ganha força em um prédio residencial de luxo e uma verdadeira batalha desenrola-se pelos elevadores, corredores e apartamentos da moderna torre.</info>
 </item>
@@ -1389,14 +1389,14 @@
 
 <item>
 <title>[COLOR white][B]O CULTO DE CHUCKY[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/OCLTDCHCK.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]OCLTDCHCK.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://www.dvdsreleasedates.com/posters/800/C/Cult-of-Chucky-2017-movie-poster.jpg</thumbnail>
 <info>Confinada em um hospício para criminosos insanos pelos últimos quatro anos, Nica Pierce (Fiona Dourif) é erroneamente convencida de que ela, e não Chucky, matou sua família inteira. Porém, quando seu terapeuta começa a usar um boneco Good Guy para as sessões, uma série de assassinatos começa a acontecer e Nica percebe que ela pode não ser tão louca assim.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]OS SMURFS E A VILA PERDIDA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/OSMRFSEAVLPRDA.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]OSMRFSEAVLPRDA.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTYgRQkpUzF4VvfyrVCmiH-hZf8Tiw9FL3g2nFUK_E51R0cNyzZ</thumbnail>
 <info>Smurfette não está contente: ela começa a perceber que todos os homens do vilarejo dos Smurfs têm uma função precisa na comunidade, menos ela. Indignada, ela parte em busca de novas descobertas, e conhece uma Floresta Encantada, com diversas criaturas mágicas. Enquanto isso, o vilão Gargamel segue os seus passos.</info>
 </item>
@@ -1417,14 +1417,14 @@
 
 <item>
 <title>[COLOR white][B]POWER RANGERS[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/PWRNGRS.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]PWRNGRS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQPyiWPRyhHMR4kpMTrte04D93ziKnoHTMyQ8aMt9hOctM0hPH4</thumbnail>
 <info>A jornada de cinco adolescentes que devem buscar algo extraordinário quando eles tomam consciência que a sua pequena cidade Angel Grove - e o mundo - estão à beira de sofrer um ataque alienígena. Escolhidos pelo destino, eles irão descobrir que são os únicos que poderão salvar o planeta. Mas para isso, eles devem superar seus problemas pessoais e juntarem sua forças como os Power Rangers, antes que seja tarde demais.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]POKÉMON O FILME 20: EU ESCOLHO VOCÊ![/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/PKMONFLM20.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]PKMONFLM20.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://jovemnerd.com.br/wp-content/uploads/2017/09/onesheet.jpg</thumbnail>
 <info>Ash Ketchum (Sarah Natochenny) acaba de completar 10 anos de idade. Isso significa que ele está pronto para se tornar um treinador de Pokémon. Agora, ele espera receber seu primeiro Pokémon, o Pikachu (Ikue Ôtani), que também será seu melhor amigo. Juntos, eles embarcam em uma jornada repleta de aventuras em busca do lendário Pokémon Ho-Oh.</info>
 </item>
@@ -1452,7 +1452,7 @@
 
 <item>
 <title>[COLOR white][B]RESIDENT EVIL VENDETTA[/B][/COLOR]</title>
-<link>http://ds5b1da2hd79u.ec.cx/RedeCanais/RCFServer4/ondemand/REVILAVNGNC.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]REVILAVNGNC.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.otakupt.com/wp-content/uploads/2016/12/tumblr_oi7d80.jpg</thumbnail>
 <info>Chris Redfield (Kevin Dorman) pede a ajuda do agente do governo Leon S. Kennedy (Matthew Mercer) e de uma professora do Instituto Alexander de Biotecnologia para deter um comerciante que pretendia espalhar um vírus mortal em Nova York como vingança.</info>
 </item>
