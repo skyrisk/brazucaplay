@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR white][B]A PROFECIA[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA1.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]APRFCA1.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf2.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/14/12/01/16/00/050092.jpg</thumbnail>
 <fanart>http://noset.com.br/wp-content/uploads/2016/11/omen-0.jpg</fanart>
 <info>O embaixador americano e a esposa querem muito ter filhos. Quando ela dá à luz um bebê morto e um padre sugere que adotem um recém-nascido saudável e órfão, ele aceita sem contar à mulher. O que ele não sabe é que o bebê é o anticristo.</info>
@@ -9,7 +9,7 @@
 
 <item>
 <title>[COLOR white][B]A PROFECIA[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA2006.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]APRFCA2006.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf2.php</page></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/14/12/01/16/19/346220.jpg</thumbnail>
 <fanart>http://noset.com.br/wp-content/uploads/2016/11/omen-0.jpg</fanart>
 <info>Depois de sua esposa ter uma gravidez de risco, o bebê de um diplomata morre ao nascer. Convencido por um padre, o pai substitui a criança por outra que, aos cinco anos de idade, dá sinais de ser o Anticristo.</info>
@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR white][B]A PROFECIA 3: O CONFLITO FINAL[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA3.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]APRFCA3.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf2.php</page></regex>
 <thumbnail>http://bocadoinferno.com.br/wp-content/uploads/2013/04/A-Profecia-3-1981-3.jpg</thumbnail>
 <fanart>http://noset.com.br/wp-content/uploads/2016/11/omen-0.jpg</fanart>
 <info>O Anticristo Damien Thorn, agora com 32 anos, é um empresário de sucesso, pronto para cumprir seu destino. Recém-nomeado embaixador dos Estados Unidos na Grã-Bretanha, ele é ameaçado de morte por um grupo liderado pelo padre DeCarlo. Enquanto Damien se prepara para o retorno de Jesus Cristo, ele toma proveito de seu relacionamento com Kate Reynolds para recrutar o filho dela, Peter, como seu seguidor.</info>
@@ -27,7 +27,7 @@
 
 <item>
 <title>[COLOR white][B]A PROFECIA 4: O DESPERTAR[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCFServer2/ondemand/APRFCA4.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]APRFCA4.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf2.php</page></regex>
 <thumbnail>http://2.bp.blogspot.com/-qbvc5T146ac/Tj1hPCXJqtI/AAAAAAAAAFI/VWn9WT6PMyA/s1600/a-profecia-4-o-despertar-capa.jpg</thumbnail>
 <fanart>http://noset.com.br/wp-content/uploads/2016/11/omen-0.jpg</fanart>
 <info>Casal de advogados adota, em virtude dos conselhos de duas religiosas, uma menina que revela ser dotada de terríveis poderes sobrenaturais.</info>
