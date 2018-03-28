@@ -160,7 +160,7 @@
 
 <item>
 <title>[COLOR white][B]JUMANJI: BEM-VINDO À SELVA[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018DUB-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]JMNJBMVNDASLV.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/JUMANJI.jpg</thumbnail>
 <info>Quatro adolescentes encontram um videogame cuja ação se passa numa floresta tropical. Empolgados com o jogo, eles escolhem seus avatares para o desafio, mas um evento inesperado faz com que sejam transportados para dentro do universo fictício, transformando-se nos personagens da aventura.</info>
 </item>
