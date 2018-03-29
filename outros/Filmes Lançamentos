@@ -165,7 +165,8 @@
 
 <item>
 <title>[COLOR white][B]GIGANTE [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/GIGANTE2018LEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/gigante/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BZmFkNzc1ZTMtYjgzNy00YjRhLWFmZGQtZjI2NzhlYjliNjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <info>Depois de participar de uma guerra civil, Martín volta para casa e descobre que seu irmão mais novo, Joaquín, está muito mais alto do que o habitual. Convencido de que todos querem pagar para ver o maior homem da Terra, os irmãos embarcam em uma longa jornada pela Europa, na qual a ambição, o dinheiro e a fama mudarão para sempre o destino da família.</info>
 </item>
@@ -179,21 +180,24 @@
 
 <item>
 <title>[COLOR white][B]JUMANJI: BEM-VINDO À SELVA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/JUMANJI2018LEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jumanji-bem-vindo-a-selva/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/JUMANJI.jpg</thumbnail>
 <info>Quatro adolescentes encontram um videogame cuja ação se passa numa floresta tropical. Empolgados com o jogo, eles escolhem seus avatares para o desafio, mas um evento inesperado faz com que sejam transportados para dentro do universo fictício, transformando-se nos personagens da aventura.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]LADY BIRD: A HORA DE VOAR [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/LADYBIRDLEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/lady-bird/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster_opt.jpg</thumbnail>
 <info>Christine McPherson está no último ano do colégio e o que mais deseja é ir fazer faculdade longe de Sacramento, Califórnia, ideia rejeitada por sua mãe. Lady Bird, como a garota de forte personalidade exige ser chamada, não se dá por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora não chega, ela se divide entre as obrigações estudantis no colégio católico, o primeiro namoro, típicos rituais de passagem para a vida adulta e inúmeros desentendimentos com a progenitora.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]LOOKING GLASS [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/LOOKINGGLASSLEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/looking-glass/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/shrink-1.jpg</thumbnail>
 <info>Depois de uma trágica perda, Ray (Nicolas Cage) e Maggie (Robin Tunney) compram um motel no meio do deserto. Até que o casal começa a perceber que muitas coisas estranhas e misteriosas começam a acontecer.</info>
 </item>
@@ -207,14 +211,16 @@
 
 <item>
 <title>[COLOR white][B]ME CHAME PELO SEU NOME[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/MECHAMEPELOSEUNOMEDUB-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/me-chame-pelo-seu-nome/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/APAGA-LOGO.jpg</thumbnail>
 <info>O sensível e único filho da família americana com ascendência italiana e francesa Perlman, Elio (Timothée Chalamet), está enfrentando outro verão preguiçoso na casa de seus pais na bela e lânguida paisagem italiana. Mas tudo muda quando Oliver (Armie Hammer), um acadêmico que veio ajudar a pesquisa de seu pai, chega.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]ME CHAME PELO SEU NOME [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/CALLMEBYNAME2018LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/me-chame-pelo-seu-nome/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/APAGA-LOGO.jpg</thumbnail>
 <info>O sensível e único filho da família americana com ascendência italiana e francesa Perlman, Elio (Timothée Chalamet), está enfrentando outro verão preguiçoso na casa de seus pais na bela e lânguida paisagem italiana. Mas tudo muda quando Oliver (Armie Hammer), um acadêmico que veio ajudar a pesquisa de seu pai, chega.</info>
 </item>
