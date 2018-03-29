@@ -60,31 +60,50 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/TheFlash-4TEMP/S04EP10.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x10/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/TheFlash-4TEMP/S04EP11.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x11/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/TheFlash-4TEMP/S04EP12.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x12/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/TheFlash-4TEMP/S04EP13.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x13/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/TheFlash-4TEMP/TheFlashS04EP14.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x14/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x15/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/flash-4x16/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Flash/fanart.jpg</fanart>
 </item>
