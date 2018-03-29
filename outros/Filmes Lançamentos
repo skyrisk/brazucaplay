@@ -235,7 +235,7 @@
 
 <item>
 <title>[COLOR white][B]O ESTRANGEIRO[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/FOREIGNERDUB-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]OESTNGRO.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT-EayKAOSQosIDo2Uw3RDtvQeazV35hvLD5_DgKN2_ljZDEHWU</thumbnail>
 <info>Quando vê a sua filha, a única família que lhe resta, ser morta por uma bomba num atentado terrorista cometido pelo Exército Republicano Irlandês, Quan (Jackie Chan) procura os culpados da sua morte, através de Liam Hennessy (Pierce Brosnan), um antigo membro desse Exército. Hennessy não sabe que Quan foi treinado pelas forças especiais dos EUA e subestima-o gravemente.</info>
 </item>
