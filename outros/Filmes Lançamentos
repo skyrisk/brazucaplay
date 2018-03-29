@@ -324,21 +324,24 @@
 
 <item>
 <title>[COLOR white][B]VERÓNICA[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018DUB-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/veronica/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <info>Madrid, década de 1990. Depois de fazer um Quija com amigos, uma adolescente é assediada por perigosas presenças sobrenaturais que ameaçam prejudicar toda a família. Inspirado por aterradores arquivos policiais nunca resolvidos.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]VERÓNICA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/VERONICA2018LEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/veronica/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <info>Madrid, década de 1990. Depois de fazer um Quija com amigos, uma adolescente é assediada por perigosas presenças sobrenaturais que ameaçam prejudicar toda a família. Inspirado por aterradores arquivos policiais nunca resolvidos.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]VENDE-SE ESTA CASA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/OPENHOUSE2018LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/vende-se-esta-casa/</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14950353/p14950353_p_v8_aa.jpg</thumbnail>
 <info>Após a morte do pai, o adolescente Logan Wallace (Dylan Minnette) e sua mãe, Naomi Wallace (Piercey Dalton), se mudam temporariamente para uma casa à venda, buscando superar o trauma familiar. Eles precisam apenas organizar um dia de "portas abertas" para acolher potenciais compradores do imóvel. Depois deste evento, Logan e Naomi começam a perceber presenças estranhas dentro da casa.</info>
 </item>
