@@ -364,7 +364,8 @@
 
 <item>
 <title>[COLOR white][B]VOLDEMORT: ORIGINS OF THE HEIR [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/VOLDEMORT2018-BAIXO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
 <thumbnail>https://pics.filmaffinity.com/voldemort_origins_of_the_heir-841025967-large.jpg</thumbnail>
 <info>Tom Riddle (Stefano Rossi) sai da escola de Hogwarts e vai trabalhar na Borgin e Burkes, passando a coletar Horcruxes. E a misteriosa morte da herdeira de Lufa-Lufa, Hepzibah Smith (Gelsomina Bassetti) em 1943, que foi supostamente envenenada por seu elfo doméstico.</info>
 </item>
