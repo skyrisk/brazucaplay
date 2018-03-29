@@ -143,6 +143,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]FALA SÉRIO, MÃE![/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/fala-serio-mae/</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQhI1U8EBuAxiNraXRPN8ynhlqF7yKveiMVG4xs-AbtS4LojMAO</thumbnail>
+<info>Ângela Cristina (Ingrid Guimarães), mãe da adolescente Maria de Lourdes (Larissa Manoela), está tendo a experiência de guiar sua filha durante uma das fases mais complicadas da vida. Ela vive uma montanha-russa de emoções, com medos, frustrações e um caminhão de queixas para descarregar. Por outro lado, Malu, como prefere ser chamada, também tem suas insatisfações. Teimosa, sofre com os cuidados excessivos e com o jeito conservador da mãe.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]FULLMETAL ALCHEMIST[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]FLMTLALCMST.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/PERFIL.png</thumbnail>
@@ -293,6 +301,22 @@
 </item>
 
 <item>
+<title>[COLOR white][B]PERDA TOTAL[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/perda-total/</page></regex>
+<thumbnail>http://cenapop.uol.com.br/wordpress/wp-content/uploads/2018/01/GOM_Vertical-Main_PRE_BPO-e1515083415875.jpg</thumbnail>
+<info>Os desajeitados Alexx (Adam Devine), Darren (Anders Holm) e Joel (Blake Anderson) são três colegas que trabalham em um hotel em Los Angeles e são considerados verdadeiros perdedores. Mas quando o hotel é tomado por bandidos durante uma festa repleta de celebridades, eles precisam se tornar heróis... ou alguma coisa parecida com isso.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]PERDA TOTAL [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/perda-total/</page></regex>
+<thumbnail>http://cenapop.uol.com.br/wordpress/wp-content/uploads/2018/01/GOM_Vertical-Main_PRE_BPO-e1515083415875.jpg</thumbnail>
+<info>Os desajeitados Alexx (Adam Devine), Darren (Anders Holm) e Joel (Blake Anderson) são três colegas que trabalham em um hotel em Los Angeles e são considerados verdadeiros perdedores. Mas quando o hotel é tomado por bandidos durante uma festa repleta de celebridades, eles precisam se tornar heróis... ou alguma coisa parecida com isso.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]SOBRENATURAL: A ÚLTIMA CHAVE [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/sobrenatural-a-ultima-chave/</page></regex>
@@ -368,20 +392,6 @@
 <page>http://netcine.us/voldemort-origins-of-the-heir/</page></regex>
 <thumbnail>https://pics.filmaffinity.com/voldemort_origins_of_the_heir-841025967-large.jpg</thumbnail>
 <info>Tom Riddle (Stefano Rossi) sai da escola de Hogwarts e vai trabalhar na Borgin e Burkes, passando a coletar Horcruxes. E a misteriosa morte da herdeira de Lufa-Lufa, Hepzibah Smith (Gelsomina Bassetti) em 1943, que foi supostamente envenenada por seu elfo doméstico.</info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-</item>
-
-<item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
 </item>
 
 <item>
