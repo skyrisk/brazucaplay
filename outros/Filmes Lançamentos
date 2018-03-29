@@ -237,11 +237,25 @@
 </item>
 
 <item>
+<title>[COLOR white][B]KICKS: DEFENDENDO O QUE É SEU[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]KCKS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail>https://i.imgur.com/jh0dZaO.jpg</thumbnail>
+<info>Quando seus sapatos usados para jogar futebol são levados por um ladrão local, Brandon e seus dois melhores amigos iniciam uma busca em uma difícil missão em todas áreas possíveis para tentar recuperar os tênis roubados.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]LADY BIRD: A HORA DE VOAR [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/lady-bird/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/poster_opt.jpg</thumbnail>
 <info>Christine McPherson está no último ano do colégio e o que mais deseja é ir fazer faculdade longe de Sacramento, Califórnia, ideia rejeitada por sua mãe. Lady Bird, como a garota de forte personalidade exige ser chamada, não se dá por vencida e leva o plano de ir embora adiante mesmo assim. Enquanto a hora não chega, ela se divide entre as obrigações estudantis no colégio católico, o primeiro namoro, típicos rituais de passagem para a vida adulta e inúmeros desentendimentos com a progenitora.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]LEGO DC COMICS SUPER HEROES: THE FLASH[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]LEGDCCMSSPRHRTHFLSH.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14993167/p14993167_p_v8_aa.jpg</thumbnail>
+<info>Na trama, o Flash Reverso usa a força de aceleração para voltar no tempo e afetar a vida do Flash. Batman, Superman, Mulher-Maravilha, Ciborgue, Zatanna e Senhor Destino são alguns dos personagens do filme.</info>
 </item>
 
 <item>
@@ -442,6 +456,26 @@
 <info></info>
 </item>
 
+<item>
+<title>[COLOR white][B][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]GRDOESDGLXIAVL2.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]GRDOESDGLXIAVL2.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR white][B][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]GRDOESDGLXIAVL2.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail></thumbnail>
+<info></info>
+</item>
 <item>
 <title>[COLOR white][B][/B][/COLOR]</title>
 <link></link>
