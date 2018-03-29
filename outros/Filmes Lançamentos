@@ -127,14 +127,16 @@
 
 <item>
 <title>[COLOR white][B]ESPIÃO POR ACASO[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/ESPIAO2018LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/espiao-por-acaso/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/spi.jpg</thumbnail>
 <info>Espião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, quando ele e sua família se mudam para um velho hotel situado na região costeira do país. Tim está sofrendo para se adaptar ao novo lar até que ele conhece Simon, um rapaz peculiar que acabou de despertar de um sono que o manteve sem contato algum com a sociedade desde 1974. Com Simon se ajustando ao mundo de hoje e Tim aprendendo a gostar de sua nova casa, a dupla forma uma bela amizade. Quando Tim decide ajudar Simon a encarar o mundo, o menino descobre que seu novo amigo é um antigo espião e eles estão para embarcar em uma incrível aventura!</info>
 </item>
 
 <item>
 <title>[COLOR white][B]EU, TONYA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/ITONYALEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/eu-tonya/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/images.jpg</thumbnail>
 <info>Acompanhe a vida da ex-patinadora no gelo Tonya Harding. Durante a década de 1990, ela conseguiu superar sua infância pobre e emergir como campeã do Campeonato de Patinação no Gelo do Reino Unido e segunda colocada no campeonato mundial. Porém, ela ficou realmente conhecida quando seu marido, Jeff Gilloly, e dois ladrões tentaram incapacitar uma de suas concorrentes quebrando a perna dela durante as Olimpíadas de 1994.</info>
 </item>
