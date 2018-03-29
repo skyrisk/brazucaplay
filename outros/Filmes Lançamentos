@@ -83,8 +83,7 @@
 
 <item>
 <title>[COLOR white][B]BENJI[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/benji/</page></regex>
+<link>$doregex[BrazucaPlay]BNJI.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://clubedaspipocas.files.wordpress.com/2018/03/5140152-r_1920_1080-f_jpg-q_x-xxyxx.jpg?w=810</thumbnail>
 <info>Desde criança Ryan tem o sonho de se tornar um soldado. Ao tentar entra na marinha, ele é rejeitado, aparentemente por ter sobrepeso. Decidido, ele pensa que se o seu país não o deseja, ele vai fazer com que eles o desejem. Ryan fecha uma aliança com o Líder Supremo da Coréia do Norte, Kim Jong Un, e faz um voto para que coopere com ele na tomada do seu país. Ele faz isso e se nomeia como o Grande Rei Benji.</info>
 </item>
