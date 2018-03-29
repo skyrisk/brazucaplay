@@ -256,21 +256,23 @@
 
 <item>
 <title>[COLOR white][B]O DESTINO DE UMA NAÇÃO[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/DARKEST2017LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-destino-de-uma-nacao/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/o-destino.jpg</thumbnail>
 <info>Com a Grã-Bretanha à beira de perder a guerra para a Alemanha, Winston Churchill sofre pressão para fazer um acordo com Hitler para estabelecer o estado como parte do território do Terceiro Reich, mas resiste à pressão.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]O PARADOXO CLOVERFIELD[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018DUB-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]CLVRFLDAPRTCDS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://sm.ign.com/ign_pt/screenshot/default/polaroids-vertical-main-por_9sp4.jpg</thumbnail>
 <info>Experimento científico envolvendo um acelerador de partículas dá resultados inesperados e os astronautas acabam ficando isolados a bordo de uma estação espacial. Diante da descoberta que afeta diretamente as vidas de cada um e também todo o conceito do que é real, a equipe precisa encontrar uma maneira de sobreviver.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]O PARADOXO CLOVERFIELD [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/CLOVERFIELD2018LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-paradoxo-cloverfield/</page></regex>
 <thumbnail>http://sm.ign.com/ign_pt/screenshot/default/polaroids-vertical-main-por_9sp4.jpg</thumbnail>
 <info>Experimento científico envolvendo um acelerador de partículas dá resultados inesperados e os astronautas acabam ficando isolados a bordo de uma estação espacial. Diante da descoberta que afeta diretamente as vidas de cada um e também todo o conceito do que é real, a equipe precisa encontrar uma maneira de sobreviver.</info>
 </item>
