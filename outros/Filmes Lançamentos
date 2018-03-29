@@ -126,6 +126,13 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ENCOLHI A PROFESSORA[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]ELCHAPROF.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRDUYcCJ__YZFLlptcfFd-m_j1M18OmH7RUcYUyi689uSxfTEiH</thumbnail>
+<info>O jovem Felix Vorndran (Oskar Keymer) estuda em uma escola cuja diretora, Frau Dr. Schmitt-Gössenwein (Anja Kling), é uma verdadeira peste. Certo dia, Felix, determinado a se vingar desta professora, arma um esquema maluco que tem consequências complicadas: a diretora acaba encolhendo, se tornando uma miniatura de si mesma.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]ESPIÃO POR ACASO[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/espiao-por-acaso/</page></regex>
@@ -177,6 +184,13 @@
 <page>http://netcine.us/gigante/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/MV5BZmFkNzc1ZTMtYjgzNy00YjRhLWFmZGQtZjI2NzhlYjliNjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX700_AL_.jpg</thumbnail>
 <info>Depois de participar de uma guerra civil, Martín volta para casa e descobre que seu irmão mais novo, Joaquín, está muito mais alto do que o habitual. Convencido de que todos querem pagar para ver o maior homem da Terra, os irmãos embarcam em uma longa jornada pela Europa, na qual a ambição, o dinheiro e a fama mudarão para sempre o destino da família.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]GODZILLA: PLANETA DOS MONSTROS[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]JMNJBMVNDASLV.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
+<thumbnail>https://pre00.deviantart.net/b144/th/pre/i/2018/018/9/2/godzilla__monster_planet_poster_by_chaosemperor971-dc0eiv8.jpg</thumbnail>
+<info>Vinte mil anos após Godzilla ter tomado a Terra, um grupo de humanos tenta recolonizar o planeta. Mas, para um jovem, não basta voltar: ele quer vingança.</info>
 </item>
 
 <item>
