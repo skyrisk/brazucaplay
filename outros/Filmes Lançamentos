@@ -82,8 +82,9 @@
 </item>
 
 <item>
-<title>[COLOR white][B]BENJI [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
-<link>http://player2.aovivohd.site/Filme-Dublado/16-03/Benji%202018%20%28720p%29%20DUBLADO.mp4</link>
+<title>[COLOR white][B]BENJI[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/benji/</page></regex>
 <thumbnail>https://clubedaspipocas.files.wordpress.com/2018/03/5140152-r_1920_1080-f_jpg-q_x-xxyxx.jpg?w=810</thumbnail>
 <info>Desde criança Ryan tem o sonho de se tornar um soldado. Ao tentar entra na marinha, ele é rejeitado, aparentemente por ter sobrepeso. Decidido, ele pensa que se o seu país não o deseja, ele vai fazer com que eles o desejem. Ryan fecha uma aliança com o Líder Supremo da Coréia do Norte, Kim Jong Un, e faz um voto para que coopere com ele na tomada do seu país. Ele faz isso e se nomeia como o Grande Rei Benji.</info>
 </item>
@@ -293,14 +294,16 @@
 
 <item>
 <title>[COLOR white][B]SOBRENATURAL: A ÚLTIMA CHAVE [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
-<link>http://player2.aovivohd.site/Filme-Dublado/12-03/sobrenatural.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/sobrenatural-a-ultima-chave/</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRE7uIMyxy-uKt21JqLnWOuxUkoItcDTJwZzXmyGDRd3ibpElTe</thumbnail>
 <info>Elise Rainier (Lin Shaye) é chamada para resolver o caso de uma assombração no Novo México. O que seria apenas mais um caso ganha ares especiais quando Elise descobre que a atividade sobrenatural está acontecendo justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de sua infância, alguns literais. Ao lado de Specs (Leigh Whannell) e Tucker (Angus Sampson), Elise se depara com seu caso mais pessoal.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]THE POST: A GUERRA SECRETA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/THEPOST2017LEG-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/the-post-a-guerra-secreta/</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRaYhbFEYGdNOoaD-9S4C7ZWRHImOXZcxCK7LzlKVRCY7TyIo3e</thumbnail>
 <info>Kat Graham (Meryl Streep) é a dona do The Washington Post, um jornal local que está prestes a lançar suas ações na Bolsa de Valores de forma a se capitalizar e, consequentemente, ganhar fôlego financeiro. Ben Bradlee (Tom Hanks) é o editor-chefe do jornal, ávido por alguma grande notícia que possa fazer com que o jornal suba de patamar no sempre acirrado mercado jornalístico. Quando o New York Times inicia uma série de matérias denunciando que vários governos norte-americanos mentiram acerca da atuação do país na Guerra do Vietnã, com base em documentos sigilosos do Pentágono, o presidente Richard Nixon decide processar o jornal com base na Lei de Espionagem, de forma que nada mais seja divulgado. A proibição é concedida por um juiz, o que faz com que os documentos cheguem às mãos de Bradlee e sua equipe, que precisa agora convencer Kat e os demais responsáveis pelo The Post sobre a importância da publicação de forma a defender a liberdade de imprensa.</info>
 </item>
@@ -342,14 +345,16 @@
 
 <item>
 <title>[COLOR white][B]VIVA: A VIDA É UMA FESTA[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/COCO2017DUB-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/viva-a-vida-e-uma-festa/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/viva.jpg</thumbnail>
 <info>Miguel é um menino de 12 anos que quer muito ser um músico famoso, mas ele precisa lidar com sua família que desaprova seu sonho. Determinado a virar o jogo, ele acaba desencadeando uma série de eventos ligados a um mistério de 100 anos. A aventura, com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extraordinária reunião familiar.</info>
 </item>
 
 <item>
 <title>[COLOR white][B]VIVA: A VIDA É UMA FESTA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2018/COCO20177LEG-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/viva-a-vida-e-uma-festa/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/viva.jpg</thumbnail>
 <info>Miguel é um menino de 12 anos que quer muito ser um músico famoso, mas ele precisa lidar com sua família que desaprova seu sonho. Determinado a virar o jogo, ele acaba desencadeando uma série de eventos ligados a um mistério de 100 anos. A aventura, com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extraordinária reunião familiar.</info>
 </item>
