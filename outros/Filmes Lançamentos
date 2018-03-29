@@ -960,7 +960,7 @@
 
 <item>
 <title>[COLOR white][B]A MÚMIA[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2017/AMUMIA2017DUB-ALTO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]AMUM.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQzZCY8q-I_IhEtX6I9HfufmKugC7UFjr8e86QO3-ekuWEGX4WA	</thumbnail>
 <info>Na Mesopotâmia, séculos atrás, Ahmanet (Sofia Boutella) tem seus planos interrompidos justamente quando está prestes a invocar Set, o deus da morte, de forma que juntos possam governar o mundo.  Mumificada, ela é aprisionada dentro de uma tumba. Nos dias atuais, o local é descoberto por acidente por Nick Morton (Tom Cruise) e Chris Vail (Jake Johnson), saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey (Annabelle Wallis), eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet. Ela logo elege Nick como seu escolhido e, a partir de então, busca a adaga de Set para que possa invocá-lo no corpo do saqueador.</info>
 </item>
@@ -974,7 +974,16 @@
 
 <item>
 <title>[COLOR white][B]A CABANA[/B][/COLOR]</title>
-<link>http://cdn12.ntcdn.us/content/httpdelivery/filmes2017/ACABANA2017DUB-BAIXO.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/a-cabana/</page></regex>
+<thumbnail>https://danmoviesnstuff.files.wordpress.com/2017/03/a-cabana-poster-final.jpg</thumbnail>
+<info>Um homem vive atormentado após perder a sua filha mais nova, cujo corpo nunca foi encontrado, mas sinais de que ela teria sido violentada e assassinada são encontrados em uma cabana nas montanhas. Anos depois da tragédia, ele recebe um chamado misterioso para retornar a esse local, onde ele vai receber uma lição de vida.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]A CABANA [COLOR]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/a-cabana/</page></regex>
 <thumbnail>https://danmoviesnstuff.files.wordpress.com/2017/03/a-cabana-poster-final.jpg</thumbnail>
 <info>Um homem vive atormentado após perder a sua filha mais nova, cujo corpo nunca foi encontrado, mas sinais de que ela teria sido violentada e assassinada são encontrados em uma cabana nas montanhas. Anos depois da tragédia, ele recebe um chamado misterioso para retornar a esse local, onde ele vai receber uma lição de vida.</info>
 </item>
