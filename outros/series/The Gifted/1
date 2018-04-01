@@ -6,61 +6,85 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/01-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x01/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/02-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x02/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/03-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x03/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/04-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x04/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/05-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x05/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/06-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x06/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/07-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x07/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/08-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x08/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/09-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x09/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/thegifted/01leg/10-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x10/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 11 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x11/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 12+13 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/thegifted-1x12e13/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Gifted/fanart.jpg</fanart>
 </item>
