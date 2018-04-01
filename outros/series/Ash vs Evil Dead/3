@@ -9,7 +9,7 @@
 <link>$doregex[BrazucaPlay]ASHVSEVILT03EP01.mp4|Referer=http://www.redecanais.com/</link>
 <regex>
 <name>BrazucaPlay</name>
-<expres>(.*)</expres>
+<expres>file: "(.*).mp4</expres>
 <page>http://www.redecanais.com/player3/server13.php</page>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Ash%20vs%20Evil%20Dead/thumb.jpg</thumbnail>
@@ -20,7 +20,7 @@
 <link>$doregex[BrazucaPlay]ASHVSEVILT03EP02.mp4|Referer=http://www.redecanais.com/</link>
 <regex>
 <name>BrazucaPlay</name>
-<expres>(.*)</expres>
+<expres>file: "(.*).mp4</expres>
 <page>http://www.redecanais.com/player3/server13.php</page>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Ash%20vs%20Evil%20Dead/thumb.jpg</thumbnail>
@@ -31,7 +31,7 @@
 <link>$doregex[BrazucaPlay]ASHVSEVILT03EP03.mp4|Referer=http://www.redecanais.com/</link>
 <regex>
 <name>BrazucaPlay</name>
-<expres>(.*)</expres>
+<expres>file: "(.*).mp4</expres>
 <page>http://www.redecanais.com/player3/server13.php</page>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Ash%20vs%20Evil%20Dead/thumb.jpg</thumbnail>
@@ -42,7 +42,7 @@
 <link>$doregex[BrazucaPlay]ASHVSEVILT03EP04.mp4|Referer=http://www.redecanais.com/</link>
 <regex>
 <name>BrazucaPlay</name>
-<expres>(.*)</expres>
+<expres>file: "(.*).mp4</expres>
 <page>http://www.redecanais.com/player3/server13.php</page>
 </regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Ash%20vs%20Evil%20Dead/thumb.jpg</thumbnail>
