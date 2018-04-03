@@ -370,6 +370,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]O PASSAGEIRO [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-passageiro/</page></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQ-ezHDsAD1Fp2TZCi2P1McftxmH4gaosMFRQreN4M4IcdntsIw</thumbnail>
+<info>Durante o seu trajeto usual de volta para casa, um vendedor de seguros (Liam Neeson) é forçado por uma estranha misteriosa (Vera Farmiga) a descobrir a identidade de um dos passageiros do trem em que se encontra antes da última parada. Com a rotina quebrada, o homem se encontra no meio de uma conspiração criminosa.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]O REI DA POLCA[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OREIDPLC.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://www.cafecomfilme.com.br/media/k2/items/cache/c8cb73fac3a2c7cac22d37e9b285ca4a_XL.jpg</thumbnail>
