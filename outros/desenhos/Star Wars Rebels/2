@@ -108,25 +108,25 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 17[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP17.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server10.php</page></regex>
+<link>$doregex[BrazucaPlay]STRERSRBLST02EP17.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 18[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP18.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server10.php</page></regex>
+<link>$doregex[BrazucaPlay]STRERSRBLST02EP18.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 19[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP19.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server10.php</page></regex>
+<link>$doregex[BrazucaPlay]STRERSRBLST02EP19.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 20[/B][/COLOR]</title>
-<link>http://v4.ec.cx/RedeCanais/RedeCanais/RCServer11/ondemand/STRERSRBLST02EP20.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server10.php</page></regex>
+<link>$doregex[BrazucaPlay]STRERSRBLST02EP20.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Star%20Wars%20Rebels/fanart.jpg</fanart>
 </item>
