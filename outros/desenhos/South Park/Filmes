@@ -6,7 +6,7 @@
 </item>
 <item>
 <title>[COLOR white][B]SOUTH PARK: MAIOR MELHOR E SEM CORTES[/B][/COLOR]</title>
-<link>http://v2.ec.cx/RedeCanais/RedeCanais/RCServer01/videos/STHPRKFILME01.mp4|Referer=http://www.redecanais.com/</link>
+<link>$doregex[BrazucaPlay]STHPRKFILME01.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
