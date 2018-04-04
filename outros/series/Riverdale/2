@@ -6,7 +6,8 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>http://cdn1.ntcdn.us/content/httpdelivery/riverdale/02dub/01-ALTO.mp4</link>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
+<page>http://netcine.us/episode/riverdale-2x01/</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
 </item>
@@ -79,6 +80,30 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
 <link>http://player.aovivohd.site/Riverdale-2TEMP/S02EP13.mp4</link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
+<link>http://player.aovivohd.site/Riverdale-2TEMP/S02EP14.mp4</link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
+<link>http://player.aovivohd.site/Riverdale-2TEMP/Riverdale.S02E15.MP4.DUB.BaixarSeriesMP4.Com.mp4</link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
+<link>http://player.aovivohd.site/Riverdale-2TEMP/S02EP16.mp4</link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 17[/B][/COLOR]</title>
+<link>http://player.aovivohd.site/Riverdale-2TEMP/S02EP17.mp4</link>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Riverdale/fanart.jpg</fanart>
 </item>
