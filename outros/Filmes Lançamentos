@@ -5,6 +5,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]12 HERÓIS [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/12-herois/</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
+<info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]12 ROUNDS 3: CAÇADA MORTAL[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]12RNDS3.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/15/07/07/11/07/287394.jpg</thumbnail>
@@ -457,6 +465,14 @@
 <page>http://netcine.us/the-post-a-guerra-secreta/</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRaYhbFEYGdNOoaD-9S4C7ZWRHImOXZcxCK7LzlKVRCY7TyIo3e</thumbnail>
 <info>Kat Graham (Meryl Streep) é a dona do The Washington Post, um jornal local que está prestes a lançar suas ações na Bolsa de Valores de forma a se capitalizar e, consequentemente, ganhar fôlego financeiro. Ben Bradlee (Tom Hanks) é o editor-chefe do jornal, ávido por alguma grande notícia que possa fazer com que o jornal suba de patamar no sempre acirrado mercado jornalístico. Quando o New York Times inicia uma série de matérias denunciando que vários governos norte-americanos mentiram acerca da atuação do país na Guerra do Vietnã, com base em documentos sigilosos do Pentágono, o presidente Richard Nixon decide processar o jornal com base na Lei de Espionagem, de forma que nada mais seja divulgado. A proibição é concedida por um juiz, o que faz com que os documentos cheguem às mãos de Bradlee e sua equipe, que precisa agora convencer Kat e os demais responsáveis pelo The Post sobre a importância da publicação de forma a defender a liberdade de imprensa.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]THE TITAN [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/the-titan/</page></regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14365734/p14365734_p_v8_aa.jpg</thumbnail>
+<info>Num futuro não muito distante, uma família ligada às forças armadas aceita fazer parte de um programa científico secreto. Eles são realocados para o espaço e vão participar de uma experiência inovadora de evolução genética do ser humano.</info>
 </item>
 
 <item>
