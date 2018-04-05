@@ -436,6 +436,13 @@
 </item>
 
 <item>
+<title>[COLOR white][B]PANTERA NEGRA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>http://player2.aovivohd.site/Filme-Dublado/02-04/panteranegra.mp4</link>
+<thumbnail>https://img.elo7.com.br/product/zoom/1D1DA32/poster-marvel-pantera-negra-lo003-tamanho-90-x-0-cm-quadro-pantera-negra.jpg</thumbnail>
+<info>Após a morte do rei T'Chaka (John Kani), o príncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. T'Challa logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmã Shuri (Letitia Wright), que coordena a área tecnológica do reino, e também de Nakia (Lupita Nyong'o), a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrás.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]PERDA TOTAL[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/perda-total/</page></regex>
