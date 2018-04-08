@@ -466,6 +466,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]SOBRENATURAL: A ÚLTIMA CHAVE [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/sobrenatural-a-ultima-chave/</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRE7uIMyxy-uKt21JqLnWOuxUkoItcDTJwZzXmyGDRd3ibpElTe</thumbnail>
+<info>Elise Rainier (Lin Shaye) é chamada para resolver o caso de uma assombração no Novo México. O que seria apenas mais um caso ganha ares especiais quando Elise descobre que a atividade sobrenatural está acontecendo justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de sua infância, alguns literais. Ao lado de Specs (Leigh Whannell) e Tucker (Angus Sampson), Elise se depara com seu caso mais pessoal.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]THE POST: A GUERRA SECRETA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/the-post-a-guerra-secreta/</page></regex>
