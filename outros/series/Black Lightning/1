@@ -1,71 +1,66 @@
 <item>
 <title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
 <link>here</link>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*dub.*?)" fra</expres>
-<page>http://netcine.us/episode/blacklightning-1x01/</page></regex>
+<link>$doregex[BrazucaPlay]RANGRT01EP01.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/S01E02.mp4</link>
+<link>$doregex[BrazucaPlay]RANGRT01EP02.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/S01E03.mp4</link>
+<link>$doregex[BrazucaPlay]RANGRT01EP03.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/S01E04.mp4</link>
+<link>$doregex[BrazucaPlay]RANGRT01EP04.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/S01E05.mp4</link>
+<link>$doregex[BrazucaPlay]RANGRT01EP05.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/S01EP06.mp4</link>
+<link>$doregex[BrazucaPlay]RANGRT01EP06.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>http://player.aovivohd.site/Raionegro/1TEMP/Raio.Negro.S01E07.MP4.DUB.BaixarSeriesMP4.Com.mp4</link>
-<page>http://netcine.us/episode/blacklightning-1x07/</page></regex>
+<link>$doregex[BrazucaPlay]RANGRT01EP07.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/blacklightning-1x08/</page></regex>
+<link>$doregex[BrazucaPlay]RANGRT01EP08.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/blacklightning-1x09/</page></regex>
+<link>$doregex[BrazucaPlay]RANGRT01EP09.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/blacklightning-1x10/</page></regex>
+<link>$doregex[BrazucaPlay]RANGRT01EP10.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
