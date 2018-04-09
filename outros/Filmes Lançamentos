@@ -158,7 +158,7 @@
 
 <item>
 <title>[COLOR white][B]FALA SÉRIO, MÃE![/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*2018.*?)" fra</expres>
 <page>http://netcine.us/fala-serio-mae/</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQhI1U8EBuAxiNraXRPN8ynhlqF7yKveiMVG4xs-AbtS4LojMAO</thumbnail>
 <info>Ângela Cristina (Ingrid Guimarães), mãe da adolescente Maria de Lourdes (Larissa Manoela), está tendo a experiência de guiar sua filha durante uma das fases mais complicadas da vida. Ela vive uma montanha-russa de emoções, com medos, frustrações e um caminhão de queixas para descarregar. Por outro lado, Malu, como prefere ser chamada, também tem suas insatisfações. Teimosa, sofre com os cuidados excessivos e com o jeito conservador da mãe.</info>
