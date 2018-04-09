@@ -1,1 +1,20 @@
-1
+<item>
+<title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
+<link>here</link>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/station19-1x01/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/station19-1x02/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+</item>
