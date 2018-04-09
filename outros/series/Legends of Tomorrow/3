@@ -100,3 +100,10 @@
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/fanart.jpg</fanart>
 </item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 17 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
+<page>http://netcine.us/episode/lot-3x17/</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Legends%20of%20Tomorrow/fanart.jpg</fanart>
+</item>
