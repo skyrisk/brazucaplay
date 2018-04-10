@@ -113,6 +113,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]CINQUENTA TONS DE LIBERDADE [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/cinquenta-tons-de-liberdade/</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSUmXOWpRgc8V30v62e-V5ISP9EuAdi7Qm9JP1yXBdBh60pdKTE</thumbnail>
+<info>Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]CONFRONTO NO PAVILHÃO 99[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]CNFRTONPVLH99.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>https://static.wixstatic.com/media/40bcd9_24dd0e524eb445549a3318e67e0b54e1~mv2.jpg</thumbnail>
