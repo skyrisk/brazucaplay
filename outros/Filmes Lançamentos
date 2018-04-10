@@ -467,6 +467,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]PROUD MARY [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/proud-mary/</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSrpdf8spe4heS_eXo-fxL79aE1nvFkr0OFqa3-Dfw-803w7cRy</thumbnail>
+<info>Mary é uma assassina profissional que trabalha para Benny, um gangster que lidera uma família do crime organizado em Boston. Ela tem seu estilo de vida transformado quando conhece um jovem garoto de 12 anos, Danny, que desperta nela um instinto materno nunca sentido antes. Ela não tem escolha se não derrubar quem estiver em seu caminho para salvar o menino das ruas.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]SOBRENATURAL: A ÚLTIMA CHAVE[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]SBNTLAULTMCHV.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/serverf4.php</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRE7uIMyxy-uKt21JqLnWOuxUkoItcDTJwZzXmyGDRd3ibpElTe</thumbnail>
