@@ -603,21 +603,6 @@
 </item>
 
 <item>
-<title>[COLOR white][B]A FORMA DA ÁGUA[/B][/COLOR]</title>
-<link>http://player2.aovivohd.site/Filme-Dublado/02-03/aformadaagua.mp4</link>
-<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1516288710.jpg</thumbnail>
-<info>Elisa é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho.</info>
-</item>
-
-<item>
-<title>[COLOR white][B]A FORMA DA ÁGUA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
-<page>http://netcine.us/a-forma-da-agua/</page></regex>
-<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1516288710.jpg</thumbnail>
-<info>Elisa é uma zeladora muda que trabalha em um laboratório onde um homem anfíbio está sendo mantido em cativeiro. Quando Elisa se apaixona com a criatura, ela elabora um plano para ajudá-lo a escapar com a ajuda de seu vizinho.</info>
-</item>
-
-<item>
 <title>[COLOR white][B]ANNABELLE 2: A CRIAÇÃO DO MAL[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/annabelle-2-a-criacao-do-mal/</page></regex>
