@@ -5,6 +5,12 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/fanart.jpg</fanart>
 </item>
 <item>
+<title>[COLOR white][B]EPISÓDIO - 0[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]DCTRWHT06EP00.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server5http2.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/thumb.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/fanart.jpg</fanart>
+</item>
+<item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]DCTRWHT06EP01.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://www.redecanais.com/player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Doctor%20Who/thumb.png</thumbnail>
