@@ -498,6 +498,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]OPERAÇÃO RED SPARROW [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/operacao-red-sparrow/</page></regex>
+<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1518798302.jpg</thumbnail>
+<info>Outrora talentosa bailarina, Dominika Egorova (Jennifer Lawrence) encontra-se em maus bocados quando é convencida a se tornar uma Sparrow, ou seja, uma sedudora treinada na melhor escola de espionagem russa. Após passar pelo árduo processo de aprendizagem, ela se torna a mais talentosa espiã do país e precisa lidar com o agente da CIA Nathaniel Nash (Joel Edgerton). Os dois, no entanto, acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também as de outras pessoas.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]PADDINGTON 2[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/paddington-2/</page></regex>
