@@ -147,6 +147,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]CÍRCULO DE FOGO: A REVOLTA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/circulo-de-fogo-2/</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
+<info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]CINQUENTA TONS DE LIBERDADE [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/cinquenta-tons-de-liberdade/</page></regex>
