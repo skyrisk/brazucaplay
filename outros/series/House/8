@@ -138,7 +138,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - ESPECIAL [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://v1.ec.cx/RedeCanais/RedeCanais/RCServer03/ondemand/HOUSEMDS08ESSS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server4http2.php</page></regex>
+<link>$doregex[BrazucaPlay]HOUSEMDS08ESSS.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server3http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/House/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/House/fanart.jpg</fanart>
 </item>
