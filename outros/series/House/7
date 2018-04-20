@@ -6,7 +6,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 0 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>http://v1.ec.cx/vd/dd/RC/RCServer03/ondemand/HOUSEMDS07EP00.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server1http2.php</page></regex>
+<link>$doregex[BrazucaPlay]HOUSEMDS07EP00.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server3http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/House/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/House/fanart.jpg</fanart>
 </item>
