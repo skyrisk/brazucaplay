@@ -1,10 +1,4 @@
 <item>
-<title>[B][COLOR pink]|||[/COLOR][COLOR white]|||[/COLOR][COLOR pink]|||[/COLOR] [COLOR white]CANAIS VIPS[/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/bbb.png</thumbnail>
-</item>
-
-<item>
 <title>[B][COLOR white]PLAYBOY [COLOR gold]HD[/COLOR][/COLOR][/B]</title>
 <link>http://$doregex[BrazucaPlay]redecanais-playboytv.m3u8$doregex[BrazucaPlayOne]|Referer=http://redecanais.com/</link>
 <regex><name>BrazucaPlay</name><expres>src="http://(.*?).m3u8</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.com/</referer></regex><regex><name>BrazucaPlayOne</name><expres>.m3u8(.*?)"</expres><page>http://redecanais.link/player3/servercanais.php</page><referer>http://redecanais.com/</referer></regex>
