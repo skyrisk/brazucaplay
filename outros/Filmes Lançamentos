@@ -597,6 +597,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]RAMPAGE: DESTRUIÇÃO TOTAL [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
+<link>https://$doregex[BrazucaPlay]proxy/ts/427641-rampage.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>src="//(.*?)video/0"</expres><page>https://unitplay.net/video/</page><referer>https://unitplay.net/</referer></regex>
+<thumbnail>https://jovemnerd.com.br/wp-content/uploads/2017/11/rampage-the-rock-1.jpg</thumbnail>
+<info>Davis Okoye  é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]REI CHARLES III[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]REICHRLSIII.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>https://cinemafacil.com/wp-content/uploads/2018/01/p13922406_p_v8_aa.jpg</thumbnail>
