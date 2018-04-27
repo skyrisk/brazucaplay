@@ -370,6 +370,22 @@
 </item>
 
 <item>
+<title>[COLOR white][B]MAZE RUNNER: A CURA MORTAL[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/maze-runner-a-cura-mortal/</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRHxGKN04u-74F3ARa4OCKXB4Vi5MAOsBMVQlaI4doW_XWm5_Hs</thumbnail>
+<info>No terceiro filme da saga, Thomas (Dylan O' Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]MAZE RUNNER: A CURA MORTAL [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/maze-runner-a-cura-mortal/</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRHxGKN04u-74F3ARa4OCKXB4Vi5MAOsBMVQlaI4doW_XWm5_Hs</thumbnail>
+<info>No terceiro filme da saga, Thomas (Dylan O' Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]ME CHAME PELO SEU NOME[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/me-chame-pelo-seu-nome/</page></regex>
