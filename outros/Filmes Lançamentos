@@ -675,6 +675,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]TRÊS ANÚNCIOS PARA UM CRIME[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/tres-anuncios-para-um-crime/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/TRES-ANUNCIOS.jpg</thumbnail>
+<info>Inconformada com a ineficácia da polícia em encontrar o culpado pelo brutal assassinato de sua filha, Mildred Hayes decide chamar atenção para o caso não solucionado alugando três outdoors em uma estrada raramente usada. A inesperada atitude repercute em toda a cidade e suas consequências afetam várias pessoas, especialmente a própria Mildred e o Delegado Willoughby, responsável pela investigação.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]TRÊS ANÚNCIOS PARA UM CRIME [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/tres-anuncios-para-um-crime/</page></regex>
