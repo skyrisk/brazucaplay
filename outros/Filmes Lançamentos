@@ -21,7 +21,8 @@
 
 <item>
 <title>[COLOR white][B]A FORMA DA ÁGUA[/B][/COLOR]</title>
-<link>http://player2.aovivohd.site/Filme-Dublado/02-03/aformadaagua.mp4</link>
+<link>https://$doregex[BrazucaPlay]proxy/ts/399055-the-shape-of-water.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>src="//(.*?)video/0"</expres><page>https://unitplay.net/video/</page><referer>https://unitplay.net/</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/17/11/28/18/40/3044833.jpg</thumbnail>
 <info>Década de 60. Em meio aos grandes conflitos políticos e transformações sociais dos Estados Unidos da Guerra Fria, a muda Elisa (Sally Hawkins), zeladora em um laboratório experimental secreto do governo, se afeiçoa a uma criatura fantástica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate ela recorre ao melhor amigo Giles (Richard Jenkins) e à colega de turno Zelda (Octavia Spencer).</info>
 </item>
