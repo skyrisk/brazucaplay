@@ -163,6 +163,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]COM AMOR, SIMON [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
+<link>https://$doregex[BrazucaPlay]proxy/ts/449176-simon-vs-the-homo-sapiens-agenda.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>src="//(.*?)video/0"</expres><page>https://unitplay.net/video/</page><referer>https://unitplay.net/</referer></regex>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/02/02/20/46/3823001.jpg</thumbnail>
+<info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]CONFRONTO NO PAVILHÃO 99[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]CNFRTONPVLH99.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>https://static.wixstatic.com/media/40bcd9_24dd0e524eb445549a3318e67e0b54e1~mv2.jpg</thumbnail>
