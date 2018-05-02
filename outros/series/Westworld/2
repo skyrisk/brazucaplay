@@ -1,0 +1,18 @@
+<item>
+<title>[COLOR gold][B]2ª TEMPORADA[/B][/COLOR]</title>
+<link>here</link>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP01.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP02.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
