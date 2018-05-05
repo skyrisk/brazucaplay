@@ -788,6 +788,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]VINGADORES: GUERRA INFINITA[/B][/COLOR]</title>
+<link>https://$doregex[BrazucaPlay]proxy/ts/299536-avengers-infinity-war.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>src="//(.*?)video/0"</expres><page>https://unitplay.net/video/</page><referer>https://unitplay.net/</referer></regex>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcS4neC_Y4U1G6u2QlEFqbCizheGBUnZg1w874qWbIcVlv9tPuSu</thumbnail>
+<info>Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]VIVA: A VIDA É UMA FESTA[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]VIVAAVDEUMFST.mp4|Referer=http://www.redecanais.com/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/viva.jpg</thumbnail>
