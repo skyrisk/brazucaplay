@@ -5496,9 +5496,10 @@ Resultado de “dois anos de noites sem dormir e edição sem sim”, o resultad
 </item>
 
 <item>
-<title>[COLOR white][B][/B][/COLOR]</title>
-<link></link>
-<thumbnail></thumbnail>
-<info></info>
-<date></date>
+<title>[COLOR white][B]TRÓIA[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/troia/</page></regex>
+<thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/90/43/26/20096298.jpg</thumbnail>
+<info>Em 1193 A.C., Paris (Orlando Bloom) é um príncipe que provoca uma guerra da Messência contra Tróia, ao afastar Helena (Diane Kruger) de seu marido, Menelaus (Brendan Gleeson). Tem início então uma sangrenta batalha, que dura por mais de uma década. A esperança do Priam (Peter O'Toole), rei de Tróia, em vencer a guerra está nas mãos de Aquiles (Brad Pitt), o maior herói da Grécia, e seu filho Hector (Eric Bana).</info>
+<date>2004</date>
 </item>
