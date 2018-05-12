@@ -312,6 +312,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]JOGADOR Nº 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/jogador-no-1/</page></regex>
+<thumbnail>https://cdn.ome.lt/filer_public/24/bc/24bccc1b-33be-4300-a34a-7ecf28f721ae/poster-jogador-numero-1.jpg</thumbnail>
+<info>Num futuro distópico, em 2044, Wade Watts (Tye Sheridan), como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. Quando o criador do jogo, o excêntrico James Halliday (Mark Rylance) morre, os jogadores devem descobrir a chave de um quebra-cabeça diabólico para conquistar sua fortuna inestimável. Para vencer, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]JUMANJI: BEM-VINDO À SELVA[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]JMNJBMVNDASLV.mp4|Referer=http://redecanais.link/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/03/JUMANJI.jpg</thumbnail>
