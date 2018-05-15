@@ -28,6 +28,13 @@
 </item>
 
 <item>
+<title>[COLOR white][B]6 BALÕES[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]6BLOS.mp4|Referer=http://redecanais.link/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15280403/p15280403_p_v8_aa.jpg</thumbnail>
+<info>Em pleno dia da independência dos Estados Unidos, Katie (Abbi Jacobson) descobre que seu irmão, Seth (Dave Franco), teve uma recaída com a heroína enquanto a filha dela de dois anos está sob os cuidados dele.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]A FORMA DA ÁGUA[/B][/COLOR]</title>
 <link>https://$doregex[BrazucaPlay]proxy/ts/399055-the-shape-of-water.mp4|Referer=https://unitplay.net/</link>
 <regex><name>BrazucaPlay</name><expres>src="//(.*?)video/0"</expres><page>https://unitplay.net/video/</page><referer>https://unitplay.net/</referer></regex>
