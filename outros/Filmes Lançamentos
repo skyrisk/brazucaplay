@@ -206,6 +206,14 @@
 
 <item>
 <title>[COLOR white][B]CÍRCULO DE FOGO: A REVOLTA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]268896-pacific-rim-uprising.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>(.*).mp4</expres><page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/serverften</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
+<info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]CÍRCULO DE FOGO: A REVOLTA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/circulo-de-fogo-2/</page></regex>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
@@ -606,7 +614,8 @@
 
 <item>
 <title>[COLOR white][B]OPERAÇÃO RED SPARROW [COLOR gold]HDTS[/COLOR][/B][/COLOR]</title>
-<link>http://player2.aovivohd.site/Filme-Dublado/15-03/redsparrow.mp4</link>
+<link>$doregex[BrazucaPlay]401981-red-sparrow.mp4|Referer=https://unitplay.net/</link>
+<regex><name>BrazucaPlay</name><expres>(.*).mp4</expres><page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/serverften</page></regex>
 <thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1518798302.jpg</thumbnail>
 <info>Outrora talentosa bailarina, Dominika Egorova (Jennifer Lawrence) encontra-se em maus bocados quando é convencida a se tornar uma Sparrow, ou seja, uma sedudora treinada na melhor escola de espionagem russa. Após passar pelo árduo processo de aprendizagem, ela se torna a mais talentosa espiã do país e precisa lidar com o agente da CIA Nathaniel Nash (Joel Edgerton). Os dois, no entanto, acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também as de outras pessoas.</info>
 </item>
