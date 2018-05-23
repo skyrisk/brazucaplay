@@ -311,6 +311,22 @@
 </item>
 
 <item>
+<title>[COLOR white][B]FAHRENHEIT 451[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/fahrenheit-451/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/MV5BZmM1ZGJkZDgtNzBlNS00YjkyLTk3NGEtZTIxMGVkMTk2Yjg1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<info>Em um futuro opressivo dominado pela tecnologia, a posse de livros e a literatura são proibidas. Guy Montag (Michael B. Jordan) é um bombeiro, sua principal missão é queimar todos os livros que existem até que não sobre mais nenhum deles. No entanto, ele conhece Clarisse McClellan (Sofia Boutella), uma jovem misteriosa que faz com que ele comece a questionar suas atitudes e todo o sistema vigente.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]FAHRENHEIT 451 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/fahrenheit-451/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/MV5BZmM1ZGJkZDgtNzBlNS00YjkyLTk3NGEtZTIxMGVkMTk2Yjg1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<info>Em um futuro opressivo dominado pela tecnologia, a posse de livros e a literatura são proibidas. Guy Montag (Michael B. Jordan) é um bombeiro, sua principal missão é queimar todos os livros que existem até que não sobre mais nenhum deles. No entanto, ele conhece Clarisse McClellan (Sofia Boutella), uma jovem misteriosa que faz com que ele comece a questionar suas atitudes e todo o sistema vigente.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]FULLMETAL ALCHEMIST[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]FLMTLALCMST.mp4|Referer=http://redecanais.link/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/02/PERFIL.png</thumbnail>
