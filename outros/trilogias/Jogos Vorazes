@@ -26,8 +26,8 @@
 </item>
 
 <item>
-<title>[COLOR white][B]JOGOS VORAZES: A ESPERANÇA - O FINAL[/B][/COLOR]</title><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf2.php</page></regex>
-<link>$doregex[BrazucaPlay]JGSVRZSAESPRPT2.mp4|Referer=http://www.redecanais.link/</link>
+<title>[COLOR white][B]JOGOS VORAZES: A ESPERANÇA - O FINAL[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]JGSVRZSAESPRPT2.mp4|Referer=http://www.redecanais.link/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf2.php</page></regex>
 <thumbnail>http://www.megatorrentshd.com/wp-content/uploads/2015/12/Jogos-Vorazes-A-Esperanca-O-Final.jpg</thumbnail>
 <info>Katniss e seus amigos Peeta, Gale e Finnick embarcam em sua última missão: organizar uma resistência contra o presidente e libertar o povo de Panem. A coragem de Katniss faz renascer a esperança em um país disposto a se livrar da opressão.</info>
 <fanart>http://i.imgur.com/DPHu6Ke.jpg</fanart>
