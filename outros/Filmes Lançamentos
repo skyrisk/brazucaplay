@@ -558,6 +558,22 @@
 </item>
 
 <item>
+<title>[COLOR white][B]O CADERNO DE SARA[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-caderno-de-sara/</page></regex>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/el-cuaderno-de-sara/137783987-1-esl-ES/El-cuaderno-de-Sara_reference.jpg</thumbnail>
+<info>Laura Alonso é uma advogada espanhola que sai de Madri para a República Democrática do Congo, na África Central, após ver uma foto de sua irmã mais nova Sara, que estava presumida morta depois de dois anos desaparecida.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]O CADERNO DE SARA [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-caderno-de-sara/</page></regex>
+<thumbnail>http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/el-cuaderno-de-sara/137783987-1-esl-ES/El-cuaderno-de-Sara_reference.jpg</thumbnail>
+<info>Laura Alonso é uma advogada espanhola que sai de Madri para a República Democrática do Congo, na África Central, após ver uma foto de sua irmã mais nova Sara, que estava presumida morta depois de dois anos desaparecida.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]O DESTINO DE UMA NAÇÃO[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/o-destino-de-uma-nacao/</page></regex>
@@ -577,6 +593,14 @@
 <link>$doregex[BrazucaPlay]OESTNGROLEG.mp4|Referer=http://redecanais.link/</link><regex><name>BrazucaPlay</name><expres>file: "(.*).mp4</expres><page>http://redecanais.link/player3/serverf4.php</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcT-EayKAOSQosIDo2Uw3RDtvQeazV35hvLD5_DgKN2_ljZDEHWU</thumbnail>
 <info>Quando vê a sua filha, a única família que lhe resta, ser morta por uma bomba num atentado terrorista cometido pelo Exército Republicano Irlandês, Quan (Jackie Chan) procura os culpados da sua morte, através de Liam Hennessy (Pierce Brosnan), um antigo membro desse Exército. Hennessy não sabe que Quan foi treinado pelas forças especiais dos EUA e subestima-o gravemente.</info>
+</item>
+
+<item>
+<title>[COLOR white][B]O HOMEM DAS CAVERNAS [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/o-homem-das-cavernas/</page></regex>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcQ_EwtVWy3_lIqZvJXdVhxcozUVhi1epC9GbejkVeHza3Q_1pza</thumbnail>
+<info>No tempo em que dinossauros e mamutes ainda corriam livremente pela Terra, Doug, um corajoso homem das cavernas, une sua tribo contra um inimigo poderoso da Idade do Bronze, que os expulsa do perfeito Vale em que vivem. Buscando vencê-lo para recuperar o lar, ele propõe uma ousada batalha entre quatro linhas: um inédito jogo de futebol!</info>
 </item>
 
 <item>
