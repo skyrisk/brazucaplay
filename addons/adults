@@ -1,41 +1,52 @@
 <item>
 <title>[B][COLOR white]BRAZZERS TV[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-brazzerstv.m3u8|Referer=http://redecanais.link/</link>
-<regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playboytv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PENTHOUSE 1[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-penthouse1.m3u8|Referer=http://redecanais.link/</link>
-<regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
+<link></link>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playboytv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]PLAYBOY[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-playboytv.m3u8|Referer=http://redecanais.link/</link>
+<link>http://paraisotv.ddns.net/059/myStream/playlist.m3u8</link>
 <regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/playboytv.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SEXHOT[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-sexhot.m3u8|Referer=http://redecanais.link/</link>
-<regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
+<link>http://paraisotv.ddns.net/057/myStream/playlist.m3u8</link>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sexyhot.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]SEXTREME[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-sextreme.m3u8|Referer=http://redecanais.link/</link>
+<link>http://paraisotv.ddns.net/011/myStream/playlist.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sextreme.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SEXZONE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://paraisotv.ddns.net/008/myStream/playlist.m3u8</link>
+<regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sextreme.png</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]SEXYPRIVE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
+<link>http://paraisotv.ddns.net/058/myStream/playlist.m3u8</link>
 <regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sextreme.png</thumbnail>
 </item>
 
 <item>
 <title>[B][COLOR white]VENUS[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link>http://$doregex[BrazucaPlay]redecanais-venus.m3u8|Referer=http://redecanais.link/</link>
+<link></link>
 <regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/venus.png</thumbnail>
 </item>
