@@ -1,4 +1,20 @@
 <item>
+<title>[B][COLOR white]UM TIRA E MEIO – A NOVA RECRUTA[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/um-tira-e-meio-a-nova-recruta/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR007061000_AL_.jpg</thumbnail>
+<info>Karina Foley é uma astuta garota de 12 anos que sonha em ser policial. Durante uma tocaia, ela conhece Simmons e mostra ter um inegável talento investigativo e grande facilidade com tecnologia. Apesar de Simmons tentar ignorar Karina, o capitão da polícia decide trabalhar com ela para solucionar o caso. Enquanto tenta deter o “Bandido do Distintivo”, a dupla improvável embarca numa aventura divertida e repleta de ação.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]OS FAROFEIROS[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*2018.*?)" fra</expres>
+<page>http://netcine.us/os-farofeiros/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BMDMxMzJjYTUtMTE1OC00YWI0LWJhYTAtMzdlMTdmY2U3NzIwXkEyXkFqcGdeQXVyNDczMjU4Ng@@._V1_.jpg</thumbnail>
+<info>Ao decidirem alugar uma casa de praia para passar algum tempo, quatro famílias brasileiras consideradas da classe média baixa acabam se metendo em uma cilada.</info>
+</item>
+
+<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
@@ -692,6 +708,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]O POLICIAL DO FUTURO[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/o-policial-do-futuro/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/p12584337_p_v8_aa.jpg</thumbnail>
+<info>Um detetive de homicídios danificado (Johnny Messner ) deve impedir que um pai em luto de desencadear um “vírus robótico ” que ele acredita que irá destruir a célula terrorista que assassinou seu filho, mas a um custo inimaginável.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]O REI DA POLCA[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OREIDPLC.mp4|Referer=http://redecanais.link/</link>
 <regex><name>BrazucaPlay</name><expres>(.*?).rcf4</expres><page>http://bit.ly/rcfhd</page></regex>
@@ -732,18 +756,18 @@
 </item>
 
 <item>
-<title>[COLOR white][B]OPERAÇÃO RED SPARROW [COLOR gold]HD-CAM[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]401981-red-sparrow.mp4|Referer=https://unitplay.net/</link>
-<regex><name>BrazucaPlay</name><expres>(.*).mp4</expres><page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/serverften</page></regex>
-<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1518798302.jpg</thumbnail>
+<title>[B][COLOR white]OPERAÇÃO RED SPARROW[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/operacao-red-sparrow/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png</thumbnail>
 <info>Outrora talentosa bailarina, Dominika Egorova (Jennifer Lawrence) encontra-se em maus bocados quando é convencida a se tornar uma Sparrow, ou seja, uma sedudora treinada na melhor escola de espionagem russa. Após passar pelo árduo processo de aprendizagem, ela se torna a mais talentosa espiã do país e precisa lidar com o agente da CIA Nathaniel Nash (Joel Edgerton). Os dois, no entanto, acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também as de outras pessoas.</info>
 </item>
 
 <item>
-<title>[COLOR white][B]OPERAÇÃO RED SPARROW [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]OPERAÇÃO RED SPARROW - [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/operacao-red-sparrow/</page></regex>
-<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1518798302.jpg</thumbnail>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png</thumbnail>
 <info>Outrora talentosa bailarina, Dominika Egorova (Jennifer Lawrence) encontra-se em maus bocados quando é convencida a se tornar uma Sparrow, ou seja, uma sedudora treinada na melhor escola de espionagem russa. Após passar pelo árduo processo de aprendizagem, ela se torna a mais talentosa espiã do país e precisa lidar com o agente da CIA Nathaniel Nash (Joel Edgerton). Os dois, no entanto, acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também as de outras pessoas.</info>
 </item>
 
@@ -817,6 +841,14 @@
 <page>http://netcine.us/proud-mary/</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcSrpdf8spe4heS_eXo-fxL79aE1nvFkr0OFqa3-Dfw-803w7cRy</thumbnail>
 <info>Mary é uma assassina profissional que trabalha para Benny, um gangster que lidera uma família do crime organizado em Boston. Ela tem seu estilo de vida transformado quando conhece um jovem garoto de 12 anos, Danny, que desperta nela um instinto materno nunca sentido antes. Ela não tem escolha se não derrubar quem estiver em seu caminho para salvar o menino das ruas.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]QUERIDO DITADOR[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/querido-ditador/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/688204.jpg</thumbnail>
+<info>Tatiana é uma adolescente rebelde que, para onde quer que se vire, se sente indesejada e inadequada. Certo dia, o professor de estudos sociais desafia a sua turma a trocar correspondência com alguém com quem se identifiquem. Para espanto de todos, ela elege o general Anton Vincent, um ditador caribenho conhecido pela forma cruel como subjuga o seu povo. Tatiana, contudo, sente que ele é a escolha acertada e continua a trocar mensagens. Quando, inesperadamente, um golpe de Estado o coloca em perigo de vida, o general escreve à sua jovem fã em busca de asilo. Entusiasmada, a rapariga aceita acolhê-lo em sua casa. Entre os dois nasce então uma camaradagem apenas possível entre almas similares. E ela, com o seu espírito revolucionário agudizado pela presença daquele “patriota”, sente que é a altura de se vingar de algumas colegas de turma que há muito se têm divertido a humilhá-la. A ajudá-la nessa tarefa difícil, terá um dos mais bárbaros e inteligentes ditadores de que há memória…Com o veterano Michael Caine e a jovem Odeya Rush nos papéis principais, uma comédia escrita e realizada pelo casal Lisa Addario e Joe Syracuse (também responsáveis por “Lover Girl” e “Noite de Amadores”). Katie Holmes, Seth Green e Jason Biggs juntam-se ao elenco. PÚBLICO</info>
 </item>
 
 <item>
