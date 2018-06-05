@@ -7,14 +7,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]OS FAROFEIROS[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*2018.*?)" fra</expres>
-<page>http://netcine.us/os-farofeiros/</page></regex>
-<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BMDMxMzJjYTUtMTE1OC00YWI0LWJhYTAtMzdlMTdmY2U3NzIwXkEyXkFqcGdeQXVyNDczMjU4Ng@@._V1_.jpg</thumbnail>
-<info>Ao decidirem alugar uma casa de praia para passar algum tempo, quatro famílias brasileiras consideradas da classe média baixa acabam se metendo em uma cilada.</info>
-</item>
-
-<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
@@ -721,6 +713,14 @@
 <regex><name>BrazucaPlay</name><expres>(.*?).rcf4</expres><page>http://bit.ly/rcfhd</page></regex>
 <thumbnail>http://www.cafecomfilme.com.br/media/k2/items/cache/c8cb73fac3a2c7cac22d37e9b285ca4a_XL.jpg</thumbnail>
 <info>Jan Lewan (Jack Black) é um cantor e dançarino de polca que faz um relativo sucesso na Pensilvânia, especialmente junto ao público mais velho. Vindo da Polônia, ele sempre exalta os Estados Unidos como a terra das oportunidades. Apesar da fama local, Jan precisa se desdobrar entre a loja que vende objetos temáticos de seu país-natal e trabalhos temporários, de forma a sustentar a família. Até que, um dia, passa a oferecer aos seus fãs a oportunidade de investir nele mesmo, iniciando um sistema de pirâmide que o coloca na mira da Polícia Federal.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]OS FAROFEIROS[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*2018.*?)" fra</expres>
+<page>http://netcine.us/os-farofeiros/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BMDMxMzJjYTUtMTE1OC00YWI0LWJhYTAtMzdlMTdmY2U3NzIwXkEyXkFqcGdeQXVyNDczMjU4Ng@@._V1_.jpg</thumbnail>
+<info>Ao decidirem alugar uma casa de praia para passar algum tempo, quatro famílias brasileiras consideradas da classe média baixa acabam se metendo em uma cilada.</info>
 </item>
 
 <item>
