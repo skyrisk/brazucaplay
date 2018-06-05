@@ -749,7 +749,7 @@
 
 <item>
 <title>[B][COLOR white]OPERAÇÃO RED SPARROW[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*2018.*?)" fra</expres>
 <page>http://netcine.us/operacao-red-sparrow/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/04/operacao-red-sparrow-jennifer-lawrence-poster.png</thumbnail>
 <info>Outrora talentosa bailarina, Dominika Egorova (Jennifer Lawrence) encontra-se em maus bocados quando é convencida a se tornar uma Sparrow, ou seja, uma sedudora treinada na melhor escola de espionagem russa. Após passar pelo árduo processo de aprendizagem, ela se torna a mais talentosa espiã do país e precisa lidar com o agente da CIA Nathaniel Nash (Joel Edgerton). Os dois, no entanto, acabam desenvolvendo uma paixão proibida que ameaça não só suas vidas, mas também as de outras pessoas.</info>
