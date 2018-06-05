@@ -1,12 +1,4 @@
 <item>
-<title>[B][COLOR white]UM TIRA E MEIO – A NOVA RECRUTA[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/um-tira-e-meio-a-nova-recruta/</page></regex>
-<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR007061000_AL_.jpg</thumbnail>
-<info>Karina Foley é uma astuta garota de 12 anos que sonha em ser policial. Durante uma tocaia, ela conhece Simmons e mostra ter um inegável talento investigativo e grande facilidade com tecnologia. Apesar de Simmons tentar ignorar Karina, o capitão da polícia decide trabalhar com ela para solucionar o caso. Enquanto tenta deter o “Bandido do Distintivo”, a dupla improvável embarca numa aventura divertida e repleta de ação.</info>
-</item>
-
-<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]LANÇAMENTOS 2018[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>http://i.imgur.com/S2fRyk7.png</thumbnail>
@@ -1025,6 +1017,14 @@
 <page>http://netcine.us/um-lugar-silencioso/</page></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQMn5hBbbv-3bWqoK_p3LHUyHB9CazyriKarXooSD8K8KyCqoyi</thumbnail>
 <info>Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
+</item>
+
+<item>
+<title>[B][COLOR white]UM TIRA E MEIO – A NOVA RECRUTA[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/um-tira-e-meio-a-nova-recruta/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BYzlkZTY5MmItMzgzMS00ZmU1LTg5MmEtNGE1MjExMzFkYmM4XkEyXkFqcGdeQXVyMTQ2ODk1NQ@@._V1_SY1000_CR007061000_AL_.jpg</thumbnail>
+<info>Karina Foley é uma astuta garota de 12 anos que sonha em ser policial. Durante uma tocaia, ela conhece Simmons e mostra ter um inegável talento investigativo e grande facilidade com tecnologia. Apesar de Simmons tentar ignorar Karina, o capitão da polícia decide trabalhar com ela para solucionar o caso. Enquanto tenta deter o “Bandido do Distintivo”, a dupla improvável embarca numa aventura divertida e repleta de ação.</info>
 </item>
 
 <item>
