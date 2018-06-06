@@ -276,6 +276,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]COM AMOR, SIMON - [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/com-amor-simon/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/3823001.jpg</thumbnail>
+<info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]CONFRONTO NO PAVILHÃO 99[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]CNFRTONPVLH99.mp4|Referer=http://redecanais.link/</link>
 <regex><name>BrazucaPlay</name><expres>(.*?).rcf4</expres><page>http://bit.ly/rcfhd</page></regex>
