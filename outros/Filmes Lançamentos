@@ -268,9 +268,9 @@
 </item>
 
 <item>
-<title>[COLOR white][B]COM AMOR, SIMON [COLOR gold]HD-CAM[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]449176-simon-vs-the-homo-sapiens-agenda.mp4|Referer=https://unitplay.net/</link>
-<regex><name>BrazucaPlay</name><expres>(.*).mp4</expres><page>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/serverften</page></regex>
+<title>[COLOR white][B]COM AMOR, SIMON[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]COMAMRSMN.mp4|Referer=http://redecanais.link/</link>
+<regex><name>BrazucaPlay</name><expres>(.*?).rcf4</expres><page>http://bit.ly/rcfhd</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/02/20/46/3823001.jpg</thumbnail>
 <info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
 </item>
