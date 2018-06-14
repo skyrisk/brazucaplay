@@ -9,6 +9,7 @@
 <link>$doregex[BrazucaPlay]429351-horse-soldiers.mp4|Referer=https://unitplay.net/</link>
 <regex><name>BrazucaPlay</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
+<fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
 <info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
 </item>
 
@@ -17,6 +18,7 @@
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/12-herois/</page></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
+<fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
 <info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
 </item>
 
@@ -34,6 +36,7 @@
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/12/22/21/36/2868686.jpg</thumbnail>
 <info>Quando um terrorista invade o trem n° 9364 da Thalys a caminho de Paris, três amigos norte-americanos - Anthony Sadler, Alex Skarlatos e o piloto da Força Aérea Spencer Stone - se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.</info>
+<fanart>https://ambrosia.com.br/wp-content/uploads/2018/03/gkkBhctHPGg8hrmtWbO3ySZoj4z.jpg</fanart>
 </item>
 
 <item>
@@ -41,6 +44,7 @@
 <link>$doregex[BrazucaPlay]6BLOS.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15280403/p15280403_p_v8_aa.jpg</thumbnail>
+<fanart>https://occ-0-428-185.1.nflxso.net/art/a4b37/967885962bf6bf4671fee6c6142aa55d5cfa4b37.jpg</fanart>
 <info>Em pleno dia da independência dos Estados Unidos, Katie (Abbi Jacobson) descobre que seu irmão, Seth (Dave Franco), teve uma recaída com a heroína enquanto a filha dela de dois anos está sob os cuidados dele.</info>
 </item>
 
@@ -49,6 +53,7 @@
 <link>$doregex[BrazucaPlay]ABARCDBJ.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/18/05/04/15/03/2133793.jpg</thumbnail>
+<fanart>https://occ-0-428-185.1.nflxso.net/art/13a35/e5c5c011a9f055871b680276e984da0edbc13a35.jpg</fanart>
 <info>Ellie (Joey King) se encontra em um romance proibido depois do seu primeiro beijo com o menino mais bonito da escola. Esse segredo coloca sua relação com seu melhor amigo em risco.</info>
 </item>
 
@@ -57,6 +62,7 @@
 <link>$doregex[BrazucaPlay]ACMNHDFE.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15310378/p15310378_p_v8_aa.jpg</thumbnail>
+<fanart>https://occ-0-428-185.1.nflxso.net/art/95c5a/d1636474bbeaa94f8b8f76b4680375e169195c5a.jpg</fanart>
 <info>O Bispo Carlton Pearson (Chiwetel Ejiofor) é um renomado pastor conhecido internacionalmente, que está passando por uma crise na fé. Arriscando sua igreja, a família e seu futuro, ele questiona a doutrina da igreja e acaba sendo marcado como um herege.</info>
 </item>
 
@@ -65,6 +71,7 @@
 <link>$doregex[BrazucaPlay]AESCLAMZDEEMSGNDLGR.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14054822_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/ibianpvL865w7rBPAg3sPlEXUyh.jpg</fanart>
 <info>Duas grandes amigas de infância (Lea Michele e Kate Upton) decidem fazer uma viagem juntas. Mas quando estão paradas na escala, uma ameaça de furacão faz com que fiquem presas no aeroporto. Enquanto esperam pelo próximo voo, elas conhecem um homem, e as duas se apaixonam por ele.</info>
 </item>
 
@@ -73,6 +80,7 @@
 <link>$doregex[BrazucaPlay]AESCLHPRFTA3.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://cinetelonahd.ga/wp-content/uploads/2018/04/a-escolha-perfeita-3-877-poster.jpg</thumbnail>
+<fanart>http://www.cinemundo.net.br/wp-content/uploads/2017/06/A-Escolha-Perfeita-3-ganha-v%C3%ADdeo-com-imagens-dos-bastidores.jpg</fanart>
 <info>Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Snow) e as demais Bella Bardens estão infelizes devido a trabalhos mal remunerados e pouco motivadores. Diante desta situação, elas decidem se unir mais uma vez como grupo a capela para participar do USO Tour, uma turnê que as levará para apresentações na Europa. Lá, elas precisam duelar com grupos musicais que tocam instrumentos, algo que jamais haviam feito até então.</info>
 </item>
 
