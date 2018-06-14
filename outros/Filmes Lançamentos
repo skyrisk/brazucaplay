@@ -117,6 +117,14 @@
 </item>
 
 <item>
+<title>[COLOR white][B]A MÚSICA DO SILÊNCIO[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]AMSCADSLCN.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
+<thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/la-musica-del-silenzio-2017.jpg</thumbnail>
+<info>"A Música do Silêncio" será contada a partir da visão de Bocelli na forma de um romance autobiográfico, nomeando seu alter ego Amos Bardi. Ele escreve de uma família amorosa que incentivou seus dons musicais desde cedo, da cegueira que começou com o glaucoma e se completou após um acidente de futebol, e sua meteórica ascensão ao estrelato.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]A NOITE DO JOGO [COLOR gol]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-noite-do-jogo/</page></regex>
