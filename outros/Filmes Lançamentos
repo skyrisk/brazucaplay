@@ -134,6 +134,7 @@
 <link>$doregex[BrazucaPlay]AMSCADSLCN.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/12/la-musica-del-silenzio-2017.jpg</thumbnail>
+<fanart></fanart>
 <info>"A Música do Silêncio" será contada a partir da visão de Bocelli na forma de um romance autobiográfico, nomeando seu alter ego Amos Bardi. Ele escreve de uma família amorosa que incentivou seus dons musicais desde cedo, da cegueira que começou com o glaucoma e se completou após um acidente de futebol, e sua meteórica ascensão ao estrelato.</info>
 </item>
 
@@ -142,6 +143,7 @@
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-noite-do-jogo/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/a-noite-do-jogo.jpg</thumbnail>
+<fanart>https://wallpapersite.com/images/pages/pic_w/12123.jpg</fanart>
 <info>Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais que organizam noites de jogos. O irmão de Max, Brooks (Kyle Chandler), chega decidido a organizar uma festa de assassinato e mistério e acaba sequestrado, levando todos a acreditarem que o sumiço faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam então resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.</info>
 </item>
 
@@ -150,6 +152,7 @@
 <link>$doregex[BrazucaPlay]AONDPRFTA.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p10766529_v_v8_ac.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>https://i.imgur.com/aCGIJd9.jpg</fanart>
 <info>O jovem surfista Ian McCormack (Scott Eastwood) viaja com o seu melhor amigo pela Austrália, Sudeste Asiático e África. Eles estão em busca de um sentido para a vida e atrás da onda perfeita. Até que uma experiência de quase morte de McCormack muda sua vida para sempre.</info>
 </item>
 
@@ -158,6 +161,7 @@
 <link>$doregex[BrazucaPlay]AULTMCAC.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/261768_pt.jpg</thumbnail>
+<fanart>http://3.bp.blogspot.com/-TRY2EPSOmCE/U2ZsSUF1pKI/AAAAAAAALBg/sgpRMkuGVwg/s1600/screen-shot-2014-05-02-at-6-57-11-pm.png</fanart>
 <info>Jonathan (Garrett Hedlund) se afastou de sua família há muitos anos. No entanto, ele descobre que o pai, sofrendo com um câncer depois de muito tempo, decidiu retirar os equipamentos que o mantêm vivo no hospital. Jonathan tem 48 horas para se reconciliar com o pai, reencontrar o amor de sua vida e fazer as pazes com a irmã. Para essa tarefa difícil, ele conta com a ajuda da enfermeira do hospital e de uma jovem paciente que também está à beira da morte.</info>
 </item>
 
