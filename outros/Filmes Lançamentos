@@ -140,7 +140,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B]A NOITE DO JOGO [COLOR gol]LEG[/COLOR][/B][/COLOR]</title>
+<title>[COLOR white][B]A NOITE DO JOGO [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
 <page>http://netcine.us/a-noite-do-jogo/</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/a-noite-do-jogo.jpg</thumbnail>
