@@ -915,6 +915,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]RAMPAGE – DESTRUIÇÃO TOTAL - [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/rampage-destruicao-total/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/5994305.jpg</thumbnail>
+<info>Davis Okoye é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]REI CHARLES III[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]REICHRLSIII.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
