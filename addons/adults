@@ -39,7 +39,7 @@
 
 <item>
 <title>[B][COLOR white]SEXYPRIVE[/COLOR] [COLOR gold]HD[/COLOR][/B]</title>
-<link></link>
+<link>http://duocdn.ddns.net/061/myStream/playlist.m3u8</link>
 <regex><name>BrazucaPlay</name><expres>file: "http://(.*?).m3u8",</expres><page>http://redecanais.link/player3/servercanais-jw.php</page><referer>http://redecanais.link/</referer></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/sextreme.png</thumbnail>
 </item>
