@@ -5,7 +5,6 @@
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Os%20Simpsons/thumb.jpg</thumbnail>
 </item>
 <item>
-<item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OSMPST03EP01.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
