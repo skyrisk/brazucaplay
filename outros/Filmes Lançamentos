@@ -947,6 +947,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]ROTA DE FUGA 2 - [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/rota-de-fuga-2/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/MV5BMTk4NjA0MjUyMF5BMl5BanBnXkFtZTgwMTEzNDQ1NTM@._V1_SY1000_CR006661000_AL_.jpg</thumbnail>
+<info>O especialista Ray Breslin (Sylvester Stallone) é responsável por testar a integridade das penitenciárias de segurança máxima dos Estados Unidos. Ele precisa conhecer a planta, entender a rotina dentro da prisão e contar com uma ajuda interna ou externa para a fuga. Mas agora, Ray tem de entrar na penitenciária conhecida como Zoológico, para ajudar um membro se sua equipe a escapar de lá</info>
+</item>
+
+<item>
 <title>[COLOR white][B]ROXANNE ROXANNE[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]RXNERXNE.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
