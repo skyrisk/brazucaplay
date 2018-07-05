@@ -907,11 +907,11 @@
 </item>
 
 <item>
-<title>[COLOR white][B]RAMPAGE: DESTRUIÇÃO TOTAL [COLOR gold]HD-CAM[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]427641-rampage.mp4|Referer=https://unitplay.net/</link>
-<regex><name>BrazucaPlay</name><expres>(.*?).unity</expres><page>http://bit.ly/rcfhd</page></regex>
-<thumbnail>https://jovemnerd.com.br/wp-content/uploads/2017/11/rampage-the-rock-1.jpg</thumbnail>
-<info>Davis Okoye  é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
+<title>[B][COLOR white]RAMPAGE – DESTRUIÇÃO TOTAL[/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
+<page>http://netcine.us/rampage-destruicao-total/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/06/5994305.jpg</thumbnail>
+<info>Davis Okoye é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
 </item>
 
 <item>
