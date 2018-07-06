@@ -5,7 +5,6 @@
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Desventuras%20em%20Serie/thumb.jpg</thumbnail>
 </item>
 <item>
-<item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]DSVNTRESRT01EP01.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
