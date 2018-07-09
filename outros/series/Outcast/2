@@ -7,21 +7,21 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OUTCT02EP01.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OUTCT02EP02.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]OUTCT02EP03.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres>file: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server11.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Outcast/fanart.jpg</fanart>
 </item>
