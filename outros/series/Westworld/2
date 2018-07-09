@@ -47,8 +47,29 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]WSTWRLDS02EP07.mp4|Referer=https://redecanais.ink/</link>
+<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP07.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP08.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP09.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]WSTWRLDT02EP10.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Westworld/fanart.jpg</fanart>
