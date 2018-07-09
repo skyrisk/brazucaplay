@@ -145,8 +145,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 21 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SPRGIRLS03EP21.mp4|Referer=https://redecanais.ink/</link>
+<title>[COLOR white][B]EPISÓDIO - 21[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]SPRGIRLT03EP21.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
@@ -154,6 +154,13 @@
 <item>
 <title>[COLOR white][B]EPISÓDIO - 22 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]SPRGIRLS03EP22.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 23 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]SPRGIRLS03EP23.mp4|Referer=https://redecanais.ink/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
