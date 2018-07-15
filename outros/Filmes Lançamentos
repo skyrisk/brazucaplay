@@ -1140,6 +1140,14 @@
 </item>
 
 <item>
+<title>[B][COLOR white]VERDADE OU DESAFIO - [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*LEG.*?)" fra</expres>
+<page>http://netcine.us/verdade-ou-desafio/</page></regex>
+<thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/07/3572871.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<info>Olivia e seu grupo de amigos de férias no México são convencidos a brincar de “Verdade ou Desafio”, em um prédio em ruínas, pelo misterioso Carter. Ao passar a maldição para os recém-conhecidos, Carter alerta o grupo sobre os riscos e regras do jogo, mas não é levado a sério até que essa presença demoníaca começa a assombrar os participantes — encurralados em uma trama de chantagens e perigos que parece conduzi-los a uma única saída: a morte</info>
+</item>
+
+<item>
 <title>[COLOR white][B]VERÓNICA[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
 <page>http://netcine.us/veronica/</page></regex>
