@@ -149,8 +149,8 @@
 
 <item>
 <title>[B][COLOR white]A NOITE DO JOGO[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/a-noite-do-jogo/</page></regex>
+<link>$doregex[BrazucaPlay]ANTDJGO.mp4|Referer=https://redecanais.ink/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/05/a-noite-do-jogo.jpg</thumbnail>
 <fanart>https://wallpapersite.com/images/pages/pic_w/12123.jpg</fanart>
 <info>Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais que organizam noites de jogos. O irmão de Max, Brooks (Kyle Chandler), chega decidido a organizar uma festa de assassinato e mistério e acaba sequestrado, levando todos a acreditarem que o sumiço faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam então resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.</info>
