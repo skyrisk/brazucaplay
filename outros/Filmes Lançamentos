@@ -58,6 +58,15 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ABELHA MAIA: O FILME[/B][/COLOR]</title>
+<link>$doregex[BrazucaPlay]AABLHMAYA.mp4|Referer=https://cometa.top/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/serverf4.php</page></regex>
+<thumbnail>http://imagens.publico.pt/imagens.aspx/509303?tp=KM</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg</fanart>
+<info>Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis e, como consequência, é forçada a participar dos Jogos de Mel para conseguir salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, enfrentando situações inéditas e desafiadoras.</info>
+</item>
+
+<item>
 <title>[COLOR white][B]A BARRACA DO BEIJO[/B][/COLOR]</title>
 <link>$doregex[BrazucaPlay]ABARCDBJ.mp4|Referer=https://cometa.top/</link>
 <regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/serverf4.php</page></regex>
