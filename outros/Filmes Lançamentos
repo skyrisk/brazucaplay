@@ -42,8 +42,8 @@
 
 <item>
 <title>[B][COLOR white]211: O GRANDE ASSALTO[/COLOR][/B]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*DUB.*?)" fra</expres>
-<page>http://netcine.us/211-o-grande-assalto/</page></regex>
+<link>$doregex[BrazucaPlay]211OGRNDASLTO.mp4|Referer=https://cometa.top/</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/serverf4.php</page></regex>
 <thumbnail>http://cdnstk.ntcdn.us/wp-content/uploads/2018/07/1010103.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
 <info>O policial Mike Chandler (Nicolas Cage) e um jovem passageiro civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo de um banco. Inspirado em fatos reais.</info>
 </item>
