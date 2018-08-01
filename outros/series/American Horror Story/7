@@ -6,78 +6,89 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP01.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP02.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP02.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP03.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP03.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP04.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP04.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP05.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP05.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP06.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP06.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP07.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP07.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP08.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP08.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP09.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP09.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP10.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP10.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 11 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCHORS07EP11.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server13.php</page></regex>
+<link>$doregex[BP1]AMRCHORS07EP11.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb7.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart7.png</fanart>
 </item>
