@@ -6,148 +6,169 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 33[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP033.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP033.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 34[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP034.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP034.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 35[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP035.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP035.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 36[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP036.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP036.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 37[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP037.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP037.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 38[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP038.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP038.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 39[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP039.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP039.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 40[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP040.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP040.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 41[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP041.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP041.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 42[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP042.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP042.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 43[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP043.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP043.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 44[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP044.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP044.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 45[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP045.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP045.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 46[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP046.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP046.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 47[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP047.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP047.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 48[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP048.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP048.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 49[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP049.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP049.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 50[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP050.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP050.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 51[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP051.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP051.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 52[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP052.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP052.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 53[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]NRTOSHPDUBEP053.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]NRTOSHPDUBEP053.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
