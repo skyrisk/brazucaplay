@@ -4,7 +4,6 @@
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Avatar/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Avatar/fanart.jpg</fanart></item>
 <item>
-<item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BP1]AVTALDAT03EP01.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
