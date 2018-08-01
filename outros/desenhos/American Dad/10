@@ -6,22 +6,22 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCDDT10EP01.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://redecanais.ink/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]AMRCDDT10EP01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCDDT10EP02.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://redecanais.ink/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]AMRCDDT10EP02.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]AMRCDDT10EP03.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://redecanais.ink/player3/server9http2.php</page></regex>
+<link>$doregex[BP1]AMRCDDT10EP03.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>https://cometa.top/player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
