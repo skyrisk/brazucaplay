@@ -6,57 +6,65 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 18[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP18.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP18.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 19[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP19.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP19.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 20[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP20.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP20.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 21[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP21.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP21.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 22[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP22.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP22.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 23[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP23.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP23.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 24[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP24.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP24.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 25[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]SCBDCDVCEP25.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server8http2.php</page></regex>
+<link>$doregex[BP1]SCBDCDVCEP25.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/1.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
