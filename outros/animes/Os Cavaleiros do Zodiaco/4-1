@@ -6,99 +6,113 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - EXTRA[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP000.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP000.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 115[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP115.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP115.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 116[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP116.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP116.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 117[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP117.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP117.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 118[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP118.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP118.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 119[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP119.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP119.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 120[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP120.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP120.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 121[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP121.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP121.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 122[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP122.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP122.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 123[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP123.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP123.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 124[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP124.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP124.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 125[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP125.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP125.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 126[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP126.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP126.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 127[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]OCDZEP127.mp4|Referer=https://redecanais.ink/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]OCDZEP127.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server1http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
 </item>
