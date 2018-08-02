@@ -6,43 +6,49 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP01.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP02.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP02.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP03.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP03.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP04.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP04.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP05.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP05.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]ARQVXT10EP06.mp4|Referer=https://cometa.top/</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*?).mp4</expres><page>https://cometa.top/player3/server10.php</page></regex>
+<link>$doregex[BP1]ARQVXT10EP06.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
