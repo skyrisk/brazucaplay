@@ -11,7 +11,6 @@
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Os%20Simpsons/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Os%20Simpsons/fanart.jpg</fanart></item>
 <item>
-<item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
 <link>$doregex[BP1]OSMPST06EP02.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
