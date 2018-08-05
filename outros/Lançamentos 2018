@@ -89,11 +89,11 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<title>[COLOR white][B]A ESCALA: AMIZADE EM SEGUNDO LUGAR[/B][/COLOR]</title>
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/serverf4.php</page></regex>
-<info></info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Duas grandes amigas de infância (Lea Michele e Kate Upton) decidem fazer uma viagem juntas. Mas quando estão paradas na escala, uma ameaça de furacão faz com que fiquem presas no aeroporto. Enquanto esperam pelo próximo voo, elas conhecem um homem, e as duas se apaixonam por ele.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14054822_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>http://image.tmdb.org/t/p/original/ibianpvL865w7rBPAg3sPlEXUyh.jpg</fanart>
 </item>
