@@ -19,10 +19,31 @@
 </item>
 
 <item>
+<title>[COLOR white][B]15H17: TREM PARA PARIS[/B][/COLOR]</title>
+<link>$doregex[BP1]15H17TRMPRPRS.mp4|Referer=$doregex[BP2]"</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info>Quando um terrorista invade o trem n° 9364 da Thalys a caminho de Paris, três amigos norte-americanos - Anthony Sadler, Alex Skarlatos e o piloto da Força Aérea Spencer Stone - se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/17/12/22/21/36/2868686.jpg</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2018/01/trem-para-paris-001-C%C3%B3pia.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]211: O GRANDE ASSALTO[/B][/COLOR]</title>
+<link>$doregex[BP1]211OGRNDASLTO.mp4|Referer=$doregex[BP2]"</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info>O policial Mike Chandler (Nicolas Cage) e um jovem passageiro civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo de um banco. Inspirado em fatos reais.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/04/24/09/04/1010103.jpg</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]HERE[/B][/COLOR]</title>
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
@@ -32,6 +53,7 @@
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
@@ -41,6 +63,7 @@
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
@@ -50,6 +73,7 @@
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
@@ -59,6 +83,7 @@
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
@@ -68,15 +93,7 @@
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<info></info>
 <thumbnail>HERE</thumbnail>
 <fanart>HERE</fanart>
 </item>
