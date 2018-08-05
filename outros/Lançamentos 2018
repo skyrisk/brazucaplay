@@ -39,13 +39,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
+<title>[COLOR white][B]6 BALÕES[/B][/COLOR]</title>
+<link>$doregex[BP1]6BLOS.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
-<info></info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Em pleno dia da independência dos Estados Unidos, Katie (Abbi Jacobson) descobre que seu irmão, Seth (Dave Franco), teve uma recaída com a heroína enquanto a filha dela de dois anos está sob os cuidados dele.</info>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15280403/p15280403_p_v8_aa.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/pictures/18/03/15/15/35/2602466.jpg</fanart>
 </item>
 
 <item>
