@@ -49,23 +49,23 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
+<title>[COLOR white][B]7 DIAS EM ENTEBBE[/B][/COLOR]</title>
+<link>$doregex[BP1]7DIASEMENTBE.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
-<info></info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Em julho de 1976, um voo da Air France de Tel-Aviv à Paris foi sequestrado e forçado a pousar em Entebbe, na Uganda. Os passageiros judeus foram mantidos reféns para ser negociada a liberação dos terroristas e anarquistas palestinos presos em Israel, na Alemanha e na Suécia. Sob pressão, o governo israelita decidiu organizar uma operação de resgate atacar o campo de pouso e soltar os reféns.</info>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTDVIr4eLzsEyEpZ74ghn_cBGXcIzYyXyOmWOwvdEbWNy0ryfwk</thumbnail>
+<fanart>https://abrilveja.files.wordpress.com/2018/04/blogib_entebbe_feat.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]"</link>
+<title>[COLOR white][B]A ABELHINHA MAYA - O FILME[/B][/COLOR]</title>
+<link>$doregex[BP1]AABLHMAYA.mp4|Referer=$doregex[BP2]"</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
-<info></info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis e, como consequência, é forçada a participar dos Jogos de Mel para conseguir salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, enfrentando situações inéditas e desafiadoras.</info>
+<thumbnail>http://imagens.publico.pt/imagens.aspx/509303?tp=KM</thumbnail>
+<fanart>https://i.ytimg.com/vi/TWtRg6ZJ0vc/maxresdefault.jpg</fanart>
 </item>
 
 <item>
