@@ -1,0 +1,8 @@
+<item>
+<title>[COLOR white][B]12 HERÓIS[/B][/COLOR]</title>
+<link>$doregex[BP1]12HERS.mp4|Referer=$doregex[BP2]"</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>"$doregex[BP2]player3/server4http2.php</page></regex>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
+<fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
+</item>
