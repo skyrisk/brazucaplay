@@ -179,6 +179,106 @@
 </item>
 
 <item>
+<title>[COLOR white][B]A MÚSICA DO SILÊNCIO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMSCADSLCN.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>"A Música do Silêncio" será contada a partir da visão de Bocelli na forma de um romance autobiográfico, nomeando seu alter ego Amos Bardi. Ele escreve de uma família amorosa que incentivou seus dons musicais desde cedo, da cegueira que começou com o glaucoma e se completou após um acidente de futebol, e sua meteórica ascensão ao estrelato.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14605731_v_v8_as.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>https://www.cinecompipoca.com.br/wp-content/uploads/2018/05/musica-do-silencio-imagem.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOITE DO JOGO[/B][/COLOR]</title>
+<link>$doregex[BP1]ANTDJGO.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais que organizam noites de jogos. O irmão de Max, Brooks (Kyle Chandler), chega decidido a organizar uma festa de assassinato e mistério e acaba sequestrado, levando todos a acreditarem que o sumiço faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam então resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQctLHNW7qzSPR5reaJXrCYu7J6Jg8ISvocmKXE2uQDzGUGakhm</thumbnail>
+<fanart>http://www.divisaoalfa.com.br/wp-content/uploads/2018/05/A-Noite-do-Jogo-Poster-Alt_BR-1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOITE DOS MORTOS[/B][/COLOR]</title>
+<link>$doregex[BP1]ANOTDMRTS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>É Halloween em 1997, e também a última noite na escola para dois adolescentes skatistas, que vão deixar para trás a fase escolar e adentrar na famosa fase adulta. Mas, para um deles, Corey, alguns assuntos do passado ainda precisam ser resolvidos envolvendo um velho conhecido da infância. Para isso, os dois vão embarcar em uma viagem apavorante através de suas memórias, sonhos e medos.</info>
+<thumbnail>https://i0.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/Boys-in-the-Trees.jpg</thumbnail>
+<fanart>https://i.imgur.com/WwDZjaQ.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A ONDA PERFEITA[/B][/COLOR]</title>
+<link>$doregex[BP1]AONDPRFTA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>O jovem surfista Ian McCormack (Scott Eastwood) viaja com o seu melhor amigo pela Austrália, Sudeste Asiático e África. Eles estão em busca de um sentido para a vida e atrás da onda perfeita. Até que uma experiência de quase morte de McCormack muda sua vida para sempre.</info>
+<thumbnail>https://media.fstatic.com/N2GLl00OU1geUVjAclSuSDXblOs=/fit-in/290x478/smart/media/movies/covers/2017/12/download_2.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/A4YGIgpT3Kt1rdqgkx3hZzkLJ7h.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A PRAYER BEFORE DAWN[/B][/COLOR]</title>
+<link>$doregex[BP1]ARYRBFRDWNLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Encarcerado em uma das prisões mais bárbaras e mortais do planeta, a Klong Prem, na Tailândia, Billy Moore (Joe Cole) está buscando meios para se manter vivo e passar por todos aqueles pesadelos. Sendo assim, para sobreviver, decide adentrar no mundo do Muay Thai, sem nem imaginar que iniciar esta arte marcial viria a transformar sua vida para sempre.</info>
+<thumbnail>https://filmspot.com.pt/images/filmes/posters/big/448776_pt.jpg</thumbnail>
+<fanart>https://cineaddiction.com/wp-content/uploads/2018/07/Untitled-1-1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]HERE[/B][/COLOR]</title>
 <link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
