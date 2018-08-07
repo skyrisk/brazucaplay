@@ -229,23 +229,23 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]A PRINCESA ENCANTADA: UM MISTÉRIO REAL[/B][/COLOR]</title>
+<link>$doregex[BP1]PRNCSENCTDA.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
-<info>HERE</info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>A marca da letra Z misteriosamente aparece nos residentes do palácio, a Princesa Odette, Scully e seus amigos trabalham juntos na investigação.</info>
+<thumbnail>https://media.fstatic.com/UPd2ZZGoUS4vACnU6P5dcEiMvPA=/fit-in/290x478/smart/media/movies/covers/2018/07/unnamed_vBXVTrO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE01.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]A REPARTIÇÃO DO TEMPO[/B][/COLOR]</title>
+<link>$doregex[BP1]ARPRTCDTEMP.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
-<info>HERE</info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Brasília, início da década de 1980. O REPI (Registro de Patentes e Invenções) acaba de ser capa de uma importante revista nacional, que o coloca como exemplo da burocracia existente no governo. Lisboa (Eucir de Souza), o chefe, não gosta nem um pouco da reportagem e decide cobrar atitude de seus funcionários, que fazem de tudo menos trabalhar. Paralelamente, o Dr. Brasil (Tonico Pereira) deseja patentear uma máquina do tempo e a deixa no REPI. Ao colocar o aparelho no estoque, Jonas (Edu Moraes) acidentalmente o aciona e, consequentemente, volta no tempo.</info>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQMk0NfsAcmfzxVu7rH3fQNq4DXfLPrEZC3LnZaYX8eZhsbd4_l</thumbnail>
+<fanart>https://portalrefil.com.br/img/3ea5a4f5307b51446e65187295a9059c.jpg</fanart>
 </item>
 
 <item>
