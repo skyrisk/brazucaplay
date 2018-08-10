@@ -357,3 +357,103 @@
 <thumbnail>https://www.megafilme.co/wp-content/uploads/2018/03/alvo-triplo-6471-poster.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//8s0ntFj7dNbalDqoc4A9qKw29Lc.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]AMADOR[/B][/COLOR]</title>
+<link>$doregex[BP1]AMDR.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um jovem jogador de basquete luta para se encaixar em seu novo time. A sinopse oficial ainda não foi divulgada.</info>
+<thumbnail>https://i1.wp.com/becoliterario.com/wp-content/uploads/2018/04/Amateur-movie-poster.jpg</thumbnail>
+<fanart>https://static.wixstatic.com/media/894d3e_45eff92cc09a4568875a7c3220f39984~mv2.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AMIGOS DA CLÍNICA[/B][/COLOR]</title>
+<link>$doregex[BP1]AMGSDCLNC.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quatro homens tentam reinventar suas vidas e se reintegrar na sociedade depois de anos de abuso de substâncias químicas. O documentário é um olhar íntimo na força, coragem e irmandade que é precido para superar o vício e manter a sobriedade.</info>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bsn7UdnvHzA9YU88EB4jGpLtVk.jpg</thumbnail>
+<fanart>https://www.dailydot.com/wp-content/uploads/2018/06/recovery_boys_review.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ANIQUILAÇÃO[/B][/COLOR]</title>
+<link>$doregex[BP1]ANQLCAO.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Uma bióloga (Natalie Portman) se junta a uma expedição secreta com outras três mulheres em uma região conhecida como Área X, um local isolado da civilização onde as leis da natureza não se aplicam. Lá, ela precisa lidar com uma misteriosa contaminação, um animal mortal e ainda procura por pistas de colegas que desaparecem, incluindo seu marido (Oscar Isaac).</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/02/22/15/25/2917796.jpg</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2018/02/aniquila%C3%A7%C3%A3o-002-C%C3%B3pia.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ANON[/B][/COLOR]</title>
+<link>$doregex[BP1]ANON.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Em um mundo futuro onde não há crime por causa de um sistema de vigilância extrema, um detetive (Clive Owen) acaba encontrando uma mulher (Amanda Seyfried) que descobriu uma falha no regime de não-privacidade e que ameaça toda a construção da sociedade.</info>
+<thumbnail>https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Anon-movie-poster.jpg</thumbnail>
+<fanart>https://luizandreoli.com.br/wp-content/uploads/2018/05/pg29t.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AOS TEUS OLHOS[/B][/COLOR]</title>
+<link>$doregex[BP1]AOSTUSOLHS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Rubens (Daniel de Oliveira) é um professor de natação carismático e extrovertido, que dá aulas para pré-adolescentes em um clube. Querido por todos devido ao seu jeito brincalhão e parceiro, ele se vê em apuros quando um de seus alunos, Alex (Luís Felipe Melo), diz à mãe que o professor lhe deu um beijo na boca no vestiário. Alegando inocência, Rubens é acusado pelos pais da criança e passa a ter que lidar com um verdadeiro linchamento virtual, que tem início através de mensagens de WhatsApp e explode de vez quando chega ao Facebook.</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQiuaIRb3f616p3QzYnB8EgbYqiIriIpcLO3E9NLReyahH4_zRB</thumbnail>
+<fanart>https://correio-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_11042018RM2150_2a682f9491.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
