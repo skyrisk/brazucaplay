@@ -789,13 +789,13 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
-<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]DEBAIXO DO MESMO TETO[/B][/COLOR]</title>
+<link>$doregex[BP1]DBXDMSMTTO.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
-<info>HERE</info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Delphine (Louise Bourgoin) e Yvan (Gilles Lellouche) acabaram de se divorciar mas seu ex-marido não consegue encontrar um apartamento para morar. À medida que sua situação financeira não permite que ele se mude, Yvan lembra que é dono de 20% da casa de sua ex-esposa. Então, ele volta a viver com Delphine por causa dos seus 20%, e assim, ambos vão descobrir as alegrias de morarem juntos novamente.</info>
+<thumbnail>http://br.web.img2.acsta.net/pictures/17/01/13/09/10/401138.jpg</thumbnail>
+<fanart>http://oisa.tmsimg.com/assets/p14664296_i_h11_aa.jpg</fanart>
 </item>
 
 <item>
