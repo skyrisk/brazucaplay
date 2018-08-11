@@ -597,3 +597,173 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTczZWEyOTktODNmMC00NDgzLTk3NTktYjllN2Y4MWMxOGViXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
 <fanart>https://bloody-disgusting.com/wp-content/uploads/2018/03/cargo-netflix.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]CARNIVORE: O LOBISOMEM DE LONDRES[/B][/COLOR]</title>
+<link>$doregex[BP1]CRNVRE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Com a intenção de reacender seu relacionamento, Dave leva Abi para uma noita romântica em uma cabana afastada da cidade. Lá, os planos não correm como o esperado e os dois acabam brigando, enquanto uma criatura assustadora rodeia a casa. Agora, o casal terá que esquecer as diferenças e se unir, se quiser sobreviver.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/05/28/22/54/2395904.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/yCuiF5bZXxs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CARTEIRISTA[/B][/COLOR]</title>
+<link>$doregex[BP1]CRTRSTS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Adolescentes aspirantes a ladrões aprendem com um mestre na arte da trapaça o que é preciso para ter sucesso como batedor de carteiras nas ruas de Bogotá.</info>
+<thumbnail>https://i1.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/pickpockets-668911129-large.jpg</thumbnail>
+<fanart>https://occ-0-901-999.1.nflxso.net/art/f1c03/de9defa2853f735efae6c9202149f14f0daf1c03.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CINQUENTA TONS DE LIBERDADE[/B][/COLOR]</title>
+<link>$doregex[BP1]CQNTTNSDLRBDS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSUmXOWpRgc8V30v62e-V5ISP9EuAdi7Qm9JP1yXBdBh60pdKTE</thumbnail>
+<fanart>http://assets.papelpop.com/wp-content/uploads/2018/02/20180129-PAGEONE-50shades.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CINQUENTA TONS DE LIBERDADE | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]CQNTTNSDLRBDSLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSUmXOWpRgc8V30v62e-V5ISP9EuAdi7Qm9JP1yXBdBh60pdKTE</thumbnail>
+<fanart>http://assets.papelpop.com/wp-content/uploads/2018/02/20180129-PAGEONE-50shades.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CÍRCULO DE FOGO: A REVOLTA[/B][/COLOR]</title>
+<link>$doregex[BP1]CRLODEFGOARVLTA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
+<fanart>http://www.cinemaqui.com.br/wp-content/uploads/2018/03/c%C3%ADrculo-de-fogo-destaque.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CÍRCULO DE FOGO: A REVOLTA | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]CRLODEFGOARVLTALEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
+<fanart>http://www.cinemaqui.com.br/wp-content/uploads/2018/03/c%C3%ADrculo-de-fogo-destaque.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CLUBE DOS INFIÉIS HONESTOS[/B][/COLOR]</title>
+<link>$doregex[BP1]CLBSDSINFSHNSTLEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Cansados dos casamentos mornos, quatro amigos de infância decidem criar um clube para pular a cerca. O objetivo: reacender a paixão pelas esposas.</info>
+<thumbnail>https://pics.filmaffinity.com/el_club_de_los_buenos_infieles-428072760-large.jpg</thumbnail>
+<fanart>https://occ-0-901-448.1.nflxso.net/art/4340d/1de45b5fab5e065d83d52eeb197f9cd892d4340d.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]COM AMOR, SIMON[/B][/COLOR]</title>
+<link>$doregex[BP1]COMAMRSMN.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/02/02/20/46/3823001.jpg</thumbnail>
+<fanart>https://i2.wp.com/www.cinemundo.net.br/wp-content/uploads/2018/03/Cr%C3%ADtica-Com-Amor-Simon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CONFRONTO NO PAVILHÃO 99[/B][/COLOR]</title>
+<link>$doregex[BP1]CNFRTONPVLH99.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um ex-boxeador (Vince Vaughn) que se tornou um contrabandista de drogas acaba sendo preso por causa de um acordo que deu errado. Dentro da cadeia, ele encontra vários de seus inimigos, homens que o obrigam a cometer atos violentos e brutais.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14454336_v_v8_ax.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>http://www.nerdrabugento.com.br/wp-content/uploads/2018/01/BrawlinCellBlock99_10-copy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CONFRONTO NO PAVILHÃO 99 | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]CNFRNTNPVLHA99LEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um ex-boxeador (Vince Vaughn) que se tornou um contrabandista de drogas acaba sendo preso por causa de um acordo que deu errado. Dentro da cadeia, ele encontra vários de seus inimigos, homens que o obrigam a cometer atos violentos e brutais.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14454336_v_v8_ax.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
+<fanart>http://www.nerdrabugento.com.br/wp-content/uploads/2018/01/BrawlinCellBlock99_10-copy.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CORDEIROS E CARRASCOS[/B][/COLOR]</title>
+<link>$doregex[BP1]CRDRSECRSCS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Um exausto advogado, John Weber, resolve trabalhar em um caso de assassinato múltiplo aparentemente sem esperança. Mas, ao montar a defesa para um guarda de prisão traumatizado com as execuções em que participou, ele descobre falhas escandalosas no sistema de punição na África do Sul.</info>
+<thumbnail>https://2.bp.blogspot.com/-VaI9w9RzdpA/WnW0IaSzjRI/AAAAAAAAgFk/UGbgDdysMFMcY4ImRLHC8BfOQEfHJSMMwCLcBGAs/s1600/Shepherds%2Band%2BButchers%2B-%2BChris%2BMarnewick.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/knD3C7L990W9QtT1053r0tdY9JC.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CORRENDO ATRÁS DE UM PAI[/B][/COLOR]</title>
+<link>$doregex[BP1]CRNDATRSDUMPAI.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quando descobrem que a mãe (Glenn Close) sempre mentiu para eles a respeito de seu pai biológico, os irmãos gêmeos Kyle (Owen Wilson) e Peter (Ed Helms), que não têm nada em comum, decidem cruzar os Estados Unidos em busca do genitor que tanto sonharam conhecer.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcS0GEXlT4_pRrJzMJdyXpEE1KubSax68NAe2S7XRaIZTIgeY7uO</thumbnail>
+<fanart>http://supercinemaup.com/wp-content/uploads/2018/01/Correndo-Atras-de-um-Pai-03-1280x640.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]COVIL DE LADRÕES[/B][/COLOR]</title>
+<link>$doregex[BP1]CVLDLDRS.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Em Los Angeles, capital dos roubos a banco, um banho de sangue coloca em interseção a vida de dois grupos: a radical unidade de elite do departamento de polícia local, liderada pelo desmedido Nick (Gerard Butler), e a equipe de assaltantes de banco mais arrojada em atividade. Enquanto os criminosos planejam um ataque ambicioso até então tido como impossível, os homens da lei apertam o cerco pelo elo aparentemente mais fraco da gangue.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/a3HAaPWkqQGfVz3Sn9ynE3t2t93.jpg</thumbnail>
+<fanart>http://duastorres.com.br/wp-content/uploads/2018/04/Gerard-Butler-Cri%CC%81tica-Covil-de-Ladro%CC%83es.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CRIMINOSOS DE NOVEMBRO[/B][/COLOR]</title>
+<link>$doregex[BP1]CRMNOSDNOV.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Addison tem 18 anos de idade e está terminando o Ensino Médio. Enquanto pensa se deve entrar na universidade, ele leva uma vida cheia de conflitos, vendendo drogas aos colegas e brigando com os professores. Quando Kevin, um colega de turma, é assassinado, Addison decide fazer a sua própria investigação.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMzQwMzQ0MjYzMV5BMl5BanBnXkFtZTgwOTIwMTEwNDI@._V1_.jpg</thumbnail>
+<fanart>http://oisa.tmsimg.com/assets/p14007022_i_h11_aa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CRÔNICAS DA TRIBO FANTASMA[/B][/COLOR]</title>
+<link>$doregex[BP1]CRNCSDTRBFNTSMA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Em 1979, o jovem Hu Bayi está trabalhando nas montanhas cobertas de neve da China quando uma explosão revela fósseis bizarros escondidos nas cavernas das montanhas, além de um templo que serve de portal entre a Terra e uma dimensão habitada por seres fantásticos. Como é o único sobrevivente, cabe a Hu descobrir o que aconteceu naquele fatídico dia.</info>
+<thumbnail>https://www.cidadedamidia.com.br/wp-content/uploads/2018/05/Downloads32-1300x1616.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/17kL5dX0VxgtISpgl4VDLxWMyOa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DAPHNE E VELMA[/B][/COLOR]</title>
+<link>$doregex[BP1]DPNEVLMA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Daphne (Sarah Jeffery) é brilhante e otimista e Velma (Sarah Gilman), espertinha e analítica. As duas estudantes do ensino médio se juntam numa investigação quando passam a suspeitar que seus colegas estão sendo transformados em zumbis controlados.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg</thumbnail>
+<fanart>http://assets.papelpop.com/wp-content/uploads/2018/03/scoobydoo.png</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
