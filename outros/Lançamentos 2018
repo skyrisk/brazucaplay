@@ -759,6 +759,46 @@
 </item>
 
 <item>
+<title>[COLOR white][B]DARC[/B][/COLOR]</title>
+<link>$doregex[BP1]DARC.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Para acabar com o tráfico humano, um agente da Interpol recorre à ajuda de um violento criminoso que conhece os meandros da Yakuza.</info>
+<thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15468589/p15468589_p_v8_aa.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/vlkT7DISwopEjaeOZc9lLB7Y3la.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DE ENCONTRO COM A VIDA[/B][/COLOR]</title>
+<link>$doregex[BP1]DENCTROCMAVDA.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quando está prestes a terminar a faculdade, Saliya (Kostja Ullmann) começa a sofrer os efeitos de uma grave doença genética e perde 95% da visão. O rapaz sempre teve o sonho de trabalhar em um grande hotel de luxo, mas todas as candidaturas de emprego são recusadas em função de sua deficiência. Ele decide então esconder o fato de ser praticamente cego, e se candidata a um dos maiores hotéis de Munique. Contando com a ajuda do amigo Max (Jacob Matschenz), ele enfrenta as dificuldades diárias, enquanto conhece a bela Laura (Anna Maria Mühe) e se apaixona. Mas até quando conseguirá manter o segredo?</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS5gRoGQd460yoVyXPZLe_TuQUhAu4_nRTXi13lzvX3mLIjWoRz</thumbnail>
+<fanart>https://poltronanerd.com.br/wp-content/uploads/2018/04/BlindDate_024.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DEADPOOL 2 | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]DEADP2LEG.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQk4VujIOVqKQGdAk-MUHoGKTSyRHg8lzTnZsCpTuxOTle7BWP7</thumbnail>
+<fanart>http://hdqwalls.com/wallpapers/deadpool-2-poster-2018-movie-xt.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
+<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/serverf4.php</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]HERE[/B][/COLOR]</title>
 <link>$doregex[BP1]HERE.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
