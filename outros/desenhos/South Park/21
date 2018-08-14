@@ -5,7 +5,7 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BP1]STHPRKT21EP01.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
@@ -13,7 +13,7 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
 <link>$doregex[BP1]STHPRKT21EP02.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
@@ -21,7 +21,7 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
 <link>$doregex[BP1]STHPRKT21EP03.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
@@ -29,7 +29,7 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
+<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
 <link>$doregex[BP1]STHPRKT21EP04.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
@@ -37,48 +37,48 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 5 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP05.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP05.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 6 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP06.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP06.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP07.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP07.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP08.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP08.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 9 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP09.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP09.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 10 [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]STHPRKS21EP10.mp4|Referer=$doregex[BP2]</link>
+<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
+<link>$doregex[BP1]STHPRKT21EP10.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server13.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
