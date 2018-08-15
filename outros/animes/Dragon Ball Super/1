@@ -8,7 +8,8 @@
 <title>[COLOR white][B]EPISÓDIO - 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP001.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -16,7 +17,8 @@
 <title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP002.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -24,7 +26,8 @@
 <title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP003.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -32,7 +35,8 @@
 <title>[COLOR white][B]EPISÓDIO - 4 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP004.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -40,7 +44,8 @@
 <title>[COLOR white][B]EPISÓDIO - 5 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP005.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -48,7 +53,8 @@
 <title>[COLOR white][B]EPISÓDIO - 6 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP006.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -56,7 +62,8 @@
 <title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP007.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -64,7 +71,8 @@
 <title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP008.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -72,7 +80,8 @@
 <title>[COLOR white][B]EPISÓDIO - 9 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP009.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -80,7 +89,8 @@
 <title>[COLOR white][B]EPISÓDIO - 10 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP010.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -88,7 +98,8 @@
 <title>[COLOR white][B]EPISÓDIO - 11 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP011.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -96,7 +107,8 @@
 <title>[COLOR white][B]EPISÓDIO - 12 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP012.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -104,7 +116,8 @@
 <title>[COLOR white][B]EPISÓDIO - 13 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP013.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
@@ -112,7 +125,8 @@
 <title>[COLOR white][B]EPISÓDIO - 14 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]DBSPRLEGEP014.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Dragon%20Ball%20Super/fanart.jpg</fanart>
 </item>
