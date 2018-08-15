@@ -6,7 +6,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP01.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP01.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -14,7 +14,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP02.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP02.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -22,7 +22,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP03.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP03.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -30,7 +30,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP04.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP04.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -38,7 +38,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP05.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP05.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -46,7 +46,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP06.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP06.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -54,7 +54,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP07.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP07.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -62,7 +62,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP08.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP08.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -70,7 +70,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP09.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP09.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -78,7 +78,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP10.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP10.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -86,7 +86,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP11.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP11.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -94,7 +94,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP12.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP12.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -102,7 +102,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP13.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP13.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -110,7 +110,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP14.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP14.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -118,7 +118,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP15.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP15.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
@@ -126,23 +126,7 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP16.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/fanart.jpg</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 17[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP17.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/fanart.jpg</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 18[/B][/COLOR]</title>
-<link>$doregex[BP1]UFMLDPSDT05EP18.mp4|Referer=$doregex[BP2]</link>
+<link>$doregex[BP1]UFMLDPSDT07EP16.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server5http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Family%20Guy/thumb.png</thumbnail>
