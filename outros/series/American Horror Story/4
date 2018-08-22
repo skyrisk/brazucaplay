@@ -8,7 +8,8 @@
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP01.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -16,7 +17,8 @@
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP02.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -24,7 +26,8 @@
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP03.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -32,7 +35,8 @@
 <title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP04.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -40,7 +44,8 @@
 <title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP05.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -48,7 +53,8 @@
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP06.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -56,7 +62,8 @@
 <title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP07.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -64,7 +71,8 @@
 <title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP08.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -72,7 +80,8 @@
 <title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP09.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -80,7 +89,8 @@
 <title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP10.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -88,7 +98,8 @@
 <title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP11.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -96,7 +107,8 @@
 <title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP12.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
@@ -104,7 +116,8 @@
 <title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
 <link>$doregex[BP1]AMRCHORT04EP13.mp4|Referer=$doregex[BP2]</link>
 <regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres> link: "(.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/thumb4.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/American%20Horror%20Story/fanart4.jpg</fanart>
 </item>
