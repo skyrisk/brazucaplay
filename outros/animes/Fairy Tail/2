@@ -6,109 +6,121 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 266 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP266.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP266.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 267 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP267.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP267.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 268 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP268.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP268.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 269 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP269.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP269.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 270 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP270.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP270.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 271 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP271.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP271.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 272 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP272.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP272.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 273 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP273.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP273.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 274 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP274.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP274.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 275 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP275.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP275.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 276 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP276.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP276.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 277 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]FATLEP277.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server10.php</page></regex>
+<link>$doregex[BP1]FATLEP277.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/thumb2.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Fairy%20Tail/fanart2.jpg</fanart>
 </item>
