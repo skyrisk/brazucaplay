@@ -6,8 +6,12 @@
 </item>
 <item>
 <title>[COLOR white][B]SOUTH PARK: MAIOR MELHOR E SEM CORTES[/B][/COLOR]</title>
-<link>$doregex[BP1]STHPRKFILME01.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BrazucaPlay</name><expres> link: "(.*).mp4</expres><page>http://redecanais.ink/player3/server1http2.php</page></regex>
+<link>$doregex[BP1]STHPRKFILME01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/South%20Park/fanart.jpg</fanart>
+<info>Após irem ao Canadá ver um filme proibido para menores estrelado por Terrance & Phillip, os quatro garotos são declarados "corrompidos". A mãe de um deles, então, coloca a culpa no Canadá, e uma guerra violenta começa.</info>
 </item>
