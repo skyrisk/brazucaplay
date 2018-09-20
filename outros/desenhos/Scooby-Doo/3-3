@@ -6,145 +6,161 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 25[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP25.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP25.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 26[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP26.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP26.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 27[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP27.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP27.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 28[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP28.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP28.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 29[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP29.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP29.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 30[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP30.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP30.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 31[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP31.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP31.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 32[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP32.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP32.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 33[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP33.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP33.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 34[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP34.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP34.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 35[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP35.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP35.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 36[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP36.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP36.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 37[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP37.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP37.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 38[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP38.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP38.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 39[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP39.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP39.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 40[/B][/COLOR]</title>
-<link>$doregex[BP1]OSHWDSCBDEP40.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server8http2.php</page></regex>
+<link>$doregex[BP1]OSHWDSCBDEP40.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/3.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/desenhos/Scooby-Doo/fanart.jpg</fanart>
 </item>
