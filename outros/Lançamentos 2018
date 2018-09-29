@@ -4,7 +4,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Após os atentados de 11 de setembro de 2001, o capitão Mitch Nelson (Chris Hemsworth) decide abandonar o posto de escritório recém-conquistado para retomar à ação. Ao lado de seu batalhão das Forças Especiais dos Estados Unidos, ele assume a responsabilidade se formar a primeira equipe a operar no Afeganistão após os ataques ao World Trade Center. Baseado em fatos reais.</info>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcTMHHfVqP4f0DnfNMe0XijrqtJumLiQH9zyhSh7fe-UOi0Lk5KK</thumbnail>
 <fanart>https://2.bp.blogspot.com/-zVRWROHEeYA/WqrVMvbpNxI/AAAAAAAAPsA/yFTJ5gjMDlIEUd15klbMYfmX338NwYkbwCLcBGAs/s1600/12-Strong-Wallpaper-1440x890.jpg</fanart>
@@ -16,7 +16,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Depois de ser judicialmente inocentado de uma acusação ilegítima, um policial descobre que seus próprios colegas são responsáveis pela organização de uma série de esquemas de corrupção no interior de seu ambiente de trabalho. Indignado, ele decide coletar evidências para entregá-los para as autoridades mas sua corrida por justiça não será nada simples.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/15/07/07/11/07/287394.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/804/804408.jpg</fanart>
@@ -28,7 +28,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando um terrorista invade o trem n° 9364 da Thalys a caminho de Paris, três amigos norte-americanos - Anthony Sadler, Alex Skarlatos e o piloto da Força Aérea Spencer Stone - se esforçam para imobilizar o extremista, armado com um fuzil AK-47, e evitar uma enorme tragédia.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/17/12/22/21/36/2868686.jpg</thumbnail>
 <fanart>https://nerdbreak.com.br/wp-content/uploads/2018/01/trem-para-paris-001-C%C3%B3pia.png</fanart>
@@ -40,7 +40,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>O policial Mike Chandler (Nicolas Cage) e um jovem passageiro civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo de um banco. Inspirado em fatos reais.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/04/24/09/04/1010103.jpg</thumbnail>
 <fanart>https://files.filmes0800.com/2018/07/backdrop-211-o-grande-assalto.jpg</fanart>
@@ -52,7 +52,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em pleno dia da independência dos Estados Unidos, Katie (Abbi Jacobson) descobre que seu irmão, Seth (Dave Franco), teve uma recaída com a heroína enquanto a filha dela de dois anos está sob os cuidados dele.</info>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15280403/p15280403_p_v8_aa.jpg</thumbnail>
 <fanart>http://br.web.img3.acsta.net/r_1280_720/pictures/18/03/15/15/35/2602466.jpg</fanart>
@@ -64,7 +64,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em julho de 1976, um voo da Air France de Tel-Aviv à Paris foi sequestrado e forçado a pousar em Entebbe, na Uganda. Os passageiros judeus foram mantidos reféns para ser negociada a liberação dos terroristas e anarquistas palestinos presos em Israel, na Alemanha e na Suécia. Sob pressão, o governo israelita decidiu organizar uma operação de resgate atacar o campo de pouso e soltar os reféns.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTDVIr4eLzsEyEpZ74ghn_cBGXcIzYyXyOmWOwvdEbWNy0ryfwk</thumbnail>
 <fanart>https://abrilveja.files.wordpress.com/2018/04/blogib_entebbe_feat.jpg</fanart>
@@ -76,7 +76,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis e, como consequência, é forçada a participar dos Jogos de Mel para conseguir salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, enfrentando situações inéditas e desafiadoras.</info>
 <thumbnail>http://imagens.publico.pt/imagens.aspx/509303?tp=KM</thumbnail>
 <fanart>https://i.ytimg.com/vi/TWtRg6ZJ0vc/maxresdefault.jpg</fanart>
@@ -88,7 +88,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Melhores amigos desde sempre, Elle (Joey King) e Lee (Joel Courtney) têm a inventiva ideia de gerenciar uma barraca do beijo durante um evento da escola. Para fazer da proposta um sucesso, a garota tenta convencer o galã Noah (Jacob Elordi), seu crush e irmão mais velho de Lee, a participar da brincadeira. Ele mostra-se irredutível, mas os dois acabam se aproximando como nunca, o que estremece a amizade de Elle e Lee.</info>
 <thumbnail>http://br.web.img2.acsta.net/pictures/18/05/04/15/03/2133793.jpg</thumbnail>
 <fanart>https://abrilcapricho.files.wordpress.com/2018/05/teste-barraca-do-beijo.jpg</fanart>
@@ -100,7 +100,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>O Bispo Carlton Pearson (Chiwetel Ejiofor) é um renomado pastor conhecido internacionalmente, que está passando por uma crise na fé. Arriscando sua igreja, a família e seu futuro, ele questiona a doutrina da igreja e acaba sendo marcado como um herege.</info>
 <thumbnail>https://s20352.pcdn.co/wp-content/uploads/2018/04/p15310378_p_v8_aa.jpg</thumbnail>
 <fanart>https://occ-0-2446-2794.1.nflxso.net/art/38545/07204f31ee4370c8ab032168e60ec2b011e38545.jpg</fanart>
@@ -112,7 +112,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Duas grandes amigas de infância (Lea Michele e Kate Upton) decidem fazer uma viagem juntas. Mas quando estão paradas na escala, uma ameaça de furacão faz com que fiquem presas no aeroporto. Enquanto esperam pelo próximo voo, elas conhecem um homem, e as duas se apaixonam por ele.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14054822_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original/ibianpvL865w7rBPAg3sPlEXUyh.jpg</fanart>
@@ -124,7 +124,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Agora formadas, Beca (Anna Kendrick), Fat Amy (Rebel Wilson), Chloe (Brittany Snow) e as demais Bella Bardens estão infelizes devido a trabalhos mal remunerados e pouco motivadores. Diante desta situação, elas decidem se unir mais uma vez como grupo a capela para participar do USO Tour, uma turnê que as levará para apresentações na Europa. Lá, elas precisam duelar com grupos musicais que tocam instrumentos, algo que jamais haviam feito até então.</info>
 <thumbnail>http://www.mmfilmes.tv/wp-content/uploads/2018/04/nZgq5ioz7mC39IALmsua6nrPNek.jpg</thumbnail>
 <fanart>https://i0.wp.com/nosbastidores.com.br/wp-content/uploads/2018/05/A-escolha-perfeita-3-Foto-de-Destaque.jpg</fanart>
@@ -136,7 +136,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Década de 60. Em meio aos grandes conflitos políticos e transformações sociais dos Estados Unidos da Guerra Fria, a muda Elisa (Sally Hawkins), zeladora em um laboratório experimental secreto do governo, se afeiçoa a uma criatura fantástica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate ela recorre ao melhor amigo Giles (Richard Jenkins) e à colega de turno Zelda (Octavia Spencer).</info>
 <thumbnail>https://3.bp.blogspot.com/--YYSX_yJBbQ/WepbnweMJxI/AAAAAAAANGA/Rq5tiCl3VmECeEj6iqr-fDAbcEoSSvMIACLcBGAs/s1600/a%2Bforma%2Bda%2Bagua.jpg</thumbnail>
 <fanart>http://www.cinemundo.net.br/wp-content/uploads/2018/02/A-Forma-da-%C3%81gua.jpg</fanart>
@@ -148,7 +148,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Década de 60. Em meio aos grandes conflitos políticos e transformações sociais dos Estados Unidos da Guerra Fria, a muda Elisa (Sally Hawkins), zeladora em um laboratório experimental secreto do governo, se afeiçoa a uma criatura fantástica mantida presa e maltratada no local. Para executar um arriscado e apaixonado resgate ela recorre ao melhor amigo Giles (Richard Jenkins) e à colega de turno Zelda (Octavia Spencer).</info>
 <thumbnail>https://3.bp.blogspot.com/--YYSX_yJBbQ/WepbnweMJxI/AAAAAAAANGA/Rq5tiCl3VmECeEj6iqr-fDAbcEoSSvMIACLcBGAs/s1600/a%2Bforma%2Bda%2Bagua.jpg</thumbnail>
 <fanart>http://www.cinemundo.net.br/wp-content/uploads/2018/02/A-Forma-da-%C3%81gua.jpg</fanart>
@@ -160,7 +160,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Após conhecer Nikki (Laura Ashley Samuels), uma aspirante à atriz, Drew (Scott Eastwood) se inscreve na renomada Star Academy. Agora ele precisa sobreviver suas aulas de atuação com um professor excêntrico e colegas malucos para conseguir conquistara mulher dos seus sonhos.</info>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/18/07/12/19/22/1208075.png</thumbnail>
 <fanart>https://i.ytimg.com/vi/zd6JZTQSfEQ/maxresdefault.jpg</fanart>
@@ -172,7 +172,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Após perder a chance de participar dos Jogos Olímpicos devido a uma fatalidade que resultou em um grave acidente, a esquiadora Molly Bloom (Jessica Chastain) decide tirar um ano de folga dos estudos e ir trabalhar como garçonete em Los Angeles. Lá conhece Dean Keith (Jeremy Strong), um produtor de cinema que decide contratá-la como assistente. Logo Molly passa a coordenar jogos de cartas clandestinos, organizados por Dean, que conta com clientes muito ricos e famosos. Fascinada com o ambiente e a possibilidade de enriquecer facilmente, Molly começa a prestar atenção a todos os detalhes para que ela própria possa organizar jogos do tipo.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQe_PWv5HxgQ-S8UiG7bmyfcYZd2dMzY4OEuemTJ0j6gT331Ujb</thumbnail>
 <fanart>https://cabanadoleitor.com.br/wp-content/uploads/2018/02/28070427_1726015460791835_1363821567712792725_o.jpg</fanart>
@@ -184,7 +184,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Herdeira de uma empresa de armas de fogo, Sarah Winchester (Helen Mirren) está convicta de que é assombrada pelas almas mortas através do rifle da família Winchester. Após as repentinas mortes do marido e do filho, ela decide construir uma mansão para afastar os espíritos e ao avaliá-la o psiquiatra Eric Price (Jason Clarke) percebe que talvez sua obsessão não seja tão insana quanto parece.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSjNniAEhiUvbBiUK5PZbdMw-mDbxlRzQVdS6nd0qX3jAzjvilM</thumbnail>
 <fanart>https://falange.net/wp-content/uploads/2018/02/A-Maldi%C3%A7%C3%A3o-da-Casa-Winchester-Helen-Mirren.jpg</fanart>
@@ -196,7 +196,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Anos depois de terem levado Meadows (Steve Carell) para a prisão, os marinheiros Buddusky (Bryan Cranston) e Mulhall (Laurence Fishburne recebem uma ligação do velho amigo pedindo que ambos o ajudem a trazer para casa o corpo do filho que foi morto na Guerra do Iraque.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcTUi-R_ZqWjfD99esIAWNLWMydtjgCGiM89t-WaDk78-14psj5E</thumbnail>
 <fanart>http://www.newscariri.com.br/wp-content/uploads/2018/03/rasou.jpg</fanart>
@@ -208,7 +208,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um serial killer aposentado, que sofre de Alzheimer, planeja o maior caso de assassinato de sua vida a fim de proteger sua filha, enquanto tenta lidar com suas memórias que desvanecem devido à doença.</info>
 <thumbnail>https://i.jeded.com/i/memoir-of-a-murderer-2017.94117.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-gf--1fJf34Y/WohBFNFSHpI/AAAAAAAABP4/bi_2La_aeqsF2tQrfYXO1Kmc_IXpGeMFQCLcBGAs/s1600/MEMOIR%2BOF%2BA%2BMURDERER3.jpg</fanart>
@@ -220,7 +220,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>"A Música do Silêncio" será contada a partir da visão de Bocelli na forma de um romance autobiográfico, nomeando seu alter ego Amos Bardi. Ele escreve de uma família amorosa que incentivou seus dons musicais desde cedo, da cegueira que começou com o glaucoma e se completou após um acidente de futebol, e sua meteórica ascensão ao estrelato.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14605731_v_v8_as.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>https://www.cinecompipoca.com.br/wp-content/uploads/2018/05/musica-do-silencio-imagem.jpg</fanart>
@@ -232,7 +232,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Max (Jason Bateman) e Annie (Rachel McAdams) participam de um grupo de casais que organizam noites de jogos. O irmão de Max, Brooks (Kyle Chandler), chega decidido a organizar uma festa de assassinato e mistério e acaba sequestrado, levando todos a acreditarem que o sumiço faz parte da misteriosa brincadeira. Os seis amigos competitivos precisam então resolver o caso para vencer o jogo, cujo rumo vai se tornando cada vez mais inesperado.</info>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQctLHNW7qzSPR5reaJXrCYu7J6Jg8ISvocmKXE2uQDzGUGakhm</thumbnail>
 <fanart>http://www.divisaoalfa.com.br/wp-content/uploads/2018/05/A-Noite-do-Jogo-Poster-Alt_BR-1.jpg</fanart>
@@ -244,7 +244,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>É Halloween em 1997, e também a última noite na escola para dois adolescentes skatistas, que vão deixar para trás a fase escolar e adentrar na famosa fase adulta. Mas, para um deles, Corey, alguns assuntos do passado ainda precisam ser resolvidos envolvendo um velho conhecido da infância. Para isso, os dois vão embarcar em uma viagem apavorante através de suas memórias, sonhos e medos.</info>
 <thumbnail>https://i0.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/Boys-in-the-Trees.jpg</thumbnail>
 <fanart>https://i.imgur.com/WwDZjaQ.jpg</fanart>
@@ -256,7 +256,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>O jovem surfista Ian McCormack (Scott Eastwood) viaja com o seu melhor amigo pela Austrália, Sudeste Asiático e África. Eles estão em busca de um sentido para a vida e atrás da onda perfeita. Até que uma experiência de quase morte de McCormack muda sua vida para sempre.</info>
 <thumbnail>https://media.fstatic.com/N2GLl00OU1geUVjAclSuSDXblOs=/fit-in/290x478/smart/media/movies/covers/2017/12/download_2.png</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/A4YGIgpT3Kt1rdqgkx3hZzkLJ7h.jpg</fanart>
@@ -268,7 +268,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Encarcerado em uma das prisões mais bárbaras e mortais do planeta, a Klong Prem, na Tailândia, Billy Moore (Joe Cole) está buscando meios para se manter vivo e passar por todos aqueles pesadelos. Sendo assim, para sobreviver, decide adentrar no mundo do Muay Thai, sem nem imaginar que iniciar esta arte marcial viria a transformar sua vida para sempre.</info>
 <thumbnail>https://filmspot.com.pt/images/filmes/posters/big/448776_pt.jpg</thumbnail>
 <fanart>https://cineaddiction.com/wp-content/uploads/2018/07/Untitled-1-1.jpg</fanart>
@@ -280,7 +280,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>A marca da letra Z misteriosamente aparece nos residentes do palácio, a Princesa Odette, Scully e seus amigos trabalham juntos na investigação.</info>
 <thumbnail>https://media.fstatic.com/UPd2ZZGoUS4vACnU6P5dcEiMvPA=/fit-in/290x478/smart/media/movies/covers/2018/07/unnamed_vBXVTrO.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/vXRt1Y0RFzWbSKO6wBjLr8yLpzb.jpg</fanart>
@@ -292,7 +292,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Brasília, início da década de 1980. O REPI (Registro de Patentes e Invenções) acaba de ser capa de uma importante revista nacional, que o coloca como exemplo da burocracia existente no governo. Lisboa (Eucir de Souza), o chefe, não gosta nem um pouco da reportagem e decide cobrar atitude de seus funcionários, que fazem de tudo menos trabalhar. Paralelamente, o Dr. Brasil (Tonico Pereira) deseja patentear uma máquina do tempo e a deixa no REPI. Ao colocar o aparelho no estoque, Jonas (Edu Moraes) acidentalmente o aciona e, consequentemente, volta no tempo.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQMk0NfsAcmfzxVu7rH3fQNq4DXfLPrEZC3LnZaYX8eZhsbd4_l</thumbnail>
 <fanart>https://portalrefil.com.br/img/3ea5a4f5307b51446e65187295a9059c.jpg</fanart>
@@ -304,7 +304,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Jonathan (Garrett Hedlund) se afastou de sua família há muitos anos. No entanto, ele descobre que o pai, sofrendo com um câncer depois de muito tempo, decidiu retirar os equipamentos que o mantêm vivo no hospital. Jonathan tem 48 horas para se reconciliar com o pai, reencontrar o amor de sua vida e fazer as pazes com a irmã. Para essa tarefa difícil, ele conta com a ajuda da enfermeira do hospital e de uma jovem paciente que também está à beira da morte.</info>
 <thumbnail>https://sm2.imgs.sapo.pt/mb/6/d/49f701e1dd4028481072fb0780afab854aa4d4.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w1280/49cfJLnYRZhucEjPsOkDWhX8e0Y.jpg</fanart>
@@ -316,7 +316,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>A história de um grupo de oficiais britânicos na Primeira Guerra Mundial, liderados pelo jovem agente Stanhope mentalmente desintegrando-se, aguardando várias vezes o seu destino.</info>
 <thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3401/34015657_sa.jpg;maxHeight=640;maxWidth=550</thumbnail>
 <fanart>https://pbs.twimg.com/media/DVnNC7BVoAEAfHq.jpg</fanart>
@@ -328,7 +328,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Howard leva uma vida muito bem estruturada, ele trabalha como advogado em Manhattan e mora em uma casa confortável nos subúrbios com a esposa e os filhos. No entanto, ele se sente extremamente sufocado e, após sofrer um surto, decide se mudar para o sótão sem avisar a família. Os dias viram meses enquanto Howard observa de perto o dia a dia daqueles que ama sem saber se é possível retornar, eventualmente, para a antiga rotina que deixou para trás.</info>
 <thumbnail>http://fr.web.img4.acsta.net/r_1280_720/pictures/17/05/02/14/19/484465.jpg</thumbnail>
 <fanart>https://cdn1.theyoungfolks.com/wp-content/uploads/2017/05/29172607/wakefield_still_1_h_2016-770x434.jpg</fanart>
@@ -340,7 +340,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Para salvar a vida de sua mulher que está terminalmente doente, um padre usa seus conhecimentos sobre exorcismos para possuí-la, a fim de salvar sua vida. Porém, durante o ritual algo dá errado, e todas as almas que ele já tinha exorcisado voltam em busca de vingança.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/07/06/18/15/1750507.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/lvDv4VElhUM/hq720.jpg?v=5b3e6e80</fanart>
@@ -352,7 +352,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Hutch Daily (Chris Redd) é um desbocado de 27 anos de idade com a maturidade de um pré-adolescente. Após recusar encontrar um emprego ou seu próprio apartamento, sua mãe (Vivica Fox) dá-lhe duas opções: mudar para o abrigo ou trabalhar com seu tio (Mel Rodriguez) num acampamento de gordinhos. Embora pense que os frequentadores sejam repugnantes, Hutch vai supervisionar um grupo irreverente de rapazes robustos, que em última análise, vai ajudá-lo a crescer.</info>
 <thumbnail>https://image.tmdb.org/t/p/w300/hzpzXtzTkHet7gAS8xMyxKlYpoo.jpg</thumbnail>
 <fanart>http://pics.lcdn.vidmais.com.br/out/i/Algar_Telecom_-_Production/794/16/VU06168527.jpg</fanart>
@@ -364,7 +364,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Casada há 40 anos, Lady Sandra Abbott (Imelda Staunton) descobre que seu marido tem tido um caso amoroso com sua melhor amiga. Ela decide começar a fazer aulas de dança comunitária junto da irmã e acaba descobrindo um novo sopro de diversão e romance em sua vida.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRXzlEpJoZNmyI5C-K80renxOk6tJ2IxGi4W4ZqMvBCcwLMk-V9</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/sA4JS9Q7MrQgghyMEXMHaS6Nqpd.jpg</fanart>
@@ -376,7 +376,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Melinda (Taraji P. Henson) sempre foi uma esposa fiel, porém, cansada de ficar ao lado de seu marido preguiçoso, Robert (Lyriq Bent), se divorcia quando ele faz com que ela perca a casa de sua família. Meses depois, Melinda descobre que seu ex-marido ficou rico e está noivo de outra mulher. Sentindo que ele deve a ela todo o tempo e dinheiro que ela investiu quando estavam juntos, ela perde o controle e vai atrás de vingança.</info>
 <thumbnail>http://br.web.img2.acsta.net/r_1280_720/pictures/18/02/22/10/07/3554883.jpg</thumbnail>
 <fanart>https://besthqwallpapers.com/Uploads/23-2-2018/42091/thumb2-acrimony-2018-taraji-pendon-henson-drama-new-film.jpg</fanart>
@@ -388,7 +388,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Traumatizado pelas batalhas vivenciadas na 1ª Guerra Mundial, o escritor e autor de peças teatrais Alan Milne (Domnhall Gleeson) retorna a Londres, onde tenta retomar a vida cotidiana ao lado da esposa, Daphne (Margot Robbie). Eles têm um filho, o pequeno Christopher Robin (Will Tilston), que basicamente é criado pela babá da família, Olive (Kelly Macdonald), devido à distância estabelecida pelo próprio pai. Disposto a escrever um livro que irá ajudar o mundo a evitar uma nova guerra, Milne leva a família para morar no campo. Lá ele se aproxima do filho, que serve de inspiração para criar seu personagem mais conhecido: o ursinho Pooh.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTYQEvv4TIrYMj7g7rHIsdEPfOFMyJYUoA-yZ3ZY7WBOjIzfnfS</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//tUVVEGe16K5hfN7jH5MhJYjbCt2.jpg</fanart>
@@ -400,7 +400,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>1943, Dinamarca. Um conflito tão grande, brutal e devastador como a Segunda Guerra Mundial provoca um grande fluxo de refugiados. Esta é a história de um grupo de judeus dinamarqueses que precisaram deixar tudo para trás e fugir para a Suécia.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p12741052_v_v8_ac.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>https://ida.dk/sites/default/files/events/images/fuglene-over-sundet-galleri4_1.jpg</fanart>
@@ -412,7 +412,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Alex Truelove (Daniel Doheny) é um aluno exemplar do último ano do Ensino Médio. Ele tem um grande futuro pela frente, mas antes de se formar ele quer alcançar o último marco da adolescência: perder a virgindade com a sua namorada, Claire (Madeline Weinstein). Tudo se complica quando ele conhece Elliot (Antionio Marziale), um charmoso menino gay que sem querer põe Alex em uma jornada de autodescoberta.</info>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/18/05/10/08/15/1145287.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//hIYW4b3KiFczT0OWU80XmqiXg4r.jpg</fanart>
@@ -424,7 +424,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando um assalto dá tragicamente errado, três criminosos de carreira se veem presos num armazém, com a lei se aproximando. Mas, dentro do armazém, uma ameaça maior os espera - um cão de ataque vicioso que fará com que os fugitivos lutem por suas vidas.</info>
 <thumbnail>https://www.megafilme.co/wp-content/uploads/2018/03/alvo-triplo-6471-poster.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//8s0ntFj7dNbalDqoc4A9qKw29Lc.jpg</fanart>
@@ -436,7 +436,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um jovem jogador de basquete luta para se encaixar em seu novo time. A sinopse oficial ainda não foi divulgada.</info>
 <thumbnail>https://i1.wp.com/becoliterario.com/wp-content/uploads/2018/04/Amateur-movie-poster.jpg</thumbnail>
 <fanart>https://static.wixstatic.com/media/894d3e_45eff92cc09a4568875a7c3220f39984~mv2.jpg</fanart>
@@ -448,7 +448,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quatro homens tentam reinventar suas vidas e se reintegrar na sociedade depois de anos de abuso de substâncias químicas. O documentário é um olhar íntimo na força, coragem e irmandade que é precido para superar o vício e manter a sobriedade.</info>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bsn7UdnvHzA9YU88EB4jGpLtVk.jpg</thumbnail>
 <fanart>https://www.dailydot.com/wp-content/uploads/2018/06/recovery_boys_review.jpg</fanart>
@@ -460,7 +460,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Uma bióloga (Natalie Portman) se junta a uma expedição secreta com outras três mulheres em uma região conhecida como Área X, um local isolado da civilização onde as leis da natureza não se aplicam. Lá, ela precisa lidar com uma misteriosa contaminação, um animal mortal e ainda procura por pistas de colegas que desaparecem, incluindo seu marido (Oscar Isaac).</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/22/15/25/2917796.jpg</thumbnail>
 <fanart>https://nerdbreak.com.br/wp-content/uploads/2018/02/aniquila%C3%A7%C3%A3o-002-C%C3%B3pia.jpg</fanart>
@@ -472,7 +472,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em um mundo futuro onde não há crime por causa de um sistema de vigilância extrema, um detetive (Clive Owen) acaba encontrando uma mulher (Amanda Seyfried) que descobriu uma falha no regime de não-privacidade e que ameaça toda a construção da sociedade.</info>
 <thumbnail>https://i2.wp.com/teaser-trailer.com/wp-content/uploads/Anon-movie-poster.jpg</thumbnail>
 <fanart>https://luizandreoli.com.br/wp-content/uploads/2018/05/pg29t.jpg</fanart>
@@ -484,7 +484,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Rubens (Daniel de Oliveira) é um professor de natação carismático e extrovertido, que dá aulas para pré-adolescentes em um clube. Querido por todos devido ao seu jeito brincalhão e parceiro, ele se vê em apuros quando um de seus alunos, Alex (Luís Felipe Melo), diz à mãe que o professor lhe deu um beijo na boca no vestiário. Alegando inocência, Rubens é acusado pelos pais da criança e passa a ter que lidar com um verdadeiro linchamento virtual, que tem início através de mensagens de WhatsApp e explode de vez quando chega ao Facebook.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQiuaIRb3f616p3QzYnB8EgbYqiIriIpcLO3E9NLReyahH4_zRB</thumbnail>
 <fanart>https://correio-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_11042018RM2150_2a682f9491.jpg</fanart>
@@ -496,7 +496,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Após uma grande festa, um grupo de estudantes universitários acorda e tem uma notícia perturbadora: os Estados Unidos foram consumidos por um apocalipse zumbi que se espalhou. Agora, sozinhos, eles acabam decidindo iniciar uma jornada para encontrar uma cura para a doença e restaurar a liberdade. O problema é que talvez já seja tarde.</info>
 <thumbnail>https://filmesfree.tv/wp-content/uploads/2018/01/area-15-8760-poster.jpg</thumbnail>
 <fanart>https://www.americangrit.com/wp-content/uploads/2016/06/range_15_movie_2016-wide.jpg</fanart>
@@ -508,7 +508,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Greg Sestero (Dave Franco) se aproxima do excêntrico Tommy Wiseau (James Franco) após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood, onde Tommy, cansado de ser rejeitado em testes, decide produzir, financiar, dirigir, escrever e protagonizar – ao lado do melhor amigo – o longa-metragem que o catapultará ao estrelato: "The Room".</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTYVGytdTY2RCgJA3ZUTO2g3M6DOxT5VDBNwiuy4Eg2oAtudmp_</thumbnail>
 <fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2017/10/tda.jpg</fanart>
@@ -520,7 +520,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Max (David Marsais) e Léon (Grégoire Ludig), os dois preguiçosos e festeiros, são melhores amigos desde a infância. Durante a Segunda Guerra Mundial, eles lutam como soldados, mas a verdadeira aventura é o que eles fazem para tentar fugir da batalha.</info>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/18/07/13/20/25/5779790.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-ePN9D41zIUs/W1Dlkai2l7I/AAAAAAAAOM8/ykZCf8qvz3Md6X0ZbhBIErAKOuuttJWQgCLcBGAs/s1600/Filme%2BAs%2BIncr%25C3%25ADveis%2BHist%25C3%25B3rias%2Bde%2BMax%2Be%2BL%25C3%25A9on%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
@@ -532,7 +532,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um mistério de assassinato ocorreu em um cenário que ninguém esperaria na costa do Mississippi. Uma jovem tentou viver uma vida normal, apesar de uma educação horrível. Mas ela vai aprender com seu passado vai assombrá-la mais uma vez.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/6AIW2IZfJJPArSHXxnrxuEN20ng.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mVEy2sIxwj9fdZuihWejYNa1oIO.jpg</fanart>
@@ -544,7 +544,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Lucy (Brittany Snow) emerge de um metrô de Brooklyn para descobrir que seu bairro está sob ataque de soldados militares vestidos de preto. Um ex-membro do Corpo de Fuzileiros Navais, Stupe (Dave Bautista), relutantemente a ajuda a lutar pela sobrevivência através de uma guerra civil, como o Texas tenta se separar dos Estados Unidos da América.</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMGQ5Mjc1ZTUtYzVhOS00YWEwLThkYjItNmNhN2ViMDBlZGZlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_.jpg</thumbnail>
 <fanart>http://noset.com.br/wp-content/uploads/2017/12/3UcoX8gVusWaQI1jKQj2MOdf9zV.jpg</fanart>
@@ -556,7 +556,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando a esposa de Roman (Ashton Holmes) é sequestrada por traficantes de pessoas, ele e seus irmãos ex-militares começam a tentar rastreá-la para salvá-la antes que seja tarde demais. Durante a sua busca, roman une forças com Avery (Bruce Willis), um policial que investiga o tráfico de pessoas e combate a prejudicial e corrupta burocracia.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14899659_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3eGUmGxUz0rSfD9T0KK0do73bbN.jpg</fanart>
@@ -568,7 +568,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Dois irmãos azarados decidem fingir que se perderam em uma floresta para depois lucrar com uma grande história de sobrevivência. A armação, porém, acaba sendo mais real do que eles planejavam.</info>
 <thumbnail>http://www.californiafilmes.com.br/wp-content/uploads/2017/12/Aventura-Perigosa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/x2Y6rcV8cXH5648yTSyMwR1hkNi.jpg</fanart>
@@ -580,7 +580,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Depois de fazer uma viagem no tempo, o Batman acaba parando no Japão medieval. Lá, ele se depara com o terrível Coringa.</info>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/17/12/05/13/25/2653348.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/D45b4Tz7oJQ/maxresdefault.jpg</fanart>
@@ -592,7 +592,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>A história baseada em um quadrinho publicado em 1989 que imagina o que aconteceria se o Cavaleiro das Trevas vivesse no século XIX enfrentasse Jack, o Estripador. A HQ tem roteiro de Brian Augustyn e arte de Mike Mignola.</info>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14591934/p14591934_p_v8_ab.jpg</thumbnail>
 <fanart>http://yesofcorsa.com/wp-content/uploads/2018/05/Batman-Gotham-By-Gaslight-Wallpaper.jpg</fanart>
@@ -604,7 +604,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Mason Skiles (Jon Hamm), um dos melhores diplomatas dos EUA, deixa o Líbano na década de 1970 após um acidente e dez anos depois retorno ao local para responder um chamado da CIA, que pede seu retorno à Beirut para realizar uma missão que só ele é capaz. Enquanto Skiles não sabe quem está do seu lado, um agente da CIA infiltrado na embaixada norte-americana recebe a função de proteger o diplomata.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTKO_toOPMI0UjhDq3Bj87lC4XwzTYxigzrnnDyjnxOf6REaywO</thumbnail>
 <fanart>https://hdqwalls.com/download/beirut-2018-movie-e8-2048x1152.jpg</fanart>
@@ -616,7 +616,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Mason Skiles (Jon Hamm), um dos melhores diplomatas dos EUA, deixa o Líbano na década de 1970 após um acidente e dez anos depois retorno ao local para responder um chamado da CIA, que pede seu retorno à Beirut para realizar uma missão que só ele é capaz. Enquanto Skiles não sabe quem está do seu lado, um agente da CIA infiltrado na embaixada norte-americana recebe a função de proteger o diplomata.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTKO_toOPMI0UjhDq3Bj87lC4XwzTYxigzrnnDyjnxOf6REaywO</thumbnail>
 <fanart>https://hdqwalls.com/download/beirut-2018-movie-e8-2048x1152.jpg</fanart>
@@ -628,7 +628,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Allan é obrigado a fazer uma vasectomia e se vê em uma crise de meia-idade, o que o faz começar a aproveitar a vida com seus melhores amigos.</info>
 <thumbnail>https://cdn.traileraddict.com/content/gravitas-ventures/fixed-poster.jpg</thumbnail>
 <fanart>https://s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/c8/e8/4154e23d23e51127dbf1ade20b01.jpg</fanart>
@@ -640,7 +640,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Carter (Gabriel Bateman) e Frankie (Darby Camp) são irmãos e passam boa parte do dia sozinhos devido  ao intenso trabalho da mãe deles, Whitney (Kiele Sanchez). Um dia, Carter encontra na rua um cachorro vira-lata, ao qual sente imediato afeto. Após atraí-lo com morangos, ele o segue até sua casa. Logo as crianças passam a cuidá-lo às escondidas, já que têm a mais absoluta certeza que a mãe não lhes deixará ficar com a nova mascote, já nomeada Benji.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/13/11/34/5140152.jpg</thumbnail>
 <fanart>http://www.popzara.com/wp-content/uploads/2018/04/benji2018_feature.jpg</fanart>
@@ -652,7 +652,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Madea, (Tyler Perry), Tia Bam (Cassi Davis) e Hattie (Patrice Lovely) se aventuraram em um acampamento assombrado. Lá o grupo deve correr por suas vidas quando monstros, goblins e o bicho-papão estão soltos.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcR8vWSXwWy-fFVzM0zyQV2eQVjtgKwEb08N4DbKXfL1wFpwG_ic</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//wqxKaffqTUKI9cl8YgBIm8IAZlR.jpg</fanart>
@@ -664,7 +664,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Gabrielle Union (Shaun Russell) é uma mulher que não vai parar por nada para resgatar seus dois filhos, feitos de refém em uma casa com uma segurança impenetrável. Nenhuma armadilha, truque e especialmente, ninguém podem parar uma mãe com uma missão quando ela está determinada.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/03/08/09/50/0074386.jpg</thumbnail>
 <fanart>https://i1.wp.com/www.ageratingjuju.com/wp-content/uploads/2018/05/Breaking-In-Age-Rating-payback-is-a-mother-Movie-2018-Certificate-for-Children.jpg</fanart>
@@ -676,7 +676,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Acusado de uma série de crimes que não cometeu, entre eles assaltos, estupros e assassinatos em série, um promotor (Zhang Hanyu), um promotor de justiça decide iniciar uma jornada perigosa: trabalhar sozinho para limpar seu nome e provar sua inocência.</info>
 <thumbnail>https://cdn.fstatic.com/media/movies/covers/2018/02/j2k5rqswx4001.jpg</thumbnail>
 <fanart>https://news.newonnetflix.info/wp-content/uploads/2018/04/manhunt-poster.jpg</fanart>
@@ -688,7 +688,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Depois de uma tentativa de assassinato fracassada, um soldado encontra-se sozinho no deserto. Nessas condições, ele deve sobreviver aos perigos do deserto e lutar contra seus limites psicológicos e físicos.</info>
 <thumbnail>http://www.mmfilmes.tv/wp-content/uploads/2017/05/mine_ver5_xlg.jpg</thumbnail>
 <fanart>https://pmcvariety.files.wordpress.com/2016/07/armie-hammer-mine-movie.jpg?w=1000</fanart>
@@ -700,7 +700,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Conto sobre a atração canina entre a vida na natureza e a vida doméstica. Animação baseada no clássico romance de Jack London, "Caninos Brancos" (1906).</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNDZjZjkyYTMtMTMyZS00YjNjLTg3MTQtMWQ4NTRmMWNjNTY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/EIMkATjjuFA/maxresdefault.jpg</fanart>
@@ -712,7 +712,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Andy (Martin Freeman) corre contra o tempo para salvar sua filha. Infectado por um vírus de uma pandemia zumbi, ele tem apenas 48 horas para encontrar um lugar seguro a fim de proteger a criança. A salvação que o pai procura pode estar em um tribo aborígene isolada, mas para ter acesso ao grupo, ele terá que ajudar uma jovem indígena em uma missão perigosa.</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZTczZWEyOTktODNmMC00NDgzLTk3NTktYjllN2Y4MWMxOGViXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg</thumbnail>
 <fanart>https://bloody-disgusting.com/wp-content/uploads/2018/03/cargo-netflix.jpg</fanart>
@@ -724,7 +724,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Com a intenção de reacender seu relacionamento, Dave leva Abi para uma noita romântica em uma cabana afastada da cidade. Lá, os planos não correm como o esperado e os dois acabam brigando, enquanto uma criatura assustadora rodeia a casa. Agora, o casal terá que esquecer as diferenças e se unir, se quiser sobreviver.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/05/28/22/54/2395904.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/yCuiF5bZXxs/maxresdefault.jpg</fanart>
@@ -736,7 +736,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Adolescentes aspirantes a ladrões aprendem com um mestre na arte da trapaça o que é preciso para ter sucesso como batedor de carteiras nas ruas de Bogotá.</info>
 <thumbnail>https://i1.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/pickpockets-668911129-large.jpg</thumbnail>
 <fanart>https://occ-0-901-999.1.nflxso.net/art/f1c03/de9defa2853f735efae6c9202149f14f0daf1c03.jpg</fanart>
@@ -748,7 +748,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSUmXOWpRgc8V30v62e-V5ISP9EuAdi7Qm9JP1yXBdBh60pdKTE</thumbnail>
 <fanart>http://assets.papelpop.com/wp-content/uploads/2018/02/20180129-PAGEONE-50shades.jpg</fanart>
@@ -760,7 +760,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Superados os principais problemas, Anastasia (Dakota Johnson) e Christian (Jamie Dornan) agora têm amor, intimidade, dinheiro, sexo, relacionamento estável e um promissor futuro. A vida, no entanto, ainda reserva surpresas para os dois e fantasmas do passado como Jack Hyde (Eric Johnson) e Elena Lincoln (Kim Basinger) voltam a impedir a paz do casal.</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcSUmXOWpRgc8V30v62e-V5ISP9EuAdi7Qm9JP1yXBdBh60pdKTE</thumbnail>
 <fanart>http://assets.papelpop.com/wp-content/uploads/2018/02/20180129-PAGEONE-50shades.jpg</fanart>
@@ -772,7 +772,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
 <fanart>http://www.cinemaqui.com.br/wp-content/uploads/2018/03/c%C3%ADrculo-de-fogo-destaque.jpg</fanart>
@@ -784,7 +784,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Filho de Stacker Pentecost (Idris Elba), responsável pelo comando do programa Jaeger, Jake (John Boyega) era um promissor talento do programa de defesa, mas abandonou o treinamento e entrou no mundo do crime ao vasculhar ferros-velhos em busca de peças de robôs abandonados. Perseguido após não encontrar uma peça valiosa, ele encontra o esconderijo da jovem Amara (Cailee Spaeny), que clandestinamente está construindo um Jaeger de porte pequeno. Ambos tentam fugir usando o robô, mas acabam sendo capturados. Para escapar da prisão, eles são enviados ao treinamento de pilotos Jaeger. Lá Jake reencontra sua irmã de criação Mako (Rinko Kikuchi), uma heroína da época do combate contra os kaiju, que tenta lhe ajudar a se areadaptar ao ambiente militar.</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTdnaelYlRYtbabTixOrU8nxZdUTlTI7QtJFvynPdb7fzAa7ARV</thumbnail>
 <fanart>http://www.cinemaqui.com.br/wp-content/uploads/2018/03/c%C3%ADrculo-de-fogo-destaque.jpg</fanart>
@@ -796,7 +796,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Cansados dos casamentos mornos, quatro amigos de infância decidem criar um clube para pular a cerca. O objetivo: reacender a paixão pelas esposas.</info>
 <thumbnail>https://pics.filmaffinity.com/el_club_de_los_buenos_infieles-428072760-large.jpg</thumbnail>
 <fanart>https://occ-0-901-448.1.nflxso.net/art/4340d/1de45b5fab5e065d83d52eeb197f9cd892d4340d.jpg</fanart>
@@ -808,7 +808,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/02/20/46/3823001.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.cinemundo.net.br/wp-content/uploads/2018/03/Cr%C3%ADtica-Com-Amor-Simon.jpg</fanart>
@@ -820,7 +820,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um ex-boxeador (Vince Vaughn) que se tornou um contrabandista de drogas acaba sendo preso por causa de um acordo que deu errado. Dentro da cadeia, ele encontra vários de seus inimigos, homens que o obrigam a cometer atos violentos e brutais.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14454336_v_v8_ax.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>http://www.nerdrabugento.com.br/wp-content/uploads/2018/01/BrawlinCellBlock99_10-copy.jpg</fanart>
@@ -832,7 +832,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um ex-boxeador (Vince Vaughn) que se tornou um contrabandista de drogas acaba sendo preso por causa de um acordo que deu errado. Dentro da cadeia, ele encontra vários de seus inimigos, homens que o obrigam a cometer atos violentos e brutais.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14454336_v_v8_ax.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>http://www.nerdrabugento.com.br/wp-content/uploads/2018/01/BrawlinCellBlock99_10-copy.jpg</fanart>
@@ -844,7 +844,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um exausto advogado, John Weber, resolve trabalhar em um caso de assassinato múltiplo aparentemente sem esperança. Mas, ao montar a defesa para um guarda de prisão traumatizado com as execuções em que participou, ele descobre falhas escandalosas no sistema de punição na África do Sul.</info>
 <thumbnail>https://2.bp.blogspot.com/-VaI9w9RzdpA/WnW0IaSzjRI/AAAAAAAAgFk/UGbgDdysMFMcY4ImRLHC8BfOQEfHJSMMwCLcBGAs/s1600/Shepherds%2Band%2BButchers%2B-%2BChris%2BMarnewick.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/knD3C7L990W9QtT1053r0tdY9JC.jpg</fanart>
@@ -856,7 +856,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando descobrem que a mãe (Glenn Close) sempre mentiu para eles a respeito de seu pai biológico, os irmãos gêmeos Kyle (Owen Wilson) e Peter (Ed Helms), que não têm nada em comum, decidem cruzar os Estados Unidos em busca do genitor que tanto sonharam conhecer.</info>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcS0GEXlT4_pRrJzMJdyXpEE1KubSax68NAe2S7XRaIZTIgeY7uO</thumbnail>
 <fanart>http://supercinemaup.com/wp-content/uploads/2018/01/Correndo-Atras-de-um-Pai-03-1280x640.jpg</fanart>
@@ -868,7 +868,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em Los Angeles, capital dos roubos a banco, um banho de sangue coloca em interseção a vida de dois grupos: a radical unidade de elite do departamento de polícia local, liderada pelo desmedido Nick (Gerard Butler), e a equipe de assaltantes de banco mais arrojada em atividade. Enquanto os criminosos planejam um ataque ambicioso até então tido como impossível, os homens da lei apertam o cerco pelo elo aparentemente mais fraco da gangue.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/a3HAaPWkqQGfVz3Sn9ynE3t2t93.jpg</thumbnail>
 <fanart>http://duastorres.com.br/wp-content/uploads/2018/04/Gerard-Butler-Cri%CC%81tica-Covil-de-Ladro%CC%83es.png</fanart>
@@ -880,7 +880,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Addison tem 18 anos de idade e está terminando o Ensino Médio. Enquanto pensa se deve entrar na universidade, ele leva uma vida cheia de conflitos, vendendo drogas aos colegas e brigando com os professores. Quando Kevin, um colega de turma, é assassinado, Addison decide fazer a sua própria investigação.</info>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMzQwMzQ0MjYzMV5BMl5BanBnXkFtZTgwOTIwMTEwNDI@._V1_.jpg</thumbnail>
 <fanart>http://oisa.tmsimg.com/assets/p14007022_i_h11_aa.jpg</fanart>
@@ -892,7 +892,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em 1979, o jovem Hu Bayi está trabalhando nas montanhas cobertas de neve da China quando uma explosão revela fósseis bizarros escondidos nas cavernas das montanhas, além de um templo que serve de portal entre a Terra e uma dimensão habitada por seres fantásticos. Como é o único sobrevivente, cabe a Hu descobrir o que aconteceu naquele fatídico dia.</info>
 <thumbnail>https://www.cidadedamidia.com.br/wp-content/uploads/2018/05/Downloads32-1300x1616.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/17kL5dX0VxgtISpgl4VDLxWMyOa.jpg</fanart>
@@ -904,7 +904,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Daphne (Sarah Jeffery) é brilhante e otimista e Velma (Sarah Gilman), espertinha e analítica. As duas estudantes do ensino médio se juntam numa investigação quando passam a suspeitar que seus colegas estão sendo transformados em zumbis controlados.</info>
 <thumbnail>https://image.tmdb.org/t/p/original/zG2DHbo2GNxSmcFWqGkAPgS6hC8.jpg</thumbnail>
 <fanart>http://assets.papelpop.com/wp-content/uploads/2018/03/scoobydoo.png</fanart>
@@ -916,7 +916,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Para acabar com o tráfico humano, um agente da Interpol recorre à ajuda de um violento criminoso que conhece os meandros da Yakuza.</info>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/15468589/p15468589_p_v8_aa.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/vlkT7DISwopEjaeOZc9lLB7Y3la.jpg</fanart>
@@ -928,7 +928,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando está prestes a terminar a faculdade, Saliya (Kostja Ullmann) começa a sofrer os efeitos de uma grave doença genética e perde 95% da visão. O rapaz sempre teve o sonho de trabalhar em um grande hotel de luxo, mas todas as candidaturas de emprego são recusadas em função de sua deficiência. Ele decide então esconder o fato de ser praticamente cego, e se candidata a um dos maiores hotéis de Munique. Contando com a ajuda do amigo Max (Jacob Matschenz), ele enfrenta as dificuldades diárias, enquanto conhece a bela Laura (Anna Maria Mühe) e se apaixona. Mas até quando conseguirá manter o segredo?</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS5gRoGQd460yoVyXPZLe_TuQUhAu4_nRTXi13lzvX3mLIjWoRz</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2018/04/BlindDate_024.jpg</fanart>
@@ -940,7 +940,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQk4VujIOVqKQGdAk-MUHoGKTSyRHg8lzTnZsCpTuxOTle7BWP7</thumbnail>
 <fanart>http://hdqwalls.com/wallpapers/deadpool-2-poster-2018-movie-xt.jpg</fanart>
@@ -952,7 +952,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Delphine (Louise Bourgoin) e Yvan (Gilles Lellouche) acabaram de se divorciar mas seu ex-marido não consegue encontrar um apartamento para morar. À medida que sua situação financeira não permite que ele se mude, Yvan lembra que é dono de 20% da casa de sua ex-esposa. Então, ele volta a viver com Delphine por causa dos seus 20%, e assim, ambos vão descobrir as alegrias de morarem juntos novamente.</info>
 <thumbnail>http://br.web.img2.acsta.net/pictures/17/01/13/09/10/401138.jpg</thumbnail>
 <fanart>http://oisa.tmsimg.com/assets/p14664296_i_h11_aa.jpg</fanart>
@@ -964,7 +964,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um professora de uma prestigiosa escola de inglês em Buenos Aires viaja com cinco alunas para El Paraje, para estudar como a cidade do sul da Argentina ressurgiu após a erupção do vulcão Tunik. Mas na viagem, Cornelia Villalba, filha de um renomado médico, desaparece misteriosamente. Dez anos depois, o caso será reaberto e, como consequência, desaparecerá outra das quatro ex-alunas.</info>
 <thumbnail>http://www.mubis.es/media/users/9888/211603/ya-disponible-en-netflix-original.jpg</thumbnail>
 <fanart>https://www.krump.com.br/wp-content/uploads/2018/08/Desaparecida-Netflix-Previa.jpg</fanart>
@@ -976,7 +976,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Um homem gentil tem sua vida transformada quando sua família é abalada por um ato de violência que machuca a todos. Em busca de justiça, ele se transforma em uma máquina mortífera, para conseguir fazer justiça com as próprias mãos.</info>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcR6pq9-56nAwMuQiudxlKje-3lq4mdgK2aS7KUpv8lW3owUdTW7</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/i5VpktYdD6k28wWiRyeuiaw59tZ.jpg</fanart>
@@ -988,7 +988,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Alice (Kristanna Loken) trabalha como ghostwriter para um escritor famoso, no entanto, desde que sofreu um acidente durante uma viagem à Malta, ela sofre de depressão e não consegue escrever. Com o prazo da editora se aproximando, Alice volta a cidade com o marido para tentar recuperar sua inspiração e entender o que aconteceu no ano anterior. Chegando na casa de verão, ela conhece Sara (Sarai Givaty), uma jovem confiante que rapidamente vira sua amiga íntima.</info>
 <thumbnail>http://www.gstatic.com/tv/thumb/movieposters/14595928/p14595928_p_v8_aa.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-N-Mf5EOowOg/WwcwAREC91I/AAAAAAAALsA/82sA3ykwhfM5MAZuU9kbS8R-KF7h5X4xwCLcBGAs/s1600/Filme%2BDesejo%2Bdo%2BCorpo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
@@ -1000,7 +1000,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Em um mundo pós-apocalíptico, um grupo de militares e sobreviventes vivem em um abrigo subterrâneo em busca de uma cura para o vírus que transformou o mundo em zumbis. A chave acaba sendo em uma figura do passado de Zoe, uma ex-estudante de medicina que lidera a pesquisa pela antídoto.</info>
 <thumbnail>https://3.bp.blogspot.com/-0GjtwO-bJOQ/WgH6l0eN_pI/AAAAAAAAObQ/TpgsStL4WL4b5QQB81K-awLd8IhvnabygCLcBGAs/s1600/DOTD_Digital_3165x4496_v1_bleed.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/original//wgKxlJQWatXEv7bvJtS5c0Uu6Jr.jpg</fanart>
@@ -1012,7 +1012,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Sawyer Valentini (Claire Foy) está sendo perseguida por um perigoso stalker virtual (Joshua Leonard). Ao tentar recorrer à ajuda legal, ela é involuntariamente cometida à uma instituição mental onde é confrontada pelo seu maior medo - mas é real ou apenas um produto de sua ilusão?</info>
 <thumbnail>http://www.cafecomfilme.com.br/media/k2/items/cache/9644afcfe358564d61ed40a5d12f4537_XL.jpg</thumbnail>
 <fanart>https://nerdbreak.com.br/wp-content/uploads/2018/03/unsane-007.jpg</fanart>
@@ -1032,7 +1032,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Duas mulheres insatisfeitas com as mentiras e infidelidades de relacionamentos fazem um pacto de passar 24 horas juntas, na esperança de achar uma maneira nova de criar intimidade e vulnerabilidade.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRrsBiw2udOp9FTydUeYuGtP4N1H7vvQEwEMC6TxGIH22MttgDJ</thumbnail>
 <fanart>https://cdn1.thr.com/sites/default/files/2018/04/duckbutter.jpg</fanart>
@@ -1044,7 +1044,7 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Duda e sua mãe, Catherine, estão de mudança novamente. Desta vez elas irão morar em uma imensa casa, com fama de mal-assombrada, que possui vários gnomos de jardim. Após encontrar uma sala secreta e de lá retirar um cristal inusitado, Duda é surpreendida com o fato de que os gnomos têm vida e precisam sempre combater os trogs, seres de outra dimensão que devoram tudo o que vêem pela frente.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRZvLq-95c4uJU7k8rZtA2zTP-nnZEqBu9HQLbzTLTwXyImYrWa</thumbnail>
 <fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/02/duda-e-os-gnomos.jpg</fanart>
