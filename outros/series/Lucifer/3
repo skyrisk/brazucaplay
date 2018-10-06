@@ -65,8 +65,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP07.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP07.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -75,8 +75,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP08.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP08.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -85,8 +85,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP09.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP09.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -95,8 +95,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP10.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP10.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -105,8 +105,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 11 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP11.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP11.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -115,8 +115,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 12 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP12.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP12.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -125,19 +125,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 13 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP13.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR white][B]EPISÓDIO - 14 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP14.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP13.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -146,8 +135,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 15 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP15.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP14.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -156,8 +145,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 16 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP16.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP15.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -166,8 +155,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 17 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP17.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP16.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -176,8 +165,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 18 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP18.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 17[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP17.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -186,8 +175,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 19 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP19.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 18[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP18.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -196,8 +185,18 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 20 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]LCFRS03EP20.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 19[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP19.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Lucifer/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 20[/B][/COLOR]</title>
+<link>$doregex[BP1]LCFRT03EP20.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
