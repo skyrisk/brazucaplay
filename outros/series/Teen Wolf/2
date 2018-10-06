@@ -5,7 +5,7 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Teen%20Wolf/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 0 [COLOR gold][/COLOR][/B][/COLOR]</title>
+<title>[COLOR white][B]EPISÓDIO - 0 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]TNWLFS02EP00.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc5</expres><page>https://bit.ly/rcfhd</page></regex>
