@@ -761,9 +761,21 @@
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<info>HERE</info>
-<thumbnail>HERE</thumbnail>
-<fanart>HERE</fanart>
+<info>Durante uma festa de fim de ano, um grupo de amigos decide abrir, ao mesmo tempo, as cartas que receberam da faculdade, mensagens que comunicam se eles foram selecionados ou não para as instituições que desejam frequentar.</info>
+<thumbnail>https://image.tmdb.org/t/p/original/lmW9vbHrNEWNdqLoyImeJ7wuVWD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nMewQpkCeNAJG6gMcWghyCeCNdU.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS GAROTAS DA TRAGÉDIA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASGRTSDTRGDIA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>McKayla Hooper (Alexandra Shipp) e Sadie Cunningham (Brianna Hildebrand) são duas jovens que tem um canal online e são obcecadas com a morte. Através dos seus vídeos, as duas decidem criar um verdadeiro caos em sua cidade para que possam se tornar verdadeiras lendas do terror local.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/17/11/23/16/45/4868761.jpg</thumbnail>
+<fanart>http://br.web.img3.acsta.net/pictures/17/03/13/16/06/582745.jpg</fanart>
 </item>
 
 <item>
@@ -776,6 +788,30 @@
 <info>Max (David Marsais) e Léon (Grégoire Ludig), os dois preguiçosos e festeiros, são melhores amigos desde a infância. Durante a Segunda Guerra Mundial, eles lutam como soldados, mas a verdadeira aventura é o que eles fazem para tentar fugir da batalha.</info>
 <thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/18/07/13/20/25/5779790.jpg</thumbnail>
 <fanart>https://4.bp.blogspot.com/-ePN9D41zIUs/W1Dlkai2l7I/AAAAAAAAOM8/ykZCf8qvz3Md6X0ZbhBIErAKOuuttJWQgCLcBGAs/s1600/Filme%2BAs%2BIncr%25C3%25ADveis%2BHist%25C3%25B3rias%2Bde%2BMax%2Be%2BL%25C3%25A9on%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS LEIS DA TERMODINÂMICA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASLESDTRMDNMCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um amante rejeitado está convencido de que o fracasso em todos os seus relacionamentos românticos é devido às leis da termodinâmica.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/01/30/13/17/2407124.jpg</thumbnail>
+<fanart>https://www.ecestaticos.com/imagestatic/clipping/bce/e9b/bcee9b837644907978d5a4297478af4d/como-superar-una-ruptura-amorosa-gracias-a-las-leyes-de-la-termodinamica.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ASSASSINADA AOS 17[/B][/COLOR]</title>
+<link>$doregex[BP1]ASASNAO17.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>A jovem Brooke Emerson se apaixona loucamente por Jake, sem perceber que ele está a manipulando e pretende incriminá-la por um assassinato.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYzUzYmI4YTAtYWExNC00NWU3LTk1NDMtMmJlMTMyZDA4ZmZmXkEyXkFqcGdeQXVyNTk0NTc1NDA@._V1_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/Db-tq7bOFq4/maxresdefault.jpg</fanart>
 </item>
 
 <item>
@@ -812,6 +848,18 @@
 <info>Quando a esposa de Roman (Ashton Holmes) é sequestrada por traficantes de pessoas, ele e seus irmãos ex-militares começam a tentar rastreá-la para salvá-la antes que seja tarde demais. Durante a sua busca, roman une forças com Avery (Bruce Willis), um policial que investiga o tráfico de pessoas e combate a prejudicial e corrupta burocracia.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14899659_v_v8_am.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/3eGUmGxUz0rSfD9T0KK0do73bbN.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ATRAÇÃO OBSESSIVA[/B][/COLOR]</title>
+<link>$doregex[BP1]ATRCAOBSVA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Harris (Jack Cutmore-Scott) é um homem mulherengo e despreocupado que possui o costume de marcar encontros casuais por meio de aplicativos de relacionamento. Tudo vai bem, até que ele conhece Riley (Lili Simmons), uma mulher que manifesta um transtorno comportamental de obsessão e o persegue de maneira cada vez mais perigosa.</info>
+<thumbnail>http://top10filmes.biz/wp-content/uploads/2018/07/bad_match_ver2.jpg</thumbnail>
+<fanart>https://pbs.twimg.com/media/Diu2M-wVQAEvlbo.jpg</fanart>
 </item>
 
 <item>
