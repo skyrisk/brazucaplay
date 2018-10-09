@@ -1605,3 +1605,51 @@
 <thumbnail>https://pbs.twimg.com/media/Dam3-6LXkAIWVJL.jpg</thumbnail>
 <fanart>https://occ-0-428-185.1.nflxso.net/art/66c4d/41cfbd64a3317daefaed7b0664180c2f4ed66c4d.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]ELLA E JOHN[/B][/COLOR]</title>
+<link>$doregex[BP1]ELEJHN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Septuagenários, o casal de aposentados Ella (Helen Mirren) e John (Donald Sutherland) decide fazer uma última viagem pelo país, de carro. Desafiando limites e receios os dois embarcam numa aventura transformadora que sai de Boston e tem como destino a antiga casa de Ernest Hemingway, na Flórida.</info>
+<thumbnail>https://static.cineclick.com.br/sites/adm/uploads/banco_imagens/69/1080x1620_1521577985.jpg</thumbnail>
+<fanart>http://cinematecando.com.br/wp-content/uploads/2018/03/5.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EM 97 ERA ASSIM[/B][/COLOR]</title>
+<link>$doregex[BP1]EM97ERASIM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Quatro garotos de 15 anos só pensam em uma coisa: perder a virgindade. Sem dinheiro para contratarem uma prostituta, os meninos fazem tudo para conseguirem economizar uma grana, enquanto encaram os compromissos do colégio e as tensões da adolescência. Mas, nessa jornada, o que eles realmente vão descobrir é o valor da verdadeira amizade.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQVSz7gylNFgQkeYHgG013X9AoQZ_VP9r8dVXSHPJ_9D99B8R0b</thumbnail>
+<fanart>https://i1.wp.com/bodenasala.com/wp-content/uploads/2018/06/97era.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EM PEDAÇOS[/B][/COLOR]</title>
+<link>$doregex[BP1]EMPDCOS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Após cumprir pena por tráfico de drogas, o turco Nuri Sekerci (Numan Acar) leva uma vida amorosa e tranquila com a esposa Katja Sekerci (Diane Kruger) e o filho Rocco na Alemanha. Certo dia ele e o menino estão no escritório e morrem vítimas de uma explosão criminosa, tragédia que deixa Katja sem chão. Ela batalha na justiça pela punição dos culpados, um casal neonazista, e, insatisfeita com o desenrolar do caso, decide pela vingança com as próprias mãos.</info>
+<thumbnail>https://vertentesdocinema.com/wp-content/uploads/2018/03/em-pedacos-poster.jpg</thumbnail>
+<fanart>https://i1.wp.com/bodenasala.com/wp-content/uploads/2018/03/em-peda%C3%A7os-bode-na-sala.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ENCOLHI A PROFESSORA[/B][/COLOR]</title>
+<link>$doregex[BP1]ELCHAPROF.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>O jovem Felix Vorndran (Oskar Keymer) estuda em uma escola cuja diretora, Frau Dr. Schmitt-Gössenwein (Anja Kling), é uma verdadeira peste. Certo dia, Felix, determinado a se vingar desta professora, arma um esquema maluco que tem consequências complicadas: a diretora acaba encolhendo, se tornando uma miniatura de si mesma.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRDUYcCJ__YZFLlptcfFd-m_j1M18OmH7RUcYUyi689uSxfTEiH</thumbnail>
+<fanart>http://www.quadroporquadro.com.br/wp-content/uploads/2018/01/01EncolhiaProfessora.jpg</fanart>
+</item>
