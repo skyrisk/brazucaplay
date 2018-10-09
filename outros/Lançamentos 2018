@@ -875,6 +875,30 @@
 </item>
 
 <item>
+<title>[COLOR white][B]BAD SAMARITAN [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]BDSMRTNLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Dois trapaceiros vendedores de carro tem o costume de invadir a casa de dos seus clientes, durante um dos assaltos eles encontram uma mulher apavorada, acorrentada e amordaçada. Logo, eles se tornam alvos da ira do psicopata, enquanto tentam resgatar a vítima que deixaram para trás.</info>
+<thumbnail>https://cdn.flickeringmyth.com/wp-content/uploads/2018/06/bad-samaritan-uk-poster.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/d0/41/40/d04140e88fcb2cf8d6ee7d26babeb732.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]BARONESA[/B][/COLOR]</title>
+<link>$doregex[BP1]BRNSA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Andreia e Leidiane são grandes amigas que moram em casas vizinhas na Vila Mariquinhas, na Zona Norte de Belo Horizonte. Elas trocam confidências, guardam sofrimentos e compartilham laços, mas quando uma guerra entre traficantes deixa o clima tenso, Andreia passa a cogitar ir embora da região.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcStGtqBh548j83mLCfD5JGQUBT8d5YCKITzhAaI3KTJDvXqyB6q</thumbnail>
+<fanart>http://br.web.img2.acsta.net/r_1280_720/pictures/18/05/18/23/25/2612682.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]BATMAN NINJA[/B][/COLOR]</title>
 <link>$doregex[BP1]BTMNJA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -944,6 +968,42 @@
 <info>Carter (Gabriel Bateman) e Frankie (Darby Camp) são irmãos e passam boa parte do dia sozinhos devido  ao intenso trabalho da mãe deles, Whitney (Kiele Sanchez). Um dia, Carter encontra na rua um cachorro vira-lata, ao qual sente imediato afeto. Após atraí-lo com morangos, ele o segue até sua casa. Logo as crianças passam a cuidá-lo às escondidas, já que têm a mais absoluta certeza que a mãe não lhes deixará ficar com a nova mascote, já nomeada Benji.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/13/11/34/5140152.jpg</thumbnail>
 <fanart>http://www.popzara.com/wp-content/uploads/2018/04/benji2018_feature.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]BERENICE PROCURA[/B][/COLOR]</title>
+<link>$doregex[BP1]BRNCPRCRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>A taxista Berenice (Claudia Abreu) está acostumada a passar horas e horas pelo trânsito caótico da cidade do Rio de Janeiro e de seu bairro natal, Copacabana. Consumida pela profissão, o pouco tempo que tem de sobra, ela se divide entre a criação do filho Thiago (Caio Manhente), um adolescente descobrindo sua sexualidade, e sua conturbada relação com o marido Domingos (Eduardo Moscovis), um repórter policial. Até que o assassinato de Isabelle (Valentina Sampaio ), uma travesti, na praia de Copacabana, desperta um lado seu investigativo, mudando sua vida.</info>
+<thumbnail>https://www.cafecomfilme.com.br/media/k2/items/cache/b1b88c6d682a9fd1cd93acb28c7a810e_XL.jpg?t=1530654898</thumbnail>
+<fanart>http://razaodeaspecto.com/wp-content/uploads/2018/06/berenice.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]BLACK WATER [COLOR gold][/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]BLCKWTRLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um agente infiltrado (Jean-Claude Van Damme) acorda para descobrir que está preso em um obscuro submarino da CIA.</info>
+<thumbnail>https://cdn.cinepop.com.br/2018/05/blackwater1-680x1024.jpg</thumbnail>
+<fanart>http://www.joblo.com/assets/images/oldsite/images_arrownews/black-water-vandamme.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]BLEACH[/B][/COLOR]</title>
+<link>$doregex[BP1]BLCH.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>O jovem Ichigo foi surpreendido com indesejadas habilidades de ceifeiro de almas e quer devolver os poderes. Mas terá que executar algumas tarefas antes...</info>
+<thumbnail>http://www.setcenas.com.br/wp-content/uploads/2018/09/bleach_netflix_wallpaper_by_thedarkknight954-dcmu58g.jpg</thumbnail>
+<fanart>https://occ-0-37-2219.1.nflxso.net/art/72281/b1d22017ed3acf18027915b86caf67410e472281.jpg</fanart>
 </item>
 
 <item>
@@ -1040,6 +1100,30 @@
 <info>Adolescentes aspirantes a ladrões aprendem com um mestre na arte da trapaça o que é preciso para ter sucesso como batedor de carteiras nas ruas de Bogotá.</info>
 <thumbnail>https://i1.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/pickpockets-668911129-large.jpg</thumbnail>
 <fanart>https://occ-0-901-999.1.nflxso.net/art/f1c03/de9defa2853f735efae6c9202149f14f0daf1c03.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CHAPECOENSE: O LADO OBSCURO DA TRAGÉDIA[/B][/COLOR]</title>
+<link>$doregex[BP1]CHAPOLDOSCRODTRGDLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um ano e seis meses depois, a tragédia com o voo da Chapecoense na Colômbia tem novos fatos revelados. O documentário mostra aspectos até então inéditos da queda do avião da boliviana LaMia. Uma equipe de jornalistas – liderada pelo correspondente espanhol Francho Barón – realizou uma longa investigação por mais de um ano em seis países. O filme, de uma hora e nove minutos, revela o uso de dinheiro de empresário chinês na manutenção dos aviões da LaMia – inclusive o que foi utilizado com a Chape – e detalha a influência do empresário venezuelano Ricardo Albacete sob os rumos da LaMia – o que poderia colocá-lo como responsável pela empresa, e consequentemente, responsabilizado pela tragédia que matou 71 pessoas.</info>
+<thumbnail>https://a.ltrbxd.com/resized/film-poster/4/6/0/5/2/4/460524-chapecoense-las-claves-oscuras-del-siniestro-0-230-0-345-crop.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/31/7c/aa/317caa243a432498b01e0556fdb25d64.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CIDADE LOUCA[/B][/COLOR]</title>
+<link>$doregex[BP1]CIDELOUCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Denny (Milo Ventimiglia) é um simpático rapaz que está tentando aprimorar a carreira como um comediante de stand-up. No entanto seu lado humorístico esconde um passado sombrio e traumatizante, que ele não consegue mais esconder. Seus pais foram mortos por sua irmã, que acaba de cumprir uma pena de 20 anos na prisão e passa a procurá-lo para reatarem a relação.</info>
+<thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3374/33742836_sa.jpg</thumbnail>
+<fanart>https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2017/12/madtown_still_1-h_2017.jpg</fanart>
 </item>
 
 <item>
