@@ -11,18 +11,6 @@
 </item>
 
 <item>
-<title>[COLOR white][B]12 ROUNDS 3: CAÇADA MORTAL[/B][/COLOR]</title>
-<link>$doregex[BP1]12RNDS3.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<info>Depois de ser judicialmente inocentado de uma acusação ilegítima, um policial descobre que seus próprios colegas são responsáveis pela organização de uma série de esquemas de corrupção no interior de seu ambiente de trabalho. Indignado, ele decide coletar evidências para entregá-los para as autoridades mas sua corrida por justiça não será nada simples.</info>
-<thumbnail>http://br.web.img3.acsta.net/pictures/15/07/07/11/07/287394.jpg</thumbnail>
-<fanart>https://images3.alphacoders.com/804/804408.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR white][B]15H17: TREM PARA PARIS[/B][/COLOR]</title>
 <link>$doregex[BP1]15H17TRMPRPRS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -71,6 +59,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<link>$doregex[BP1]7SLPTSINTMLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um detetive investiga um assassinato, apenas para descobrir que a vítima é ele mesmo. Logo, ele descobre várias versões de si mesmo, nem todas amigáveis.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQKmTcd0cV8EouZolj0XVFrIPIhwS3yETcK5Los0Wzt78_UYuQ7</thumbnail>
+<fanart>https://www.themoviegourmet.com/wp-content/uploads/2018/02/7-Splinters3-1024x554.jpeg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]A ABELHINHA MAYA - O FILME[/B][/COLOR]</title>
 <link>$doregex[BP1]AABLHMAYA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -80,6 +80,18 @@
 <info>Maya é uma abelhinha muito querida, ela e seu melhor amigo, Willy, estão a procura de diversão. Um dia, acidentalmente, ela surpreende de maneira negativa a Imperatriz de Buzztropolis e, como consequência, é forçada a participar dos Jogos de Mel para conseguir salvar sua colmeia. Na competição, a abelhinha irá conhecer novos amigos, além de adversários extremamente habilidosos, enfrentando situações inéditas e desafiadoras.</info>
 <thumbnail>http://imagens.publico.pt/imagens.aspx/509303?tp=KM</thumbnail>
 <fanart>https://i.ytimg.com/vi/TWtRg6ZJ0vc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A BABÁ TEM QUE MORRER[/B][/COLOR]</title>
+<link>$doregex[BP1]ABABTMQMRE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Kate, estudante esforçada, tem um emprego de verão bem remunerado como babá em uma vinícola para compensar as despesas de matrícula. Logo ela percebe que algo está errado com as crianças que ela cuida.</info>
+<thumbnail>https://www.cinefilmeshd.net/wp-content/uploads/2018/09/a-baba-tem-que-morrer.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZDU3MGVjODItY2ExNi00ZGFjLWI1NjAtYzZiOTU3ZWFhNzkzXkEyXkFqcGdeQXVyNDQyNDQxMjk@._V1_.jpg</fanart>
 </item>
 
 <item>
@@ -179,6 +191,30 @@
 </item>
 
 <item>
+<title>[COLOR white][B]A LUZ DIVINA[/B][/COLOR]</title>
+<link>$doregex[BP1]ALZDVNA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Sol Harkens ( Kevin Sorbo) é o ateu mais famoso do mundo. Por sua opinião sempre contundentes e muitas vezes polêmica, ele alcançou muitos fãs e odiadores, mas mesmo assim leva uma vida solitária e amargurada, além de não conseguir dar de ser um bom pai. Mas, depois de quase morrer, ele verá todas as suas convicções sendo testadas e a sua rotina tendo mudanças radicais.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/17/09/14/22/14/3411223.jpg</thumbnail>
+<fanart>http://lettherebelightmovie.com/wp-content/uploads/2017/09/Kevin-and-Sam-Sorbo-1.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A MALDIÇÃO DA CASA DO LAGO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMALDCDCSDLGO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Acreditando terem feito um bom negócio, uma jovem família se muda para uma casa às margens do bucólico lago Elm. Apesar de parecer o lar ideal, a residência tem sua história manchada por uma tragédia: ela foi o palco de uma carnificina familiar. O que parecia ser o início de um sonho se transforma em pesadelo quando assombrosos acontecimentos começam a se desenrolar.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p15362060_v_v8_ab.jpg?api_key=snfwq54bnzvgucd7cqvgt86r&h=undefined</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/pictures/18/08/28/22/03/4958532.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]A MALDIÇÃO DA CASA WINCHESTER[/B][/COLOR]</title>
 <link>$doregex[BP1]AMLDCDCSWNCHSTR.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -188,6 +224,42 @@
 <info>Herdeira de uma empresa de armas de fogo, Sarah Winchester (Helen Mirren) está convicta de que é assombrada pelas almas mortas através do rifle da família Winchester. Após as repentinas mortes do marido e do filho, ela decide construir uma mansão para afastar os espíritos e ao avaliá-la o psiquiatra Eric Price (Jason Clarke) percebe que talvez sua obsessão não seja tão insana quanto parece.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSjNniAEhiUvbBiUK5PZbdMw-mDbxlRzQVdS6nd0qX3jAzjvilM</thumbnail>
 <fanart>https://falange.net/wp-content/uploads/2018/02/A-Maldi%C3%A7%C3%A3o-da-Casa-Winchester-Helen-Mirren.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A MALDIÇÃO DA FREIRA | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]THEDVLDRWYLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>No outono de 1960, os padres Thomas Riley (Lalor Roddy) e John Thornton (Ciaran Flynn) são enviados pelo Vaticano para investigar um evento milagroso em um lar irlandês para mulheres órfãs, grávidas solteiras ou com distúrbios mentais. Lá eles encontram uma adolescente grávida com sinais de possessão demoníaca e acabam descobrindo algo terrível.</info>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/17/19/49/2435371.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zrIndCUct8I/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A MANSÃO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMSAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um grupo de estudantes decide comemorar o Ano-Novo em uma mansão abandonada e isolada, mas a farra logo se transforma em um pesadelo mortal.</info>
+<thumbnail>http://woomagazine.com.br/wp-content/uploads/2018/09/A-Mans%C3%A3o-5.jpg</thumbnail>
+<fanart>http://www.lescinemasaixois.com/films/medias/photo2_11817.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A MANSÃO | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]AMSAOLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um grupo de estudantes decide comemorar o Ano-Novo em uma mansão abandonada e isolada, mas a farra logo se transforma em um pesadelo mortal.</info>
+<thumbnail>http://woomagazine.com.br/wp-content/uploads/2018/09/A-Mans%C3%A3o-5.jpg</thumbnail>
+<fanart>http://www.lescinemasaixois.com/films/medias/photo2_11817.jpg</fanart>
 </item>
 
 <item>
@@ -215,6 +287,30 @@
 </item>
 
 <item>
+<title>[COLOR white][B]A MORTE DO SUPERMAN[/B][/COLOR]</title>
+<link>$doregex[BP1]AMRTDSPRMN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A Liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto. </info>
+<thumbnail>https://i.imgur.com/qpeFL6i.jpg</thumbnail>
+<fanart>https://feededigno.com.br/wp-content/uploads/2018/05/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A MULHER MAIS ASSASSINADA DO MUNDO[/B][/COLOR]</title>
+<link>$doregex[BP1]AMLHRMASASNDMNDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Na década de 1930, em Paris, uma atriz famosa por suas assustadores cenas de morte no Teatro Grand Guignol enfrenta um misterioso perseguidor e fantasmas de seu passado.</info>
+<thumbnail>http://woomagazine.com.br/wp-content/uploads/2018/09/mulher-mais-assassinada-do-mundo-poster.jpg</thumbnail>
+<fanart>http://woomagazine.com.br/wp-content/uploads/2018/09/mulher-mais-assassinada-3.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]A MÚSICA DO SILÊNCIO[/B][/COLOR]</title>
 <link>$doregex[BP1]AMSCADSLCN.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -224,6 +320,18 @@
 <info>"A Música do Silêncio" será contada a partir da visão de Bocelli na forma de um romance autobiográfico, nomeando seu alter ego Amos Bardi. Ele escreve de uma família amorosa que incentivou seus dons musicais desde cedo, da cegueira que começou com o glaucoma e se completou após um acidente de futebol, e sua meteórica ascensão ao estrelato.</info>
 <thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14605731_v_v8_as.jpg?api_key=snfwq54bnzvgucd7cqvgt86r</thumbnail>
 <fanart>https://www.cinecompipoca.com.br/wp-content/uploads/2018/05/musica-do-silencio-imagem.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A NOITE DEVOROU O MUNDO[/B][/COLOR]</title>
+<link>$doregex[BP1]ANTDVROMNDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Após um noite de festa com muita bebida, Sam (Anders Danielsen Lie) acorda completamente sozinho em seu apartamento. Ainda confuso ele descobre um terrível acontecimento: a cidade de Paris está tomada por zumbis famintos. Rapidamente ele começa a proteger o prédio em que vive e elabora estratégias para conseguir manter-se vivo em meio a catástrofe. No entanto, ele ainda não tem certeza se é o único sobrevivente neste cenário hostil.</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQ4FFRrVB1ZZWwFfLtyIYxAuNTMFbFHqMmu7CKjPSG4G1cFs5fG</thumbnail>
+<fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/07/a-noite.jpg</fanart>
 </item>
 
 <item>
@@ -239,15 +347,15 @@
 </item>
 
 <item>
-<title>[COLOR white][B]A NOITE DOS MORTOS[/B][/COLOR]</title>
-<link>$doregex[BP1]ANOTDMRTS.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]A ODISSÉIA DE JACQUES[/B][/COLOR]</title>
+<link>$doregex[BP1]AODSEIA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<info>É Halloween em 1997, e também a última noite na escola para dois adolescentes skatistas, que vão deixar para trás a fase escolar e adentrar na famosa fase adulta. Mas, para um deles, Corey, alguns assuntos do passado ainda precisam ser resolvidos envolvendo um velho conhecido da infância. Para isso, os dois vão embarcar em uma viagem apavorante através de suas memórias, sonhos e medos.</info>
-<thumbnail>https://i0.wp.com/www.torrentmegafilmes.com/wp-content/uploads/2018/04/Boys-in-the-Trees.jpg</thumbnail>
-<fanart>https://i.imgur.com/WwDZjaQ.jpg</fanart>
+<info>O aventureiro oceânico e cineasta francês Jacques-Yves Cousteau (Lambert Wilson) larga a vida na terra ao embarcar em uma grande viagem no imenso navio Calypso, sua nova casa. Com o passar dos anos, no entanto, seu amor pelo mundo submerso - e principalmente suas possibilidades de negócios - relega a segundo plano a mulher (Audrey Tautou) e os filhos. Após crescer ressentido num internato, Phillippe (Pierre Niney) volta a bordo apesar da péssima relação com o pai e os dois precisam superar as diferenças e mágoas para sobreviver em mares gelados.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTxYnBwz5fQh4XvSLRD04PiDfLEMDiluGzJPhaXUwwTFX5FAnjO</thumbnail>
+<fanart>https://delfos.net.br/wp-content/uploads/2018/02/2018-02-11-aodisseia1.jpg</fanart>
 </item>
 
 <item>
@@ -263,7 +371,19 @@
 </item>
 
 <item>
-<title>[COLOR white][B]A PRAYER BEFORE DAWN[/B][/COLOR]</title>
+<title>[COLOR white][B]A OUTRA FILHA[/B][/COLOR]</title>
+<link>$doregex[BP1]AOUTRFLHA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Elizabeth Marshall (Paige Turco) está concorrendo ao governo do estado da Pensilvânia quando sua filha que foi roubada da maternidade reaparece. Uma sensação na mídia, a situação é muito favorável a campanha. Porém, as coisas se complicam quando Terri (Dominique Provost-Chalkley), a outra filha de Elizabeth, se sente ameaçada pela chegada da nova irmã.</info>
+<thumbnail>https://filmesfree.tv/wp-content/uploads/a-outra-filha-15694-poster-768x1138.jpg</thumbnail>
+<fanart>https://i.imgur.com/RbfJ8yX.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A PRAYER BEFORE DAWN | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]ARYRBFRDWNLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -296,6 +416,18 @@
 <info>Brasília, início da década de 1980. O REPI (Registro de Patentes e Invenções) acaba de ser capa de uma importante revista nacional, que o coloca como exemplo da burocracia existente no governo. Lisboa (Eucir de Souza), o chefe, não gosta nem um pouco da reportagem e decide cobrar atitude de seus funcionários, que fazem de tudo menos trabalhar. Paralelamente, o Dr. Brasil (Tonico Pereira) deseja patentear uma máquina do tempo e a deixa no REPI. Ao colocar o aparelho no estoque, Jonas (Edu Moraes) acidentalmente o aciona e, consequentemente, volta no tempo.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQMk0NfsAcmfzxVu7rH3fQNq4DXfLPrEZC3LnZaYX8eZhsbd4_l</thumbnail>
 <fanart>https://portalrefil.com.br/img/3ea5a4f5307b51446e65187295a9059c.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]A SOCIEDADE LITERÁRIA E A TORTA DE CASCA DE BATATA[/B][/COLOR]</title>
+<link>$doregex[BP1]ASCDADELTRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Juliet Ashton (Lily James) é uma escritora na Londres de 1946 que decide visitar Guernsey, uma das Ilhas do Canal invadidas pela Alemanha durante a Segunda Guerra Mundial, depois que ela recebe uma carta de um fazendeiro contando sobre como um clube do livro local foi fundado durante a guerra. Lá ela constrói profundos relacionamentos com os moradores da ilha e decide escrever um livro sobre as experiências deles na guerra.</info>
+<thumbnail>http://chavesnicole.com/wp-content/uploads/2018/08/the29chapters-moviereview-a-sociedade-liter%C3%A1ria-e-a-torta-de-casca-de-batata-netflix-adaptacao.jpg</thumbnail>
+<fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2018/08/sociedade-liter%C3%A1ria-e-a-torta-de-casca-de-batata.jpg</fanart>
 </item>
 
 <item>
