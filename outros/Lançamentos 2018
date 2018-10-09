@@ -455,6 +455,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]A ÚLTIMA TESTEMUNHA[/B][/COLOR]</title>
+<link>$doregex[BP1]AULTMTSTMNHA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Thriller de pós-guerra sobre o assassinato em massa de 22.000 poloneses. Após a Segunda Guerra Mundial, o jornalista Stephen Underwood (Alex Pettyfer ) descobre o terrível assassinato de 22.000 poloneses sob as instruções de Stalin, embora durante muitos anos a culpa pelo assassinato foi atribuída aos nazistas. Na época, as informações sobre o Massacre de Katyn, como veio a ser conhecido, foram encobertas por ambos os governos britânico e norte-americano em vista da delicada relação com a Rússia durante e depois da guerra.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p15379098_v_v8_as.jpg?api_key=snfwq54bnzvgucd7cqvgt86r&h=undefined</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280//dx8LJkbWO5Y0uIZYYEpkFyoIup7.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]A VIDA EM ESPERA[/B][/COLOR]</title>
 <link>$doregex[BP1]AVDAEMESPRA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -476,6 +488,18 @@
 <info>Para salvar a vida de sua mulher que está terminalmente doente, um padre usa seus conhecimentos sobre exorcismos para possuí-la, a fim de salvar sua vida. Porém, durante o ritual algo dá errado, e todas as almas que ele já tinha exorcisado voltam em busca de vingança.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/07/06/18/15/1750507.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/lvDv4VElhUM/hq720.jpg?v=5b3e6e80</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ABULELE: MEU AMIGO MONSTRO[/B][/COLOR]</title>
+<link>$doregex[BP1]ABLEMAMGMNST.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Adam é um menino de dez anos que perdeu o irmão mais velho em um acidente de carro. Desde então sua família não foi mais a mesma. Além dele e seus pais lutarem para lidar com a dor, Adam ainda precisa se livrar dos valentões que o atormentam na escola. Mas tudo muda com a chegada de Abulele, uma criatura mística que vira seu amigo.</info>
+<thumbnail>http://br.web.img3.acsta.net/r_1280_720/pictures/17/05/11/14/58/360214.jpg</thumbnail>
+<fanart>https://i.imgur.com/a7F6FrI.jpg</fanart>
 </item>
 
 <item>
@@ -503,7 +527,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B]ACRIMONIA[/B][/COLOR]</title>
+<title>[COLOR white][B]ACRIMÔNIA: ELA QUER VINGANÇA[/B][/COLOR]</title>
 <link>$doregex[BP1]ACRMNIA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -611,6 +635,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ANTES QUE EU ME ESQUEÇA[/B][/COLOR]</title>
+<link>$doregex[BP1]ANTSQUEUMESCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Aos 80 anos de idade, Polidoro (José de Abreu) é um soberbo juiz aposentado que vive sozinho e mal tem contato com o filho Paulo (Danton Mello), pianista fracassado. Quando sua filha mais próxima, Bia (Letícia Isnard), entra com uma ação para interditá-lo, ele decide investir seus fundos numa boate de striptease em Copacabana.</info>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcREP6RvtdOKhXYCK4Xp_CSiD33XwpM0ludW_h4E_ff-LzmvVUIt</thumbnail>
+<fanart>https://i.ytimg.com/vi/Ce2SgWN42zc/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]AOS TEUS OLHOS[/B][/COLOR]</title>
 <link>$doregex[BP1]AOSTUSOLHS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -620,6 +656,18 @@
 <info>Rubens (Daniel de Oliveira) é um professor de natação carismático e extrovertido, que dá aulas para pré-adolescentes em um clube. Querido por todos devido ao seu jeito brincalhão e parceiro, ele se vê em apuros quando um de seus alunos, Alex (Luís Felipe Melo), diz à mãe que o professor lhe deu um beijo na boca no vestiário. Alegando inocência, Rubens é acusado pelos pais da criança e passa a ter que lidar com um verdadeiro linchamento virtual, que tem início através de mensagens de WhatsApp e explode de vez quando chega ao Facebook.</info>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQiuaIRb3f616p3QzYnB8EgbYqiIriIpcLO3E9NLReyahH4_zRB</thumbnail>
 <fanart>https://correio-cdn2.cworks.cloud/fileadmin/_processed_/4/3/csm_11042018RM2150_2a682f9491.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AQUI EM CASA TUDO BEM | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]AQEMCSTDBMLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Uma grande família se reúne em uma ilha em Nápoles para comemorar as bodas de ouro dos avós, Alba e Pietro. Porém, quando em meio as festividades uma tempestade faz com que o numeroso grupo fique preso na ilha, eles são obrigados a encarar os rancores e hipocrisias escondidos por muitos anos na família.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTolqf_UimJBOqv6cmvPZsCece2oWwh6hz7vHdwuFPNCQjzF4eM</thumbnail>
+<fanart>https://3.bp.blogspot.com/-Uo_pFLlwWKg/W36teqa4FvI/AAAAAAAAI1c/DPsZKL4LEYAtZQrJ-KRsEiykl_c6_kubwCLcBGAs/s1600/cas01.jpg</fanart>
 </item>
 
 <item>
