@@ -1653,3 +1653,51 @@
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRDUYcCJ__YZFLlptcfFd-m_j1M18OmH7RUcYUyi689uSxfTEiH</thumbnail>
 <fanart>http://www.quadroporquadro.com.br/wp-content/uploads/2018/01/01EncolhiaProfessora.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]ENTRE SOMBRAS[/B][/COLOR]</title>
+<link>$doregex[BP1]ENTRSMBRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Sofia (Natalie Dormer) é uma pianista cega que escuta uma briga do apartamento acima do seu, que acaba levando à morte de sua vizinha, Veronique (Emily Ratajkowski). É o começo de uma jornada que empurra Sofia para fora de sua zona de conforto e a faz entrar em contato com o pai de Veronique, Milos Radic (Jan Bijvoet), um empresário sérvio e suspeito criminoso de guerra acusado de cometer genocídio durante a guerra da Bósnia. Atrás da verdade, Sofia arrisca sua vida em busca de respostas e mergulha em um obscuro submundo de corrupção, violência e chantagem.</info>
+<thumbnail>http://br.web.img3.acsta.net/pictures/18/05/04/12/45/4993935.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/d5ydgKvdG1A/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ESQUADRÃO SUICIDA: ACERTO DE CONTAS[/B][/COLOR]</title>
+<link>$doregex[BP1]ESQDRSCDAACRTDCNTS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Amanda Waller e sua força tarefa - Pistoleiro, Tigre de Bronze, Nevasca, Capitão Bumerangue, Arlequina e Cobra Venenosa - estão numa missão para recuperar um objeto místico poderoso, e estão dispostos a arriscar suas próprias vidas. Mas, o Esquadrão Suicida não é o único grupo de vilões que está nessa busca.</info>
+<thumbnail>https://www.animesonline.co/wp-content/uploads/2018/05/esquadrao-suicida-acerto-de-contas-5038-poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/zylwQ6bs41A/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ESTRELAS DE CINEMA NUNCA MORREM[/B][/COLOR]</title>
+<link>$doregex[BP1]ESRTLSNCINENCAMRE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Quando o jovem ator britânico Peter Turner (Jamie Bell) encontra Gloria Grahame (Annette Bening) pela primeira vez, ele nem suspeita que se trata de uma atriz famosa, que já venceu um Oscar durante a juventude. Décadas mais tarde, no entanto, ela foi esquecida e leva uma vida decadente. Aos poucos, os dois se aproximam e desenvolvem uma história de amor, apesar do preconceito da sociedade. O destino separa os dois mas, anos mais tarde, Gloria reaparece para Peter confessando sofrer de uma doença, e pede ajuda. Peter deve decidir se aceita cuidar dela, enquanto relembra os motivos que aproximaram o casal no passado.</info>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcR_ooNB1aIqHJl8_IZw122u6sCALywGDLq1RBgX7285wGIJeNfg</thumbnail>
+<fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2018/04/estrelas-de-cinema-nunca-morrem.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]ETERNAMENTE MANHATTAN[/B][/COLOR]</title>
+<link>$doregex[BP1]ETRNDMENTMNHTN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Vivian (Sarah Roemer), é uma vampira à procura de um artista para pintar um retrato seu, para que ela possa ver sua imagem pela primeira vez após anos de existência. Ela encontra Max (Luke Grimes), um jovem pintor, que logo fica fascinado, tanto pela mulher quanto pela criatura.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BN2NiZmNhNzMtMDhlNy00OTdjLWIwZDUtMTM3ZjI0YWM4N2FhXkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_.jpg</thumbnail>
+<fanart>https://musicart.xboxlive.com/6/cfc60455-0000-0000-0000-000000000009/504/image.jpg?w=1920&h=1080</fanart>
+</item>
