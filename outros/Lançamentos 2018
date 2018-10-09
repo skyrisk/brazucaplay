@@ -1701,3 +1701,51 @@
 <thumbnail>https://m.media-amazon.com/images/M/MV5BN2NiZmNhNzMtMDhlNy00OTdjLWIwZDUtMTM3ZjI0YWM4N2FhXkEyXkFqcGdeQXVyNzIzMTc2Mw@@._V1_.jpg</thumbnail>
 <fanart>https://musicart.xboxlive.com/6/cfc60455-0000-0000-0000-000000000009/504/image.jpg?w=1920&h=1080</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]EU MATO GIGANTES | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]EUMTGIGNTSLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>A jovem e problemática Barbara (Madison Wolfe) tenta escapar da difícil realidades que é sua vida, e vai  para um mundo mágico onde acaba lutando com monstros gigantes. Mas, sera que ela é a única na cidade que consegue ver o mundo da fantasia que existe? Ou será que são apenas delírios?</info>
+<thumbnail>http://www.vortexcultural.com.br/images/2018/04/i-kill-giants.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/o7X9xJaD81AyQzfi6dquOl90IeI.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EU NÃO SOU UM HOMEM FÁCIL[/B][/COLOR]</title>
+<link>$doregex[BP1]EUNSOUMHMNFCL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>A história gira em torno de Damien (Vincent Elbaz), que um dia acorda em um mundo onde as mulheres e os homens inverteram os seus papéis na sociedade. O mundo mudou, agora são as mulheres que têm poder sobre os homens. Uma situação engraçada quando não somos avisados.</info>
+<thumbnail>https://i0.wp.com/becoliterario.com/wp-content/uploads/2018/06/poster-780.jpg?fit=780%2C1092&ssl=1</thumbnail>
+<fanart>https://occ-0-428-185.1.nflxso.net/art/183bb/d9a71f2471d0b434c2bbe00f51e456cf71c183bb.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EU SÓ POSSO IMAGINAR[/B][/COLOR]</title>
+<link>$doregex[BP1]EUSOPSOIMGNR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Bart Millard (J. Michael Finley) é o vocalista da banda cristã MercyMe e tem um relacionamento conturbado com seu pai, que sempre o tratou de maneira dura e nunca entendeu seu amor pela música. Conseguindo forças através de Deus, Bart resolve então eternizar sua relação em uma canção, "I Can Only Imagine".</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRI_6ESIpLHA0Y_uvmtgSmpTqdaAapM01cYCJHvYWbqmd9wi76z</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2018/05/eu-s%C3%B3-posso-imaginar-001.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]EU, TONYA[/B][/COLOR]</title>
+<link>$doregex[BP1]EUTNYA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Desde muito pequena exibindo talento para patinação artística no gelo, Tonya Harding (Margot Robbie) cresce se destacando no esporte e aguentando maus-tratos e humilhações por parte da agressiva mãe (Allison Janney). Entre altos e baixos na carreira e idas e vindas num relacionamento abusivo com Jeff Gillooly (Sebastian Stan), a atleta acaba envolvida num plano bizarro durante a preparação para os Jogos Olímpicos de Inverno de 1994. Baseado em fatos reais.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRcjAm1XkoeAn8hMlrcQJt2xvEsp3tIh8OTrqaqqWO4br-7tx8v</thumbnail>
+<fanart>http://www.californiafilmes.com.br/wp-content/uploads/2017/11/EuTonyaCartaz_1920x1080-1.jpg</fanart>
+</item>
