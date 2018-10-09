@@ -671,6 +671,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ARÁBIA[/B][/COLOR]</title>
+<link>$doregex[BP1]ARBIA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Em Ouro Preto, Minas Gerais, um jovem (Murilo Caliari) encontra por acaso o diário de um operário metalúrgico que sofreu um acidente e por suas memórias embarca numa jornada pelas condições de vida de trabalhadores marginalizados.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcShpzl-LiHZYczjWlQYPA6g95bI9S8-7JW_BJQ2gfMxxhqHuHcK</thumbnail>
+<fanart>http://cinemaemcena.cartacapital.com.br/uploads/artigos/20180405085308.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]ÁREA 15[/B][/COLOR]</title>
 <link>$doregex[BP1]AR15.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -683,6 +695,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]ARRANHA-CÉU: CORAGEM SEM LIMITE | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]ARNHCEUCRGMSMLMTLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+<thumbnail>https://jovemnerd.com.br/wp-content/uploads/2018/02/unnamed.jpg</thumbnail>
+<fanart>https://i.uai.com.br/66x3GWWZ6YEMb1MSFuWq9E5--9E=/imgsapp2.uai.com.br/app/noticia_133890394703/2018/07/12/230493/20180712090652884323i.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]ARTISTA DO DESASTRE[/B][/COLOR]</title>
 <link>$doregex[BP1]OARTSTDSTRE.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -692,6 +716,54 @@
 <info>Greg Sestero (Dave Franco) se aproxima do excêntrico Tommy Wiseau (James Franco) após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood, onde Tommy, cansado de ser rejeitado em testes, decide produzir, financiar, dirigir, escrever e protagonizar – ao lado do melhor amigo – o longa-metragem que o catapultará ao estrelato: "The Room".</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTYVGytdTY2RCgJA3ZUTO2g3M6DOxT5VDBNwiuy4Eg2oAtudmp_</thumbnail>
 <fanart>https://i1.wp.com/nosbastidores.com.br/wp-content/uploads/2017/10/tda.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS AVENTURAS DE BRIGSBY BEAR[/B][/COLOR]</title>
+<link>$doregex[BP1]ASAVNTRSDBGBYBER.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>"Brigsby Bear Adventures" é um programa de TV infantil produzido para um público formado por uma pessoa: James (Kyle Mooney). Quando o show acaba de repente, a vida de James muda para sempre, e ele traça como objetivo terminar a história do programa sozinho.</info>
+<thumbnail>https://i.redd.it/chrq2fmhxrr01.jpg</thumbnail>
+<fanart>https://pmcvariety.files.wordpress.com/2016/11/brigsby-bear.jpg?w=1000&h=562&crop=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS AVENTURAS DE BRIGSBY BEAR | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]BRGSBEARLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>"Brigsby Bear Adventures" é um programa de TV infantil produzido para um público formado por uma pessoa: James (Kyle Mooney). Quando o show acaba de repente, a vida de James muda para sempre, e ele traça como objetivo terminar a história do programa sozinho.</info>
+<thumbnail>https://i.redd.it/chrq2fmhxrr01.jpg</thumbnail>
+<fanart>https://pmcvariety.files.wordpress.com/2016/11/brigsby-bear.jpg?w=1000&h=562&crop=1</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS BOAS MANEIRAS[/B][/COLOR]</title>
+<link>$doregex[BP1]ASBOSMNRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Ana (Marjorie Estiano) contrata Clara (Isabél Zuaa), uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos e sinistros hábitos noturnos que afetam diretamente Clara.</info>
+<thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcSlhXcJmohp8f01O_j9_UvAiJQVzpK6QR-m13Ewjfw7pBl7uoZr</thumbnail>
+<fanart>http://www.cinematorio.com.br/wp-content/uploads/2018/06/asboasmaneiras05.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]AS CALOURAS[/B][/COLOR]</title>
+<link>$doregex[BP1]ASCLRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>HERE</info>
+<thumbnail>HERE</thumbnail>
+<fanart>HERE</fanart>
 </item>
 
 <item>
