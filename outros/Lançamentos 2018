@@ -1175,6 +1175,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]CITY OF JOY: ONDE VIVE A ESPERANÇA[/B][/COLOR]</title>
+<link>$doregex[BP1]CTYOFJOYONDVIVEAESPCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>As mulheres que foram sexualmente brutalizadas no Congo devastado pela guerra começam a se curar na Cidade da Alegria, um centro que as ajuda a recuperar um senso de autonomia e poder.</info>
+<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/15836608/p15836608_v_v8_aa.jpg</thumbnail>
+<fanart>https://occ-0-37-2794.1.nflxso.net/art/7ace6/203575347cb69ee5ab5d322c7df8a1e8ce67ace6.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]CLUBE DOS INFIÉIS HONESTOS[/B][/COLOR]</title>
 <link>$doregex[BP1]CLBSDSINFSHNSTLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1196,6 +1208,30 @@
 <info>Aos 17 anos, Simon Spier (Nick Robinson) aparentemente leva uma vida comum, mas sofre por esconder um grande segredo: nunca revelou ser gay para sua família e amigos. E tudo fica mais complicado quando ele se apaixona por um dos colegas de escola, anônimo, com quem troca confidências diariamente via internet.</info>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/02/02/20/46/3823001.jpg</thumbnail>
 <fanart>https://i2.wp.com/www.cinemundo.net.br/wp-content/uploads/2018/03/Cr%C3%ADtica-Com-Amor-Simon.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]COMBATENTES DA LIBERDADE: RAY[/B][/COLOR]</title>
+<link>$doregex[BP1]CMBTNTSDLBRTDRAY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um repórter que descobre um grupo de cientistas do governo trabalhando em um projeto para transformar luzes em armas de destruição em massa. Antes de conseguir denunciar suas descobertas, Ray é exposto à uma 'bomba de luz genética' que falha em mata-lo: ao invés disso, ela lhe dá poderes luminosos. Com essas habilidades, Ray percebe que deve ir além do simples ato de informar a injustiça - ele deve tomar ação para impedi-la. Autodenominado de o Raio, ele é recrutado para os Combatentes da Liberdade para lutar contra a violência e opressão.</info>
+<thumbnail>https://www.animesonline.co/wp-content/uploads/2018/08/combatentes-da-liberdade-ray-7701-poster.jpg</thumbnail>
+<fanart>https://musicart.xboxlive.com/7/3cb05000-0000-0000-0000-000000000002/504/image.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]CÓMPLICES[/B][/COLOR]</title>
+<link>$doregex[BP1]CMPLCS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Juan Campos (Arath de la Torre) dedicou sua vida a seduzir as mulheres mais bonitas com seu amigo e cúmplice Luis Pani. Quando se preparam para sua viagem à República Dominicana, Luis fica doente e Juan é obrigado a levar seu sobrinho Mau (Jesus Zavala), um menino de 20 anos que está passando pela depressão de perder seu primeiro amor. Enquanto Juan treina Mau na arte da conquista, surge Teresa D'Ors (Marina de Tavira), a única mulher no mundo capaz de paralisar Juan. Juntos, eles se aventuram em uma jornada em que aprenderão uns com os outros e descobrirão que nada é dito em amor.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWUxZDYxZmQtZGE0Yi00NDFhLTlkMTMtZDdjNWNlZGEyMmVhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOGZjN2VmNWYtMWExNC00ZTAxLWIwZTMtNjVlZjNhZDRmYWIxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg</fanart>
 </item>
 
 <item>
@@ -1307,6 +1343,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]DE CARONA PARA O AMOR[/B][/COLOR]</title>
+<link>$doregex[BP1]DCRNOPROAMR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Jocelyn é um empresário muito bem-sucedido, extremamente egocêntrico e egoísta, sempre disposto a inventar mentiras para tirar vantagem em qualquer situação promissora. Um dia, ele resolve seduzir uma bela mulher fingindo sofrer de uma deficiência. No entanto, fica mais difícil sustentar a farsa quando ele é apresentado a nova cunhada, que é realmente deficiente.</info>
+<thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcT2g8ue0ErM0ySBEkvq3d-ry2W1QhBKGg1dXNbMbEgTayxLiZQI</thumbnail>
+<fanart>https://i.ytimg.com/vi/vl4RwtFIP1o/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]DE ENCONTRO COM A VIDA[/B][/COLOR]</title>
 <link>$doregex[BP1]DENCTROCMAVDA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1316,6 +1364,18 @@
 <info>Quando está prestes a terminar a faculdade, Saliya (Kostja Ullmann) começa a sofrer os efeitos de uma grave doença genética e perde 95% da visão. O rapaz sempre teve o sonho de trabalhar em um grande hotel de luxo, mas todas as candidaturas de emprego são recusadas em função de sua deficiência. Ele decide então esconder o fato de ser praticamente cego, e se candidata a um dos maiores hotéis de Munique. Contando com a ajuda do amigo Max (Jacob Matschenz), ele enfrenta as dificuldades diárias, enquanto conhece a bela Laura (Anna Maria Mühe) e se apaixona. Mas até quando conseguirá manter o segredo?</info>
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcS5gRoGQd460yoVyXPZLe_TuQUhAu4_nRTXi13lzvX3mLIjWoRz</thumbnail>
 <fanart>https://poltronanerd.com.br/wp-content/uploads/2018/04/BlindDate_024.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DEADPOOL 2[/B][/COLOR]</title>
+<link>$doregex[BP1]DEADP2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Quando o super soldado Cable (Josh Brolin) chega em uma missão para assassinar o jovem mutante Russel (Julian Dennison), o mercenário Deadpool (Ryan Reynolds) precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder (Karan Soni).</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQk4VujIOVqKQGdAk-MUHoGKTSyRHg8lzTnZsCpTuxOTle7BWP7</thumbnail>
+<fanart>http://hdqwalls.com/wallpapers/deadpool-2-poster-2018-movie-xt.jpg</fanart>
 </item>
 
 <item>
@@ -1343,6 +1403,18 @@
 </item>
 
 <item>
+<title>[COLOR white][B]DEPOIS DO APOCALIPSE[/B][/COLOR]</title>
+<link>$doregex[BP1]DEPOSDAPCLPSE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Lutando contra a fome, a sede, uma perna quebrada e uma série de criaturas saídas dos piores pesadelos, Juliette (Brittany Ashworth) é uma solitária sobrevivente de uma era apocalíptica. Em busca de alimento e água, ele se acidenta e perde todos os sentidos. Ela acorda quando já é noite, hora em que as criaturas saem para caçar.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZWYxOTM0YzMtNjAyZC00NTRmLWI3MmMtNmZiZTM4MzFlOTZhXkEyXkFqcGdeQXVyMTk4MDMyOTM@._V1_.jpg</thumbnail>
+<fanart>https://luizandreoli.com.br/wp-content/uploads/2018/03/Hostile-Post-Apocalyptic-movie-2017.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]DESAPARECIDA[/B][/COLOR]</title>
 <link>$doregex[BP1]PRDA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1352,6 +1424,18 @@
 <info>Um professora de uma prestigiosa escola de inglês em Buenos Aires viaja com cinco alunas para El Paraje, para estudar como a cidade do sul da Argentina ressurgiu após a erupção do vulcão Tunik. Mas na viagem, Cornelia Villalba, filha de um renomado médico, desaparece misteriosamente. Dez anos depois, o caso será reaberto e, como consequência, desaparecerá outra das quatro ex-alunas.</info>
 <thumbnail>http://www.mubis.es/media/users/9888/211603/ya-disponible-en-netflix-original.jpg</thumbnail>
 <fanart>https://www.krump.com.br/wp-content/uploads/2018/08/Desaparecida-Netflix-Previa.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DESCOBRINDO UMA TRAIÇÃO[/B][/COLOR]</title>
+<link>$doregex[BP1]DSCBRNDUMTRCAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Uma esposa contrata uma caçadora de infiéis para pegar o marido em flagrante e garantir a custódia de sua filha. Mas quando ele e a amante aparecem mortos e a caçadora desaparece, a esposa ressentida torna-se a principal suspeita.</info>
+<thumbnail>http://www.gstatic.com/tv/thumb/v22vodart/15164221/p15164221_v_v8_aa.jpg</thumbnail>
+<fanart>https://www.tvinsider.com/wp-content/uploads/2018/02/18-10-5100-1014x570.jpg</fanart>
 </item>
 
 <item>
@@ -1379,6 +1463,42 @@
 </item>
 
 <item>
+<title>[COLOR white][B]DESOBEDIÊNCIA[/B][/COLOR]</title>
+<link>$doregex[BP1]DESBDIENCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>A fotógrafa Ronit (Rachel Weisz) retorna para a cidade natal pela primeira vez em muitos anos em virtude da morte do pai, um respeitado rabino. Seu afastamento foi bastante abrupto e o reaparecimento é visto com desconfiança na comunidade, mas ela acaba acolhida por um amigo de infância (Alessandro Nivola), para sua surpresa atualmente casado sua paixão de juventude, Esti (Rachel McAdams).</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQar-vB4mXCN0Bq6vyOWoVRgeZe1_mbreijexnIttDqf3Vc37Ah</thumbnail>
+<fanart>https://i1.wp.com/mulhernocinema.com/wp-content/uploads/2018/06/desobediencia.jpg?resize=1024%2C509</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DEUS NÃO ESTÁ MORTO: UMA LUZ NA ESCURIDÃO | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]DSNESTMRTUMLCNESCDAOLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Em meio a um intenso debate sobre se uma universidade estadual deve ter uma igreja em seu campus, o pastor Dave (David R. White) é surpreendido com um incêndio na igreja Saint James, no qual morre seu grande amigo, o reverendo Jude (Benjamin A. Onyango). O incidente foi provocado por Adam (Mike C. Manning), que atirou um tijolo em uma janela da igreja após brigar com a namorada (Samantha Boscarino). A situação acirra o debate, ainda mais devido à proposta da universidade em comprar o terreno usado pela igreja para ali construir um centro educacional. Decidido a lutar até o fim, Dave busca ajuda com seu irmão Pearce (John Corbett), que é advogado.</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcT_vh7LiGlN-EyhcjHK4ZX3tR8palVB59qnouJAIehYyq9jKnXH</thumbnail>
+<fanart>https://3.bp.blogspot.com/-gf35i-grmtQ/W4ckoXdUD5I/AAAAAAAB3d0/h3eoGGTjTKgkJbgCiDbqTC3nZQAPcjknQCLcBGAs/s1600/god.jpeg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DIA DE CASAMENTO 3[/B][/COLOR]</title>
+<link>$doregex[BP1]DIADCSMTO3.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>É fim de semana do Dia dos Namorados e o resort que Olivia (Josie Bissett) e Mick (Jack Wagner) gerenciam juntos está lotado. Tudo vira um caos quando, em uma visita de família, a irmã de Mick decide fazer seu casamento lá naquele fim de semana mesmo e, para completar, sua filha conta que está planejando largar a faculdade.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRkZjEwOTAtM2ExNC00ZTg1LWJjYmItYzAxNTUwMWUyZWQzXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/z6XYG-9nE2Q/maxresdefault.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]DIA DOS MORTOS[/B][/COLOR]</title>
 <link>$doregex[BP1]DIADSMRTS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1403,11 +1523,51 @@
 </item>
 
 <item>
+<title>[COLOR white][B]DO FUNDO DO MAR 2[/B][/COLOR]</title>
+<link>$doregex[BP1]DOFNDMR2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Um bilionário brilhante, Carl Durant, está fazendo experimentos em tubarões-touro, o que logo se torna um pesadelo para um grupo de cientistas que terá sobreviver e lutar contra um bando de tubarões geneticamente modificados.</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BZDMzZDMwMTgtNjA1Yi00NWJkLWIzMDctNjEwY2EyZDM1ZDMzXkEyXkFqcGdeQXVyNjg0NzkwOTk@._V1_.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-tuCqD0Nwk6c/Wm4PHGXtqhI/AAAAAAAAPD8/vuANGqxRCh4LGV83oxtfld3EYXs_h-JAwCLcBGAs/s1600/DUf2PPnVoAEO6fs.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DO JEITO QUE ELAS QUEREM[/B][/COLOR]</title>
+<link>$doregex[BP1]DOJTQELSQRM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Nos arredores da Califórnia, quatro amigas de longa data estão na casa dos 60 anos e decidem ler no clube do livro mensal o romance Cinquenta Tons de Cinza. Esse não é o tipo de livro que elas leem normalmente, o que faz com que a vida dessas mulheres bem-sucedidas e refinadas mude completamente.</info>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcQvEp7ufU8k3eilbfIwGKjkv91ogvaJULKDkLbLlJ_n2B8X_kCJ</thumbnail>
+<fanart>https://f.i.uol.com.br/fotografia/2018/06/13/15289291945b219baa57125_1528929194_3x2_rt.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR white][B]DOCE ARGUMENTO[/B][/COLOR]</title>
-<link></link>
+<link>$doregex[BP1]DOCARGMT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <info>Eles podem estar sempre em pé de guerra na escola, mas uma coisa eles têm em comum: determinação para entrar na faculdade de seus sonhos.</info>
 <thumbnail>https://i0.wp.com/pipocamoderna.com.br/wp-content/uploads/2018/04/Candy-Jar-film-poster.jpg</thumbnail>
 <fanart>https://www.dailydot.com/wp-content/uploads/2018/04/CJ_02171-1-e1524816152380.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DOMANDO O DESTINO | [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]THRDRLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Depois de sofrer uma lesão quase fatal na cabeça, um jovem vaqueiro empreende uma busca por uma nova identidade e o que significa ser um homem no coração da América.</info>
+<thumbnail>http://tmsimg.cds.nowonline.com.br/assets/p14671211_v_v8_au.jpg?api_key=snfwq54bnzvgucd7cqvgt86r&h=undefined</thumbnail>
+<fanart>http://br.web.img3.acsta.net/r_1280_720/pictures/18/04/19/16/48/4114575.jpg</fanart>
 </item>
 
 <item>
@@ -1432,4 +1592,16 @@
 <info>Duda e sua mãe, Catherine, estão de mudança novamente. Desta vez elas irão morar em uma imensa casa, com fama de mal-assombrada, que possui vários gnomos de jardim. Após encontrar uma sala secreta e de lá retirar um cristal inusitado, Duda é surpreendida com o fato de que os gnomos têm vida e precisam sempre combater os trogs, seres de outra dimensão que devoram tudo o que vêem pela frente.</info>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcRZvLq-95c4uJU7k8rZtA2zTP-nnZEqBu9HQLbzTLTwXyImYrWa</thumbnail>
 <fanart>https://observatoriodocinema.bol.uol.com.br/wp-content/uploads/2018/02/duda-e-os-gnomos.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white][B]DUDE: A VIDA É ASSIM[/B][/COLOR]</title>
+<link>$doregex[BP1]DUDAVDEASSM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Lily (Lucy Hale), Chloe (Kathryn Prescott), Amelia (Alexandra Shipp) e Rebecca (Awkwafina) são quatro amigas que depois de anos do ensino médio, precisam lidar com responsabilidades, problemas e os desafios da vida como jovens adultas.</info>
+<thumbnail>https://pbs.twimg.com/media/Dam3-6LXkAIWVJL.jpg</thumbnail>
+<fanart>https://occ-0-428-185.1.nflxso.net/art/66c4d/41cfbd64a3317daefaed7b0664180c2f4ed66c4d.jpg</fanart>
 </item>
