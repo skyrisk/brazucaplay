@@ -1749,3 +1749,15 @@
 <thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcRcjAm1XkoeAn8hMlrcQJt2xvEsp3tIh8OTrqaqqWO4br-7tx8v</thumbnail>
 <fanart>http://www.californiafilmes.com.br/wp-content/uploads/2017/11/EuTonyaCartaz_1920x1080-1.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR white][B]HAN SOLO: UMA HISTÓRIA STAR WARS[/B][/COLOR]</title>
+<link>$doregex[BP1]HANSLOUHSTSTRWRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>$doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<info>Em dificuldade financeira, o piloto Han Solo (Alden Ehrenreich) e sua namorada Qi'ra (Emilia Clarke) buscam algum trabalho. Eles conseguem pôr as mãos em uma substância valiosa, mas perigosa, que acaba levando à perseguição do Império e à separação entre os dois. Preocupado, Han usa toda a sua esperteza para se infiltrar num plano arriscado, mas que pode render a oportunidade de voltar à terra natal e reencontrar a sua amada. Caso ele falhe, vai ter que prestar contas ao perigoso Dryden Vos (Paul Bettany). No caminho, o piloto encontra parceiros importantes, como Chewbacca (Joonas Suotamo) e Lando Calrissian (Donald Glover), o proprietário original da Millennium Falcon.</info>
+<thumbnail>http://t1.gstatic.com/images?q=tbn:ANd9GcTAbrdQD-f_ol3-qeSRjrCC3DfNvSBzCGXPFKeqd_nfs5JqOs4q</thumbnail>
+<fanart>https://nerdbreak.com.br/wp-content/uploads/2018/05/han-solo-016.jpg</fanart>
+</item>
