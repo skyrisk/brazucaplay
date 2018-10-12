@@ -59,7 +59,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B]HERE[/B][/COLOR]</title>
+<title>[COLOR white][B]7 SPLINTERS IN TIME [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
 <link>$doregex[BP1]7SLPTSINTMLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
