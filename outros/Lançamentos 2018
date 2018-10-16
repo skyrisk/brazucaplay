@@ -4919,3 +4919,75 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <info>Thanos (Josh Brolin) enfim chega à Terra, disposto a reunir as Joias do Infinito. Para enfrentá-lo, os Vingadores precisam unir forças com os Guardiões da Galáxia, ao mesmo tempo em que lidam com desavenças entre alguns de seus integrantes.</info>
 <date></date>
 </item>
+<item>
+<title>[B][COLOR white]VINGANÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]VNGNCA2018.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Vingan%C3%A7a%202018.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Vingan%C3%A7a%202018.jpg</fanart>
+<info>Três homens casados e ricos fazem anualmente uma espécie de caçada no deserto. Desta vez, um dos empresários decide trazer sua amante (Matilda Lutz). Quando ela é abandonada para morrer devido a uma série de acontecimentos, eles terão que lidar consequências de uma mulher que busca vingança.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]VIVA: A VIDA É UMA FESTA[/COLOR][/B]</title>
+<link>$doregex[BP1]VIVAAVDEUMFST.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Viva%20-%20A%20Vida%20%C3%A9%20uma%20Festa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Viva%20-%20A%20Vida%20%C3%A9%20uma%20Festa.jpg</fanart>
+<info>Miguel é um menino de 12 anos que quer muito ser um músico famoso, mas ele precisa lidar com sua família que desaprova seu sonho. Determinado a virar o jogo, ele acaba desencadeando uma série de eventos ligados a um mistério de 100 anos. A aventura, com inspiração no feriado mexicano do Dia dos Mortos, acaba gerando uma extraordinária reunião familiar.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]WELCOME TO CURIOSITY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]WLCMTCRSOSLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Welcome%20to%20Curiosity.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Welcome%20to%20Curiosity.jpg</fanart>
+<info>Cinco contos que compartilham algo em comum: Mortes curiosas.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]WILDLING [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]WLDNGLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Wildling.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Wildling.jpg</fanart>
+<info>Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife da Ellen Cooper (Liv Tyler) e a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]Z-O-M-B-I-E-S[/COLOR][/B]</title>
+<link>$doregex[BP1]ZMBS2018.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Z-O-M-B-I-E-S.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Z-O-M-B-I-E-S.jpg</fanart>
+<info>50 anos depois de passar por um apocalipse zumbi, Seabrook é uma cidade alegre e cheia de conformismo. Os zumbis não são mais uma ameaça, mas são obrigados a viver em Zombietown, uma parte isolada da cidade. Quando os alunos de Zombietown são transferidos para a escola secundária de Seabrook, o zumbi Zed (Milo Manheim) está determinado a jogar Futebol americano, enquanto a humana Addison (Meg Donnelly), sonha em ser líder de torcida. Os dois decidem trabalhar juntos para mostrar a o que podem ganhar aceitando suas diferenças.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]ZION[/COLOR][/B]</title>
+<link>$doregex[BP1]ZION.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Zion.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Zion.jpg</fanart>
+<info>Sem as pernas e condenado a viver em lares adotivos por muitos anos, o adolescente Zion Clark descobre sua vocação ao se tornar lutador.Documentário em curta-metragem.</info>
+<date></date>
+</item>
