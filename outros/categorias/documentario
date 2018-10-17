@@ -586,3 +586,16 @@ Porque é que, quando o Titanic recebeu vários avisos de icebergs em frente, o 
 <info>Ícone de jornalismo, Gay Talese perfila Gerald Foos, o dono de um motel no Colorado que supostamente observou secretamente seus convidados com a ajuda de lâminas de teto especialmente projetadas, espiando de uma "plataforma de observação" que ele construiu no sótão do motel.</info>
 <date></date>
 </item>
+
+<item>
+<title>[B][COLOR white]GLEE 3D: O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]GLEEFILME.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</fanart>
+<info>A cultura do loser está entranhada no american way of life. Eles estão em toda escola e faculdade, sem conseguirem atingir o ideal de beleza e popularidade esperado – e, em certos casos, cobiçado –, o que faz com que às vezes sejam vítimas de bullying. Glee, a série, explora exatamente este tipo de pessoa, usando a música como válvula de escape e elo de união entre seus personagens. Deu certo, não apenas nos índices de audiência como na criação de um verdadeiro culto em torno da série. Os até então excluídos se reconheceram nos personagens e passaram a idolatrá-los, transformando o famoso L, símbolo característico do loser, em motivo de orgulho. Glee 3D – O Filme consegue capturar este espírito ao dar voz aos fãs e até mesmo dramatizar situações da vida de alguns deles, onde o preconceito poderia falar mais alto. O problema é que o elenco, por incrível que pareça, aparenta não se importar com nada disto.</info>
+<date></date>
+</item>
