@@ -6,89 +6,18 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MEGATUBARÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]MEGTBRAO.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]22 DE JULHO[/COLOR][/B]</title>
+<link>$doregex[BP1]22DJLHO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Megatubar%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Megatubar%C3%A3o.jpg</fanart>
-<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</fanart>
+<info>Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei.</info>
 <date></date>
 </item>
-<item>
-<title>[B][COLOR white]OS JOVENS TITÃS EM AÇÃO! NOS CINEMAS[/COLOR][/B]</title>
-<link>$doregex[BP1]OSJVNSTTSEMACONSCINE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas.jpg</fanart>
-<info>Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro e com ideias malucas e até uma canção eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ESCOBAR: A TRAIÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]ESCBRATRCAO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Escobar%20-%20A%20Trai%C3%A7%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Escobar%20-%20A%20Trai%C3%A7%C3%A3o.jpg</fanart>
-<info>1981, Colômbia. Líder do Cartel de Medellín, Pablo Escobar (Javier Bardem) é um dos maiores traficantes de cocaína para os Estados Unidos, o que faz com que governo de Ronald Reagan insista na criação de um tratado entre os dois países que permita que ele seja julgado em solo americano. Decidido a combater tal ideia, Escobar se candidata e é eleito deputado federal. Paralelamente, ele se envolve com Virginia Vallejo (Penélope Cruz), uma popular apresentadora de TV que não se importa em como o amante consegue sua fortuna, apenas em como o dinheiro é empregado.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O NOME DA MORTE[/COLOR][/B]</title>
-<link>$doregex[BP1]OMNEDMRT.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Nome%20da%20Morte.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Nome%20da%20Morte.jpg</fanart>
-<info>Júlio Santana (Marco Pigossi) é um pai de família, um homem caridoso, um exemplo para sua família e um orgulho para os seus pais. No entanto, ele esconde outra identidade sob essa fachada: na verdade, ele é um assassino profissional responsável por 492 mortes. Entre a cruz e a espada, entre a lei e o crime, Júlio precisa descobrir uma forma de enfrentar os seus demônios.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O CHEFE[/COLOR][/B]</title>
-<link>$doregex[BP1]OCHEFE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Chefe.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Chefe.jpg</fanart>
-<info>Um empresário rude e egocêntrico está prestes a perder tudo pelo que lutou, até receber a inesperada ajuda de uma servente de limpeza do escritório.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]CONTRA A PAREDE[/COLOR][/B]</title>
-<link>$doregex[BP1]CNTRAPRDE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg</fanart>
-<info>A poucos meses da eleição presidencial no Brasil, Cacá Viana (Antônio Fagundes), um veterano apresentador de telejornal, se vê no meio de conflito ético que envolve diretamente dois candidatos com os quais possui profundas relações de amizade. Às vésperas de se aposentar, o jornalista precisa decidir entre motivações pessoais e profissionais numa questão diretamente relacionada ao futuro do país.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]A PEQUENA SEREIA[/COLOR][/B]</title>
-<link>$doregex[BP1]APQNSREA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</fanart>
-<info>Um jovem repórter vai fazer uma reportagem sobre um circo que diz apresentar uma sereia de verdade. Inicialmente cético, ele leva sua jovem sobrinha na viagem e lá eles descobrem uma bela e encantadora critatura a qual eles acreditam ser realmente uma sereia. Juntos eles embarcar numa aventura de salvar a moça da vida naquele lugar.</info>
-<date></date>
-</item>
+
 <item>
 <title>[B][COLOR white]A EXTRAORDINÁRIA JORNADA DO FAQUIR[/COLOR][/B]</title>
 <link>$doregex[BP1]AEXTRDNRJRNDFQR.mp4|Referer=$doregex[BP4]</link>
@@ -101,414 +30,7 @@
 <info>Baseado no best-seller homônimo de Romain Puértolas. Em uma trama mágica, sobre amor e aventura e que percorre três continentes, um narrador conta a história de quando se apaixonou por uma mulher europeia e como acabou deportado para um lugar isolado do continente, junto com um bando de refugiados africanos.</info>
 <date></date>
 </item>
-<item>
-<title>[B][COLOR white]SHIRKERS: O FILME ROUBADO[/COLOR][/B]</title>
-<link>$doregex[BP1]SHKRSOFLMRBDO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Shirkers%20-%20O%20Filme%20Roubado.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Shirkers%20-%20O%20Filme%20Roubado.jpg</fanart>
-<info>Em 1992, Sandi Tan e suas amigas fizeram um filme inusitado nas ruas de Singapura. Mas o filme desapareceu, e ela saiu em busca de respostas.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]FREAKY FRIDAY: SEXTA-FEIRA MUITO LOUCA[/COLOR][/B]</title>
-<link>$doregex[BP1]FGADBLBTCASRLMCLO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Freaky%20Friday%20-%20Sexta-Feira%20Muito%20Louca.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Freaky%20Friday%20-%20Sexta-Feira%20Muito%20Louca.jpg</fanart>
-<info>Quando Katherine (Heidi Blickenstaff) e sua filha adolescente rebelde, Ellie (Cozi Zuehlsdorff), vivem estressadas uma com a outra. Quando uma ampulheta mágica que pertencia ao falecido pai da família faz com que elas troquem de corpo, elas experimentam o que é viver a vida uma da outra.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O RITUAL[/COLOR][/B]</title>
-<link>$doregex[BP1]ORITL2018.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Ritual.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Ritual.jpg</fanart>
-<info>Um grupo de amigos da faculdade se reúnem para uma viagem à floresta e quando chegam lá, encontram uma presença ameaçadora que passa a persegui-los.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]NO RITMO DA SEDUÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]NOSSOID.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/No%20Ritmo%20da%20Sedu%C3%A7%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/No%20Ritmo%20da%20Sedu%C3%A7%C3%A3o.jpg</fanart>
-<info>Simone (Michaela Coel) é uma mãe solteira de Camden, em Londres. Quando em uma noite fora ela conhece Raymond (Arinzé Kene), um belo homem com um passado problemático, ela se vê completamente encantada. Porém, entregar seu coração não é tão fácil quanto parece.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ALFA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ALFALEG.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</fanart>
-<info>Após cair de um penhasco e se perder do seu grupo, o jovem Keda (Kodi Smit-McPhee) precisa sobreviver em meio a paisagens selvagens e encontrar o caminho de casa. Atacado por uma matilha, ele consegue ferir um dos lobos, mas decide não matar o animal. O jovem cuida dele e os dois começam uma relação de amizade.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]MENTES SOMBRIAS[/COLOR][/B]</title>
-<link>$doregex[BP1]MNTSSMBRS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mentes%20Sombrias.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mentes%20Sombrias.jpg</fanart>
-<info>Em um mundo apocalíptico, onde uma pandemia mata a maioria das crianças e adolescentes da América, alguns sobreviventes desenvolvem poderes sobrenaturais. Eles então são tirados pelo governo de suas famílias e enviados para campos de custódia. Entre elas está Ruby (Amandla Stenberg), que precisa se esconder entre as crianças sobreviventes devido ao poder que possui.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]MARA: O DEMÔNIO DO SONO[/COLOR][/B]</title>
-<link>$doregex[BP1]MARAODEMODSNO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mara%20-%20O%20Dem%C3%B4nio%20do%20Sono.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mara%20-%20O%20Dem%C3%B4nio%20do%20Sono.jpg</fanart>
-<info>Ao investigar um assassinato, uma psicóloga criminal descobre a lenda de um demônio que mata as pessoas durante o sono.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]OS INCRÍVEIS 2[/COLOR][/B]</title>
-<link>$doregex[BP1]OSINCRVS2.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</fanart>
-<info>Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]DERREN BROWN: SACRIFICE[/COLOR][/B]</title>
-<link>$doregex[BP1]DRNBRWNSCRFC.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Derren%20Brown%20-%20Sacrifice.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Derren%20Brown%20-%20Sacrifice.jpg</fanart>
-<info>O ilusionista Derren Brown inventa um experimento psicológico em que ele tenta manipular uma pessoa comum em levar uma bala por um estranho</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]VIKING: OS PERGAMINHOS SAGRADOS[/COLOR][/B]</title>
-<link>$doregex[BP1]VKNGOSPRGMNHSGDS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</fanart>
-<info>Em tempos de guerra na Europa, um antigo rei celta escondeu sete pergaminhos considerados sagrados que, de acordo com uma profecia, são capazes de conceder poder ilimitado àqueles que os possuam. Segundo a premonição, uma criança de sangue puro um dia usaria disso para governar o mundo e trazer prosperidade. Mas antes que a pessoa certa ache o artefato, ela terá que passar por árduas tarefas.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]TIMBER E MICKEY: AMIGOS ESPECIAIS[/COLOR][/B]</title>
-<link>$doregex[BP1]TMBREMCKYAMGSESPCS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Timber%20e%20Mickey%20-%20Amigos%20Especiais.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Timber%20e%20Mickey%20-%20Amigos%20Especiais.jpg</fanart>
-<info>Quando o bondoso cãozinho Timber aparece na porta do garoto Mickey Jones (J.D. Hoppe), as coisas parecem melhorar para toda sua família. Sofrendo nas mãos do empresário Caspar (Sewell Whitney), que está perto de comprar todas as casas da vizinhança sem hipoteca, eles precisam de dinheiro o mais rápido possível. E Timber, aparentemente, conhece o caminho que leva a um grande tesouro.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]TODO DIA[/COLOR][/B]</title>
-<link>$doregex[BP1]TDODIA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Dia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Dia.jpg</fanart>
-<info>A tem o incrível poder de acordar todos os dias em um corpo diferente, independente de gênero, cor ou idade. Sua rotina de constante adaptação, no entanto, ganha ares tristes quando acorda no corpo de Justin (Justice Smith) e acaba se apaixonando perdidamente pela namorada dele, Rhiannon (Angourie Rice).</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]SLENDER MAN: PESADELO SEM ROSTO[/COLOR][/B]</title>
-<link>$doregex[BP1]SLNDRMNPSDLSMRSTO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</fanart>
-<info>As amigas Wren, Hallie, Chloe e Katie levam uma vida entediante no colégio. Quando ouvem falar num monstro chamado Slender Man, decidem invocá-lo através de um vídeo na Internet. A brincadeira se transforma num perigo real quando todas começam a ter pesadelos e visões do homem se rosto, com vários braços, capaz de fazer as suas vítimas alucinarem. Um dia, Katie desaparece. Como a polícia não dispõe de nenhuma prova para a investigação, cabe às três amigas fazerem a sua própria busca, enfrentando a criatura.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ROTA DE FUGA 2[/COLOR][/B]</title>
-<link>$doregex[BP1]RTADFGA2.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%202.jpg</fanart>
-<info>Anos depois de ter conseguido escapar de uma prisão à prova de fuga, Ray Breslin (Sylvester Stallone) organizou uma nova força de segurança de elite. Mas quando um dos seus elementos desaparece, Breslin vê-se obrigado a regressar ao inferno de onde já fugiu uma vez para salvar o amigo da brutal arena de combate conhecida como Hades.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]PARA SEMPRE MINHA GAROTA[/COLOR][/B]</title>
-<link>$doregex[BP1]PRSMPRMNHGRTA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</fanart>
-<info>Astro do futebol americano, o quarterback Liam (Alex Roe) estava pronto para se casar com Josie (Jessica Rothe), sua namorada da escola, mas acabou deixando-a no altar para seguir carreira de cantor country. Depois de muitos anos, ele retorna à cidade como um cantor famoso.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]PRISÃO ESTELAR[/COLOR][/B]</title>
-<link>$doregex[BP1]PRSAOESTLR.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pris%C3%A3o%20Estelar.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pris%C3%A3o%20Estelar.jpg</fanart>
-<info>A Estação Espacial Internacional é agora uma prisão. O derradeiro sítio negro. Ninguém está saindo. E ninguém sabe que está lá. Mas quando os terroristas presos tomam a Estação e a transformam em um míssil apontado para Moscou, apenas um piloto de transporte e um médico novato podem detê-los.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O ÚLTIMO SUSPIRO[/COLOR][/B]</title>
-<link>$doregex[BP1]OULTMSUSPRO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Suspiro.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Suspiro.jpg</fanart>
-<info>Em um futuro próximo, a cidade de Paris é sitiada por uma névoa misteriosa capaz de matar seus moradores. Um jovem casal precisa garantir a sobrevivência de sua família dentro do caos que se instaura na região. Sem eletricidade, comida ou água, fica evidente que eles não receberão nenhum tipo de ajuda e para sobreviver será necessário deixar o local e enfrentar a terrível fumaça.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O REDENTOR[/COLOR][/B]</title>
-<link>$doregex[BP1]ORNTR.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Redentor.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Redentor.jpg</fanart>
-<info>Kyle (Markiss McFadden) é um impiedoso assassino criado por um padre corrupto, que o treinou para matar em nome da justiça divina. Quando um assassinato saído dos planos o deixa com um menino órfão para cuidar, Kyle passa a questionar a lógica que o foi ensinada e a procurar outro propósito para sua vida. Porém, deixar o passado para trás não é tão facil e ele vai ter que lutar para proteger sua nova família da vingança de seu antigo mentor.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O DESPERTAR DAS SOMBRAS[/COLOR][/B]</title>
-<link>$doregex[BP1]ODSPRTDSMBRS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</fanart>
-<info>Desde 1964 sem contato, os irmãos Adam (James Zimbardi) e Jake (Skyler Caleb) precisam se encontrar novamente em uma situação inesperada: a mãe deles desapareceu sem deixar rastros. Preocupado, Adam retorna à sua cidade natal junto com a filha e a esposa para investigar o ocorrido. Mas o que deveria ser uma simples procura rapidamente se torna em um pesadelo quando os irmãos são perseguidos por uma estranha força maligna que nutre um obsessivo interesse pela filha de Adam.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]O ANIMAL CORDIAL[/COLOR][/B]</title>
-<link>$doregex[BP1]OANMLCRDL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</fanart>
-<info>São Paulo. Inácio (Murilo Benício) é o dono de um restaurante de classe média, por ele gerenciado com mão de ferro. Tal postura gera atritos com os funcionários, em especial com o cozinheiro Djair (Irandhir Santos). Quando o estabelecimento é assaltado por Magno (Humberto Carrão) e Nuno (Ariclenes Barroso), Inácio e a garçonete Sara (Luciana Paes) precisam encontrar meios para controlar a situação e lidar com os clientes que ainda estão na casa: o solitário Amadeu (Ernani Moraes) e o casal endinheirado Bruno (Jiddu Pinheiro) e Verônica (Camila Morgado).</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]NO CORAÇÃO DA ESCURIDÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]NOCRCAODESCRD.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/No%20Cora%C3%A7%C3%A3o%20da%20Escurid%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/No%20Cora%C3%A7%C3%A3o%20da%20Escurid%C3%A3o.jpg</fanart>
-<info>Um ex-militar capelão (Ethan Hawke) é torturado pela perda do filho que ele encorajou a se alistar nas forças armadas. Ele é ainda desafiado após fazer amizade com uma jovem paroquiana (Amanda Seyfried) e seu marido ambientalista radical. Ele logo descobre segredos escondidos da cumplicidade de sua igreja com empresas inescrupulosas.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]MULHERES ALTERADAS[/COLOR][/B]</title>
-<link>$doregex[BP1]MLHRSALTRDS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mulheres%20Alteradas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mulheres%20Alteradas.jpg</fanart>
-<info>O cotidiano de quatro mulheres, cada uma enfrentando problemas bem particulares: Keka (Deborah Secco) enfrenta uma crise no casamento com Dudu (Sérgio Guizé), Marinati (Alessandra Negrini) é uma workaholic que repentinamente se apaixona por Christian (Daniel Boaventura), Leandra (Maria Casadevall) sente-se bastante insegura pelo fato de ainda não ter constituído família e Sônia (Monica Iozzi) está cansada da rotina doméstica e sonha com a época em que era solteira.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]MEU CACHORRO E UM ROBÔ[/COLOR][/B]</title>
-<link>$doregex[BP1]MEUCHROEUMRBO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Cachorro%20e%20um%20Rob%C3%B4.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Cachorro%20e%20um%20Rob%C3%B4.jpg</fanart>
-<info>O cachorro e melhor amigo de Tyler (Michael Campion) morre tragicamente e seu pai, que é um inventor, resolve criar um novo cão para tomar o seu lugar. Mas esse novo cachorro tem poderes e habilidades de um robô.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]MERCENÁRIO[/COLOR][/B]</title>
-<link>$doregex[BP1]MERCNRIO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mercenario.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mercenario.jpg</fanart>
-<info>Após anos trabalhando como cobrador pessoal da máfia de sua cidade, Marley (Frederick Schmidt) comete um grande deslize ao, acidentalmente, matar uma mulher em uma de suas visitas. Tornando-se foragido tanto pela polícia quanto por outros mafiosos, ele deve aprender a lidar com o sentimento de culpa enquanto planeja uma maneira de fugir das ameaças.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ILLANG: A BRIGADA LOBO[/COLOR][/B]</title>
-<link>$doregex[BP1]ILNGABRGDALBO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</fanart>
-<info>Coréia, 2029. Os governos da Coréia do Sul e da Coréia do Norte anunciara que irão reunificar os dois países, e logo a instabilidade e o caos se instalam na região. Para controlar a desordem e fazer recuar um grupo terrorista anti-governo, o Presidente cria uma nova unidade policial. No fim, medida só faz aumentar a violência e os embates nas ruas, fomentando o medo na população. Mas há esperança. Correm rumores da existência uma suposta brigada, nomeada de "Brigada dos Lobos".</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]HOTEL TRANSILVÂNIA 3: FÉRIAS MONSTRUOSAS[/COLOR][/B]</title>
-<link>$doregex[BP1]HTLTRNSVN3.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</fanart>
-<info>Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]FEMINISTAS: O QUE ELAS ESTAVAM PENSANDO?[/COLOR][/B]</title>
-<link>$doregex[BP1]FMSTSOQELSESTVMPSNDO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Feministas%20-%20O%20Que%20Elas%20Estavam%20Pensando.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Feministas%20-%20O%20Que%20Elas%20Estavam%20Pensando.jpg</fanart>
-<info>Um álbum de fotos da década de 1970 captura o despertar de mulheres deixando para trás restrições culturais impostas sobre elas desde sua infância e abraçando a si mesmas por inteiro. A diretora Johanna Demetrakas revisita essas fotos e as histórias de vida das mulheres retratadas nelas, refletindo sobre as mudanças culturais que aconteceram desde então e a ainda presente necessidade de mudança.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]EM BUSCA DO ASSASSINO[/COLOR][/B]</title>
-<link>$doregex[BP1]EMBSCDASASNO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Assassino.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Assassino.jpg</fanart>
-<info>Após ser aconselhado por um colega de trabalho a colocar uma peça específica em um avião comercial, o mecânico Peters (Bernard Deegan) vê sua vida desmoronar quando descobre que este pequeno ato causou um acidente fatal. Dias depois do ocorrido, seu amigo é morto e ele precisa correr contra o tempo para descobrir quem é o verdadeiro culpado pelo que aconteceu.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]DEUS NÃO ESTÁ MORTO: UMA LUZ NA ESCURIDÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]DSNESTMRTUMLCNESCDAO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20-%20Uma%20Luz%20na%20Escurid%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20-%20Uma%20Luz%20na%20Escurid%C3%A3o.jpg</fanart>
-<info>Em meio a um intenso debate sobre se uma universidade estadual deve ter uma igreja em seu campus, o pastor Dave (David R. White) é surpreendido com um incêndio na igreja Saint James, no qual morre seu grande amigo, o reverendo Jude (Benjamin A. Onyango). O incidente foi provocado por Adam (Mike C. Manning), que atirou um tijolo em uma janela da igreja após brigar com a namorada (Samantha Boscarino). A situação acirra o debate, ainda mais devido à proposta da universidade em comprar o terreno usado pela igreja para ali construir um centro educacional. Decidido a lutar até o fim, Dave busca ajuda com seu irmão Pearce (John Corbett), que é advogado.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]DC SUPER HERO GIRLS: LENDAS DE ATLÂNTIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]DCSPRHROGRLSLNDSDATLNDA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</fanart>
-<info>Mergulhe nesta aventura com as Super-heroínas da DC neste épico submarino. Irmãs do mar, Siren e Mera pegam os alunos do Super Hero High desprevenidos em um ataque surpresa para roubar uma relíquia extremamente poderosa - o Book of Legends. Com o livro em sua posse e fortalecendo mais poder do que nunca, Siren pretende levantar um exército das profundezas dos abismos oceânicos. Wonder Woman, Batgirl e Supergirl estão prontas para ajudar o Aquaman a defender Atlantis e parar a sinistra Siren! Apronte-se para uma aventura eletrizante estrelada pelas Super-heroínas da DC!</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]CONSTANTINE: CIDADE DOS DEMÔNIOS[/COLOR][/B]</title>
-<link>$doregex[BP1]DCCONSTNECDADEMO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</fanart>
-<info>Uma década depois de um trágico erro, o homem de família Chas e o detetive ocultista John Constantine começaram a curar a filha de Chas, Trish, de um misterioso coma sobrenatural. Com a ajuda da misteriosa Enfermeira do Pesadelo, da influente Rainha dos Anjos e do brutal deus asteca Mictlantecuhtli, a dupla pode ter a chance de enganar o demônio Beroul para salvar a alma de Trish. Em um mundo de sombras e magia negra, nem tudo é o que parece, e sempre há um preço a pagar. O caminho para a redenção nunca é fácil, e se Constantine tiver sucesso, ele deve navegar pela escuridão urbana de Los Angeles, superar as mais astutas criaturas do inferno, e ficar cara a cara com o arquiinimigo Nergal - tudo isso enquanto enfrenta próprios demônios interiores!</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]CALIBRE[/COLOR][/B]</title>
-<link>$doregex[BP1]CLBRE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Calibre.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Calibre.jpg</fanart>
-<info>Dois amigos de longa data viajam até uma isolada vila escocesa para um final de semana onde possam caçar juntos. Mas nada os preparariam pro que iria acontecer.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITE[/COLOR][/B]</title>
-<link>$doregex[BP1]ARNHCEUCRGMSMLMT.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</fanart>
-<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]APÓSTOLO[/COLOR][/B]</title>
-<link>$doregex[BP1]APSTLO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</fanart>
-<info>No ano de 1905, Thomas Richardson (Dan Stevens) viaja para uma ilha remota em busca de sua irmã. Um misterioso culto religioso a raptou e agora pede uma grande quantia de dinheiro por seu resgate. Porém, eles logo percebem que mexer com Thomas foi um erro e ele torna sua missão desencavar todas as mentiras sob as quais o culto foi construído.</info>
-<date></date>
-</item>
+
 <item>
 <title>[B][COLOR white]A NOITE NOS PERSEGUE[/COLOR][/B]</title>
 <link>$doregex[BP1]ANTNSPRGUE.mp4|Referer=$doregex[BP4]</link>
@@ -521,6 +43,33 @@
 <info>Em consequência de um massacre, um assassino da Tríade busca uma violenta vingança.</info>
 <date></date>
 </item>
+
+<item>
+<title>[B][COLOR white]A PEQUENA SEREIA[/COLOR][/B]</title>
+<link>$doregex[BP1]APQNSREA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</fanart>
+<info>Um jovem repórter vai fazer uma reportagem sobre um circo que diz apresentar uma sereia de verdade. Inicialmente cético, ele leva sua jovem sobrinha na viagem e lá eles descobrem uma bela e encantadora critatura a qual eles acreditam ser realmente uma sereia. Juntos eles embarcar numa aventura de salvar a moça da vida naquele lugar.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]ALFA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ALFALEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</fanart>
+<info>Após cair de um penhasco e se perder do seu grupo, o jovem Keda (Kodi Smit-McPhee) precisa sobreviver em meio a paisagens selvagens e encontrar o caminho de casa. Atacado por uma matilha, ele consegue ferir um dos lobos, mas decide não matar o animal. O jovem cuida dele e os dois começam uma relação de amizade.</info>
+<date></date>
+</item>
+
 <item>
 <title>[B][COLOR white]ANA E VITÓRIA[/COLOR][/B]</title>
 <link>$doregex[BP1]ANEVTORA.mp4|Referer=$doregex[BP4]</link>
@@ -533,42 +82,398 @@
 <info>Rio de Janeiro. Ana (Ana Caetano) e Vitória (Vitória Falcão) já haviam até mesmo estudado juntas, mas apenas se aproximam de fato em uma festa realizada muito longe de sua cidade natal, a pequena Araguaína, no Tocantins. Após se apresentar na festa, Ana fica impressionanda com a informal cantoria de Vitória, em uma rodinha de violão. Logo surge a ideia de gravarem algo juntos, que rapidamente explode na internet e chama a atenção do produtor Felipe Simas (Bruce Gomlevsky). A fama repentina as traz de volta ao Rio de Janeiro, para um show transmitido pela internet e a produção de seu primeiro CD.</info>
 <date></date>
 </item>
+
 <item>
-<title>[B][COLOR white]22 DE JULHO[/COLOR][/B]</title>
-<link>$doregex[BP1]22DJLHO.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]APÓSTOLO[/COLOR][/B]</title>
+<link>$doregex[BP1]APSTLO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</fanart>
-<info>Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</fanart>
+<info>No ano de 1905, Thomas Richardson (Dan Stevens) viaja para uma ilha remota em busca de sua irmã. Um misterioso culto religioso a raptou e agora pede uma grande quantia de dinheiro por seu resgate. Porém, eles logo percebem que mexer com Thomas foi um erro e ele torna sua missão desencavar todas as mentiras sob as quais o culto foi construído.</info>
 <date></date>
 </item>
+
 <item>
-<title>[B][COLOR white]VIAGEM MALDITA 2: O RETORNO DOS MALDITOS[/COLOR][/B]</title>
-<link>$doregex[BP1]VIGMLDTA2.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITE[/COLOR][/B]</title>
+<link>$doregex[BP1]ARNHCEUCRGMSMLMT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</fanart>
+<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]CALIBRE[/COLOR][/B]</title>
+<link>$doregex[BP1]CLBRE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Calibre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Calibre.jpg</fanart>
+<info>Dois amigos de longa data viajam até uma isolada vila escocesa para um final de semana onde possam caçar juntos. Mas nada os preparariam pro que iria acontecer.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]CONSTANTINE: CIDADE DOS DEMÔNIOS[/COLOR][/B]</title>
+<link>$doregex[BP1]DCCONSTNECDADEMO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</fanart>
+<info>Uma década depois de um trágico erro, o homem de família Chas e o detetive ocultista John Constantine começaram a curar a filha de Chas, Trish, de um misterioso coma sobrenatural. Com a ajuda da misteriosa Enfermeira do Pesadelo, da influente Rainha dos Anjos e do brutal deus asteca Mictlantecuhtli, a dupla pode ter a chance de enganar o demônio Beroul para salvar a alma de Trish. Em um mundo de sombras e magia negra, nem tudo é o que parece, e sempre há um preço a pagar. O caminho para a redenção nunca é fácil, e se Constantine tiver sucesso, ele deve navegar pela escuridão urbana de Los Angeles, superar as mais astutas criaturas do inferno, e ficar cara a cara com o arquiinimigo Nergal - tudo isso enquanto enfrenta próprios demônios interiores!</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]CONTRA A PAREDE[/COLOR][/B]</title>
+<link>$doregex[BP1]CNTRAPRDE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Contra%20a%20Parede.jpg</fanart>
+<info>A poucos meses da eleição presidencial no Brasil, Cacá Viana (Antônio Fagundes), um veterano apresentador de telejornal, se vê no meio de conflito ético que envolve diretamente dois candidatos com os quais possui profundas relações de amizade. Às vésperas de se aposentar, o jornalista precisa decidir entre motivações pessoais e profissionais numa questão diretamente relacionada ao futuro do país.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]DC SUPER HERO GIRLS: LENDAS DE ATLÂNTIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]DCSPRHROGRLSLNDSDATLNDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</fanart>
+<info>Mergulhe nesta aventura com as Super-heroínas da DC neste épico submarino. Irmãs do mar, Siren e Mera pegam os alunos do Super Hero High desprevenidos em um ataque surpresa para roubar uma relíquia extremamente poderosa - o Book of Legends. Com o livro em sua posse e fortalecendo mais poder do que nunca, Siren pretende levantar um exército das profundezas dos abismos oceânicos. Wonder Woman, Batgirl e Supergirl estão prontas para ajudar o Aquaman a defender Atlantis e parar a sinistra Siren! Apronte-se para uma aventura eletrizante estrelada pelas Super-heroínas da DC!</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]DERREN BROWN: SACRIFICE[/COLOR][/B]</title>
+<link>$doregex[BP1]DRNBRWNSCRFC.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Derren%20Brown%20-%20Sacrifice.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Derren%20Brown%20-%20Sacrifice.jpg</fanart>
+<info>O ilusionista Derren Brown inventa um experimento psicológico em que ele tenta manipular uma pessoa comum em levar uma bala por um estranho</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]DEUS NÃO ESTÁ MORTO: UMA LUZ NA ESCURIDÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]DSNESTMRTUMLCNESCDAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20-%20Uma%20Luz%20na%20Escurid%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20-%20Uma%20Luz%20na%20Escurid%C3%A3o.jpg</fanart>
+<info>Em meio a um intenso debate sobre se uma universidade estadual deve ter uma igreja em seu campus, o pastor Dave (David R. White) é surpreendido com um incêndio na igreja Saint James, no qual morre seu grande amigo, o reverendo Jude (Benjamin A. Onyango). O incidente foi provocado por Adam (Mike C. Manning), que atirou um tijolo em uma janela da igreja após brigar com a namorada (Samantha Boscarino). A situação acirra o debate, ainda mais devido à proposta da universidade em comprar o terreno usado pela igreja para ali construir um centro educacional. Decidido a lutar até o fim, Dave busca ajuda com seu irmão Pearce (John Corbett), que é advogado.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]EM BUSCA DO ASSASSINO[/COLOR][/B]</title>
+<link>$doregex[BP1]EMBSCDASASNO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Assassino.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Em%20Busca%20do%20Assassino.jpg</fanart>
+<info>Após ser aconselhado por um colega de trabalho a colocar uma peça específica em um avião comercial, o mecânico Peters (Bernard Deegan) vê sua vida desmoronar quando descobre que este pequeno ato causou um acidente fatal. Dias depois do ocorrido, seu amigo é morto e ele precisa correr contra o tempo para descobrir quem é o verdadeiro culpado pelo que aconteceu.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]ESCOBAR: A TRAIÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]ESCBRATRCAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Escobar%20-%20A%20Trai%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Escobar%20-%20A%20Trai%C3%A7%C3%A3o.jpg</fanart>
+<info>1981, Colômbia. Líder do Cartel de Medellín, Pablo Escobar (Javier Bardem) é um dos maiores traficantes de cocaína para os Estados Unidos, o que faz com que governo de Ronald Reagan insista na criação de um tratado entre os dois países que permita que ele seja julgado em solo americano. Decidido a combater tal ideia, Escobar se candidata e é eleito deputado federal. Paralelamente, ele se envolve com Virginia Vallejo (Penélope Cruz), uma popular apresentadora de TV que não se importa em como o amante consegue sua fortuna, apenas em como o dinheiro é empregado.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]FEMINISTAS: O QUE ELAS ESTAVAM PENSANDO?[/COLOR][/B]</title>
+<link>$doregex[BP1]FMSTSOQELSESTVMPSNDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Feministas%20-%20O%20Que%20Elas%20Estavam%20Pensando.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Feministas%20-%20O%20Que%20Elas%20Estavam%20Pensando.jpg</fanart>
+<info>Um álbum de fotos da década de 1970 captura o despertar de mulheres deixando para trás restrições culturais impostas sobre elas desde sua infância e abraçando a si mesmas por inteiro. A diretora Johanna Demetrakas revisita essas fotos e as histórias de vida das mulheres retratadas nelas, refletindo sobre as mudanças culturais que aconteceram desde então e a ainda presente necessidade de mudança.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]FREAKY FRIDAY: SEXTA-FEIRA MUITO LOUCA[/COLOR][/B]</title>
+<link>$doregex[BP1]FGADBLBTCASRLMCLO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Freaky%20Friday%20-%20Sexta-Feira%20Muito%20Louca.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Freaky%20Friday%20-%20Sexta-Feira%20Muito%20Louca.jpg</fanart>
+<info>Quando Katherine (Heidi Blickenstaff) e sua filha adolescente rebelde, Ellie (Cozi Zuehlsdorff), vivem estressadas uma com a outra. Quando uma ampulheta mágica que pertencia ao falecido pai da família faz com que elas troquem de corpo, elas experimentam o que é viver a vida uma da outra.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]HOTEL TRANSILVÂNIA 3: FÉRIAS MONSTRUOSAS[/COLOR][/B]</title>
+<link>$doregex[BP1]HTLTRNSVN3.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</fanart>
+<info>Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]ILLANG: A BRIGADA LOBO[/COLOR][/B]</title>
+<link>$doregex[BP1]ILNGABRGDALBO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</fanart>
+<info>Coréia, 2029. Os governos da Coréia do Sul e da Coréia do Norte anunciara que irão reunificar os dois países, e logo a instabilidade e o caos se instalam na região. Para controlar a desordem e fazer recuar um grupo terrorista anti-governo, o Presidente cria uma nova unidade policial. No fim, medida só faz aumentar a violência e os embates nas ruas, fomentando o medo na população. Mas há esperança. Correm rumores da existência uma suposta brigada, nomeada de "Brigada dos Lobos".</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]KHALI, O ASSASSINO[/COLOR][/B]</title>
+<link>$doregex[BP1]KHLOASASNO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Viagem%20Maldita%202%20-%20O%20Retorno%20dos%20Malditos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Viagem%20Maldita%202%20-%20O%20Retorno%20dos%20Malditos.jpg</fanart>
-<info>Como parte de uma missão de rotina, uma unidade de soldados da Guarda Nacional pára no isolado laboratório do Novo México. Lá eles encontram um campo de pesquisa misteriosamente deserto. Após presenciar um sinal de perigo em uma montanha distante, o grupo decide iniciar uma missão de procura e resgate. Porém o que eles não sabem é que estas são as mesmas montanhas que a família Carver visitou e que uma tribo de mutantes canibais os aguarda.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</fanart>
+<info>Depois de decidir se aposentar, um assassino de aluguel do leste de Los Angeles decide fazer um último trabalho para ajudar sua avó com seus cuidados de saúde. No entanto, tudo desmorona, quando ele desenvolve empatia pelos alvos do seu golpe, e é forçado a tomar a decisão mais difícil de sua vida.</info>
 <date></date>
 </item>
+
 <item>
-<title>[B][COLOR white]SIBÉRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]SBRIA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]MARA: O DEMÔNIO DO SONO[/COLOR][/B]</title>
+<link>$doregex[BP1]MARAODEMODSNO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sib%C3%A9ria.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sib%C3%A9ria.jpg</fanart>
-<info>Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mara%20-%20O%20Dem%C3%B4nio%20do%20Sono.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mara%20-%20O%20Dem%C3%B4nio%20do%20Sono.jpg</fanart>
+<info>Ao investigar um assassinato, uma psicóloga criminal descobre a lenda de um demônio que mata as pessoas durante o sono.</info>
 <date></date>
 </item>
+
+<item>
+<title>[B][COLOR white]MEGATUBARÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MEGTBRAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Megatubar%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Megatubar%C3%A3o.jpg</fanart>
+<info>Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), um mergulhador especializado em resgates em água profundas que já encontrou com a criatura anteriormente.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MENTES SOMBRIAS[/COLOR][/B]</title>
+<link>$doregex[BP1]MNTSSMBRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mentes%20Sombrias.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mentes%20Sombrias.jpg</fanart>
+<info>Em um mundo apocalíptico, onde uma pandemia mata a maioria das crianças e adolescentes da América, alguns sobreviventes desenvolvem poderes sobrenaturais. Eles então são tirados pelo governo de suas famílias e enviados para campos de custódia. Entre elas está Ruby (Amandla Stenberg), que precisa se esconder entre as crianças sobreviventes devido ao poder que possui.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MERCENÁRIO[/COLOR][/B]</title>
+<link>$doregex[BP1]MERCNRIO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mercenario.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mercenario.jpg</fanart>
+<info>Após anos trabalhando como cobrador pessoal da máfia de sua cidade, Marley (Frederick Schmidt) comete um grande deslize ao, acidentalmente, matar uma mulher em uma de suas visitas. Tornando-se foragido tanto pela polícia quanto por outros mafiosos, ele deve aprender a lidar com o sentimento de culpa enquanto planeja uma maneira de fugir das ameaças.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MEU CACHORRO E UM ROBÔ[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUCHROEUMRBO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Cachorro%20e%20um%20Rob%C3%B4.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Cachorro%20e%20um%20Rob%C3%B4.jpg</fanart>
+<info>O cachorro e melhor amigo de Tyler (Michael Campion) morre tragicamente e seu pai, que é um inventor, resolve criar um novo cão para tomar o seu lugar. Mas esse novo cachorro tem poderes e habilidades de um robô.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MULHERES ALTERADAS[/COLOR][/B]</title>
+<link>$doregex[BP1]MLHRSALTRDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mulheres%20Alteradas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mulheres%20Alteradas.jpg</fanart>
+<info>O cotidiano de quatro mulheres, cada uma enfrentando problemas bem particulares: Keka (Deborah Secco) enfrenta uma crise no casamento com Dudu (Sérgio Guizé), Marinati (Alessandra Negrini) é uma workaholic que repentinamente se apaixona por Christian (Daniel Boaventura), Leandra (Maria Casadevall) sente-se bastante insegura pelo fato de ainda não ter constituído família e Sônia (Monica Iozzi) está cansada da rotina doméstica e sonha com a época em que era solteira.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]NO CORAÇÃO DA ESCURIDÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]NOCRCAODESCRD.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/No%20Cora%C3%A7%C3%A3o%20da%20Escurid%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/No%20Cora%C3%A7%C3%A3o%20da%20Escurid%C3%A3o.jpg</fanart>
+<info>Um ex-militar capelão (Ethan Hawke) é torturado pela perda do filho que ele encorajou a se alistar nas forças armadas. Ele é ainda desafiado após fazer amizade com uma jovem paroquiana (Amanda Seyfried) e seu marido ambientalista radical. Ele logo descobre segredos escondidos da cumplicidade de sua igreja com empresas inescrupulosas.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]NO RITMO DA SEDUÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]NOSSOID.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/No%20Ritmo%20da%20Sedu%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/No%20Ritmo%20da%20Sedu%C3%A7%C3%A3o.jpg</fanart>
+<info>Simone (Michaela Coel) é uma mãe solteira de Camden, em Londres. Quando em uma noite fora ela conhece Raymond (Arinzé Kene), um belo homem com um passado problemático, ela se vê completamente encantada. Porém, entregar seu coração não é tão fácil quanto parece.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O ANIMAL CORDIAL[/COLOR][/B]</title>
+<link>$doregex[BP1]OANMLCRDL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</fanart>
+<info>São Paulo. Inácio (Murilo Benício) é o dono de um restaurante de classe média, por ele gerenciado com mão de ferro. Tal postura gera atritos com os funcionários, em especial com o cozinheiro Djair (Irandhir Santos). Quando o estabelecimento é assaltado por Magno (Humberto Carrão) e Nuno (Ariclenes Barroso), Inácio e a garçonete Sara (Luciana Paes) precisam encontrar meios para controlar a situação e lidar com os clientes que ainda estão na casa: o solitário Amadeu (Ernani Moraes) e o casal endinheirado Bruno (Jiddu Pinheiro) e Verônica (Camila Morgado).</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O CHEFE[/COLOR][/B]</title>
+<link>$doregex[BP1]OCHEFE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Chefe.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Chefe.jpg</fanart>
+<info>Um empresário rude e egocêntrico está prestes a perder tudo pelo que lutou, até receber a inesperada ajuda de uma servente de limpeza do escritório.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O DESPERTAR DAS SOMBRAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ODSPRTDSMBRS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</fanart>
+<info>Desde 1964 sem contato, os irmãos Adam (James Zimbardi) e Jake (Skyler Caleb) precisam se encontrar novamente em uma situação inesperada: a mãe deles desapareceu sem deixar rastros. Preocupado, Adam retorna à sua cidade natal junto com a filha e a esposa para investigar o ocorrido. Mas o que deveria ser uma simples procura rapidamente se torna em um pesadelo quando os irmãos são perseguidos por uma estranha força maligna que nutre um obsessivo interesse pela filha de Adam.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O NOME DA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]OMNEDMRT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Nome%20da%20Morte.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Nome%20da%20Morte.jpg</fanart>
+<info>Júlio Santana (Marco Pigossi) é um pai de família, um homem caridoso, um exemplo para sua família e um orgulho para os seus pais. No entanto, ele esconde outra identidade sob essa fachada: na verdade, ele é um assassino profissional responsável por 492 mortes. Entre a cruz e a espada, entre a lei e o crime, Júlio precisa descobrir uma forma de enfrentar os seus demônios.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O REDENTOR[/COLOR][/B]</title>
+<link>$doregex[BP1]ORNTR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Redentor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Redentor.jpg</fanart>
+<info>Kyle (Markiss McFadden) é um impiedoso assassino criado por um padre corrupto, que o treinou para matar em nome da justiça divina. Quando um assassinato saído dos planos o deixa com um menino órfão para cuidar, Kyle passa a questionar a lógica que o foi ensinada e a procurar outro propósito para sua vida. Porém, deixar o passado para trás não é tão facil e ele vai ter que lutar para proteger sua nova família da vingança de seu antigo mentor.</info>
+<date></date>
+</item>
+
+
+<item>
+<title>[B][COLOR white]O RITUAL[/COLOR][/B]</title>
+<link>$doregex[BP1]ORITL2018.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Ritual.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Ritual.jpg</fanart>
+<info>Um grupo de amigos da faculdade se reúnem para uma viagem à floresta e quando chegam lá, encontram uma presença ameaçadora que passa a persegui-los.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O ÚLTIMO SUSPIRO[/COLOR][/B]</title>
+<link>$doregex[BP1]OULTMSUSPRO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Suspiro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Suspiro.jpg</fanart>
+<info>Em um futuro próximo, a cidade de Paris é sitiada por uma névoa misteriosa capaz de matar seus moradores. Um jovem casal precisa garantir a sobrevivência de sua família dentro do caos que se instaura na região. Sem eletricidade, comida ou água, fica evidente que eles não receberão nenhum tipo de ajuda e para sobreviver será necessário deixar o local e enfrentar a terrível fumaça.</info>
+<date></date>
+</item>
+
 <item>
 <title>[B][COLOR white]OPERAÇÃO FINAL[/COLOR][/B]</title>
 <link>$doregex[BP1]OPRTNFNLE.mp4|Referer=$doregex[BP4]</link>
@@ -581,16 +486,160 @@
 <info>Quinze anos se passaram desde a Segunda Guerra Mundial. Os principais líderes nazistas, como Adolf Hitler, evitaram a justiça através do suicídio, mas o arquiteto responsável pela ideia dos campos de concentração, Adolf Eichmann (Ben Kingsley), conseguiu escapar e vive escondido em alguma parte do mundo. Quando a equipe liderada pelo investigador judeu Peter Malkin (Oscar Isaac) descobre o paradeiro do homem na Argentina, eles são encarregados de sequestrar Eichmann e levá-lo vivo a Israel, onde será julgado por seus crimes. Mas fugir com um dos homens mais procurados do mundo não será uma tarefa fácil.</info>
 <date></date>
 </item>
+
 <item>
-<title>[B][COLOR white]KHALI, O ASSASSINO[/COLOR][/B]</title>
-<link>$doregex[BP1]KHLOASASNO.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]OS INCRÍVEIS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]OSINCRVS2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</fanart>
+<info>Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]OS JOVENS TITÃS EM AÇÃO! NOS CINEMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OSJVNSTTSEMACONSCINE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20Nos%20Cinemas.jpg</fanart>
+<info>Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro e com ideias malucas e até uma canção eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]PARA SEMPRE MINHA GAROTA[/COLOR][/B]</title>
+<link>$doregex[BP1]PRSMPRMNHGRTA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</fanart>
+<info>Astro do futebol americano, o quarterback Liam (Alex Roe) estava pronto para se casar com Josie (Jessica Rothe), sua namorada da escola, mas acabou deixando-a no altar para seguir carreira de cantor country. Depois de muitos anos, ele retorna à cidade como um cantor famoso.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]PRISÃO ESTELAR[/COLOR][/B]</title>
+<link>$doregex[BP1]PRSAOESTLR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pris%C3%A3o%20Estelar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pris%C3%A3o%20Estelar.jpg</fanart>
+<info>A Estação Espacial Internacional é agora uma prisão. O derradeiro sítio negro. Ninguém está saindo. E ninguém sabe que está lá. Mas quando os terroristas presos tomam a Estação e a transformam em um míssil apontado para Moscou, apenas um piloto de transporte e um médico novato podem detê-los.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]ROTA DE FUGA 2[/COLOR][/B]</title>
+<link>$doregex[BP1]RTADFGA2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%202.jpg</fanart>
+<info>Anos depois de ter conseguido escapar de uma prisão à prova de fuga, Ray Breslin (Sylvester Stallone) organizou uma nova força de segurança de elite. Mas quando um dos seus elementos desaparece, Breslin vê-se obrigado a regressar ao inferno de onde já fugiu uma vez para salvar o amigo da brutal arena de combate conhecida como Hades.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]SHIRKERS: O FILME ROUBADO[/COLOR][/B]</title>
+<link>$doregex[BP1]SHKRSOFLMRBDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Shirkers%20-%20O%20Filme%20Roubado.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Shirkers%20-%20O%20Filme%20Roubado.jpg</fanart>
+<info>Em 1992, Sandi Tan e suas amigas fizeram um filme inusitado nas ruas de Singapura. Mas o filme desapareceu, e ela saiu em busca de respostas.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]SIBÉRIA[/COLOR][/B]</title>
+<link>$doregex[BP1]SBRIA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</fanart>
-<info>Depois de decidir se aposentar, um assassino de aluguel do leste de Los Angeles decide fazer um último trabalho para ajudar sua avó com seus cuidados de saúde. No entanto, tudo desmorona, quando ele desenvolve empatia pelos alvos do seu golpe, e é forçado a tomar a decisão mais difícil de sua vida.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sib%C3%A9ria.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sib%C3%A9ria.jpg</fanart>
+<info>Um comerciante de diamantes viaja da Rússia para a América para vender raras pedras azuis de origem questionável. À medida que seu negócio começa a entrar em colapso, ele passa a se envolver com uma russa, dona de um pequeno café na Sibéria. A paixão cresce e ele não consegue se livrar do negócio de diamantes, deixando brechas para que ambos entrem em colisão num ambiente sem saída.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]SLENDER MAN: PESADELO SEM ROSTO[/COLOR][/B]</title>
+<link>$doregex[BP1]SLNDRMNPSDLSMRSTO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</fanart>
+<info>As amigas Wren, Hallie, Chloe e Katie levam uma vida entediante no colégio. Quando ouvem falar num monstro chamado Slender Man, decidem invocá-lo através de um vídeo na Internet. A brincadeira se transforma num perigo real quando todas começam a ter pesadelos e visões do homem se rosto, com vários braços, capaz de fazer as suas vítimas alucinarem. Um dia, Katie desaparece. Como a polícia não dispõe de nenhuma prova para a investigação, cabe às três amigas fazerem a sua própria busca, enfrentando a criatura.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]TIMBER E MICKEY: AMIGOS ESPECIAIS[/COLOR][/B]</title>
+<link>$doregex[BP1]TMBREMCKYAMGSESPCS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Timber%20e%20Mickey%20-%20Amigos%20Especiais.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Timber%20e%20Mickey%20-%20Amigos%20Especiais.jpg</fanart>
+<info>Quando o bondoso cãozinho Timber aparece na porta do garoto Mickey Jones (J.D. Hoppe), as coisas parecem melhorar para toda sua família. Sofrendo nas mãos do empresário Caspar (Sewell Whitney), que está perto de comprar todas as casas da vizinhança sem hipoteca, eles precisam de dinheiro o mais rápido possível. E Timber, aparentemente, conhece o caminho que leva a um grande tesouro.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]TODO DIA[/COLOR][/B]</title>
+<link>$doregex[BP1]TDODIA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Dia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Dia.jpg</fanart>
+<info>A tem o incrível poder de acordar todos os dias em um corpo diferente, independente de gênero, cor ou idade. Sua rotina de constante adaptação, no entanto, ganha ares tristes quando acorda no corpo de Justin (Justice Smith) e acaba se apaixonando perdidamente pela namorada dele, Rhiannon (Angourie Rice).</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]VIAGEM MALDITA 2: O RETORNO DOS MALDITOS[/COLOR][/B]</title>
+<link>$doregex[BP1]VIGMLDTA2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Viagem%20Maldita%202%20-%20O%20Retorno%20dos%20Malditos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Viagem%20Maldita%202%20-%20O%20Retorno%20dos%20Malditos.jpg</fanart>
+<info>Como parte de uma missão de rotina, uma unidade de soldados da Guarda Nacional pára no isolado laboratório do Novo México. Lá eles encontram um campo de pesquisa misteriosamente deserto. Após presenciar um sinal de perigo em uma montanha distante, o grupo decide iniciar uma missão de procura e resgate. Porém o que eles não sabem é que estas são as mesmas montanhas que a família Carver visitou e que uma tribo de mutantes canibais os aguarda.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]VIKING: OS PERGAMINHOS SAGRADOS[/COLOR][/B]</title>
+<link>$doregex[BP1]VKNGOSPRGMNHSGDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</fanart>
+<info>Em tempos de guerra na Europa, um antigo rei celta escondeu sete pergaminhos considerados sagrados que, de acordo com uma profecia, são capazes de conceder poder ilimitado àqueles que os possuam. Segundo a premonição, uma criança de sangue puro um dia usaria disso para governar o mundo e trazer prosperidade. Mas antes que a pessoa certa ache o artefato, ela terá que passar por árduas tarefas.</info>
 <date></date>
 </item>
 
