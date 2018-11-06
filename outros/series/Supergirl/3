@@ -215,8 +215,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 22 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]SPRGIRLS03EP22.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 22[/B][/COLOR]</title>
+<link>$doregex[BP1]SPRGIRLT03EP22.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -225,8 +225,8 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Supergirl/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 23 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]SPRGIRLS03EP23.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 23[/B][/COLOR]</title>
+<link>$doregex[BP1]SPRGIRLT03EP23.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
