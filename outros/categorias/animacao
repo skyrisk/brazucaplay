@@ -1,10 +1,4 @@
 <item>
-<title>[B][COLOR white]CATEGORIA: [COLOR gold]ANIMAÇÃO[/COLOR][/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/3dNUYAd.png</thumbnail>
-<fanart>https://pt.best-wallpaper.net/wallpaper/3840x2160/1607/Cartoon-movie-Hotel-Transylvania-2_3840x2160.jpg</fanart>
-</item>
-<item>
 <title>[B][COLOR white]10000 ANOS DEPOIS[/COLOR][/B]</title>
 <link>$doregex[BP1]1000ANSDPS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -74,6 +68,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Bailarina.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Bailarina.jpg</fanart>
 <info>Paris, 1869. Uma sonhadora menina órfã toma uma atitude arriscada para conseguir o que quer: foge para Paris para realizar o sonho de ser uma grande bailarina. Lá ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]A BELA ADORMECIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]ABLADRMCDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Bela%20Adormecida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Bela%20Adormecida.jpg</fanart>
+<info>Todo o reino comemora quando nasce a princesa Aurora (Mary Costa/ Maria Alice Barreto), filha dos reis Estevão (Taylor Holmes/ Roberto de Cleto) e Leah (Verna Felton/ Selma Lopes). Três fadas, Fauna (Barbara Jo Allen/ Nádia Maria), Flora (Verna Felton/ Nancy Wanderley) e Primavera (Barbara Luddy/ Joyce de Oliveira), dão presentes mágicos à recém nascida. Em meio à festa surge Malévola (Eleanor Audley/ Heloísa Helena), que amaldiçoa Aurora dizendo que ela morrerá quando completar 16 anos, ao espetar o dedo em uma roca. Primavera consegue fazer um feitiço no bebê, de forma que Aurora desperte do sono eterno ao receber um beijo de amor. Para protegê-la, as fadas passam a cuidar dela como se fosse sua filha, recebendo o nome de Briar Rose. Ao completar 16 anos Aurora conhece o príncipe Filipe (Bill Shirley/ Maurício Sherman), por quem se apaixona. Só que Malévola sequestra o príncipe e, como havia previsto, faz com que Aurora espete o dedo e caia em sono profundo.</info>
 <date></date>
 </item>
 <item>
@@ -317,6 +323,18 @@
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]A PEQUENA SEREIA: A HISTÓRIA DE ARIEL[/COLOR][/B]</title>
+<link>$doregex[BP1]APQNSREIAHSTRDARIEL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia%20-%20A%20Hist%C3%B3ria%20de%20Ariel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia%20-%20A%20Hist%C3%B3ria%20de%20Ariel.jpg</fanart>
+<info>Veja como começou a jornada de uma das princesas mais amadas da Disney: Ariel. Em um tempo onde, por ordens do rei Tritão, pai de Ariel, a música era proibida no reino, a pequena sereia descobre um clube subterrâneo secreto onde a música toca todas as noites. O chefe do local é Sebastião, braço direito de seu pai. Sem entender o porquê dessa proibição, Ariel e suas irmãs passam a frequentar o clube e vivem uma paixão pela música. Enquanto isso, a invejosa governanta Marina Del Rey descobre tudo e conta tudo para o rei, para conquistar sua confiança e roubar o lugar de Sebastião. Com a ajuda de Linguado, seus amigos e suas irmãs, Ariel vai enfrentar a fúria de seu pai para tentar trazer a magia da música de volta para o reino do mar.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]A PRINCESA ENCANTADA: UM MISTÉRIO REAL[/COLOR][/B]</title>
 <link>$doregex[BP1]PRNCSENCTDA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -362,18 +380,6 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Akira.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Akira.jpg</fanart>
 <info>Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar foi construída Neo Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda (Mitsuo Iwata) e Tetsuo (Nozomu Sasaki) são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia Tetsuo encontra Takashi (Tatsuhiko Nakamura), uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e antes de receber a ajuda dos amigos é levado por integrantes do exército, liderados pelo coronel Shikishima (Tarô Ishida). A partir de então Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei (Mami Koyama), uma garota envolvida com espiões que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]ALICE NO PAÍS DAS MARAVILHAS[/COLOR][/B]</title>
-<link>$doregex[BP1]ALCNPSDSMRVLHS1951.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Alice%20no%20Pa%C3%ADs%20das%20Maravilhas%20Desenho.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Alice%20no%20Pa%C3%ADs%20das%20Maravilhas%20Desenho.jpg</fanart>
-<info>Alice (Kathryn Beaumont/ Therezinha) é uma garota curiosa e cansada da monotonia de sua vida. Um dia, ao seguir o apressado Coelho Branco (Bill Thompson), ela entra no País das Maravilhas. Lá ela conhece diversos seres incríveis, como o Chapeleiro Louco (Ed Wynn/ Otávio França), o Mestre Gato (Sterling Holloway/ José Vasconcellos), a Lagarta (Richard Haydn/ Wellington Botelho) e a Rainha de Copas (Verna Felton/ Sara Nobre).</info>
 <date></date>
 </item>
 <item>
@@ -857,6 +863,18 @@
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]BATMAN SEM LIMITES: CAOS MONSTRUOSO[/COLOR][/B]</title>
+<link>$doregex[BP1]BTMNSMLMTSCASMNSTOSO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Batman%20Sem%20Limites%20-%20Caos%20Monstruoso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Batman%20Sem%20Limites%20-%20Caos%20Monstruoso.jpg</fanart>
+<info>É Dia das Bruxas em Gotham City e cabe à Batman, acompanhado de Arqueiro Verde, Asa Noturna, Ciborgue e Robin Vermelho, impedir a ameaça de Coringa, que junto de Solomon Grundy, Banshee Prateada, Espantalho e Cara-de-Barro, está tentando lançar um vírus de computador, chamado de "risada digital", com o intuito de acabar com a tecnologia e tomar a cidade.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]BATMAN VS DRÁCULA[/COLOR][/B]</title>
 <link>$doregex[BP1]BATMVSDRCL.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1073,10 +1091,34 @@
 <date></date>
 </item>
 <item>
-<title>[B][COLOR white]BRANCA DE NEVE E OS SETE ANÕES[/COLOR][/B]</title>
-<link>$doregex[BP1]BRANCDNCEOSTSANOES.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]BOLT & BLIP: DOIS ROBÔS PIRADOS[/COLOR][/B]</title>
+<link>$doregex[BP1].mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Bob%20Esponja%20-%20Um%20Her%C3%B3i%20Fora%20D%27%C3%81gua.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Bob%20Esponja%20-%20Um%20Her%C3%B3i%20Fora%20D%27%C3%81gua.jpg</fanart>
+<info></info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]BOLT: SUPERCÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]BLTSPRCAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bolt%20-%20Superc%C3%A3o.jpg</fanart>
+<info>Bolt (John Travolta) é um cachorro que estrela uma série de TV, na qual possui superpoderes. Sua companheira é Penny (Miley Cyrus), com quem vive diversas aventuras. Entretanto Bolt não sabe que o mundo que o cerca é falso, acreditando que realmente possui dons especiais. Quando, nas gravações de um dos episódios, Penny é sequestrada pelo dr. Calico (Malcolm McDowell), o vilão da série, ele consegue fugir do furgão em que vive e parte atrás dela. Ao lidar com a vida real é que, aos poucos, ele toma consciência de que não tem superpoderes e é um cachorro normal.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]BRANCA DE NEVE E OS SETE ANÕES[/COLOR][/B]</title>
+<link>$doregex[BP1]BRNCDNVEOSTSANS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Branca%20de%20Neve%20e%20os%20Sete%20An%C3%B5es.jpg</thumbnail>
@@ -1325,6 +1367,18 @@
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]CONSTANTINE: CIDADE DOS DEMÔNIOS[/COLOR][/B]</title>
+<link>$doregex[BP1]DCCONSTNECDADEMO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Constantine%20-%20Cidade%20dos%20Dem%C3%B4nios%20-%20O%20Filme.jpg</fanart>
+<info>Uma década depois de um trágico erro, o homem de família Chas e o detetive ocultista John Constantine começaram a curar a filha de Chas, Trish, de um misterioso coma sobrenatural. Com a ajuda da misteriosa Enfermeira do Pesadelo, da influente Rainha dos Anjos e do brutal deus asteca Mictlantecuhtli, a dupla pode ter a chance de enganar o demônio Beroul para salvar a alma de Trish. Em um mundo de sombras e magia negra, nem tudo é o que parece, e sempre há um preço a pagar. O caminho para a redenção nunca é fácil, e se Constantine tiver sucesso, ele deve navegar pela escuridão urbana de Los Angeles, superar as mais astutas criaturas do inferno, e ficar cara a cara com o arquiinimigo Nergal - tudo isso enquanto enfrenta próprios demônios interiores!</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]CORALINE E O MUNDO SECRETO[/COLOR][/B]</title>
 <link>$doregex[BP1]CORLNE.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1346,6 +1400,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Crian%C3%A7as%20Lobo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Crian%C3%A7as%20Lobo.jpg</fanart>
 <info>A história cobre 13 anos e começa com Hana, uma estudante de faculdade de 19 anos, que se encontra e se apaixona, daquela forma intensa vista nos contos de fadas, por um "lobisomem". Depois de se casar com ele, Hana dá a luz e cria duas crianças lobo, a mais velha Yuki e o mais novo Ame. Os quatro viviam tranquilamente em um canto da cidade, para esconder a existência das "crianças lobo", mas quando o lobisomem morre de repente, Hana decide se mudar para uma cidade rural, distante da modernidade.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]DC SUPER HERO GIRLS: LENDAS DE ATLÂNTIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]DCSPRHROGRLSLNDSDATLNDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/DC%20Super%20Hero%20Girls%20-%20Lendas%20de%20Atl%C3%A2ntida.jpg</fanart>
+<info>Mergulhe nesta aventura com as Super-heroínas da DC neste épico submarino. Irmãs do mar, Siren e Mera pegam os alunos do Super Hero High desprevenidos em um ataque surpresa para roubar uma relíquia extremamente poderosa - o Book of Legends. Com o livro em sua posse e fortalecendo mais poder do que nunca, Siren pretende levantar um exército das profundezas dos abismos oceânicos. Wonder Woman, Batgirl e Supergirl estão prontas para ajudar o Aquaman a defender Atlantis e parar a sinistra Siren! Apronte-se para uma aventura eletrizante estrelada pelas Super-heroínas da DC!</info>
 <date></date>
 </item>
 <item>
@@ -1442,6 +1508,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Divertida%20Mente.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Divertida%20Mente.jpg</fanart>
 <info>Riley é uma garota divertida de 11 anos de idade, que deve enfrentar mudanças importantes em sua vida quando seus pais decidem deixar a sua cidade natal, no estado de Minnesota, para viver em San Francisco. Dentro do cérebro de Riley, convivem várias emoções diferentes, como a Alegria, o Medo, a Raiva, o Nojinho e a Tristeza. A líder deles é Alegria, que se esforça bastante para fazer com que a vida de Riley seja sempre feliz. Entretanto, uma confusão na sala de controle faz com que ela e Tristeza sejam expelidas para fora do local. Agora, elas precisam percorrer as várias ilhas existentes nos pensamentos de Riley para que possam retornar à sala de controle - e, enquanto isto não acontece, a vida da garota muda radicalmente.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]DORA A AVENTUREIRA: PARTY SUPER DIVERTIDA![/COLOR][/B]</title>
+<link>$doregex[BP1]DORAVNTRPRTSPRDVRTDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Dora%20A%20Aventureira%20-%20Party%20Super%20Divertida!.jpg</fanart>
+<info>Série exibida na Rede TV e no Canal Nickelodeon que faz sucesso com as crianças. Dora é uma pequena garota que, ao lado do seu amigo, o inseparável macaco Botas, vive divertidas aventuras em um mundo colorido e bem musical.</info>
 <date></date>
 </item>
 <item>
@@ -1587,6 +1665,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Festa%20da%20Salsicha.jpg</fanart>
 <info>Não recomendado para menores de 16 anos
 Dentro de um supermercado, os alimentos pensam que as pessoas são deuses. Eles sonham em serem escolhidos por elas e serem levados para suas casas, onde pensam que viverão felizes. Mas eles nem suspeitam que serão cortados, ralados, cozidos e devorados! Quando Frank, uma salsicha, descobre a terrível verdade, ele precisa convencer os outros alimentos do supermecado  e fazer com que eles lutem contra os humanos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]FESTA NO CÉU[/COLOR][/B]</title>
+<link>$doregex[BP1]FSTNOCEU.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Festa%20no%20C%C3%A9u.jpg</fanart>
+<info>Um grupo de crianças bagunceiras é encaminhado a uma visita guiada ao museu, como "punição" pelo mau comportamento. Lá, uma guia diferente resolve percorrer um caminho alternativo e os apresenta ao "Livro da Vida", que contém todas as histórias. A mais simbólica delas, baseada nas tradições mexicanas, envolve três mundos. Catrina/ La Muerte é uma adorada deusa ancestral, que governa a Terra dos Lembrados. Ela é ex-mulher de Xibalba, o governante da Terra dos Esquecidos, um trapaceiro. Em uma visita à Terra dos Vivos, eles fazem uma aposta. Se a jovem e bela Maria, filha da maior autoridade da cidade de San Angel, escolher se casar com o emotivo violinista Manolo, Catrina ganha, e Xibalba não poderá mais interferir no Mundo dos Vivos, como gosta de fazer; se o preferido for o valente Joaquim, Xibalba passa a governar, também, o Mundo dos Lembrados.</info>
 <date></date>
 </item>
 <item>
@@ -1867,6 +1957,18 @@ Enquanto a poeira da sua mais recente aventura começa a assentar, Gato de Botas
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hotel%20Transilv%C3%A2nia2.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Hotel%20Transilv%C3%A2nia2.jpg</fanart>
 <info>A vampira Mavis (Selena Gomez) e o humano Jonathan (Andy Samberg) se casaram e continuaram morando no Hotel Transilvânia, já que Drácula (Adam Sandler) ofereceu um emprego ao genro. Ele na verdade quer que sua filha permaneça ao seu lado, especialmente quando ela revela estar grávida. Eufórico com a notícia, Drácula torce para que seu neto seja um vampiro de verdade e busca, a todo instante, indícios de que isto acontecerá. Entretanto, o pequeno Dennis (Asher Blinkoff) está prestes a completar cinco anos e, ao menos por enquanto, tudo indica que ele é um humano normal.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]HOTEL TRANSILVÂNIA 3: FÉRIAS MONSTRUOSAS[/COLOR][/B]</title>
+<link>$doregex[BP1]HTLTRNSVN3.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hotel%20Transilv%C3%A2nia%203%20-%20F%C3%A9rias%20Monstruosas.jpg</fanart>
+<info>Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro. Inicialmente resistente à ideia, ele acaba engajado no passeio ao se encantar pela comandante, que, no entanto, esconde um segredo nada amigável.</info>
 <date></date>
 </item>
 <item>
@@ -2774,6 +2876,18 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]NATAL SHREKTACULAR DO BURRO[/COLOR][/B]</title>
+<link>$doregex[BP1]NTLSHRKTCLRDBRO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Natal%20Shrektacular%20do%20Burro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Natal%20Shrektacular%20do%20Burro.jpg</fanart>
+<info>É época de Natal e Burro (Eddie Murphy) e seus amigos de Tão Tão Distante estão na residência de Shrek (Mike Myers) e Fiona (Cameron Diaz) para comemorar esta data especial. Para isso, Burro organiza uma divertida decoração e um show natalino empolgante, repleto de números musicais de Shrek, Fiona e seus filhos, os ogros amigos do casal, e O Gato de Botas (Antonio Banderas).</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]NEXT GEN[/COLOR][/B]</title>
 <link>$doregex[BP1]NXTGEN.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -2879,6 +2993,18 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Fantasma%20do%20Futuro.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Fantasma%20do%20Futuro.jpg</fanart>
 <info>2029. O mundo se tornou um local altamente informatizado, a ponto dos seres humanos poderem acessar extensas redes de informações com seu ciber-cérebros. A agente cibernética Major Motoko é a líder da unidade de serviço secreto Esquadrão Shell, que combate o crime. Motoko foi tão modificada que quase todo seu corpo já é robótico. De humano só teria sobrado um "fantasma de si mesma". O governo informa o grupo de que o famoso hacker conhecido "Mestre das marionetes", especialista em invadir e controlar o ciber-cérebro das pessoas, está no Japão. Agora, Motoko e sua equipe terão que caçar este criminoso, e vão acabar se envolvendo em uma trama de conspirações, que atinge interesses da alta cópula da política.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O FANTÁSTICO SR. RAPOSO[/COLOR][/B]</title>
+<link>$doregex[BP1]OFANTSCSNHRPSO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Fant%C3%A1stico%20Sr.%20Raposo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Fant%C3%A1stico%20Sr.%20Raposo.jpg</fanart>
+<info>O Sr. Raposo (George Clooney), a Sra. Raposa (Meryl Streep) e seu filho vão morar em uma árvore, localizada em uma colina. Lá eles têm como vizinhos o Coelho (Mario Batali), o Texugo (Bill Murray) e a Doninha (Wes Anderson), entre outros animais, todos com suas respectivas famílias. O Sr. Raposo prometeu à esposa que deixaria a vida de roubos de galinhas, já que ela estava grávida. Desde então ele iniciou uma respeitável carreira de colunista de jornal. Porém, a proximidade do novo lar com as fazendas de Boggis (Brian Cox), Bunce (Hugo Guinness) e Bean (Michael Gambon) faz com que volte à velha vida, às escondidas. Só que logo o trio de fazendeiros se une para capturá-lo.</info>
 <date></date>
 </item>
 <item>
@@ -3110,6 +3236,18 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]O SENHOR DOS ANÉIS[/COLOR][/B]</title>
+<link>$doregex[BP1]OSNHRDSANES.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Senhor%20dos%20An%C3%A9is.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Senhor%20dos%20An%C3%A9is.jpg</fanart>
+<info>Em uma Era distante, o Lorde das Trevas Sauron criou secretamente o Um Anel, um objeto mágico capaz de exercer poder sobre toda a Terra Média. Anos depois, acredita-se que o Anel esteja perdido. Porém, o jovem Hobbit Frodo recebe o objeto de seu tio, que o estava guardando há muitos anos. Sabendo disso, o mago Gandalf lhe dá a missão de partir em uma difícil jornada para carregar o fardo do Um Anel e destruí-lo, ao lado da Sociedade do Anel, composta por outros hobbits, humanos, elfos e anões.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]O SUBMARINO AMARELO[/COLOR][/B]</title>
 <link>$doregex[BP1]OSBMRNAMRLO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3194,6 +3332,30 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]OS INCRÍVEIS[/COLOR][/B]</title>
+<link>$doregex[BP1]OSINCRVS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis.jpg</fanart>
+<info>Roberto Pêra (Craig T. Nelson) já foi o maior herói do planeta, salvando vidas e combatendo o mal todos os dias sob o codinome Sr. Incrível. Porém, após salvar um homem de se suicidar, ele é processado e condenado na Justiça. Uma série de processos seguintes faz com que o Governo tenha que desembolsar uma alta quantia para pagar as indenizações, o que faz com que a opinião pública se volte contra os super-heróis. Em reconhecimento aos serviços prestados, o Governo faz a eles uma oferta: que levem suas vidas como pessoas normais, sem demonstrar que possuem superpoderes, recebendo em troca uma pensão anual. Quinze anos depois, Roberto leva uma vida pacata ao lado de sua esposa Helen (Holly Hunter), que foi a super-heroína Mulher-Elástica, e seus três filhos. Roberto agora trabalha em uma seguradora e luta para combater o tédio da vida de casado e o peso extra. Com vontade de retomar a vida de herói, ele tem a grande chance quando surge um comunicado misterioso, que o convida para uma missão secreta em uma ilha remota.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]OS INCRÍVEIS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]OSINCRVS2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Incr%C3%ADveis%202.jpg</fanart>
+<info>Quando Helena Pêra é chamada para voltar a lutar contra o crime como a super-heroína Mulher-Elástica, cabe ao seu marido, Roberto, a tarefa de cuidar das crianças, especialmente o bebê Zezé. O que ele não esperava era que o caçula da família também tivesse superpoderes, que surgem sem qualquer controle.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]OS IRMÃOS GUARDIÕES[/COLOR][/B]</title>
 <link>$doregex[BP1]OSIMSGRDIOS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3203,6 +3365,18 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Os%20Irm%C3%A3os%20Guardi%C3%B5es.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Os%20Irm%C3%A3os%20Guardi%C3%B5es.jpg</fanart>
 <info>Uma família chinesa está em perigo de perder o seu negócio de família - uma loja de sopa de wonton que tem sido transmitida de geração em geração por centenas de anos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]OS JOVENS TITÃS EM AÇÃO! NOS CINEMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OSJVNSTTSEMACONSCINE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20nos%20Cinemas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jovens%20Tit%C3%A3s%20em%20A%C3%A7%C3%A3o!%20nos%20Cinemas.jpg</fanart>
+<info>Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro e com ideias malucas e até uma canção eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão.</info>
 <date></date>
 </item>
 <item>
@@ -3362,6 +3536,18 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]PETER PAN: A PROCURA DO LIVRO DO NUNCA[/COLOR][/B]</title>
+<link>$doregex[BP1]PTRPNAPRCDLVRDNCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</fanart>
+<info>O terrível Capitão Gancho ataca mais uma vez e rouba o Livro do Nunca, um exemplar muito antigo que contém poderes mágicos, ele deseja usá-lo para despertar terríveis criaturas na Terra do Nunca e destruir Peter Pan e seus amigos. Agora, Peter precisa mais uma vez salvar seu lar, sendo que a única forma de realizar esta tarefa é cumprindo com a profecia escrita no poderoso livro.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]PETS: A VIDA SECRETA DOS BICHOS[/COLOR][/B]</title>
 <link>$doregex[BP1]PETSAVSCDBS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3431,6 +3617,30 @@ Krona finalmente chega ao sol de Oa. Todos os Lanternas lutam contra os demônio
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Ploey%20-%20Voc%C3%AA%20Nunca%20Voar%C3%A1%20S%C3%B3.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Ploey%20-%20Voc%C3%AA%20Nunca%20Voar%C3%A1%20S%C3%B3.jpg</fanart>
 <info>Um filhote de tarambola ainda não aprendeu a voar quando chega a hora de sua família migrar no outono. Ele precisa sobreviver ao inverno ártico, inimigos cruéis e a si mesmo, a fim de se reunir com seus entes queridos na próxima primavera.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]POCAHONTAS II: VIAGEM A UM NOVO MUNDO[/COLOR][/B]</title>
+<link>$doregex[BP1]PCOHNTS2UMJRNDPRONVMDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%202%20-%20Uma%20Jornada%20para%20o%20Novo%20Mundo.jpg</fanart>
+<info>Pocahontas embarca em um navio rumo a Inglaterra, juntamente com o diplomata inglês John Rolfe, seu guarda-costas Uti e os animais Meeko, Percy e Flit, em missão de paz. Além do novo mundo londrino e da ameaça do perigoso Ratcliffe, a reaparição de John Smith a aguarda.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]POCAHONTAS: O ENCONTRO DE DOIS MUNDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]PCOHNTSOENTRDISMDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%20-%20O%20Encontro%20de%20Dois%20Mundos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pocahontas%20-%20O%20Encontro%20de%20Dois%20Mundos.jpg</fanart>
+<info>Um navio parte da Inglaterra com o objetivo de encontrar o "novo mundo", tendo a bordo o governador Ratcliff (David Ogden Stiers), que está ansioso em encontrar ouro, e o capitão John Smith (Mel Gibson). Ao chegarem, John decide explorar o mundo desconhecido. Logo encontra Pocahontas (Irene Bedard), uma bela índia por quem se apaixona. Só que o povo índio e os ingleses logo entram em guerra, já que estão em disputa pelas terras da América.</info>
 <date></date>
 </item>
 <item>
@@ -4263,6 +4473,78 @@ Foi mais tarde revelado que este filme irá mostrar o Pokémon lendário Keldeo 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]TINKER BELL E O MONSTRO DA TERRA DO NUNCA[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLUMAVNTREOMNSTRDTRADNCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Monstro%20da%20Terra%20do%20Nunca.jpg</fanart>
+<info>A passagem de um cometa pela Terra do Nunca desperta um gigantesco monstro, que logo passa a construir misteriosas torres. Ele é descoberto pela fada Fawn, grande amiga de Tinker Bell, que tem o hábito de se arriscar mais do que devia ao seguir o coração em detrimento da razão. Após ajudá-lo a se livrar de um espinho no pé, Fawn torna-se amiga do monstro, que ganha o nome de Ranzinza. Entretanto, ele está no alvo de outra fada, Nyx, que acredita que se baseia em uma antiga lenda para crer que ele seja uma grande ameaça para as fadas.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TINKER BELL E O RESGATE DA FADA[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLUMAVNTREORSGTDFDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20O%20Resgate%20das%20Fadas.jpg</fanart>
+<info>Muito antes de Wendy e os Garotos Perdidos, Tinker Bell conheceu pela primeira vez um humano, quando foi capturada por Lizzy, quando todas as fadas faziam uma visita de verão aos campos floridos da Inglaterra. Lizzy é uma menina que acredita no mundo mágico das fadas e no poder do pó mágico, e as duas vão desenvolver uma forte relação de amizade. Quando as outras fadas vão resgatar Tinker Bell, a fadinha loira se arrisca, e coloca sua segurança e o futuro de todas as fadas em perigo.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TINKER BELL E O TESOURO PERDIDO[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLUMAVNTREOTSRPRDO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Tesouro%20Perdido.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20e%20o%20Tesouro%20Perdido.jpg</fanart>
+<info>Tinker Bell sairá em uma aventura bem longe do Refúgio das Fadas desta vez. É outono, e a fadinha tem uma missão bem especial: Criar um tesouro capaz rejuvenescer a árove do pó mágico, ou a árvore Pixie Dust, e para isso ela vai contar com a ajuda de Terrence. Só que o temperamento de Tinker Bell faz com que ela arruine as coisas e sua amizade com Terrence. Para consertar tudo, e tirar o Refúgio das Fadas do perigo que corre, ela terá que ir até o Norte da Terra do Nunca. Nessa jornada, ela irá descobrir o maior tesouro de todos: O verdadeiro valor da amizade.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TINKER BELL: FADAS E PIRATAS[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLFDSEPRTS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20Fadas%20E%20Piratas.jpg</fanart>
+<info>Nova aventura da fada Tinker Bell, após Tinker Bell e o Segredo das Fadas (2012).</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TINKER BELL: O SEGREDO DAS FADAS[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLUMAVNTROSGRDSFDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20-%20O%20Segredo%20das%20Fadas.jpg</fanart>
+<info>Tinker Bell, também conhecida como Sininho, é uma fada do verão que habita o Vale das Fadas. Curiosa e arteira, ela decide quebrar uma importante regra e vai parar no Bosque do Inverno. Lá, ela não pode voar porque está agasalhada e quando buscava entender a razão de suas asas terem um brilho especial, acaba conhecendo uma fada do inverno que tem o mesmo "poder". Com a ajuda do Guardião, um sábio local, elas descobrirão um importante segredo que mudará para sempre as suas vidas, mas também colocarão em risco o dia a dia de outros seres de toda a região.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TINKER BELL: UMA AVENTURA NO MUNDO DAS FADAS[/COLOR][/B]</title>
+<link>$doregex[BP1]TNKRBLLUMAVNTRNMNDSFDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20Uma%20Aventura%20No%20Mundo%20das%20Fadas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinker%20Bell%20Uma%20Aventura%20No%20Mundo%20das%20Fadas.jpg</fanart>
+<info>O primeiro longa-metragem da fadinha mais famosa da Disney,Tinker Bell ou Sininho, saída da história de Peter Pan. Tinker Bell nasceu no dia da preparação da primavera e da mudança de uma estação para outra, por isso ela tem o poder de fazer as estações começarem. Ela e suas amigas também fadas cuidam da natureza no reino mágico e conseguem, depois de uma longa aventura, realizar a tão esperada primavera com a ajuda de objetos perdidos da Terra do Nunca.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]TÔ DE FÉRIAS[/COLOR][/B]</title>
 <link>$doregex[BP1]TODFRIS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4284,6 +4566,18 @@ Foi mais tarde revelado que este filme irá mostrar o Pokémon lendário Keldeo 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Tom%20e%20Jerry%20-%20A%20Fant%C3%A1stica%20F%C3%A1brica%20de%20Chocolates.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Tom%20e%20Jerry%20-%20A%20Fant%C3%A1stica%20F%C3%A1brica%20de%20Chocolates.jpg</fanart>
 <info>Tom e Jerry ajuam o jovem Charlie Bucket a conseguir o Ticket Dourado para conseguir visitar a famosa fábrica de chocolate do Willy Wonka. Além de aproveitarem o maravilhoso ambiente doce da fábrica com o rato oompa-loompa.Tuffy, eles precisam prevenir que um concorrente de Wonka roube um doce especial.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TOM E JERRY: UMA AVENTURA COM SHERLOCK HOLMES[/COLOR][/B]</title>
+<link>$doregex[BP1]TOMEJRYENTRSHLCKHMLS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tom%20e%20Jerry%20-%20Uma%20Aventura%20com%20Sherlock%20Holmes.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tom%20e%20Jerry%20-%20Uma%20Aventura%20com%20Sherlock%20Holmes.jpg</fanart>
+<info>Na cidade de Londres, um bandido rouba jóias em torno da Scotland Yard, e Red, uma bela cantora, está sendo acusado do crime. Tom e Jerry, como assistentes, devem ajudar Sherlock Holmes a procurar por pistas e rastrear o verdadeiro ladrão para resolver este caso.</info>
 <date></date>
 </item>
 <item>
@@ -4467,6 +4761,18 @@ Foi mais tarde revelado que este filme irá mostrar o Pokémon lendário Keldeo 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]VIDA DE INSETO[/COLOR][/B]</title>
+<link>$doregex[BP1]VDADISNTO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vida%20de%20Inseto.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vida%20de%20Inseto.jpg</fanart>
+<info>Todo ano, os gananciosos gafanhotos exigem uma parte da colheita das formigas. Mas quando algo dá errado e a colheita destruída, os gafanhotos ameaçam atacar e as formigas são forçadas a pedir ajuda a outros insetos para enfrentá-los numa batalha.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]VIVA: A VIDA É UMA FESTA[/COLOR][/B]</title>
 <link>$doregex[BP1]VIVAAVDEUMFST.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4524,6 +4830,18 @@ Foi mais tarde revelado que este filme irá mostrar o Pokémon lendário Keldeo 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Watchmen%20Contos%20do%20Cargueiro%20Negro.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Watchmen%20Contos%20do%20Cargueiro%20Negro.jpg</fanart>
 <info>Os temidos piratas do Cargueiro Negro fazem um ataque, deixando somente um sobrevivente. O único marinheiro restante agora precisa lutar para sobreviver. Mas além dos perigos do alto mar, ele deve enfrentar as ameaças de sua própria mente, beirando a loucura e buscando vingança, em meio a solidão e a ansiedade para voltar para casa.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]WHEELY: VELOZES E DIVERTIDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]WHLYVLZEDVTDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</fanart>
+<info>Em Gasket City, uma cidade onde todos os moradores são carros, vive Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que é um verdadeiro herói enfrentando os carros de elite e o terrível caminhão de 18 rodas, que comanda o sindicato de carros de luxo da cidade.</info>
 <date></date>
 </item>
 <item>
