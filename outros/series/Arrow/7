@@ -25,10 +25,10 @@
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]ARROWS07EP03.mp4|Referer=$doregex[BP4]</link>
+<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
+<link>$doregex[BP1]ARROWT07EP03.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc10</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rc7</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Arrow/thumb.jpg</thumbnail>
