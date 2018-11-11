@@ -8,80 +8,15 @@
 </item>
 
 <item>
-<title>[B][COLOR white]NOSTALGIA[/COLOR][/B]</title>
-<link>$doregex[BP1]NSTLGIA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]22 DE JULHO[/COLOR][/B]</title>
+<link>$doregex[BP1]22DJLHO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nostalgia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nostalgia.jpg</fanart>
-<info>Conectados através de uma perda em comum, um grupo de pessoas se une no processo de encontrar amor e consolo em memórias e objetos compartilhados.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]HOSTIS[/COLOR][/B]</title>
-<link>$doregex[BP1]HSTIS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hostis.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hostis.jpg</fanart>
-<info></info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]LEGÍTIMO REI[/COLOR][/B]</title>
-<link>$doregex[BP1]LGTMREI.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Leg%C3%ADtimo%20Rei.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Leg%C3%ADtimo%20Rei.jpg</fanart>
-<info></info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]KIN[/COLOR][/B]</title>
-<link>$doregex[BP1]KIN.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Kin.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Kin.jpg</fanart>
-<info>Um ex-condenado e seu irmão mais novo são forçados a fugir de um vingativo criminoso, federais e uma série de soldados de outro mundo. A única proteção que eles possuem é uma arma de antecedência misteriosa. Enquanto coisas estranhas acontecem com os irmãos, uma agente do FBI (Carrie Coon) é chamada para investigar o caso.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]A FERA[/COLOR][/B]</title>
-<link>$doregex[BP1]AFER.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Fera%202018.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Fera%202018.jpg</fanart>
-<info>Uma mulher problemática que vive em uma comunidade isolada encontra-se deve escolher entre uma vida controlada por sua família opressiva e o fascínio de um estranho secreto suspeito de ter cometido uma série de assassinatos brutais.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MAMMA MIA!: LÁ VAMOS NÓS DE NOVO[/COLOR][/B]</title>
-<link>$doregex[BP1]MAMMIALAVMSNSDNVO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mamma%20Mia%20-%20L%C3%A1%20Vamos%20N%C3%B3s%20de%20Novo!.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mamma%20Mia%20-%20L%C3%A1%20Vamos%20N%C3%B3s%20de%20Novo!.jpg</fanart>
-<info>Um ano após a morte de Donna (Meryl Streep), sua filha Sophie (Amanda Seyfried) está prestes a reinaugurar o hotel da mãe, agora totalmente reformado. Para tanto convida seus três "pais", Harry (Colin Firth), Sam (Pierce Brosnan) e Bill (Stellan Skarsgard) e as eternas amigas da mãe, Rosie (Julie Walters) e Tanya (Christine Baranski), ao mesmo tempo em que precisa lidar com a distância do marido Sky (Dominic Cooper), que está fazendo um curso de hotelaria em Nova York. O reencontro serve para desenterrar memórias sobre a juventude de Donna (Lily James), no final dos anos 70, quando ela resolve se estabelecer na Grécia.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</fanart>
+<info>Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei.</info>
 <date></date>
 </item>
 
@@ -99,196 +34,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PETER PAN: A PROCURA DO LIVRO DO NUNCA[/COLOR][/B]</title>
-<link>$doregex[BP1]PTRPNAPRCDLVRDNCA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</fanart>
-<info>O terrível Capitão Gancho ataca mais uma vez e rouba o Livro do Nunca, um exemplar muito antigo que contém poderes mágicos, ele deseja usá-lo para despertar terríveis criaturas na Terra do Nunca e destruir Peter Pan e seus amigos. Agora, Peter precisa mais uma vez salvar seu lar, sendo que a única forma de realizar esta tarefa é cumprindo com a profecia escrita no poderoso livro.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MISSÃO IMPOSSÍVEL: EFEITO FALLOUT[/COLOR][/B]</title>
-<link>$doregex[BP1]MSAOIMPSVELEFTFLOUT.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Imposs%C3%ADvel%20-%20Efeito%20Fallout.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Imposs%C3%ADvel%20-%20Efeito%20Fallout.jpg</fanart>
-<info>Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]WHEELY: VELOZES E DIVERTIDOS[/COLOR][/B]</title>
-<link>$doregex[BP1]WHLYVLZEDVTDS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</fanart>
-<info>Em Gasket City, uma cidade onde todos os moradores são carros, vive Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que é um verdadeiro herói enfrentando os carros de elite e o terrível caminhão de 18 rodas, que comanda o sindicato de carros de luxo da cidade.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]PAISAGEM DE NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]PASGMDNTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Paisagem%20de%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Paisagem%20de%20Natal.jpg</fanart>
-<info>A estância de esqui Thunder Mountain fica agitada quando o chef celebridade Shane Roarke é nomeado o novo chef de cozinha. Clara Garrison não está tão empolgada e está focada em ser readmitida após sua tentativa fracassada de abrir um restaurante na cidade. Com seus caminhos constantemente atravessando, sua paixão compartilhada pela culinária os uniria, ou os segredos os manterão separados?</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]A PRIMEIRA NOITE DE CRIME[/COLOR][/B]</title>
-<link>$doregex[BP1]APRMRNTDCRME.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Noite%20de%20Crime.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Noite%20de%20Crime.jpg</fanart>
-<info>Quando um novo partido político, o New Founding Fathers of America, ascende, é anunciado um novo experimento social. São 12 horas sem lei, em que o governo incentiva as pessoas a perderem toda e qualquer inibição. A participação não é obrigatória, mas como estímulo, 5.000 dólares é dado para quem fica na cidade, e mais prêmios para quem participa.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]UFO: ESTAMOS SOZINHOS?[/COLOR][/B]</title>
-<link>$doregex[BP1]UFOESTMSZNHS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ufo%20-%20Estamos%20Sozinhos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ufo%20-%20Estamos%20Sozinhos.jpg</fanart>
-<info>Derek (Alex Sharp) é um brilhante estudante que é constantemente assombrado pelas memórias de quando viu um OVNI quando era pequeno. Agora ele tenta, com ajuda de sua namorada (Ella Purnell) e sua professora (Gillian Anderson), resolver o mistério por trás de supostas recentes aparições com um agente do FBI (David Strathairn) em seu encalço.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]SHOW DOGS: O AGENTE CANINO[/COLOR][/B]</title>
-<link>$doregex[BP1]SHWDGSOAGNTCNO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Show%20Dogs%20-%20O%20Agente%20Canino.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Show%20Dogs%20-%20O%20Agente%20Canino.jpg</fanart>
-<info>Um agente do FBI e Max, um cão Rottweiler da polícia de Nova York, precisam realizar um trabalho disfarçados num prestigiado Show de Cachorros quando uma rede ilegal de comerciantes de animais é descoberta.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]SOBREVIVENDO AO MEU PAI[/COLOR][/B]</title>
-<link>$doregex[BP1]SBRVDAOMEUPAI.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sobrevivendo%20Ao%20Meu%20Pai.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sobrevivendo%20Ao%20Meu%20Pai.jpg</fanart>
-<info>A história segue Atticus Smith (Irons), que é um célebre ator e seu distante filho (Huston), um marido dedicado e professor, não poderia ser mais diferente de seu pai. Quando um problema médico força Atticus pegar uma carona de Los Angeles a Nova York para estar no casamento de sua filha, seu filho se torna a única opção e pegam a estrada juntos.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]O FEITIÇO DO NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]OFTCDNTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Feiti%C3%A7o%20do%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Feiti%C3%A7o%20do%20Natal.jpg</fanart>
-<info>Abby (Kat Graham) é uma talentosa fotógrafa batalhando para conseguir construir uma carreira. Quando ela herda um calendário mágico que parece poder prever o futuro, sua vida toma um novo rumo e ela se vê sendo levada a encontrar o amor.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]O ESCORPIÃO REI 5: O LIVRO DAS ALMAS[/COLOR][/B]</title>
-<link>$doregex[BP1]OESCPAOREI5.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Escorpi%C3%A3o%20Rei%205%20-%20O%20Livro%20das%20Almas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Escorpi%C3%A3o%20Rei%205%20-%20O%20Livro%20das%20Almas.jpg</fanart>
-<info>O Escorpião Rei se junta com uma guerreira chamada Tala, que é a irmã do rei Nubian. Juntos, eles procuram uma relíquia lendária conhecida como The Book of Souls, que lhes permitirá pôr fim a um senhor da guerra maligno.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 6: UM DIA FRIO NO INFERNO[/COLOR][/B]</title>
-<link>$doregex[BP1]OATQDSVRMSMLDTS6.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</fanart>
-<info>Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]GUN CITY[/COLOR][/B]</title>
-<link>$doregex[BP1]GNCTY.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gun%20City.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gun%20City.jpg</fanart>
-<info>Em 1921, a Espanha encontra-se em um momento de caos e tumulto, pois existem confrontos entre bandidos e anarquistas, enquanto as empresas ilegais florescem. Nesta atmosfera, o agente Aníbal Uriarte (Luis Tosar), é enviado a Barcelona para uma missão: encontrar e parar os culpados de roubar um trem militar. Entre tumultos e crimes, ele não terá uma missão fácil, principalmente porque na delegacia de polícia local, não confiam em suas atitudes. Por essa razão, aparecem confrontos com seus companheiros, e além disso, Hannibal desconfia do inspetor Redu, um superior corrupto. Desta forma, ele entrará em contato com o submundo da sociedade da época, onde encontrará um mafioso importante, um barão alemão e associações anarquistas radicais, que estão dispostos a fazer tudo para alcançar seus objetivos. Mas será com a jovem e feroz Sara (Michelle Jenner) o encontro que marcará a vida de ambos, levando a inesperadas consequências.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]DESCENDENTES 2.5 - AQUI NO MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]DSCDNTS2.5.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Descendentes%202,5%20-%20Aqui%20no%20Mar.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Descendentes%202,5%20-%20Aqui%20no%20Mar.jpg</fanart>
-<info>Após os eventos de de Descendentes 2, Mal caminha sobre a floresta e acaba encotrando Dizzy, que na verdade e a uma desfarçada, nisso Mal e Uma seenfrenta em uma poderosa briga sob o mar.</info>
-<date></date>
-</item>
-
-
-
-
-
-
-
-
-
-<item>
-<title>[B][COLOR white]22 DE JULHO[/COLOR][/B]</title>
-<link>$doregex[BP1]22DJLHO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20de%20Julho.jpg</fanart>
-<info>Noruega, 2011. Anders Behring Breivik, consumido pelos seus ideias fundamentalistas cristãos e anti-islâmicos, mata 75 pessoas a tiros em um acampamento na Ilha de Utoya. Os sobreviventes do ataque pedem justiça ao governo Norueguês, enquanto os advogados do terrorista condenado se mobilizam para defendê-lo perante a lei.</info>
-<date></date>
-</item>
-
-<item>
 <title>[B][COLOR white]A EXTRAORDINÁRIA JORNADA DO FAQUIR[/COLOR][/B]</title>
 <link>$doregex[BP1]AEXTRDNRJRNDFQR.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -298,6 +43,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Extraordin%C3%A1ria%20Jornada%20do%20Faquir.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Extraordin%C3%A1ria%20Jornada%20do%20Faquir.jpg</fanart>
 <info>Baseado no best-seller homônimo de Romain Puértolas. Em uma trama mágica, sobre amor e aventura e que percorre três continentes, um narrador conta a história de quando se apaixonou por uma mulher europeia e como acabou deportado para um lugar isolado do continente, junto com um bando de refugiados africanos.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]A FERA[/COLOR][/B]</title>
+<link>$doregex[BP1]AFER.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Fera%202018.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Fera%202018.jpg</fanart>
+<info>Uma mulher problemática que vive em uma comunidade isolada encontra-se deve escolher entre uma vida controlada por sua família opressiva e o fascínio de um estranho secreto suspeito de ter cometido uma série de assassinatos brutais.</info>
 <date></date>
 </item>
 
@@ -324,6 +82,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Sereia.jpg</fanart>
 <info>Um jovem repórter vai fazer uma reportagem sobre um circo que diz apresentar uma sereia de verdade. Inicialmente cético, ele leva sua jovem sobrinha na viagem e lá eles descobrem uma bela e encantadora critatura a qual eles acreditam ser realmente uma sereia. Juntos eles embarcar numa aventura de salvar a moça da vida naquele lugar.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]A PRIMEIRA NOITE DE CRIME[/COLOR][/B]</title>
+<link>$doregex[BP1]APRMRNTDCRME.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Noite%20de%20Crime.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Noite%20de%20Crime.jpg</fanart>
+<info>Quando um novo partido político, o New Founding Fathers of America, ascende, é anunciado um novo experimento social. São 12 horas sem lei, em que o governo incentiva as pessoas a perderem toda e qualquer inibição. A participação não é obrigatória, mas como estímulo, 5.000 dólares é dado para quem fica na cidade, e mais prêmios para quem participa.</info>
 <date></date>
 </item>
 
@@ -445,6 +216,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]DESCENDENTES 2.5 - AQUI NO MAR[/COLOR][/B]</title>
+<link>$doregex[BP1]DSCDNTS2.5.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Descendentes%202,5%20-%20Aqui%20no%20Mar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Descendentes%202,5%20-%20Aqui%20no%20Mar.jpg</fanart>
+<info>Após os eventos de de Descendentes 2, Mal caminha sobre a floresta e acaba encotrando Dizzy, que na verdade e a uma desfarçada, nisso Mal e Uma seenfrenta em uma poderosa briga sob o mar.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]DEUS NÃO ESTÁ MORTO: UMA LUZ NA ESCURIDÃO[/COLOR][/B]</title>
 <link>$doregex[BP1]DSNESTMRTUMLCNESCDAO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -510,6 +294,32 @@
 </item>
 
 <item>
+<title>[B][COLOR white]GUN CITY[/COLOR][/B]</title>
+<link>$doregex[BP1]GNCTY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gun%20City.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gun%20City.jpg</fanart>
+<info>Em 1921, a Espanha encontra-se em um momento de caos e tumulto, pois existem confrontos entre bandidos e anarquistas, enquanto as empresas ilegais florescem. Nesta atmosfera, o agente Aníbal Uriarte (Luis Tosar), é enviado a Barcelona para uma missão: encontrar e parar os culpados de roubar um trem militar. Entre tumultos e crimes, ele não terá uma missão fácil, principalmente porque na delegacia de polícia local, não confiam em suas atitudes. Por essa razão, aparecem confrontos com seus companheiros, e além disso, Hannibal desconfia do inspetor Redu, um superior corrupto. Desta forma, ele entrará em contato com o submundo da sociedade da época, onde encontrará um mafioso importante, um barão alemão e associações anarquistas radicais, que estão dispostos a fazer tudo para alcançar seus objetivos. Mas será com a jovem e feroz Sara (Michelle Jenner) o encontro que marcará a vida de ambos, levando a inesperadas consequências.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]HOSTIS[/COLOR][/B]</title>
+<link>$doregex[BP1]HSTIS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hostis.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hostis.jpg</fanart>
+<info></info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]HOTEL TRANSILVÂNIA 3: FÉRIAS MONSTRUOSAS[/COLOR][/B]</title>
 <link>$doregex[BP1]HTLTRNSVN3.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -545,6 +355,45 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Khali,%20o%20Assassino.jpg</fanart>
 <info>Depois de decidir se aposentar, um assassino de aluguel do leste de Los Angeles decide fazer um último trabalho para ajudar sua avó com seus cuidados de saúde. No entanto, tudo desmorona, quando ele desenvolve empatia pelos alvos do seu golpe, e é forçado a tomar a decisão mais difícil de sua vida.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]KIN[/COLOR][/B]</title>
+<link>$doregex[BP1]KIN.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Kin.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Kin.jpg</fanart>
+<info>Um ex-condenado e seu irmão mais novo são forçados a fugir de um vingativo criminoso, federais e uma série de soldados de outro mundo. A única proteção que eles possuem é uma arma de antecedência misteriosa. Enquanto coisas estranhas acontecem com os irmãos, uma agente do FBI (Carrie Coon) é chamada para investigar o caso.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]LEGÍTIMO REI[/COLOR][/B]</title>
+<link>$doregex[BP1]LGTMREI.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Leg%C3%ADtimo%20Rei.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Leg%C3%ADtimo%20Rei.jpg</fanart>
+<info></info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MAMMA MIA!: LÁ VAMOS NÓS DE NOVO[/COLOR][/B]</title>
+<link>$doregex[BP1]MAMMIALAVMSNSDNVO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mamma%20Mia%20-%20L%C3%A1%20Vamos%20N%C3%B3s%20de%20Novo!.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mamma%20Mia%20-%20L%C3%A1%20Vamos%20N%C3%B3s%20de%20Novo!.jpg</fanart>
+<info>Um ano após a morte de Donna (Meryl Streep), sua filha Sophie (Amanda Seyfried) está prestes a reinaugurar o hotel da mãe, agora totalmente reformado. Para tanto convida seus três "pais", Harry (Colin Firth), Sam (Pierce Brosnan) e Bill (Stellan Skarsgard) e as eternas amigas da mãe, Rosie (Julie Walters) e Tanya (Christine Baranski), ao mesmo tempo em que precisa lidar com a distância do marido Sky (Dominic Cooper), que está fazendo um curso de hotelaria em Nova York. O reencontro serve para desenterrar memórias sobre a juventude de Donna (Lily James), no final dos anos 70, quando ela resolve se estabelecer na Grécia.</info>
 <date></date>
 </item>
 
@@ -614,6 +463,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]MISSÃO IMPOSSÍVEL: EFEITO FALLOUT[/COLOR][/B]</title>
+<link>$doregex[BP1]MSAOIMPSVELEFTFLOUT.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Imposs%C3%ADvel%20-%20Efeito%20Fallout.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Imposs%C3%ADvel%20-%20Efeito%20Fallout.jpg</fanart>
+<info>Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]MULHERES ALTERADAS[/COLOR][/B]</title>
 <link>$doregex[BP1]MLHRSALTRDS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -653,6 +515,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]NOSTALGIA[/COLOR][/B]</title>
+<link>$doregex[BP1]NSTLGIA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nostalgia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nostalgia.jpg</fanart>
+<info>Conectados através de uma perda em comum, um grupo de pessoas se une no processo de encontrar amor e consolo em memórias e objetos compartilhados.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]O ANIMAL CORDIAL[/COLOR][/B]</title>
 <link>$doregex[BP1]OANMLCRDL.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -662,6 +537,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Animal%20Cordial.jpg</fanart>
 <info>São Paulo. Inácio (Murilo Benício) é o dono de um restaurante de classe média, por ele gerenciado com mão de ferro. Tal postura gera atritos com os funcionários, em especial com o cozinheiro Djair (Irandhir Santos). Quando o estabelecimento é assaltado por Magno (Humberto Carrão) e Nuno (Ariclenes Barroso), Inácio e a garçonete Sara (Luciana Paes) precisam encontrar meios para controlar a situação e lidar com os clientes que ainda estão na casa: o solitário Amadeu (Ernani Moraes) e o casal endinheirado Bruno (Jiddu Pinheiro) e Verônica (Camila Morgado).</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 6: UM DIA FRIO NO INFERNO[/COLOR][/B]</title>
+<link>$doregex[BP1]OATQDSVRMSMLDTS6.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</fanart>
+<info>Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>
 <date></date>
 </item>
 
@@ -688,6 +576,32 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20das%20Sombras.jpg</fanart>
 <info>Desde 1964 sem contato, os irmãos Adam (James Zimbardi) e Jake (Skyler Caleb) precisam se encontrar novamente em uma situação inesperada: a mãe deles desapareceu sem deixar rastros. Preocupado, Adam retorna à sua cidade natal junto com a filha e a esposa para investigar o ocorrido. Mas o que deveria ser uma simples procura rapidamente se torna em um pesadelo quando os irmãos são perseguidos por uma estranha força maligna que nutre um obsessivo interesse pela filha de Adam.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O ESCORPIÃO REI 5: O LIVRO DAS ALMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OESCPAOREI5.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Escorpi%C3%A3o%20Rei%205%20-%20O%20Livro%20das%20Almas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Escorpi%C3%A3o%20Rei%205%20-%20O%20Livro%20das%20Almas.jpg</fanart>
+<info>O Escorpião Rei se junta com uma guerreira chamada Tala, que é a irmã do rei Nubian. Juntos, eles procuram uma relíquia lendária conhecida como The Book of Souls, que lhes permitirá pôr fim a um senhor da guerra maligno.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O FEITIÇO DO NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]OFTCDNTL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Feiti%C3%A7o%20do%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Feiti%C3%A7o%20do%20Natal.jpg</fanart>
+<info>Abby (Kat Graham) é uma talentosa fotógrafa batalhando para conseguir construir uma carreira. Quando ela herda um calendário mágico que parece poder prever o futuro, sua vida toma um novo rumo e ela se vê sendo levada a encontrar o amor.</info>
 <date></date>
 </item>
 
@@ -784,6 +698,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]PAISAGEM DE NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]PASGMDNTL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Paisagem%20de%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Paisagem%20de%20Natal.jpg</fanart>
+<info>A estância de esqui Thunder Mountain fica agitada quando o chef celebridade Shane Roarke é nomeado o novo chef de cozinha. Clara Garrison não está tão empolgada e está focada em ser readmitida após sua tentativa fracassada de abrir um restaurante na cidade. Com seus caminhos constantemente atravessando, sua paixão compartilhada pela culinária os uniria, ou os segredos os manterão separados?</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]PARA SEMPRE MINHA GAROTA[/COLOR][/B]</title>
 <link>$doregex[BP1]PRSMPRMNHGRTA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -793,6 +720,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Para%20Sempre%20Minha%20Garota.jpg</fanart>
 <info>Astro do futebol americano, o quarterback Liam (Alex Roe) estava pronto para se casar com Josie (Jessica Rothe), sua namorada da escola, mas acabou deixando-a no altar para seguir carreira de cantor country. Depois de muitos anos, ele retorna à cidade como um cantor famoso.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]PETER PAN: A PROCURA DO LIVRO DO NUNCA[/COLOR][/B]</title>
+<link>$doregex[BP1]PTRPNAPRCDLVRDNCA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Peter%20Pan%20-%20A%20Procura%20do%20Livro%20do%20Nunca.jpg</fanart>
+<info>O terrível Capitão Gancho ataca mais uma vez e rouba o Livro do Nunca, um exemplar muito antigo que contém poderes mágicos, ele deseja usá-lo para despertar terríveis criaturas na Terra do Nunca e destruir Peter Pan e seus amigos. Agora, Peter precisa mais uma vez salvar seu lar, sendo que a única forma de realizar esta tarefa é cumprindo com a profecia escrita no poderoso livro.</info>
 <date></date>
 </item>
 
@@ -836,6 +776,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]SHOW DOGS: O AGENTE CANINO[/COLOR][/B]</title>
+<link>$doregex[BP1]SHWDGSOAGNTCNO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Show%20Dogs%20-%20O%20Agente%20Canino.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Show%20Dogs%20-%20O%20Agente%20Canino.jpg</fanart>
+<info>Um agente do FBI e Max, um cão Rottweiler da polícia de Nova York, precisam realizar um trabalho disfarçados num prestigiado Show de Cachorros quando uma rede ilegal de comerciantes de animais é descoberta.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]SIBÉRIA[/COLOR][/B]</title>
 <link>$doregex[BP1]SBRIA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -858,6 +811,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Slender%20Man%20-%20Pesadelo%20Sem%20Rosto.jpg</fanart>
 <info>As amigas Wren, Hallie, Chloe e Katie levam uma vida entediante no colégio. Quando ouvem falar num monstro chamado Slender Man, decidem invocá-lo através de um vídeo na Internet. A brincadeira se transforma num perigo real quando todas começam a ter pesadelos e visões do homem se rosto, com vários braços, capaz de fazer as suas vítimas alucinarem. Um dia, Katie desaparece. Como a polícia não dispõe de nenhuma prova para a investigação, cabe às três amigas fazerem a sua própria busca, enfrentando a criatura.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]SOBREVIVENDO AO MEU PAI[/COLOR][/B]</title>
+<link>$doregex[BP1]SBRVDAOMEUPAI.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sobrevivendo%20Ao%20Meu%20Pai.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sobrevivendo%20Ao%20Meu%20Pai.jpg</fanart>
+<info>A história segue Atticus Smith (Irons), que é um célebre ator e seu distante filho (Huston), um marido dedicado e professor, não poderia ser mais diferente de seu pai. Quando um problema médico força Atticus pegar uma carona de Los Angeles a Nova York para estar no casamento de sua filha, seu filho se torna a única opção e pegam a estrada juntos.</info>
 <date></date>
 </item>
 
@@ -888,6 +854,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]UFO: ESTAMOS SOZINHOS?[/COLOR][/B]</title>
+<link>$doregex[BP1]UFOESTMSZNHS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ufo%20-%20Estamos%20Sozinhos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ufo%20-%20Estamos%20Sozinhos.jpg</fanart>
+<info>Derek (Alex Sharp) é um brilhante estudante que é constantemente assombrado pelas memórias de quando viu um OVNI quando era pequeno. Agora ele tenta, com ajuda de sua namorada (Ella Purnell) e sua professora (Gillian Anderson), resolver o mistério por trás de supostas recentes aparições com um agente do FBI (David Strathairn) em seu encalço.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]VIAGEM MALDITA 2: O RETORNO DOS MALDITOS[/COLOR][/B]</title>
 <link>$doregex[BP1]VIGMLDTA2.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -910,6 +889,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Viking%20-%20Os%20Pergaminhos%20Sagrados.jpg</fanart>
 <info>Em tempos de guerra na Europa, um antigo rei celta escondeu sete pergaminhos considerados sagrados que, de acordo com uma profecia, são capazes de conceder poder ilimitado àqueles que os possuam. Segundo a premonição, uma criança de sangue puro um dia usaria disso para governar o mundo e trazer prosperidade. Mas antes que a pessoa certa ache o artefato, ela terá que passar por árduas tarefas.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]WHEELY: VELOZES E DIVERTIDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]WHLYVLZEDVTDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</fanart>
+<info>Em Gasket City, uma cidade onde todos os moradores são carros, vive Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que é um verdadeiro herói enfrentando os carros de elite e o terrível caminhão de 18 rodas, que comanda o sindicato de carros de luxo da cidade.</info>
 <date></date>
 </item>
 
