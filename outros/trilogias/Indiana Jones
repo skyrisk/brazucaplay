@@ -2,7 +2,7 @@
 <title>[COLOR white][B]OS CAÇADORES DA ARCA PERDIDA[/B][/COLOR]</title>
 <link>$doregex[BP1]INDNAJNSEOSCACDRSDARC.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2013/07/OS-CACADORES-DA-ARCA-PERDIDA1.jpg</thumbnail>
@@ -14,7 +14,7 @@
 <title>[COLOR white][B]INDIANA JONES E O TEMPLO DA PERDIÇÃO[/B][/COLOR]</title>
 <link>$doregex[BP1]INDNAJNSTMPDPRDCAO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRHXG73hdYatxwUdSDtTrOPc7k0EmZvmrOz4xNjzUNsBwBJO-Gk</thumbnail>
@@ -26,7 +26,7 @@
 <title>[COLOR white][B]INDIANA JONES E A ÚLTIMA CRUZADA[/B][/COLOR]</title>
 <link>$doregex[BP1]INDNAJNSEAULTMCRZDA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2013/09/INDIANA-JONES-E-A-ULTIMA-CRUZADA.jpg</thumbnail>
@@ -38,7 +38,7 @@
 <title>[COLOR white][B]INDIANA JONES E O REINO DA CAVEIRA DE CRISTAL[/B][/COLOR]</title>
 <link>$doregex[BP1]INDNAJNSEOREIDCVNADCRSTL.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc4</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://3.bp.blogspot.com/-d-27W5nbLQk/Ueu0dqWRnPI/AAAAAAAAA7s/iMU_ZKtrZLI/s1600/Indiana+Jones+and+the+Kingdom+of+the+Crystal+Skull.jpg</thumbnail>
