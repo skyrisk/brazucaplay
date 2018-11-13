@@ -6,109 +6,121 @@
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP01.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP01.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP02.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP02.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP03.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP03.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP04.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP04.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP05.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP05.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP06.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP06.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP07.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP07.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP08.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP08.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP09.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP09.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP10.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP10.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP11.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP11.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
-<link>$doregex[BP1]DEXTERT08EP12.mp4|Referer=$doregex[BP2]</link>
-<regex><name>BP2</name><expres>(.*?).rss</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>$doregex[BP3](.*?).mp4</expres><page>$doregex[BP2]player3/server9http2.php</page></regex>
+<link>$doregex[BP1]DEXTERT08EP12.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/thumb.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Dexter/fanart.jpg</fanart>
 </item>
