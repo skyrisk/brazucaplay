@@ -3519,7 +3519,7 @@
 </item>
 <item>
 <title>[B][COLOR white]MEGATUBARÃO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]MEGTBRAOLEGKR.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]MEGTBRAOLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
