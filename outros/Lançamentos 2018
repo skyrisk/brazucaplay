@@ -4,8 +4,87 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>Filmes adicionados recentemente.<info>
-<date>11/11/2018</date>
+<date>16/11/2018</date>
 </item>
+
+<item>
+<title>[B][COLOR white]O VENDEDOR CHINÊS[/COLOR][/B]</title>
+<link>$doregex[BP1]OVNDRCHNS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</fanart>
+<info>Yan Jian, um jovem engenheiro de TI chinês que se oferece para ir para a África do Norte e ajudar a empresa a trabalhar para ganhar uma competição. O vencedor pode possuir o direito de controlar a comunicação entre o sul e o norte. Espião francês Michael trabalha para o Ocidente. Seu chefe ordenou que ele fosse ao norte da África e vencesse a competição, e eles pudessem controlar os grandes recursos minerais da África. Ele contratou o melhor mercenário em África, cujo nome é Lauder e um ex-general Kabbah para ajudá-lo. Yan descobriu sua conspiração, ele é o único que pode detê-los.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]ESTOU DE VOLTA[/COLOR][/B]</title>
+<link>$doregex[BP1]ESTDVLTA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</fanart>
+<info>Remake do filme alemão "Ele está de volta", a versão italiana imagina o retorno ao nosso tempo de Benito Mussolini em pessoa, provocando um clima de discução e reflexão. A comédia se move entre a hilaridade que evoca o personagem visto como uma paródia de si mesmo e a ansiedade que surge diante de sua habilidade para obter seguidores.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]CHRISTOPHER ROBIN: UM REENCONTRO INESQUECÍVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]CHRSTPHRRBMUMRECNTRINSQCVL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Christopher%20Robin%20-%20Um%20Reencontro%20Inesquec%C3%ADvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Christopher%20Robin%20-%20Um%20Reencontro%20Inesquec%C3%ADvel.jpg</fanart>
+<info>Christopher Robin (Ewan McGregor) já não é mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros adoráveis animais no Bosque dos 100 Acres. Agora um homem de negócios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de infância decidem entrar no mundo real para ajudá-lo a se lembrar que aquele amável e divertido menino ainda existe em algum lugar.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]O PROTETOR 2[/COLOR][/B]</title>
+<link>$doregex[BP1]OPRTOR2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Protetor%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Protetor%202.jpg</fanart>
+<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]TIGER[/COLOR][/B]</title>
+<link>$doregex[BP1]TGER.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</fanart>
+<info>Pardeep Nagra (Prem Singh) é um boxeador Sikh que é banido do esporte por conta da sua fé. Atacado por preconceitos e divisões raciais, ele decide lutar contra o sistema. Seu legado é o de duas batalhas: uma dentro da corte, outra dentro do ringue.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]LIBERTOS: O PREÇO DA VIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]LBRTSOPRCDVDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</fanart>
+<info>Emanuel (André Ramiro), um médico voluntário, dedica todo o seu conhecimento prestando os seus serviços ao povo ribeirinho de uma distante região da Amazônia, onde atende também diversas tribos da região, tudo por vontade própria. O problema é que ele passa a ser um potencial obstáculo para a ação de uma perigosa quadrilha especializada no tráfico humano, acostumada a tratar aquele povo como mercadoria.</info>
+<date></date>
+</item>
+
 
 <item>
 <title>[B][COLOR white]22 DE JULHO[/COLOR][/B]</title>
