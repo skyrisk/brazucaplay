@@ -8,29 +8,18 @@
 </item>
 
 <item>
-<title>[B][COLOR white]CAM[/COLOR][/B]</title>
-<link>$doregex[BP1]CAM.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]A BALADA DE BUSTER SCRUGGS[/COLOR][/B]</title>
+<link>$doregex[BP1]ABLDADBSTRSCRG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</fanart>
-<info>Alice (Madeline Brewer) é uma ambiciosa jovem mulher que trabalha com pornografia de webcam. Quando uma misteriosa mulher idêntica a ela toma seu canal, ela se vê perdendo o controle sobre os limites que estabeleceu em relação a sua identidade online e os homens na sua vida.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</fanart>
+<info>Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, até todo tipo de personalidade do velho oeste, essa série de histórias vai desde profundas reflexões até o mais completo absurdo.</info>
 <date></date>
 </item>
-<item>
-<title>[B][COLOR white]BENZINHO[/COLOR][/B]</title>
-<link>$doregex[BP1]BNZNH.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</fanart>
-<info>O primogênito de uma família de classe média é convidado para jogar handebol na Alemanha e lança sua mãe (Karine Teles) em uma espiral de sentimentos pois, além de ajudar a problemática irmã (Adriana Esteves), lidar com as instabilidades do marido (Otávio M&uuml;ller) e se desdobrar para dar atenção ao seus outros filhos, ela terá de enfrentar sua partida antes de estar preparada para tal.</info>
-<date></date>
-</item>
+
 <item>
 <title>[B][COLOR white]A PRINCESA E A PLEBÉIA[/COLOR][/B]</title>
 <link>$doregex[BP1]APRNCSAEAPBLEA.mp4|Referer=$doregex[BP4]</link>
@@ -43,42 +32,33 @@
 <info>Uma duquesa e uma confeiteira descobrem que são sósias perfeitas uma da outra e decidem trocar de lugar. Quando elas se apaixonam por homens que não fazem a menor ideia de quem elas são de verdade, esse plano pode virar um problema.</info>
 <date></date>
 </item>
+
 <item>
-<title>[B][COLOR white]A BALADA DE BUSTER SCRUGGS[/COLOR][/B]</title>
-<link>$doregex[BP1]ABLDADBSTRSCRG.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]BENZINHO[/COLOR][/B]</title>
+<link>$doregex[BP1]BNZNH.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</fanart>
-<info>Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, até todo tipo de personalidade do velho oeste, essa série de histórias vai desde profundas reflexões até o mais completo absurdo.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</fanart>
+<info>O primogênito de uma família de classe média é convidado para jogar handebol na Alemanha e lança sua mãe (Karine Teles) em uma espiral de sentimentos pois, além de ajudar a problemática irmã (Adriana Esteves), lidar com as instabilidades do marido (Otávio M&uuml;ller) e se desdobrar para dar atenção ao seus outros filhos, ela terá de enfrentar sua partida antes de estar preparada para tal.</info>
 <date></date>
-</item>
+</item>v
+
 <item>
-<title>[B][COLOR white]O VENDEDOR CHINÊS[/COLOR][/B]</title>
-<link>$doregex[BP1]OVNDRCHNS.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]CAM[/COLOR][/B]</title>
+<link>$doregex[BP1]CAM.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</fanart>
-<info>Yan Jian, um jovem engenheiro de TI chinês que se oferece para ir para a África do Norte e ajudar a empresa a trabalhar para ganhar uma competição. O vencedor pode possuir o direito de controlar a comunicação entre o sul e o norte. Espião francês Michael trabalha para o Ocidente. Seu chefe ordenou que ele fosse ao norte da África e vencesse a competição, e eles pudessem controlar os grandes recursos minerais da África. Ele contratou o melhor mercenário em África, cujo nome é Lauder e um ex-general Kabbah para ajudá-lo. Yan descobriu sua conspiração, ele é o único que pode detê-los.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</fanart>
+<info>Alice (Madeline Brewer) é uma ambiciosa jovem mulher que trabalha com pornografia de webcam. Quando uma misteriosa mulher idêntica a ela toma seu canal, ela se vê perdendo o controle sobre os limites que estabeleceu em relação a sua identidade online e os homens na sua vida.</info>
 <date></date>
 </item>
-<item>
-<title>[B][COLOR white]ESTOU DE VOLTA[/COLOR][/B]</title>
-<link>$doregex[BP1]ESTDVLTA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</fanart>
-<info>Remake do filme alemão "Ele está de volta", a versão italiana imagina o retorno ao nosso tempo de Benito Mussolini em pessoa, provocando um clima de discução e reflexão. A comédia se move entre a hilaridade que evoca o personagem visto como uma paródia de si mesmo e a ansiedade que surge diante de sua habilidade para obter seguidores.</info>
-<date></date>
-</item>
+
 <item>
 <title>[B][COLOR white]CHRISTOPHER ROBIN: UM REENCONTRO INESQUECÍVEL[/COLOR][/B]</title>
 <link>$doregex[BP1]CHRSTPHRRBMUMRECNTRINSQCVL.mp4|Referer=$doregex[BP4]</link>
@@ -91,6 +71,33 @@
 <info>Christopher Robin (Ewan McGregor) já não é mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros adoráveis animais no Bosque dos 100 Acres. Agora um homem de negócios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de infância decidem entrar no mundo real para ajudá-lo a se lembrar que aquele amável e divertido menino ainda existe em algum lugar.</info>
 <date></date>
 </item>
+
+<item>
+<title>[B][COLOR white]ESTOU DE VOLTA[/COLOR][/B]</title>
+<link>$doregex[BP1]ESTDVLTA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</fanart>
+<info>Remake do filme alemão "Ele está de volta", a versão italiana imagina o retorno ao nosso tempo de Benito Mussolini em pessoa, provocando um clima de discução e reflexão. A comédia se move entre a hilaridade que evoca o personagem visto como uma paródia de si mesmo e a ansiedade que surge diante de sua habilidade para obter seguidores.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]LIBERTOS: O PREÇO DA VIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]LBRTSOPRCDVDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</fanart>
+<info>Emanuel (André Ramiro), um médico voluntário, dedica todo o seu conhecimento prestando os seus serviços ao povo ribeirinho de uma distante região da Amazônia, onde atende também diversas tribos da região, tudo por vontade própria. O problema é que ele passa a ser um potencial obstáculo para a ação de uma perigosa quadrilha especializada no tráfico humano, acostumada a tratar aquele povo como mercadoria.</info>
+<date></date>
+</item>
+
 <item>
 <title>[B][COLOR white]O PROTETOR 2[/COLOR][/B]</title>
 <link>$doregex[BP1]OPRTOR2.mp4|Referer=$doregex[BP4]</link>
@@ -103,6 +110,20 @@
 <info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
 <date></date>
 </item>
+
+<item>
+<title>[B][COLOR white]O VENDEDOR CHINÊS[/COLOR][/B]</title>
+<link>$doregex[BP1]OVNDRCHNS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</fanart>
+<info>Yan Jian, um jovem engenheiro de TI chinês que se oferece para ir para a África do Norte e ajudar a empresa a trabalhar para ganhar uma competição. O vencedor pode possuir o direito de controlar a comunicação entre o sul e o norte. Espião francês Michael trabalha para o Ocidente. Seu chefe ordenou que ele fosse ao norte da África e vencesse a competição, e eles pudessem controlar os grandes recursos minerais da África. Ele contratou o melhor mercenário em África, cujo nome é Lauder e um ex-general Kabbah para ajudá-lo. Yan descobriu sua conspiração, ele é o único que pode detê-los.</info>
+<date></date>
+</item>
+
 <item>
 <title>[B][COLOR white]TIGER[/COLOR][/B]</title>
 <link>$doregex[BP1]TGER.mp4|Referer=$doregex[BP4]</link>
@@ -113,18 +134,6 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</fanart>
 <info>Pardeep Nagra (Prem Singh) é um boxeador Sikh que é banido do esporte por conta da sua fé. Atacado por preconceitos e divisões raciais, ele decide lutar contra o sistema. Seu legado é o de duas batalhas: uma dentro da corte, outra dentro do ringue.</info>
-<date></date>
-</item>
-<item>
-<title>[B][COLOR white]LIBERTOS: O PREÇO DA VIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]LBRTSOPRCDVDA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</fanart>
-<info>Emanuel (André Ramiro), um médico voluntário, dedica todo o seu conhecimento prestando os seus serviços ao povo ribeirinho de uma distante região da Amazônia, onde atende também diversas tribos da região, tudo por vontade própria. O problema é que ele passa a ser um potencial obstáculo para a ação de uma perigosa quadrilha especializada no tráfico humano, acostumada a tratar aquele povo como mercadoria.</info>
 <date></date>
 </item>
 
