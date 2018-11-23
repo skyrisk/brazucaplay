@@ -1,6 +1,9 @@
 <addons>
 
-<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="1.9" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<addon id="plugin.video.BrazucaPlay"
+name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
+version="1.9"
+provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.t0mm0.common"/>
@@ -25,14 +28,14 @@
 <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
+<screenshot>resources/home.png</screenshot>
+<screenshot>resources/movies.png</screenshot>
+<screenshot>resources/series.png</screenshot>
 </assets>
 </extension>
 </addon>
 
-<addon id="plugin.video.+18Play"
+<addon id="plugin.video.Mais18Play"
 name="[B][COLOR white]+18 PLAY[/COLOR][/B]"
 version="1.9"
 provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
