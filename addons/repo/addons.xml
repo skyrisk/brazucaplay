@@ -32,6 +32,25 @@
 </extension>
 </addon>
 
+<addon id="script.video.F4mProxy" 
+name="[B][COLOR white]F4MPROXY[/COLOR][/B]" 
+version="2.8.7" 
+provider-name="Shani">
+<requires>
+<import addon="xbmc.python" version="2.1.0" />
+<import addon="script.module.requests" />
+</requires>
+<extension point="xbmc.python.module" library="lib" />
+<extension point="xbmc.python.pluginsource" library="addon.py">
+<provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<platform>all</platform>
+<summary lang="en">Proxy for f4m</summary>
+<description lang="en">[B][COLOR white]SCRIPT F4M OFICIAL - SHANI[/COLOR][/B]</description>
+</extension>
+</addon>
+
 <addon id="plugin.video.f4mTester" version="2.7.1" name="[B][COLOR white]F4MTESTER[/COLOR][/B]" provider-name="Shani">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
