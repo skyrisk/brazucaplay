@@ -51,14 +51,34 @@
 <regex><name>BP3</name><expres>(.*?).rc7</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/fanart.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
 <link>$doregex[BP1]TWDT09EP06.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rc7</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<link>$doregex[BP1]TWDS09EP07.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/thumb.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/fanart.jpg</fanart>
+</item>
+<item>
+<title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
+<link>$doregex[BP1]TWDS09EP08.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rc8</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/The%20Walking%20Dead/thumb.jpg</thumbnail>
