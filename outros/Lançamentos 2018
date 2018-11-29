@@ -8,132 +8,292 @@
 </item>
 
 <item>
-<title>[B][COLOR white]A BALADA DE BUSTER SCRUGGS[/COLOR][/B]</title>
-<link>$doregex[BP1]ABLDADBSTRSCRG.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]PRESO NO TEMPO[/COLOR][/B]</title>
+<link>$doregex[BP1]PRSONTMP.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20de%20Buster%20Scruggs.jpg</fanart>
-<info>Os aclamados irmãos Joel e Ethan Coen idealizam uma antologia faroeste em seis segmentos focada na fronteira americana. Acompanhando de foras da lei, a colonizadores, até todo tipo de personalidade do velho oeste, essa série de histórias vai desde profundas reflexões até o mais completo absurdo.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</fanart>
+<info>Alex (Dean Alexandrou) é um praticante de parkour que, de um dia para o outro, acorda sem saber onde está, preso em um ciclo temporal no qual o mesmo dia se repete infinitamente. Ao tentar descobrir a razão disso, ele logo se vê inserido em um estranho experimento científico organizado pela misteriosa Prevara Corporation e percebe que muitas pessoas querem a sua morte.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]A PRINCESA E A PLEBÉIA[/COLOR][/B]</title>
-<link>$doregex[BP1]APRNCSAEAPBLEA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]O PREDADOR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]OPRDRLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Princesa%20e%20a%20Pleb%C3%A9ia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Princesa%20e%20a%20Pleb%C3%A9ia.jpg</fanart>
-<info>Uma duquesa e uma confeiteira descobrem que são sósias perfeitas uma da outra e decidem trocar de lugar. Quando elas se apaixonam por homens que não fazem a menor ideia de quem elas são de verdade, esse plano pode virar um problema.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
+<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]BENZINHO[/COLOR][/B]</title>
-<link>$doregex[BP1]BNZNH.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]MEU JANTAR COM HERVÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUJNTCMHRVE.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Benzinho.jpg</fanart>
-<info>O primogênito de uma família de classe média é convidado para jogar handebol na Alemanha e lança sua mãe (Karine Teles) em uma espiral de sentimentos pois, além de ajudar a problemática irmã (Adriana Esteves), lidar com as instabilidades do marido (Otávio M&uuml;ller) e se desdobrar para dar atenção ao seus outros filhos, ela terá de enfrentar sua partida antes de estar preparada para tal.</info>
-<date></date>
-</item>v
-
-<item>
-<title>[B][COLOR white]CAM[/COLOR][/B]</title>
-<link>$doregex[BP1]CAM.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cam.jpg</fanart>
-<info>Alice (Madeline Brewer) é uma ambiciosa jovem mulher que trabalha com pornografia de webcam. Quando uma misteriosa mulher idêntica a ela toma seu canal, ela se vê perdendo o controle sobre os limites que estabeleceu em relação a sua identidade online e os homens na sua vida.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</fanart>
+<info>O filme narra o intenso e transformador encontro de Hervé (Peter Dinklage) com o jornalista Danny Tate (Jamie Dornan), em sua última entrevista antes de cometer suicídio.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]CHRISTOPHER ROBIN: UM REENCONTRO INESQUECÍVEL[/COLOR][/B]</title>
-<link>$doregex[BP1]CHRSTPHRRBMUMRECNTRINSQCVL.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]APARTAMENTO 212: A INFESTAÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]APRTMNT212ANFSTCAO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Christopher%20Robin%20-%20Um%20Reencontro%20Inesquec%C3%ADvel.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Christopher%20Robin%20-%20Um%20Reencontro%20Inesquec%C3%ADvel.jpg</fanart>
-<info>Christopher Robin (Ewan McGregor) já não é mais aquele jovem garoto que adorava embarcar em aventuras ao lado de Ursinho Pooh e outros adoráveis animais no Bosque dos 100 Acres. Agora um homem de negócios, ele cresceu e perdeu o rumo de sua vida, mas seus amigos de infância decidem entrar no mundo real para ajudá-lo a se lembrar que aquele amável e divertido menino ainda existe em algum lugar.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</fanart>
+<info>Jennifer Conrad (Penelope Mitchell) é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]ESTOU DE VOLTA[/COLOR][/B]</title>
-<link>$doregex[BP1]ESTDVLTA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]A OUTRA MULHER[/COLOR][/B]</title>
+<link>$doregex[BP1]AOUTRMLHR.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Estou%20de%20Volta.jpg</fanart>
-<info>Remake do filme alemão "Ele está de volta", a versão italiana imagina o retorno ao nosso tempo de Benito Mussolini em pessoa, provocando um clima de discução e reflexão. A comédia se move entre a hilaridade que evoca o personagem visto como uma paródia de si mesmo e a ansiedade que surge diante de sua habilidade para obter seguidores.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Outra%20Mulher.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Outra%20Mulher.jpg</fanart>
+<info>Daniel (Daniel Auteuil) é um homem de imaginação fértil que, ao conhecer a nova namorada do melhor amigo, se pega fantasiando. Ele é casado e se sente apaixonado pela esposa, mas, não conseguindo escapar de sua imaginação, deixa a cautela de lado determinado a realizar seus mais loucos sonhos.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]LIBERTOS: O PREÇO DA VIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]LBRTSOPRCDVDA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]LOBO GUERREIRO 2[/COLOR][/B]</title>
+<link>$doregex[BP1]LOBGURO2.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Libertos%20-%20O%20Pre%C3%A7o%20da%20Vida.jpg</fanart>
-<info>Emanuel (André Ramiro), um médico voluntário, dedica todo o seu conhecimento prestando os seus serviços ao povo ribeirinho de uma distante região da Amazônia, onde atende também diversas tribos da região, tudo por vontade própria. O problema é que ele passa a ser um potencial obstáculo para a ação de uma perigosa quadrilha especializada no tráfico humano, acostumada a tratar aquele povo como mercadoria.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</fanart>
+<info>Um furtivo e experiente agente das forças especiais chinesa leva uma vida tranquila no mar, até que mercenários locais começam a atacar e aterrorizar civis inocentes próximos a ele. Vendo o caos que se instaura entre os habitantes, ele deixa sua nova vida de paz de lado e volta a servir os seus deveres como soldado.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]O PROTETOR 2[/COLOR][/B]</title>
-<link>$doregex[BP1]OPRTOR2.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]ALONG WITH THE GODS: THE TWO WORLDS[/COLOR][/B]</title>
+<link>$doregex[BP1]ALNGWTTGDTTWRLD.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Protetor%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Protetor%202.jpg</fanart>
-<info>Massachusetts, Estados Unidos. Robert McCall (Denzel Washington) agora trabalha como motorista, ajudando pessoas que enfrentam dificuldades decorrentes de injustiças. Quando sua amiga Susan Plummer (Melissa Leo) é morta durante a investigação de um assassinato na Bélgica, ele decide sair do anonimato e encontrar seu antigo parceiro, Dave (Pedro Pascal), no intuito de encontrar pistas sobre o autor do crime.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Along%20with%20the%20Gods%20-%20The%20Two%20Worlds.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Along%20with%20the%20Gods%20-%20The%20Two%20Worlds.jpg</fanart>
+<info>Depois de uma morte totalmente inesperada, o bombeiro Ja-hong (Tae-Hyun Cha) é carregado para o além por três guardiões sobrenaturais. É só depois de passar por sete testes de 49 dias que ele ganha a possibilidade da reencarnação. Seus três companheiros permanecem ao seu lado o tempo todo para que possam testemunhar durante seu julgamento.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]O VENDEDOR CHINÊS[/COLOR][/B]</title>
-<link>$doregex[BP1]OVNDRCHNS.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]PEDIDO DE CASAMENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]PEDODCSMNTO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Vendedor%20Chin%C3%AAs.jpg</fanart>
-<info>Yan Jian, um jovem engenheiro de TI chinês que se oferece para ir para a África do Norte e ajudar a empresa a trabalhar para ganhar uma competição. O vencedor pode possuir o direito de controlar a comunicação entre o sul e o norte. Espião francês Michael trabalha para o Ocidente. Seu chefe ordenou que ele fosse ao norte da África e vencesse a competição, e eles pudessem controlar os grandes recursos minerais da África. Ele contratou o melhor mercenário em África, cujo nome é Lauder e um ex-general Kabbah para ajudá-lo. Yan descobriu sua conspiração, ele é o único que pode detê-los.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pedido%20de%20Casamento.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pedido%20de%20Casamento.jpg</fanart>
+<info>Melanie (Karissa Lee Staples) desistiu de três casamentos, sendo o último deles no último minuto, e decidiu deixar os homens de lado em sua vida para focar no negócio que possui com a irmã. Damon (Peter Mooney) é um solteiro que zoa os amigos casados, mas que tem certeza que pode se casar quando quiser. Ele aceita uma aposta do seu chefe, de que pode convencer qualquer mulher a se casar com ele em 30 dias. Melanie, com seus problemas de matrimônio, acaba sendo seu alvo. A situação se torna difícil, ainda mais quando um ex-namorado aparece.</info>
 <date></date>
 </item>
-
 <item>
-<title>[B][COLOR white]TIGER[/COLOR][/B]</title>
-<link>$doregex[BP1]TGER.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]TRIBU URBANA DANCE[/COLOR][/B]</title>
+<link>$doregex[BP1]TRBURBNADNC.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tiger.jpg</fanart>
-<info>Pardeep Nagra (Prem Singh) é um boxeador Sikh que é banido do esporte por conta da sua fé. Atacado por preconceitos e divisões raciais, ele decide lutar contra o sistema. Seu legado é o de duas batalhas: uma dentro da corte, outra dentro do ringue.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tribu%20Urbana%20Dance.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tribu%20Urbana%20Dance.jpg</fanart>
+<info>Ao perder a reputação e também a memória, um executivo descobre uma nova vida ao lado de sua mãe biológica e um grupo de dança empoderado.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]SE VOCÊ SOUBESSE[/COLOR][/B]</title>
+<link>$doregex[BP1]SVCSBSE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Se%20Voc%C3%AA%20Soubesse.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Se%20Voc%C3%AA%20Soubesse.jpg</fanart>
+<info>Daniel é um criminoso que vive escluído socialmente. Seu melhor amigo Costel (Nahuel Pérez Biscayart) morre logo depois dod dois começarem uma parceria, deixando Daniel desolado e seu irmão Lucho (Mariano Santiago) furioso. Sua percepção da vida muda quando conhece Francine (Marine Vacth).</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O REI GUERREIRO[/COLOR][/B]</title>
+<link>$doregex[BP1]OREIGURO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Rei%20Guerreiro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Rei%20Guerreiro.jpg</fanart>
+<info>Quando o irmão de Alpin (Jake McGarry) é capturado dez anos após o resto de sua família ser brutalmente assassinada, ele não mede esforços para salvá-lo. No entanto, Alpin não contava que os sequestradores na verdade são forças malignas sobrenaturais que estão aterrorizando a Escócia em plena Idade das Trevas. Agora ele precisa se unir a um monge para derrotar as criaturas e restabelecer a paz no reino.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]MARVEL RISING: GUERREIROS SECRETOS[/COLOR][/B]</title>
+<link>$doregex[BP1]MRVLRSNGGRSCRTS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg</fanart>
+<info>Quando diversos adolescentes descobrem, em momentos diferentes, que possuem poderes, eles decidem criar uma liga se unir para que consigam combater as injustiças que assolam suas cidades. Passando ainda pelo período de crescimento, eles precisam aprender rápido que nada dará certo se eles não permanecerem sempre unidos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]MEU EX É UM ESPIÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MEXEUMESPAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</fanart>
+<info>Audrey (Mila Kunis) está desiludida com o término do namoro com Drew (Justin Theroux), que a dispensou através de uma mensagem de celular. O que ela não sabe é que o agora ex-namorado é também um agente secreto, perseguido devido a um pen drive com informações sigilosas. Após receber o apoio moral de sua melhor amiga, Morgan (Kate McKinnon), Audrey é surpreendida com o súbito reaparecimento de Drew, após ameaçar queimar seus pertences. Logo ambas estão também envolvidas no mundo da espionagem, precisando ir às pressas para Viena, na Áustria.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]CRÔNICAS DE NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]CRNCSDNTL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</fanart>
+<info>O presente de natal das crianças ao redor do mundo está em risco. Isso porque os irmãos Kate (Darby Camp) e Teddy Pierce (Judah Lewis) fizeram suas travessuras. Empenhados em flagrar o exato momento da chegada do Papai Noel, os dois se acomodaram em seu trenó e, acidentalmente, danificaram o veículo. Agora eles precisam fazer uma uma força-tarefa para ajudar o bom velhinho a correr contra o tempo, entregar os presentes e salvar o Natal.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]CORRIDA MORTAL 4: ALÉM DA ANARQUIA[/COLOR][/B]</title>
+<link>$doregex[BP1]CRDAMRT4.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Corrida%20Mortal%204%20-%20Al%C3%A9m%20da%20Anarquia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Corrida%20Mortal%204%20-%20Al%C3%A9m%20da%20Anarquia.jpg</fanart>
+<info>O ano de 2050, o planeta tornou-se superpovoado, para ajudar a controlar a população o governo desenvolve uma corrida. A corrida da morte. Anualmente a corrida tem concorrentes de todo o país, marcando pontos por matar pessoas com seus veículos.
+Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico no Lago: O Capítulo Final) e produzido por Paul W.S. Anderson (Resident Evil) e com roteiro de Tony Giglio (Pânico na Floresta 2) e o próprio Don Michael Paul.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]CORAÇÃO DE COWBOY[/COLOR][/B]</title>
+<link>$doregex[BP1]CRCAODCWBY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cora%C3%A7%C3%A3o%20de%20Cowboy.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cora%C3%A7%C3%A3o%20de%20Cowboy.jpg</fanart>
+<info>Lucca (Gabriel Sater) é um cantor sertanejo conhecido por suas músicas "chicletes" compostas a partir das demandas de sua empresária, Iolanda (Françoise Forton), e não pelos seus sentimentos e gostos musicais. Depois de um desentendimento na gravação de seu novo disco, Lucca foge da cidade grande e volta ao interior, onde ele procura inspirações para voltar a compor canções mais autênticas e, assim, se reconectar com seu pai (Jackson Antunes). Na volta, Lucca também encontra uma antiga parceira de composições e amor de infância (Thaila Ayala) com quem vai tentar reatar laços.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]A FREIRA[/COLOR][/B]</title>
+<link>$doregex[BP1]AFRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</fanart>
+<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]22 MILHAS[/COLOR][/B]</title>
+<link>$doregex[BP1]22MLHS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</fanart>
+<info>Depois de ser auxiliado por uma unidade de comando tático ultrassecreta, um agente da CIA (Mark Wahlberg) tem que transportar um informante da Indonésia do centro da cidade para refúgio em um aeroporto a 22 milhas de distância.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TRAFFIK: LIBERDADE ROUBADA[/COLOR][/B]</title>
+<link>$doregex[BP1]TRFK.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</fanart>
+<info>Brea (Paula Patton) e John (Omar Epps) estão nas montanhas com amigos para um fim de semana romântico, quando acabam se deparando com uma gangue de motoqueiros. Sozinhos, eles precisam se defender do grupo, que não mede esforços para esconder segredos que abrangem o tráfico de mulheres.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]NADA A ESCONDER[/COLOR][/B]</title>
+<link>$doregex[BP1]NDAESCNDR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nada%20a%20Esconder.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nada%20a%20Esconder.jpg</fanart>
+<info>Durante um jantar, casais de amigos decidem brincar de um jogo: todos devem colocar seu celular no meio da mesa e cada SMS, telefone, correio, mensagem de Facebook, etc. devem ser compartilhados com os outros. Não demorará muito para que este "jogo" se torne um pesadelo.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]MISSÃO CATMANDU: AS AVENTURAS DE NELLY E SIMON[/COLOR][/B]</title>
+<link>$doregex[BP1]MSAOCTMNDASAVNTRSNLYESMON.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg</fanart>
+<info>Quebec, 1956. A impulsiva e teimosa Nelly Maloye, uma detetive novata, se junta ao metódico e pragmático Simon Picard, um cientista pesquisador em uma busca duvidosa para provar a existência do Yeti. Os heróis corajosos ficam cara a cara com inúmeros perigos durante sua jornada pelo coração do Himalaia.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]INIMIGO MORTAL[/COLOR][/B]</title>
+<link>$doregex[BP1]INMGSMRTL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</fanart>
+<info>Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]ERA UMA VEZ UM CASAMENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]ERUMVZEMCSMNTO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20um%20Casamento.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20um%20Casamento.jpg</fanart>
+<info>A planejadora de casamentos, Kelsey Wilson, está prestes a ter seu grande chance: planejar o casamento exclusivo do seu amado primo. Tudo está indo sem problemas até que Connor McClane, um investigador particular diabólico e bonito, aparece e transforma o mundo de Kelsey de cabeça para baixo. Contratado por uma fonte secreta Connor rapidamente interrompe as núpcias, mas ganha o coração de Kelsey no processo.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]CRÔ EM FAMÍLIA[/COLOR][/B]</title>
+<link>$doregex[BP1]CROEMFLMLA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4%20em%20Fam%C3%ADlia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4%20em%20Fam%C3%ADlia.jpg</fanart>
+<info></info>
 <date></date>
 </item>
 
