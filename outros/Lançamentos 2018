@@ -8,41 +8,28 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PRESO NO TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]PRSONTMP.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]22 MILHAS[/COLOR][/B]</title>
+<link>$doregex[BP1]22MLHS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</fanart>
-<info>Alex (Dean Alexandrou) é um praticante de parkour que, de um dia para o outro, acorda sem saber onde está, preso em um ciclo temporal no qual o mesmo dia se repete infinitamente. Ao tentar descobrir a razão disso, ele logo se vê inserido em um estranho experimento científico organizado pela misteriosa Prevara Corporation e percebe que muitas pessoas querem a sua morte.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</fanart>
+<info>Depois de ser auxiliado por uma unidade de comando tático ultrassecreta, um agente da CIA (Mark Wahlberg) tem que transportar um informante da Indonésia do centro da cidade para refúgio em um aeroporto a 22 milhas de distância.</info>
 <date></date>
 </item>
 
 <item>
-<title>[B][COLOR white]O PREDADOR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]OPRDRLEG.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]A FREIRA[/COLOR][/B]</title>
+<link>$doregex[BP1]AFRA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
-<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MEU JANTAR COM HERVÉ[/COLOR][/B]</title>
-<link>$doregex[BP1]MEUJNTCMHRVE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</fanart>
-<info>O filme narra o intenso e transformador encontro de Hervé (Peter Dinklage) com o jornalista Danny Tate (Jamie Dornan), em sua última entrevista antes de cometer suicídio.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</fanart>
+<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
 <date></date>
 </item>
 
@@ -56,58 +43,6 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</fanart>
 <info>Jennifer Conrad (Penelope Mitchell) é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]LOBO GUERREIRO 2[/COLOR][/B]</title>
-<link>$doregex[BP1]LOBGURO2.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</fanart>
-<info>Um furtivo e experiente agente das forças especiais chinesa leva uma vida tranquila no mar, até que mercenários locais começam a atacar e aterrorizar civis inocentes próximos a ele. Vendo o caos que se instaura entre os habitantes, ele deixa sua nova vida de paz de lado e volta a servir os seus deveres como soldado.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]ALONG WITH THE GODS: THE TWO WORLDS[/COLOR][/B]</title>
-<link>$doregex[BP1]ALNGWTTGDTTWRLD.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Along%20with%20the%20Gods%20-%20The%20Two%20Worlds.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Along%20with%20the%20Gods%20-%20The%20Two%20Worlds.jpg</fanart>
-<info>Depois de uma morte totalmente inesperada, o bombeiro Ja-hong (Tae-Hyun Cha) é carregado para o além por três guardiões sobrenaturais. É só depois de passar por sete testes de 49 dias que ele ganha a possibilidade da reencarnação. Seus três companheiros permanecem ao seu lado o tempo todo para que possam testemunhar durante seu julgamento.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MEU EX É UM ESPIÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]MEXEUMESPAO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</fanart>
-<info>Audrey (Mila Kunis) está desiludida com o término do namoro com Drew (Justin Theroux), que a dispensou através de uma mensagem de celular. O que ela não sabe é que o agora ex-namorado é também um agente secreto, perseguido devido a um pen drive com informações sigilosas. Após receber o apoio moral de sua melhor amiga, Morgan (Kate McKinnon), Audrey é surpreendida com o súbito reaparecimento de Drew, após ameaçar queimar seus pertences. Logo ambas estão também envolvidas no mundo da espionagem, precisando ir às pressas para Viena, na Áustria.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]CRÔNICAS DE NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]CRNCSDNTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</fanart>
-<info>O presente de natal das crianças ao redor do mundo está em risco. Isso porque os irmãos Kate (Darby Camp) e Teddy Pierce (Judah Lewis) fizeram suas travessuras. Empenhados em flagrar o exato momento da chegada do Papai Noel, os dois se acomodaram em seu trenó e, acidentalmente, danificaram o veículo. Agora eles precisam fazer uma uma força-tarefa para ajudar o bom velhinho a correr contra o tempo, entregar os presentes e salvar o Natal.</info>
 <date></date>
 </item>
 
@@ -126,41 +61,67 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
-<title>[B][COLOR white]A FREIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]AFRA.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]CRÔNICAS DE NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]CRNCSDNTL.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</fanart>
-<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</fanart>
+<info>O presente de natal das crianças ao redor do mundo está em risco. Isso porque os irmãos Kate (Darby Camp) e Teddy Pierce (Judah Lewis) fizeram suas travessuras. Empenhados em flagrar o exato momento da chegada do Papai Noel, os dois se acomodaram em seu trenó e, acidentalmente, danificaram o veículo. Agora eles precisam fazer uma uma força-tarefa para ajudar o bom velhinho a correr contra o tempo, entregar os presentes e salvar o Natal.</info>
 <date></date>
 </item>
 
 <item>
-<title>[B][COLOR white]22 MILHAS[/COLOR][/B]</title>
-<link>$doregex[BP1]22MLHS.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]INIMIGO MORTAL[/COLOR][/B]</title>
+<link>$doregex[BP1]INMGSMRTL.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</fanart>
-<info>Depois de ser auxiliado por uma unidade de comando tático ultrassecreta, um agente da CIA (Mark Wahlberg) tem que transportar um informante da Indonésia do centro da cidade para refúgio em um aeroporto a 22 milhas de distância.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</fanart>
+<info>Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.</info>
 <date></date>
 </item>
 
 <item>
-<title>[B][COLOR white]TRAFFIK: LIBERDADE ROUBADA[/COLOR][/B]</title>
-<link>$doregex[BP1]TRFK.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]LOBO GUERREIRO 2[/COLOR][/B]</title>
+<link>$doregex[BP1]LOBGURO2.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</fanart>
-<info>Brea (Paula Patton) e John (Omar Epps) estão nas montanhas com amigos para um fim de semana romântico, quando acabam se deparando com uma gangue de motoqueiros. Sozinhos, eles precisam se defender do grupo, que não mede esforços para esconder segredos que abrangem o tráfico de mulheres.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</fanart>
+<info>Um furtivo e experiente agente das forças especiais chinesa leva uma vida tranquila no mar, até que mercenários locais começam a atacar e aterrorizar civis inocentes próximos a ele. Vendo o caos que se instaura entre os habitantes, ele deixa sua nova vida de paz de lado e volta a servir os seus deveres como soldado.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MEU EX É UM ESPIÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MEXEUMESPAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</fanart>
+<info>Audrey (Mila Kunis) está desiludida com o término do namoro com Drew (Justin Theroux), que a dispensou através de uma mensagem de celular. O que ela não sabe é que o agora ex-namorado é também um agente secreto, perseguido devido a um pen drive com informações sigilosas. Após receber o apoio moral de sua melhor amiga, Morgan (Kate McKinnon), Audrey é surpreendida com o súbito reaparecimento de Drew, após ameaçar queimar seus pertences. Logo ambas estão também envolvidas no mundo da espionagem, precisando ir às pressas para Viena, na Áustria.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]MEU JANTAR COM HERVÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUJNTCMHRVE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</fanart>
+<info>O filme narra o intenso e transformador encontro de Hervé (Peter Dinklage) com o jornalista Danny Tate (Jamie Dornan), em sua última entrevista antes de cometer suicídio.</info>
 <date></date>
 </item>
 
@@ -178,15 +139,41 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
-<title>[B][COLOR white]INIMIGO MORTAL[/COLOR][/B]</title>
-<link>$doregex[BP1]INMGSMRTL.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]O PREDADOR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]OPRDRLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</fanart>
-<info>Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
+<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]PRESO NO TEMPO[/COLOR][/B]</title>
+<link>$doregex[BP1]PRSONTMP.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</fanart>
+<info>Alex (Dean Alexandrou) é um praticante de parkour que, de um dia para o outro, acorda sem saber onde está, preso em um ciclo temporal no qual o mesmo dia se repete infinitamente. Ao tentar descobrir a razão disso, ele logo se vê inserido em um estranho experimento científico organizado pela misteriosa Prevara Corporation e percebe que muitas pessoas querem a sua morte.</info>
+<date></date>
+</item>
+
+<item>
+<title>[B][COLOR white]TRAFFIK: LIBERDADE ROUBADA[/COLOR][/B]</title>
+<link>$doregex[BP1]TRFK.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</fanart>
+<info>Brea (Paula Patton) e John (Omar Epps) estão nas montanhas com amigos para um fim de semana romântico, quando acabam se deparando com uma gangue de motoqueiros. Sozinhos, eles precisam se defender do grupo, que não mede esforços para esconder segredos que abrangem o tráfico de mulheres.</info>
 <date></date>
 </item>
 
