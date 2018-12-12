@@ -3,8 +3,8 @@
 <link>here</link>
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
-<info>Filmes adicionados recentemente.<info>
-<date>29/11/2018</date>
+<info>FILMES ADICIONADOS RECENTEMENTE.<info>
+<date>12/12/2018</date>
 </item>
 
 <item>
@@ -87,6 +87,19 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
+<title>[B][COLOR white]LEO DA VINCI: MISSÃO MONA LISA[/COLOR][/B]</title>
+<link>$doregex[BP1]LEODVNCMSNMNLSA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</fanart>
+<info>No final da Idade Média, na Itália, Leonardo "Leo" Da Vinci é um jovem amante do garoto para inventar máquinas avançadas que vive feliz com seu melhor amigo Lorenzo e a bela Lisa, sendo secretamente apaixonada por ela. Depois de testar o primeiro traje de mergulho de sua criação em um lago, a tragédia aparece quando, voltando para casa, Lisa percebe que sua casa e suas terras foram queimadas por um incêndio. O dono das terras ameaça o pai de Lisa para se casar com seu filho se ele não der todo o dinheiro que ele paga como retribuição pelo incêndio, causando a tristeza de Lisa. Tentando salvá-la, Leo Da Vinci decide viajar para Florencia para ganhar dinheiro e pagar a dívida com a ajuda de Lorenzo. Incapaz de manter o segredo, Lorenzo revela os planos de Lisa Leo, e Lisa se junta a seus amigos para fazer a viagem para a cidade grande, onde encontram um contador de histórias que explica em uma praça a história de um navio pirata afundado com um grande tesouro dentro dele. Acreditando nisso como um evento verdadeiro, Leo compra o mapa do tesouro para o contador de histórias, mas é roubado por uma criança pequena e órfã chamada Agnes. Fazendo um trato com ela, Leo recupera o mapa e Agnes se junta ao grupo ao mesmo tempo que Niccoló, uma criança pequena amante da ciência e da astronomia que faz amizade com Lisa. Todos os cinco chegam à Ilha Montecristo em busca do tesouro, mas não sabem que os piratas seguem cada passo que dão, esperando o momento certo para roubar o tesouro e eliminar Leão e seus amigos.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]LOBO GUERREIRO 2[/COLOR][/B]</title>
 <link>$doregex[BP1]LOBGURO2.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -139,6 +152,19 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
+<title>[B][COLOR white]MOGLI: ENTRE DOIS MUNDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]MGLENTDSMNDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</fanart>
+<info>Criado por uma alcatéia em meio às florestas da Índia, Mogli (Rohan Chand) vive com os animais da selva e conta com a amizade do urso Baloo (Andy Serkis) e da pantera Bagheera (Christian Bale). Ele é aceito por todos os animais, exceto pelo temido tigre Shere Khan (Benedict Cumberbach). Quando Mogli se defronta com suas origens humanas, perigos maiores do que a rixa com Shere Khan podem surgir.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]O PREDADOR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]OPRDRLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -182,7 +208,7 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <link>here</link>
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
-<info>Todos os filmes de 2018</info>
+<info>TODOS OS FILMES DE 2018</info>
 </item>
 
 <item>
