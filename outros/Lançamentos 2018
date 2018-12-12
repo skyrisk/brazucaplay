@@ -47,6 +47,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]A PRIMEIRA CHEGADA[/COLOR][/B]</title>
+<link>$doregex[BP1]APRMRCHGDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</fanart>
+<info>A colegial Alex Lainey (Stefanie Scott) tem um encontro com luzes misteriosas que aparecem sobre sua pequena cidade. Ela logo desenvolve perigosas habilidades sobrenaturais e se vira para seu amigo de infância Sean Terrel (Théodore Pellerin). As autoridades dão orientações a eles e uma perseguição segue quando as autoridades tentam descobrir a verdade por trás da transformação de Alex.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]CORRIDA MORTAL 4: ALÉM DA ANARQUIA[/COLOR][/B]</title>
 <link>$doregex[BP1]CRDAMRT4.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
