@@ -186,6 +186,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
+<title>[B][COLOR white]10 SEGUNDOS PARA VENCER[/COLOR][/B]</title>
+<link>$doregex[BP1]10SEGNDSPRVNCR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/10%20Segundos%20para%20Vencer.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/10%20Segundos%20para%20Vencer.jpg</fanart>
+<info>Conhecido como "Galinho de Ouro", por ter sido eleito o maior peso galo da história do boxe, Eder Jofre é considerado um dos maiores boxeadores de todos os tempos. Nem a infância difícil no bairro do Peruche, em São Paulo, conseguiu deter Eder, que se consagrou campeão mundial em 1961, nos Estados Unidos.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]12 HERÓIS[/COLOR][/B]</title>
 <link>$doregex[BP1]12HERS.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -702,6 +714,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]A PRIMEIRA CHEGADA[/COLOR][/B]</title>
+<link>$doregex[BP1]APRMRCHGDA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</fanart>
+<info>A colegial Alex Lainey (Stefanie Scott) tem um encontro com luzes misteriosas que aparecem sobre sua pequena cidade. Ela logo desenvolve perigosas habilidades sobrenaturais e se vira para seu amigo de infância Sean Terrel (Théodore Pellerin). As autoridades dão orientações a eles e uma perseguição segue quando as autoridades tentam descobrir a verdade por trás da transformação de Alex.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]A PRIMEIRA NOITE DE CRIME[/COLOR][/B]</title>
 <link>$doregex[BP1]APRMRNTDCRME.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -747,6 +771,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Reparti%C3%A7%C3%A3o%20do%20Tempo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Reparti%C3%A7%C3%A3o%20do%20Tempo.jpg</fanart>
 <info>Brasília, início da década de 1980. O REPI (Registro de Patentes e Invenções) acaba de ser capa de uma importante revista nacional, que o coloca como exemplo da burocracia existente no governo. Lisboa (Eucir de Souza), o chefe, não gosta nem um pouco da reportagem e decide cobrar atitude de seus funcionários, que fazem de tudo menos trabalhar. Paralelamente, o Dr. Brasil (Tonico Pereira) deseja patentear uma máquina do tempo e a deixa no REPI. Ao colocar o aparelho no estoque, Jonas (Edu Moraes) acidentalmente o aciona e, consequentemente, volta no tempo.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]A ROTA SELVAGEM[/COLOR][/B]</title>
+<link>$doregex[BP1]ARTASLVGM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Rota%20Selvagem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Rota%20Selvagem.jpg</fanart>
+<info>Charley (Charlie Plummer) é um menino de 15 anos que vive com o pai solteiro em Portland, Oregon. Na procura pela tia desaparecida há muitos anos, Charley consegue um emprego de verão como treinador de cavalos e acaba fazendo amizade com um cavalo de corrida chamado Lean on Pete.</info>
 <date></date>
 </item>
 <item>
@@ -903,6 +939,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Alex%20Strangelove.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Alex%20Strangelove.jpg</fanart>
 <info>Alex Truelove (Daniel Doheny) é um aluno exemplar do último ano do Ensino Médio. Ele tem um grande futuro pela frente, mas antes de se formar ele quer alcançar o último marco da adolescência: perder a virgindade com a sua namorada, Claire (Madeline Weinstein). Tudo se complica quando ele conhece Elliot (Antionio Marziale), um charmoso menino gay que sem querer põe Alex em uma jornada de autodescoberta.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]ALFA[/COLOR][/B]</title>
+<link>$doregex[BP1]ALFA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Alfa.jpg</fanart>
+<info>Após cair de um penhasco e se perder do seu grupo, o jovem Keda (Kodi Smit-McPhee) precisa sobreviver em meio a paisagens selvagens e encontrar o caminho de casa. Atacado por uma matilha, ele consegue ferir um dos lobos, mas decide não matar o animal. O jovem cuida dele e os dois começam uma relação de amizade.</info>
 <date></date>
 </item>
 <item>
@@ -1290,6 +1338,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]BATALHAS[/COLOR][/B]</title>
+<link>$doregex[BP1]BTLHS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Batalhas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Batalhas.jpg</fanart>
+<info>Com a falência do pai, a jovem bailarina Amalie vê seu estilo de vida luxuoso desmoronar. Mas ela descobre um novo ritmo ao conhecer o dançarino de hip-hop Mikael.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]BATMAN NINJA[/COLOR][/B]</title>
 <link>$doregex[BP1]BTMNJA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1407,6 +1467,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Boo%202!%20Um%20Halloween%20De%20Madea.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Boo%202!%20Um%20Halloween%20De%20Madea.jpg</fanart>
 <info>Madea, (Tyler Perry), Tia Bam (Cassi Davis) e Hattie (Patrice Lovely) se aventuraram em um acampamento assombrado. Lá o grupo deve correr por suas vidas quando monstros, goblins e o bicho-papão estão soltos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]BOONE: O CAÇADOR DE RECOMPENSAS[/COLOR][/B]</title>
+<link>$doregex[BP1]BONCADRDRCMPSA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Boone%20-%20O%20Ca%C3%A7ador%20de%20Recompensas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Boone%20-%20O%20Ca%C3%A7ador%20de%20Recompensas.jpg</fanart>
+<info>Boone (John Hennigan) é um caçador de talentos para reality shows obcecado pela fama. Quando ele decide derrubar um chefe do tráfico e seu império, ele descobre mais do que imaginava e acaba descobrindo a importância de justiça.</info>
 <date></date>
 </item>
 <item>
@@ -1647,6 +1719,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Combatentes%20da%20Liberdade%20-%20Ray.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Combatentes%20da%20Liberdade%20-%20Ray.jpg</fanart>
 <info>Terra X é uma das muitas realidades do multiverso, com uma diferença gritante da nossa terra: os nazistas ganharam a segunda guerra mundial! Liderados por Ray, um grupo de heróis conhecido como Combatentes da Liberdade lidera a batalha contra a tirania. Mas quando Ray é transportado para a Terra para salvar a sua própria vida, ele passa os seus poderes ao seu equivalente desavisado, Ray Terrill. Supercarregado com habilidades super-humanas, o recém-batizado Ray deve se adaptar e superar os desafios da luta contra o crime, embora com a pequena ajuda de Flash e Arqueiro Verde. Preparado e pronto para lutar, Ray agora enfrenta a sua maior batalha: voltar à Terra X para liderar os Combatentes da Liberdade contra Overgirl e os seus capangas nazistas do mal!</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]COMO SUPERAR UM FORA[/COLOR][/B]</title>
+<link>$doregex[BP1]CMSPRUMFRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Como%20Superar%20um%20Fora.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Como%20Superar%20um%20Fora.jpg</fanart>
+<info>Quando uma solitária publicitária sofre mais uma desilusão amorosa, ela decide que precisa desabafar sobre as coisas que ocorrem em sua vida, por mais que tenha vergonha de mostrar seus sentimentos a outras pessoas. Para driblar esse impedimento, ela cria um blog e escreve lá todos os anseios da vida de uma mulher solteira de meia-idade, mas se surpreende com o sucesso que atinge.</info>
 <date></date>
 </item>
 <item>
@@ -1912,6 +1996,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Debaixo%20do%20Mesmo%20Teto.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Debaixo%20do%20Mesmo%20Teto.jpg</fanart>
 <info>Delphine (Louise Bourgoin) e Yvan (Gilles Lellouche) acabaram de se divorciar mas seu ex-marido não consegue encontrar um apartamento para morar. À medida que sua situação financeira não permite que ele se mude, Yvan lembra que é dono de 20% da casa de sua ex-esposa. Então, ele volta a viver com Delphine por causa dos seus 20%, e assim, ambos vão descobrir as alegrias de morarem juntos novamente.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]DEMÔNIOS[/COLOR][/B]</title>
+<link>$doregex[BP1]DEMONS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Dem%C3%B4nios.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Dem%C3%B4nios.jpg</fanart>
+<info>Após ser libertado, um condenado se vinga de amigos que deixaram-no levar a culpa pos seus crimes.</info>
 <date></date>
 </item>
 <item>
@@ -3151,6 +3247,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]LEO DA VINCI: MISSÃO MONA LISA[/COLOR][/B]</title>
+<link>$doregex[BP1]LEODVNCMSNMNLSA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</fanart>
+<info>No final da Idade Média, na Itália, Leonardo "Leo" Da Vinci é um jovem amante do garoto para inventar máquinas avançadas que vive feliz com seu melhor amigo Lorenzo e a bela Lisa, sendo secretamente apaixonada por ela. Depois de testar o primeiro traje de mergulho de sua criação em um lago, a tragédia aparece quando, voltando para casa, Lisa percebe que sua casa e suas terras foram queimadas por um incêndio. O dono das terras ameaça o pai de Lisa para se casar com seu filho se ele não der todo o dinheiro que ele paga como retribuição pelo incêndio, causando a tristeza de Lisa. Tentando salvá-la, Leo Da Vinci decide viajar para Florencia para ganhar dinheiro e pagar a dívida com a ajuda de Lorenzo. Incapaz de manter o segredo, Lorenzo revela os planos de Lisa Leo, e Lisa se junta a seus amigos para fazer a viagem para a cidade grande, onde encontram um contador de histórias que explica em uma praça a história de um navio pirata afundado com um grande tesouro dentro dele. Acreditando nisso como um evento verdadeiro, Leo compra o mapa do tesouro para o contador de histórias, mas é roubado por uma criança pequena e órfã chamada Agnes. Fazendo um trato com ela, Leo recupera o mapa e Agnes se junta ao grupo ao mesmo tempo que Niccoló, uma criança pequena amante da ciência e da astronomia que faz amizade com Lisa. Todos os cinco chegam à Ilha Montecristo em busca do tesouro, mas não sabem que os piratas seguem cada passo que dão, esperando o momento certo para roubar o tesouro e eliminar Leão e seus amigos.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]LEVANTANDO POEIRA[/COLOR][/B]</title>
 <link>$doregex[BP1]LEVNTDPRA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3271,6 +3379,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]MARÉ NOSTRUM[/COLOR][/B]</title>
+<link>$doregex[BP1]MRENSTRM.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mare%20Nostrum.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mare%20Nostrum.jpg</fanart>
+<info>Roberto (Silvio Guindane) e Mitsuo (Ricardo Oshiro) são dois desconhecidos que, após uma série de coincidências, voltam para o Brasil no mesmo dia, depois de um longo tempo no exterior. Eles se encontram devido a um terreno que foi negociado por seus pais decádas atrás e decidem tentar ganhar dinheiro em cima do local. No entanto, eles entram em conflito quando começam a achar que o lote possui poderes mágicos.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]MARIA MADALENA[/COLOR][/B]</title>
 <link>$doregex[BP1]MARMDLNA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3292,6 +3412,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Marvel%20Rising%20-%20Guerreiros%20Secretos.jpg</fanart>
 <info>Quando diversos adolescentes descobrem, em momentos diferentes, que possuem poderes, eles decidem criar uma liga se unir para que consigam combater as injustiças que assolam suas cidades. Passando ainda pelo período de crescimento, eles precisam aprender rápido que nada dará certo se eles não permanecerem sempre unidos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]MARY SHELLEY[/COLOR][/B]</title>
+<link>$doregex[BP1]MRYSHLY.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mary%20Shelley.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mary%20Shelley.jpg</fanart>
+<info>A história do romance entre o carismático poeta Percy Shelley e Mary Wollstonecraft, uma jovem de 17 anos que viria a se tornar a aclamada escritora Mary Shelley.</info>
 <date></date>
 </item>
 <item>
@@ -3580,6 +3712,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Modern%20Life%20Is%20Rubbish.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Modern%20Life%20Is%20Rubbish.jpg</fanart>
 <info>O amor pela música uniu Liam (Josh Whitehouse), um artista batalhador e colecionador de vinis, e Natalie (Freya Mavor), que abandonou seu sonho de criar capas de álbuns e se tornou uma publicitária bem sucedida. Com os acontecimentos da vida afastando cada vez mais o casal, a trilha sonora do seu relacionamento continua os mantendo juntos.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]MOGLI: ENTRE DOIS MUNDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]MGLENTDSMNDS.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</fanart>
+<info>Criado por uma alcatéia em meio às florestas da Índia, Mogli (Rohan Chand) vive com os animais da selva e conta com a amizade do urso Baloo (Andy Serkis) e da pantera Bagheera (Christian Bale). Ele é aceito por todos os animais, exceto pelo temido tigre Shere Khan (Benedict Cumberbach). Quando Mogli se defronta com suas origens humanas, perigos maiores do que a rixa com Shere Khan podem surgir.</info>
 <date></date>
 </item>
 <item>
@@ -3907,6 +4051,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]O CANDIDATO HONESTO 2[/COLOR][/B]</title>
+<link>$doregex[BP1]OCNDDTHNST2.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Candidato%20Honesto%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Candidato%20Honesto%202.jpg</fanart>
+<info>Após cumprir quatro dos quatrocentos anos de cadeia, João Ernesto (Leandro Hassum) é convencido a se candidatar à presidência novamente. Adorado pelo povo por ser um político que assumiu seus erros, ele vence as eleições, mas não tem vida fácil em Brasília acompanhado excessivamente de perto pelo sinistro vice Ivan Pires (Cassio Pandolfh).</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]O CARMA DE UM ASSASSINO[/COLOR][/B]</title>
 <link>$doregex[BP1]OCRMADUMASASNO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4099,6 +4255,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]O MAIS PROVÁVEL ASSASSINO[/COLOR][/B]</title>
+<link>$doregex[BP1]OMSPRVLASASNO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Mais%20Prov%C3%A1vel%20Assassino.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Mais%20Prov%C3%A1vel%20Assassino.jpg</fanart>
+<info>Billy, o garoto mais popular do colégio, volta à sua cidade natal 10 anos depois para descobrir que ele não é o mais legal. Sua ex está atualmente namorando o excluído da escola e Billy se torna obcecado para provar que o rapaz é na verdade um assassino.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]O MELHOR PRESENTE É O AMOR[/COLOR][/B]</title>
 <link>$doregex[BP1]OMLHRPRSTEOAMR.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4132,6 +4300,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mundo%20de%20Carrie%20Pilby.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mundo%20de%20Carrie%20Pilby.jpg</fanart>
 <info>Carrie é uma jovem super inteligente, que se formou em Harvard com apenas 18 anos. Atualmente com 19 anos, ela está se esforçando para entender o sentido do mundo no que se refere a moralidade, relacionamentos, sexo e ter que deixar seu apartamento em Nova York.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O MUNDO É SEU[/COLOR][/B]</title>
+<link>$doregex[BP1]OMNDESEU.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Mundo%20%C3%89%20Seu.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Mundo%20%C3%89%20Seu.jpg</fanart>
+<info>Para deixar a vida de crimes, um traficante de Paris aceita um último trabalho na Espanha. No seu caminho, marginais desequilibrados, uma antiga paixão e a mãe golpista.</info>
 <date></date>
 </item>
 <item>
@@ -4243,6 +4423,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]O PRÍNCIPE DO NATAL: O CASAMENTO REAL[/COLOR][/B]</title>
+<link>$doregex[BP1]OPRNCPDNTLOCSMNTO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Pr%C3%ADncipe%20do%20Natal%20-%20O%20Casamento%20Real.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Pr%C3%ADncipe%20do%20Natal%20-%20O%20Casamento%20Real.jpg</fanart>
+<info>Um ano depois de Amber ajudar o Príncipe Richard a protejer a coroa, os dois estão prestes a se casar em pleno Natal. Mas os planos do jovem casal são ameaçados por uma crise política que pode prejudicar o futuro do reino e pela insegurança de Amber em se tornar rainha.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]O PROCESSO[/COLOR][/B]</title>
 <link>$doregex[BP1]OPRCESO.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4336,6 +4528,30 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Rei%20Guerreiro.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Rei%20Guerreiro.jpg</fanart>
 <info>Quando o irmão de Alpin (Jake McGarry) é capturado dez anos após o resto de sua família ser brutalmente assassinada, ele não mede esforços para salvá-lo. No entanto, Alpin não contava que os sequestradores na verdade são forças malignas sobrenaturais que estão aterrorizando a Escócia em plena Idade das Trevas. Agora ele precisa se unir a um monge para derrotar as criaturas e restabelecer a paz no reino.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O RESGATE DA PRINCESA[/COLOR][/B]</title>
+<link>$doregex[BP1]ORSGTEDPRNCSA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Resgate%20da%20Princesa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Resgate%20da%20Princesa.jpg</fanart>
+<info>Essa história maravilhosa aconteceu na época de valentes cavaleiros, lindas princesas e lutadores de feiticeiros. Ruslan, um artista errante que sonha em se tornar um cavaleiro, conheceu a bela Mila e se apaixonou por ela; ele nem sequer suspeitou que ela é filha do rei. No entanto, a felicidade dos amantes não era para durar muito tempo. Chernomor, o malvado feiticeiro, apareceu em um vórtice mágico e roubou Mila diante dos olhos de Ruslan para transformar seu poder de amor em seu próprio poder mágico. Sem mais delongas, Ruslan sai em uma perseguição após a princesa roubada para superar todos os obstáculos e provar que o amor real é mais forte que a magia.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O RETORNO DO DUENDE[/COLOR][/B]</title>
+<link>$doregex[BP1]ORTORNDUENDE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Retorno%20do%20Duende.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Retorno%20do%20Duende.jpg</fanart>
+<info>O mortal e brincalhão Leprechaun está de volta em toda sua glória sangrenta. Quando as estudantes da irmandade Alpha Upsilon decidem ficar chapadas e usar um poço antigo como fonte de água, despertam involuntariamente um monstro verde. O Leprechaun quer um pote de ouro enterrado perto da casa da irmandade, mas primeiro, ele deve recuperar seus poderes com uma matança.</info>
 <date></date>
 </item>
 <item>
@@ -4705,8 +4921,8 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Pantera%20Negra.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Pantera%20Negra.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pantera%20negra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pantera%20negra.jpg</fanart>
 <info>Após a morte do rei T'Chaka (John Kani), o príncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. T'Challa logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmã Shuri (Letitia Wright), que coordena a área tecnológica do reino, e também de Nakia (Lupita Nyong'o), a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrás.</info>
 <date></date>
 </item>
@@ -4717,9 +4933,21 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Pantera%20Negra.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Pantera%20Negra.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pantera%20negra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pantera%20negra.jpg</fanart>
 <info>Após a morte do rei T'Chaka (John Kani), o príncipe T'Challa (Chadwick Boseman) retorna a Wakanda para a cerimônia de coroação. Nela são reunidas as cinco tribos que compõem o reino, sendo que uma delas, os Jabari, não apoia o atual governo. T'Challa logo recebe o apoio de Okoye (Danai Gurira), a chefe da guarda de Wakanda, da irmã Shuri (Letitia Wright), que coordena a área tecnológica do reino, e também de Nakia (Lupita Nyong'o), a grande paixão do atual Pantera Negra, que não quer se tornar rainha. Juntos, eles estão à procura de Ulysses Klaue (Andy Serkis), que roubou de Wakanda um punhado de vibranium, alguns anos atrás.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]PAPA FRANCISCO: UM HOMEM DE PALAVRA[/COLOR][/B]</title>
+<link>$doregex[BP1]PAPFRNSCUMHMNDPLVRA.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Papa%20Francisco%20-%20Um%20Homem%20de%20Palavra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Papa%20Francisco%20-%20Um%20Homem%20de%20Palavra.jpg</fanart>
+<info>Em uma era de profunda descrença dos políticos e pessoas no poder, Papa Francisco é representado pelas suas muitas visitas espirituais pelo mundo e suas respostas às questões globais atuais sobre morte, justiça social, imigração, ecologia, desigualdade econômica, materialismo e o papel da família.</info>
 <date></date>
 </item>
 <item>
@@ -4768,6 +4996,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Paraiso%20Perdido.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Paraiso%20Perdido.jpg</fanart>
 <info>Paraíso Perdido é um clube noturno gerenciado por José (Erasmo Carlos) e movimentado por apresentações musicais de seus herdeiros. O policial Odair (Lee Taylor) se aproxima da família ao ser contratado para fazer a segurança do jovem talento Ímã (Jaloo), neto de José e alvo frequente de homofóbicos, e aos poucos o laço entre o agente e o clã de artistas românticos vai se revelando mais e mais forte - com nós surpreendentes.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]PARANÓIA[/COLOR][/B]</title>
+<link>$doregex[BP1]PARNIO2018.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Paran%C3%B3ia%202018.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Paran%C3%B3ia%202018.jpg</fanart>
+<info>Uma artista que sofre de transtorno bipolar está se recuperando da perda de um filho. Atormentada por lembranças perturbadoras, ela e seu devotado marido mudam-se para um prédio que possui características de design ultra-moderno e sistemas de segurança integrados. Ela começa a suspeitar que algo está errado e busca ajuda de um jornalista investigativo, cujo interesse é a conspiração cibernética.</info>
 <date></date>
 </item>
 <item>
@@ -4852,6 +5092,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pela%20Janela.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Pela%20Janela.jpg</fanart>
 <info>Rosália (Magali Biff) é uma dedicada operária de 65 anos que dedicou a vida ao trabalho em um fábrica de reatores da periferia de São Paulo. Certo dia acaba demitida e é consolada pelo irmão José (Cacá Amaral), com quem vive. Ele resolve levá-la em uma viagem de carro até Buenos Aires com o objetivo de distraí-la e no país vizinho Rosália vê pela primeira vez um mundo desconhecido e distante de sua vida cotidiana.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]PÉPEQUENO[/COLOR][/B]</title>
+<link>$doregex[BP1]PEPQNO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9Pequeno.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9Pequeno.jpg</fanart>
+<info>Um yeti, criatura conhecida como o Abominável Homem das Neves, está indo na contramão do que todos os seus semelhantes acreditam: ele tem a certeza que os seres humanos, para eles até então um mito, realmente existem, mesmo que todos da sua espécie neguem com veemência. Mas ele não irá desistir tão fácil de provar sua tese.</info>
 <date></date>
 </item>
 <item>
@@ -4997,6 +5249,18 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Ploey%20-%20Voc%C3%AA%20Nunca%20Voar%C3%A1%20S%C3%B3.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Ploey%20-%20Voc%C3%AA%20Nunca%20Voar%C3%A1%20S%C3%B3.jpg</fanart>
 <info>Um filhote de tarambola ainda não aprendeu a voar quando chega a hora de sua família migrar no outono. Ele precisa sobreviver ao inverno ártico, inimigos cruéis e a si mesmo, a fim de se reunir com seus entes queridos na próxima primavera.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]PONTO CEGO[/COLOR][/B]</title>
+<link>$doregex[BP1]PNTCGO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ponto%20Cego.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ponto%20Cego.jpg</fanart>
+<info>Em Oakland, Califórnia, o ex-presidiário Collin (Daveed Diggs) enfrenta os últimos dias de liberdade de condicional antes de acertar as suas contas com a justiça. Quando presencia uma troca de tiros envolvendo policiais, ele hesita sobre a melhor coisa a fazer e conta com a ajuda de seu amigo de infância, Miles (Rafael Casal). Contudo, o caso expõe as diferenças de pensamentos entre ambos e revela os traumas sociais de cada um.</info>
 <date></date>
 </item>
 <item>
@@ -5216,6 +5480,18 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]REI ARTHUR: A VOLTA DA EXCALIBUR[/COLOR][/B]</title>
+<link>$doregex[BP1]REIARTHRAVLTDEXCLBR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rei%20Arthur%20-%20A%20Volta%20da%20Excalibur.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rei%20Arthur%20-%20A%20Volta%20da%20Excalibur.jpg</fanart>
+<info>Eternizado através de várias histórias, o Rei Arthur deixou também como legado para o mundo o seu filho Owain Ddantgwyn (Adam Byard). Considerado ilegítimo e desrespeitado por todos os súditos do pai, Owain precisa se esforçar para ser um guerreiro de valor a seu reino e provar que é digno de uma posição no trono.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]REI CHARLES III[/COLOR][/B]</title>
 <link>$doregex[BP1]REICHRLSIII.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -5336,14 +5612,26 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]SANSÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]SNSAO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sans%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sans%C3%A3o.jpg</fanart>
+<info>Sansão (Taylor James) é um homem com uma força sobrenatural que recebeu um chamado divino para libertar seu povo da escravidão. Quando ele perde seu amor para um cruel príncipe filisteu, o jovem hebreu parte em uma jornada para defender seu povo, sacrificando o que for preciso para vingar seu amor, seu povo e seu Deus.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]SCOOBY-DOO! & BATMAN: OS BRAVOS E DESTEMIDOS[/COLOR][/B]</title>
 <link>$doregex[BP1].mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Superando%20o%20Medo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Superando%20o%20Medo.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sans%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sans%C3%A3o.jpg</fanart>
 <info></info>
 <date></date>
 </item>
@@ -5696,6 +5984,18 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <date></date>
 </item>
 <item>
+<title>[B][COLOR white]SUPERFLY: CRIME E PODER[/COLOR][/B]</title>
+<link>$doregex[BP1]SPRFLYCRMEPDR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Superfly%20-%20Crime%20e%20Poder.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Superfly%20-%20Crime%20e%20Poder.jpg</fanart>
+<info>O jovem traficante Youngblood Priest começou sua carreira no mundo das drogas aos onze anos e desde então se transformou em um dos criminosos mais bem sucedidos de Atlanta. Com o dinheiro conquistado ilegalmente, ele comprou mansões, carros importados e muitas jóias, a sua influência lhe garantiu aliados poderosos e relacionamentos com mulheres deslumbrantes. No entanto, nem todo dinheiro do mundo é capaz de impedir os perigos que estão por vir.</info>
+<date></date>
+</item>
+<item>
 <title>[B][COLOR white]TAL PAI, TAL FILHA[/COLOR][/B]</title>
 <link>$doregex[BP1]TALPAITALFHLA.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -5705,6 +6005,18 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Tal%20Pai,%20Tal%20Filha.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Tal%20Pai,%20Tal%20Filha.jpg</fanart>
 <info>Depois de ser abandonada no altar pelo noivo, uma jovem mulher workaholic (Kristen Bell) decide continuar com a sua lua de mel ao lado do pai (Kelsey Grammer), que no passado negligenciou a família para investir na sua carreira promissora. Durante a viagem em um cruzeiro luxuoso, os dois terão a oportunidade de melhorar a desgastada relação que compartilham.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]TALVEZ UMA HISTÓRIA DE AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]TLVZUMHSTRDAMR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Talvez%20uma%20Hist%C3%B3ria%20de%20Amor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Talvez%20uma%20Hist%C3%B3ria%20de%20Amor.jpg</fanart>
+<info>Quando chega em casa, depois de mais um dia corriqueiro no trabalho, Virgílio (Mateus Solano) liga a secretária eletrônica e ouve um recado perturbador. É uma mensagem de Clara (Thaila Ayala), comunicando o término do relacionamento dos dois. Virgílio, contudo, não faz a menor ideia de quem é Clara.  Perturbado devido ao seu jeito metódico e controlador, ele não se lembra de ter se relacionado com ninguém, mas todos ao seu redor pareciam saber do relacionamento dos dois, perguntando como ele está se sentindo com o término. Agora, ele precisa encontrar essa mulher misteriosa.</info>
 <date></date>
 </item>
 <item>
@@ -6098,8 +6410,8 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Um%20Lugar%20Silencioso.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Um%20Lugar%20Silencioso.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Silencioso.jpg</fanart>
 <info>Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.</info>
 <date></date>
 </item>
@@ -6209,6 +6521,18 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Vende-se%20Esta%20Casa.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Vende-se%20Esta%20Casa.jpg</fanart>
 <info>Após a morte do pai, o adolescente Logan Wallace (Dylan Minnette) e sua mãe, Naomi Wallace (Piercey Dalton), se mudam temporariamente para uma casa à venda, buscando superar o trauma familiar. Eles precisam apenas organizar um dia de "portas abertas" para acolher potenciais compradores do imóvel. Depois deste evento, Logan e Naomi começam a perceber presenças estranhas dentro da casa.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]VENOM [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VENOMLEG.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Venom.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Venom.jpg</fanart>
+<info>San Francisco, Estados Unidos. Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
 <date></date>
 </item>
 <item>
@@ -6389,5 +6713,17 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Zion.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Zion.jpg</fanart>
 <info>Sem as pernas e condenado a viver em lares adotivos por muitos anos, o adolescente Zion Clark descobre sua vocação ao se tornar lutador.Documentário em curta-metragem.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]ZOE E RAVEN: OS DOZE PRESENTES DE NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]ZOERVNOSDZEPRSNTSDNTL.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</fanart>
+<info>O Campo Brilhante se prepara para a comemoração de Natal. Zoe descobre um segredo de família. Gaby está nas mãos da nova chefe Mia.</info>
 <date></date>
 </item>
