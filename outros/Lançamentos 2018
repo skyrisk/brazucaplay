@@ -178,6 +178,19 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
+<title>[B][COLOR white]O PREDADOR[/COLOR][/B]</title>
+<link>$doregex[BP1]OPRDR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
+<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
+<date></date>
+</item>
+
+<item>
 <title>[B][COLOR white]O PREDADOR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]OPRDRLEG.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4460,6 +4473,18 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Pre%C3%A7o.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/O%20Pre%C3%A7o.jpg</fanart>
 <info>Um jovem financista nigeriano-americano enfrenta problemas com o amor, a família e uma dependência de drogas, enquanto suas escolhas o levam para um caminho de crimes.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O PREDADOR[/COLOR][/B]</title>
+<link>$doregex[BP1]OPRDR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
+<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
 <date></date>
 </item>
 <item>
