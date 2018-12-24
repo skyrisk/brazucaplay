@@ -2,10 +2,10 @@
 
 <addon id="plugin.video.BrazucaPlay"
 name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
-version="1.9"
+version="2.0"
 provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
-<import addon="xbmc.python" version="2.1.0"/>
+<import addon="xbmc.python" version="2.25.0"/>
 <import addon="script.module.t0mm0.common"/>
 <import addon="script.module.beautifulsoup"/>
 <import addon="script.module.beautifulsoup4"/>
@@ -17,13 +17,26 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <import addon="script.common.plugin.cache"/>
 <import addon="script.module.metahandler"/>
 </requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
+<extension point="xbmc.python.pluginsource" library="youtube.py">
 <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
 <description lang="pt">[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
 <disclaimer lang="en">[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAY[/COLOR][/B]</disclaimer>
+<news>
+V1.0 - VERSÃO BETA DO ADD-ON BRAZUCA PLAY.
+V1.1 - ATUALIZAÇÃO PARA USO DE LINKS TORRENT.
+V1.2 - REMOÇÃO DO MENU FAVORITOS.
+V1.3 - ATUALIZAÇÃO DO LINK.
+V1.4 - COMPATIBILIDADE COM F4MTESTER.
+V1.5 - REMOÇÃO DAS NOTIFICAÇÕES.
+V1.6 - REMOÇÃO DE MENUS DE CONTEXTO.
+V1.7 - ATUALIZAÇÃOS DOS PLUGINS.
+V1.8 - CORREÇÃO DO MENU.
+V1.9 - PEQUENAS CORREÇÕES.
+V2.0 - PEQUENAS CORREÇÕES DE FIM DE ANO.
+</news>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
