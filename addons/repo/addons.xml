@@ -1,5 +1,4 @@
 <addons>
-
 <addon id="plugin.video.BrazucaPlay"
 name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
 version="2.0.1"
@@ -34,7 +33,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 </assets>
 </extension>
 </addon>
-
 <addon id="plugin.video.Mais18Play"
 name="[B][COLOR white]+18 PLAY[/COLOR][/B]"
 version="1.9"
@@ -69,7 +67,6 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 </assets>
 </extension>
 </addon>
-
 <addon id="repository.BrazucaPlay"
 name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
 version="1.0"
@@ -114,7 +111,6 @@ provider-name="Brazuca Play">
 </assets>
 </extension>
 </addon>
-
 <addon id="plugin.video.f4mTester" version="2.7.1" name="[B][COLOR white]F4MTESTER[/COLOR][/B]" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
@@ -129,7 +125,6 @@ provider-name="Brazuca Play">
 <platform>all</platform>
 </extension>
 </addon>
-
 <addon id="script.video.F4mProxy" 
 name="[B][COLOR white]F4MPROXY[/COLOR][/B]" version="2.8.7" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
 <requires>
@@ -146,5 +141,4 @@ name="[B][COLOR white]F4MPROXY[/COLOR][/B]" version="2.8.7" provider-name="[B][C
 <description lang="en">[B][COLOR white]SCRIPT F4M OFICIAL - SHANI[/COLOR][/B]</description>
 </extension>
 </addon>
-
 </addons>
