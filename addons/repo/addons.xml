@@ -2,7 +2,7 @@
 
 <addon id="plugin.video.BrazucaPlay"
 name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
-version="2.0"
+version="2.0.1"
 provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.25.0"/>
@@ -36,14 +36,15 @@ V1.7 - ATUALIZAÇÃOS DOS PLUGINS.
 V1.8 - CORREÇÃO DO MENU.
 V1.9 - PEQUENAS CORREÇÕES.
 V2.0 - PEQUENAS CORREÇÕES DE FIM DE ANO.
+V2.0.1 - DOWNGRADE PARA REPARO.
 </news>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
-<screenshot>resources/home.png</screenshot>
-<screenshot>resources/movies.png</screenshot>
-<screenshot>resources/series.png</screenshot>
+<screenshot>resources/screenshots/home.png</screenshot>
+<screenshot>resources/screenshots/movies.png</screenshot>
+<screenshot>resources/screenshots/series.png</screenshot>
 </assets>
 </extension>
 </addon>
