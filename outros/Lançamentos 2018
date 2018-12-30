@@ -178,10 +178,10 @@ Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico 
 </item>
 
 <item>
-<title>[B][COLOR white]O MISTÉRIO DO RELÓGIO NA PAREDE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]OMSTRDRLGIONPRDELEG.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]O MISTÉRIO DO RELÓGIO NA PAREDE[/COLOR][/B]</title>
+<link>$doregex[BP1]OMSTRDRLGIONPRDE.mp4|Referer=$doregex[BP4]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg</thumbnail>
