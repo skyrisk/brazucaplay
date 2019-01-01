@@ -1,10 +1,10 @@
 <addons>
 <addon id="plugin.video.BrazucaPlay"
 name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
-version="2.0.1"
+version="2.0.2"
 provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
-<import addon="xbmc.python" version="2.1.0"/>
+<import addon="xbmc.python" version="2.25.0"/>
 <import addon="script.module.t0mm0.common"/>
 <import addon="script.module.beautifulsoup"/>
 <import addon="script.module.beautifulsoup4"/>
@@ -23,6 +23,9 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
 <description lang="pt">[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
 <disclaimer lang="en">[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAY[/COLOR][/B]</disclaimer>
+<news>
+[B][COLOR gold]v2.0.2 - PEQUENAS CORREÇÕES DE ANO NOVO.[/COLOR][/B]
+</news>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
