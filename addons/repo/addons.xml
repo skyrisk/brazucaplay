@@ -16,8 +16,13 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <import addon="script.common.plugin.cache"/>
 <import addon="script.module.metahandler"/>
 </requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
+<extension point="xbmc.python.pluginsource" library="youtube.py">
 <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.repository" name="REPOSITÓRIO BRAZUCA PLAY">
+<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
