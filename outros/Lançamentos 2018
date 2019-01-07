@@ -4,7 +4,19 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>12/12/2018</date>
+<date>07/01/2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]AXL – O CÃO ROBÔ [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP3]</link>
+<regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
+<regex><name>BP2</name><expres>location.href='(.*?)'</expres><page>$doregex[BP1]</page></regex>
+<regex><name>BP3</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BP2]</page></regex>
+<thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/5609268.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BM2NhNmE5YTEtNGUzMi00MGNiLWFmNWItMTQ3YjZmYWE3Y2VhXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<info>Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles (Alex Neustaedter), surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.</info>
+<date>2019</date>
 </item>
 
 <item>
