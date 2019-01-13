@@ -8,6 +8,20 @@
 </item>
 
 <item>
+<title>[B][COLOR white]ADORÁVEIS MULHERES[/COLOR][/B]</title>
+<link>$doregex[BP5]</link>
+<regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
+<regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
+<regex><name>BP3</name><expres>data=(.*?)"</expres><page>$doregex[BP2]</page></regex>
+<regex><name>BP4</name><expres>location.href='(.*?)'</expres><page>$doregex[BP3]</page></regex>
+<regex><name>BP5</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/legendas_tv_20181218043328.jpg</thumbnail>
+<fanart>https://vg-images.condecdn.net/image/52dpk2z2333/crop/1620/f/littlewomen-vogueint-7nov18-bcakgrid.jpg</fanart>
+<info>Uma releitura moderna do romance clássico de Louisa May Alcott. Acompanhe a vida de quatro irmãs: Meg, Jo, Beth e Amy March. Detalhando sua passagem da infância para a maturidade. Apesar dos tempos difíceis, eles se apegam ao otimismo e, à medida que amadurecem, enfrentam ambições e relacionamentos florescentes, assim como a tragédia, enquanto mantêm seu vínculo inquebrantável como irmãs.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]AXL – O CÃO ROBÔ [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP5]</link>
 <regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
@@ -22,251 +36,17 @@
 </item>
 
 <item>
-<title>[B][COLOR white]22 MILHAS[/COLOR][/B]</title>
-<link>$doregex[BP1]22MLHS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/22%20Milhas.jpg</fanart>
-<info>Depois de ser auxiliado por uma unidade de comando tático ultrassecreta, um agente da CIA (Mark Wahlberg) tem que transportar um informante da Indonésia do centro da cidade para refúgio em um aeroporto a 22 milhas de distância.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]A FREIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]AFRA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Freira.jpg</fanart>
-<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre atormentado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento num campo de batalha.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]APARTAMENTO 212: A INFESTAÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]APRTMNT212ANFSTCAO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Apartamento%20212%20-%20A%20Infesta%C3%A7%C3%A3o.jpg</fanart>
-<info>Jennifer Conrad (Penelope Mitchell) é uma jovem que planeja fugir de um relacionamento abusivo e recomeçar sua vida na cidade grande. No seu novo apartamento, ela percebe uma intensa infecção em sua pele após as primeiras noites de sono. Mas, o que parecia ser apenas uma alergia, logo se revela como um grave caso de possessão corporal por alguma espécie desconhecida de força maligna.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]A PRIMEIRA CHEGADA[/COLOR][/B]</title>
-<link>$doregex[BP1]APRMRCHGDA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Primeira%20Chegada.jpg</fanart>
-<info>A colegial Alex Lainey (Stefanie Scott) tem um encontro com luzes misteriosas que aparecem sobre sua pequena cidade. Ela logo desenvolve perigosas habilidades sobrenaturais e se vira para seu amigo de infância Sean Terrel (Théodore Pellerin). As autoridades dão orientações a eles e uma perseguição segue quando as autoridades tentam descobrir a verdade por trás da transformação de Alex.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]CORRIDA MORTAL 4: ALÉM DA ANARQUIA[/COLOR][/B]</title>
-<link>$doregex[BP1]CRDAMRT4.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Corrida%20Mortal%204%20-%20Al%C3%A9m%20da%20Anarquia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Corrida%20Mortal%204%20-%20Al%C3%A9m%20da%20Anarquia.jpg</fanart>
-<info>O ano de 2050, o planeta tornou-se superpovoado, para ajudar a controlar a população o governo desenvolve uma corrida. A corrida da morte. Anualmente a corrida tem concorrentes de todo o país, marcando pontos por matar pessoas com seus veículos.
-Quarto filme da franquia Corrida Mortal, dirigido por Don Michael Paul (Pânico no Lago: O Capítulo Final) e produzido por Paul W.S. Anderson (Resident Evil) e com roteiro de Tony Giglio (Pânico na Floresta 2) e o próprio Don Michael Paul.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]CRÔNICAS DE NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]CRNCSDNTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cr%C3%B4nicas%20de%20Natal.jpg</fanart>
-<info>O presente de natal das crianças ao redor do mundo está em risco. Isso porque os irmãos Kate (Darby Camp) e Teddy Pierce (Judah Lewis) fizeram suas travessuras. Empenhados em flagrar o exato momento da chegada do Papai Noel, os dois se acomodaram em seu trenó e, acidentalmente, danificaram o veículo. Agora eles precisam fazer uma uma força-tarefa para ajudar o bom velhinho a correr contra o tempo, entregar os presentes e salvar o Natal.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]GOOSEBUMPS 2: HALLOWEEN ASSOMBRADO[/COLOR][/B]</title>
-<link>$doregex[BP1]GOSBMPS2HLWNASMBRDO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Goosebumps%202%20-%20Halloween%20Assombrado.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Goosebumps%202%20-%20Halloween%20Assombrado.jpg</fanart>
-<info>Wardenclyffe, Estados Unidos, às vésperas do Halloween. Sonny (Jeremy Ray Taylor) e Sam (Caleel Harris) são grandes amigos, que encontram um livro incompleto guardado dentro de um baú, em uma casa abandonada. Ao abri-lo, eles despertam o boneco Slappy (Avery Lee Jones), que surge inesperadamente. Criação do autor R.L. Stine (Jack Black), ele usa os jovens e ainda a irmã de Sonny, Sarah (Madison Iseman), para criar sua própria família de monstros.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]INIMIGO MORTAL[/COLOR][/B]</title>
-<link>$doregex[BP1]INMGSMRTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Inimigo%20Mortal.jpg</fanart>
-<info>Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]LEO DA VINCI: MISSÃO MONA LISA[/COLOR][/B]</title>
-<link>$doregex[BP1]LEODVNCMSNMNLSA.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Leo%20Da%20Vinci%20-%20Miss%C3%A3o%20Mona%20Lisa.jpg</fanart>
-<info>No final da Idade Média, na Itália, Leonardo "Leo" Da Vinci é um jovem amante do garoto para inventar máquinas avançadas que vive feliz com seu melhor amigo Lorenzo e a bela Lisa, sendo secretamente apaixonada por ela. Depois de testar o primeiro traje de mergulho de sua criação em um lago, a tragédia aparece quando, voltando para casa, Lisa percebe que sua casa e suas terras foram queimadas por um incêndio. O dono das terras ameaça o pai de Lisa para se casar com seu filho se ele não der todo o dinheiro que ele paga como retribuição pelo incêndio, causando a tristeza de Lisa. Tentando salvá-la, Leo Da Vinci decide viajar para Florencia para ganhar dinheiro e pagar a dívida com a ajuda de Lorenzo. Incapaz de manter o segredo, Lorenzo revela os planos de Lisa Leo, e Lisa se junta a seus amigos para fazer a viagem para a cidade grande, onde encontram um contador de histórias que explica em uma praça a história de um navio pirata afundado com um grande tesouro dentro dele. Acreditando nisso como um evento verdadeiro, Leo compra o mapa do tesouro para o contador de histórias, mas é roubado por uma criança pequena e órfã chamada Agnes. Fazendo um trato com ela, Leo recupera o mapa e Agnes se junta ao grupo ao mesmo tempo que Niccoló, uma criança pequena amante da ciência e da astronomia que faz amizade com Lisa. Todos os cinco chegam à Ilha Montecristo em busca do tesouro, mas não sabem que os piratas seguem cada passo que dão, esperando o momento certo para roubar o tesouro e eliminar Leão e seus amigos.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]LOBO GUERREIRO 2[/COLOR][/B]</title>
-<link>$doregex[BP1]LOBGURO2.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/filmes/Lobo%20Guerreiro%202.jpg</fanart>
-<info>Um furtivo e experiente agente das forças especiais chinesa leva uma vida tranquila no mar, até que mercenários locais começam a atacar e aterrorizar civis inocentes próximos a ele. Vendo o caos que se instaura entre os habitantes, ele deixa sua nova vida de paz de lado e volta a servir os seus deveres como soldado.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MEU EX É UM ESPIÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]MEXEUMESPAO.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Ex%20%C3%A9%20um%20Espi%C3%A3o.jpg</fanart>
-<info>Audrey (Mila Kunis) está desiludida com o término do namoro com Drew (Justin Theroux), que a dispensou através de uma mensagem de celular. O que ela não sabe é que o agora ex-namorado é também um agente secreto, perseguido devido a um pen drive com informações sigilosas. Após receber o apoio moral de sua melhor amiga, Morgan (Kate McKinnon), Audrey é surpreendida com o súbito reaparecimento de Drew, após ameaçar queimar seus pertences. Logo ambas estão também envolvidas no mundo da espionagem, precisando ir às pressas para Viena, na Áustria.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MEU JANTAR COM HERVÉ[/COLOR][/B]</title>
-<link>$doregex[BP1]MEUJNTCMHRVE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Jantar%20Com%20Herv%C3%A9.jpg</fanart>
-<info>O filme narra o intenso e transformador encontro de Hervé (Peter Dinklage) com o jornalista Danny Tate (Jamie Dornan), em sua última entrevista antes de cometer suicídio.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MISSÃO CATMANDU: AS AVENTURAS DE NELLY E SIMON[/COLOR][/B]</title>
-<link>$doregex[BP1]MSAOCTMNDASAVNTRSNLYESMON.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Catmandu%20-%20As%20Aventuras%20de%20Nelly%20e%20Simon.jpg</fanart>
-<info>Quebec, 1956. A impulsiva e teimosa Nelly Maloye, uma detetive novata, se junta ao metódico e pragmático Simon Picard, um cientista pesquisador em uma busca duvidosa para provar a existência do Yeti. Os heróis corajosos ficam cara a cara com inúmeros perigos durante sua jornada pelo coração do Himalaia.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]MOGLI: ENTRE DOIS MUNDOS[/COLOR][/B]</title>
-<link>$doregex[BP1]MGLENTDSMNDS.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mogli%20-%20Entre%20Dois%20Mundos.jpg</fanart>
-<info>Criado por uma alcatéia em meio às florestas da Índia, Mogli (Rohan Chand) vive com os animais da selva e conta com a amizade do urso Baloo (Andy Serkis) e da pantera Bagheera (Christian Bale). Ele é aceito por todos os animais, exceto pelo temido tigre Shere Khan (Benedict Cumberbach). Quando Mogli se defronta com suas origens humanas, perigos maiores do que a rixa com Shere Khan podem surgir.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]O MISTÉRIO DO RELÓGIO NA PAREDE[/COLOR][/B]</title>
-<link>$doregex[BP1]OMSTRDRLGIONPRDE.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Mist%C3%A9rio%20do%20Rel%C3%B3gio%20na%20Parede.jpg</fanart>
-<info>Lewis (Owen Vaccaro), de apenas 10 anos, acaba de perder os pais e vai morar em Michigan com o tio Jonathan Barnavelt (Jack Black). O que o jovem não tem ideia é que seu tio e a vizinha da casa ao lado, Sra. Zimmerman (Cate Blanchett), são, na verdade, feiticeiros.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]O PREDADOR[/COLOR][/B]</title>
-<link>$doregex[BP1]OPRDR.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Predador.jpg</fanart>
-<info>Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]PRESO NO TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]PRSONTMP.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Preso%20no%20Tempo.jpg</fanart>
-<info>Alex (Dean Alexandrou) é um praticante de parkour que, de um dia para o outro, acorda sem saber onde está, preso em um ciclo temporal no qual o mesmo dia se repete infinitamente. Ao tentar descobrir a razão disso, ele logo se vê inserido em um estranho experimento científico organizado pela misteriosa Prevara Corporation e percebe que muitas pessoas querem a sua morte.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]TRAFFIK: LIBERDADE ROUBADA[/COLOR][/B]</title>
-<link>$doregex[BP1]TRFK.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Traffik.jpg</fanart>
-<info>Brea (Paula Patton) e John (Omar Epps) estão nas montanhas com amigos para um fim de semana romântico, quando acabam se deparando com uma gangue de motoqueiros. Sozinhos, eles precisam se defender do grupo, que não mede esforços para esconder segredos que abrangem o tráfico de mulheres.</info>
-<date></date>
-</item>
-
-<item>
-<title>[B][COLOR white]VENOM[/COLOR][/B]</title>
-<link>$doregex[BP1]VENOM.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf2</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Venom.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Venom.jpg</fanart>
-<info>San Francisco, Estados Unidos. Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.</info>
-<date></date>
+<title>[B][COLOR white]THE LAST BOY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP5]</link>
+<regex><name>BP1</name><expres>iframe src="(.*LEG.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
+<regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
+<regex><name>BP3</name><expres>data=(.*?)"</expres><page>$doregex[BP2]</page></regex>
+<regex><name>BP4</name><expres>location.href='(.*?)'</expres><page>$doregex[BP3]</page></regex>
+<regex><name>BP5</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjZkOGI4YTUtYzQyMC00ZTUyLWE0NDEtM2I0YjMzNDZhZjUyXkEyXkFqcGdeQXVyMzYwNTc4NDA@._V1_SY1000_CR007771000_AL_.jpg</thumbnail>
+<fanart>https://i.imgur.com/5A6R44x.jpg</fanart>
+<info>O mundo no fim e a mãe moribunda de um garoto o envia em uma busca para encontrar o lugar que concede desejos.</info>
+<date>2019</date>
 </item>
 
 <item>
