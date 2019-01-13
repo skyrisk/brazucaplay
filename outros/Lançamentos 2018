@@ -10,7 +10,7 @@
 <item>
 <title>[B][COLOR white]ADORÁVEIS MULHERES[/COLOR][/B]</title>
 <link>$doregex[BP5]</link>
-<regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
+<regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/adoraveis-mulheres/</page></regex>
 <regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
 <regex><name>BP3</name><expres>data=(.*?)"</expres><page>$doregex[BP2]</page></regex>
 <regex><name>BP4</name><expres>location.href='(.*?)'</expres><page>$doregex[BP3]</page></regex>
@@ -38,7 +38,7 @@
 <item>
 <title>[B][COLOR white]THE LAST BOY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP5]</link>
-<regex><name>BP1</name><expres>iframe src="(.*LEG.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
+<regex><name>BP1</name><expres>iframe src="(.*LEG.*?)"</expres><page>http://netcine.us/the-last-boy/</page></regex>
 <regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
 <regex><name>BP3</name><expres>data=(.*?)"</expres><page>$doregex[BP2]</page></regex>
 <regex><name>BP4</name><expres>location.href='(.*?)'</expres><page>$doregex[BP3]</page></regex>
