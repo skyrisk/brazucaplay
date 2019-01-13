@@ -22,7 +22,7 @@
 </item>
 
 <item>
-<title>[B][COLOR white]ANIMAIS FANTÁSTICOS: OS CRIMES DE GRINDELWALD | [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]ANIMAIS FANTÁSTICOS: OS CRIMES DE GRINDELWALD [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP5]</link>
 <regex><name>BP1</name><expres>iframe src="(.*LEG.*?)"</expres><page>http://netcine.us/animais-fantasticos-os-crimes-de-grindelwald/</page></regex>
 <regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
