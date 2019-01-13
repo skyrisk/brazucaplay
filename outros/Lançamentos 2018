@@ -22,6 +22,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]ANIMAIS FANTÁSTICOS: OS CRIMES DE GRINDELWALD | [COLOR gold]LEG[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP5]</link>
+<regex><name>BP1</name><expres>iframe src="(.*LEG.*?)"</expres><page>http://netcine.us/adoraveis-mulheres/</page></regex>
+<regex><name>BP2</name><expres>iframe src="(.*?)"</expres><page>$doregex[BP1]</page></regex>
+<regex><name>BP3</name><expres>data=(.*?)"</expres><page>$doregex[BP2]</page></regex>
+<regex><name>BP4</name><expres>location.href='(.*?)'</expres><page>$doregex[BP3]</page></regex>
+<regex><name>BP5</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2018/12/5457164.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzYwNjgwMzM0N15BMl5BanBnXkFtZTgwNDI1OTE3NjM@._V1_SY1000_CR0,0,1498,1000_AL_.jpg</fanart>
+<info>Newt Scamander reencontra os queridos amigos Tina Goldstein, Queenie Goldstein e Jacob Kowalski. Ele é recrutado pelo seu antigo professor em Hogwarts, Alvo Dumbledore, para enfrentar o terrível bruxo das trevas Gellert Grindelwald, que escapou da custódia da Macusa (Congresso Mágico dos EUA) e reúne seguidores, dividindo o mundo entre seres de magos sangue puro e seres não-mágicos.</info>
+</item>
+
+<item>
 <title>[B][COLOR white]AXL – O CÃO ROBÔ [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP5]</link>
 <regex><name>BP1</name><expres>iframe src="(.*2018.*?)"</expres><page>http://netcine.us/axl-o-cao-robo/</page></regex>
