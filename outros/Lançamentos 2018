@@ -1,10 +1,10 @@
-<item>
+9<item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>13/01/2019</date>
+<date>19/01/2019</date>
 </item>
 
 <item>
@@ -46,6 +46,45 @@
 <thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/5609268.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BM2NhNmE5YTEtNGUzMi00MGNiLWFmNWItMTQ3YjZmYWE3Y2VhXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY1000_SX1500_AL_.jpg</fanart>
 <info>Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles (Alex Neustaedter), surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O CHAMADO VS. O GRITO[/COLOR][/B]</title>
+<link>$doregex[BP1]OCHMDOVSOGRTO.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Chamado%20vs.%20O%20Grito.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Chamado%20vs.%20O%20Grito.jpg</fanart>
+<info>Após assistir a uma fita amaldiçoada por sua amiga, Yuri Kurahashi (Mizuki Yamamoto) automaticamente se torna a nova vítima da maldição de Sadako. Ela pede ajuda a Shinichi Morishige, um professor obcecado por lendas urbanas japonesas, que sugere como solução um confronto entre Sadako e Kayako Saeki em uma famosa casa mal-assombrada.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O DEFENSOR[/COLOR][/B]</title>
+<link>$doregex[BP1]ODFNSOR.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Defensor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Defensor.jpg</fanart>
+<info>Durante sua primeira noite no novo trabalho, uma enfermeira residente recebe a ordem de salvar um super-herói que chega ao hospital machucado e acaba entrando sem querer em sua missão para salvar a cidade de Los Angeles de uma terrível organização criminosa.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]RESGATE NO OESTE[/COLOR][/B]</title>
+<link>$doregex[BP1]RSGTNOSTE.mp4|Referer=$doregex[BP4]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20no%20Oeste.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20no%20Oeste.jpg</fanart>
+<info>Kansas, 1880. Depois de experienciar uma tragédia familiar, a vida do pistoleiro Clay Travis vira de cabeça para baixo. Acostumado a uma rotina estável e harmoniosa, o homem é forçado a encarar uma realidade dura: seu filho está morto e sua filha desaparecida. Ao descobrir que a menina foi vendida como escrava para um bordel, Travis se atém a esperança e ao sentimento de vingança para engatar em uma busca incessável pela filha.</info>
 <date>2019</date>
 </item>
 
@@ -7175,54 +7214,4 @@ Smite é dono de um rentável negócio de apostas que acontece no saloon de prop
 <regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Wheely%20-%20Velozes%20e%20Divertidos.jpg</fanart>
-<info>Em Gasket City, uma cidade onde todos os moradores são carros, vive Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que é um verdadeiro herói enfrentando os carros de elite e o terrível caminhão de 18 rodas, que comanda o sindicato de carros de luxo da cidade.</info>
-<date>2018</date>
-</item>
-<item>
-<title>[B][COLOR white]WILDLING [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]WLDNGLEG.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Wildling.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Wildling.jpg</fanart>
-<info>Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife da Ellen Cooper (Liv Tyler) e a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
-<date>2018</date>
-</item>
-<item>
-<title>[B][COLOR white]Z-O-M-B-I-E-S[/COLOR][/B]</title>
-<link>$doregex[BP1]ZMBS2018.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Z-O-M-B-I-E-S.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Z-O-M-B-I-E-S.jpg</fanart>
-<info>50 anos depois de passar por um apocalipse zumbi, Seabrook é uma cidade alegre e cheia de conformismo. Os zumbis não são mais uma ameaça, mas são obrigados a viver em Zombietown, uma parte isolada da cidade. Quando os alunos de Zombietown são transferidos para a escola secundária de Seabrook, o zumbi Zed (Milo Manheim) está determinado a jogar Futebol americano, enquanto a humana Addison (Meg Donnelly), sonha em ser líder de torcida. Os dois decidem trabalhar juntos para mostrar a o que podem ganhar aceitando suas diferenças.</info>
-<date>2018</date>
-</item>
-<item>
-<title>[B][COLOR white]ZION[/COLOR][/B]</title>
-<link>$doregex[BP1]ZION.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf4</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Zion.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Zion.jpg</fanart>
-<info>Sem as pernas e condenado a viver em lares adotivos por muitos anos, o adolescente Zion Clark descobre sua vocação ao se tornar lutador.Documentário em curta-metragem.</info>
-<date>2018</date>
-</item>
-<item>
-<title>[B][COLOR white]ZOE E RAVEN: OS DOZE PRESENTES DE NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]ZOERVNOSDZEPRSNTSDNTL.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</fanart>
-<info>O Campo Brilhante se prepara para a comemoração de Natal. Zoe descobre um segredo de família. Gaby está nas mãos da nova chefe Mia.</info>
-<date>2018</date>
-</item>
+<info>Em Gasket City, uma cidade onde todos os moradores são carros, vive Wheely, um pequeno táxi verde e amarelo que sonha em se tornar o Rei da estrada. Para isso, ele precisará provar que
