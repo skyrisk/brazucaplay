@@ -185,7 +185,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Hora%20de%20Aventura/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 19/20[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 19+20[/COLOR][/B]</title>
 <link>$doregex[BP1]HDAT03EP19-20.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
