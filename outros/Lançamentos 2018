@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>19/01/2019</date>
+<date>14/02/2019</date>
 </item>
 
 <item>
@@ -50,12 +50,77 @@
 </item>
 
 <item>
-<title>[B][COLOR white]O CHAMADO VS. O GRITO[/COLOR][/B]</title>
-<link>$doregex[BP1]OCHMDOVSOGRTO.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]A LENDA DA PASSAGEM SECRETA[/COLOR][/B]</title>
+<link>$doregex[BP1]ALNDADPASSGMSCRTA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</fanart>
+<info>A lenda do passe secreto é um encantador filme de animação CGI inspirado na mitologia do índio americano.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ÁNIMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ANMS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/%C3%81nimas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/%C3%81nimas.jpg</fanart>
+<info>Quando seu melhor amigo começa a agir estranhamente após um acidente, uma jovem embarca num inferno real onde a diferença entre pesadelo e realidade é indistinguível.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]CORREDOR ASSOMBRADO[/COLOR][/B]</title>
+<link>$doregex[BP1]CRDRASBRDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Corredor%20Assombrado.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Corredor%20Assombrado.jpg</fanart>
+<info>A adolescente Kit Gordy fica muito feliz quando é aceita na prestigiosa Blackboard Boarding School, mas logo ela percebe que a instituição não é exatamente o que ela pensava, já que a diretora possui estranhos poderes sobrenaturais.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY[/COLOR][/B]</title>
+<link>$doregex[BP1]FGADHSPCIOAHSTRDNLEBLY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Fuga%20do%20Hosp%C3%ADcio%20-%20A%20Hist%C3%B3ria%20de%20Nellie%20Bly.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Fuga%20do%20Hosp%C3%ADcio%20-%20A%20Hist%C3%B3ria%20de%20Nellie%20Bly.jpg</fanart>
+<info>Quando a determinada jornalista investigativa, Nellie Bly (Christina Ricci), decide iniciar uma grande matéria expondo as condições deploráveis de tratamento que as pacientes recebiam na renomada Women&rsquo;s Lunatic Asylum, autoridades começam a tentar cerceá-la para que tudo seja acobertado. Ao optar por ir em frente na busca pela verdade, ela começa a se tornar uma vítima de um sistema muito maior.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]IO: O ÚLTIMO NA TERRA[/COLOR][/B]</title>
+<link>$doregex[BP1]IOULTMNTRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/IO%20-%20O%20%C3%9Altimo%20na%20Terra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/IO%20-%20O%20%C3%9Altimo%20na%20Terra.jpg</fanart>
+<info>Em uma Terra pós-apocalíptica, Sam, uma adolescente, é uma das últimas pessoas no planeta, que está sendo evacuado. Com o último transporte programado para deixar o planeta, ela precisa decidir entre se juntar ao restante da humanidade ou permanecer na Terra.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O CHAMADO VS. O GRITO[/COLOR][/B]</title>
+<link>$doregex[BP1]OCHMDOVSOGRTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Chamado%20vs.%20O%20Grito.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Chamado%20vs.%20O%20Grito.jpg</fanart>
 <info>Após assistir a uma fita amaldiçoada por sua amiga, Yuri Kurahashi (Mizuki Yamamoto) automaticamente se torna a nova vítima da maldição de Sadako. Ela pede ajuda a Shinichi Morishige, um professor obcecado por lendas urbanas japonesas, que sugere como solução um confronto entre Sadako e Kayako Saeki em uma famosa casa mal-assombrada.</info>
@@ -64,11 +129,11 @@
 
 <item>
 <title>[B][COLOR white]O DEFENSOR[/COLOR][/B]</title>
-<link>$doregex[BP1]ODFNSOR.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]ODFNSOR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Defensor.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Defensor.jpg</fanart>
 <info>Durante sua primeira noite no novo trabalho, uma enfermeira residente recebe a ordem de salvar um super-herói que chega ao hospital machucado e acaba entrando sem querer em sua missão para salvar a cidade de Los Angeles de uma terrível organização criminosa.</info>
@@ -76,15 +141,80 @@
 </item>
 
 <item>
-<title>[B][COLOR white]RESGATE NO OESTE[/COLOR][/B]</title>
-<link>$doregex[BP1]RSGTNOSTE.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]O TRANSTORNO DE CLARA[/COLOR][/B]</title>
+<link>$doregex[BP1]OTRNSTNODCLRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcf3</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Transtorno%20de%20Clara.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Transtorno%20de%20Clara.jpg</fanart>
+<info>Em Connecticut, na casa da família Reynolds, Clara (Paula Niedert Elliott) vive com os nervos à flor da pele devido à sua família egoísta que faz parte do mundo do showbiz. Durante uma noite, ela acredita estar sendo assombrada por uma força sobrenatural, na qual acaba encontrando consolo e orientação para lidar com os familiares e com sua vida.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]POLAR[/COLOR][/B]</title>
+<link>$doregex[BP1]PLR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Polar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Polar.jpg</fanart>
+<info>Duncan Vizla é um dos maiores assassinos de aluguel do mundo, mas por conta da idade avançada e da exaustão física e mental que trazem a sua profissão, o homem está em vias de se aposentar. No entanto, seus planos são interrompidos quando seu antigo chefe o convoca para uma missão trabalhosa. Ele precisa liquidar uma trupe de jovens assassinos sanguinários, mas a tarefa se mostra cada vez mais difícil.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]QUEM SOMOS AGORA[/COLOR][/B]</title>
+<link>$doregex[BP1]QMSMSAGRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Quem%20Somos%20Agora.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Quem%20Somos%20Agora.jpg</fanart>
+<info>Após uma sentença de dez anos na prisão, a ex-presidiária Beth (Julianne Nicholson) faz uma aliança improvável com a idealista advogada Jess (Emma Roberts). Com um passado complexo, Beth tenta reconquistar a guarda do seu filho.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]REINO DO SUPERMAN[/COLOR][/B]</title>
+<link>$doregex[BP1]RNODSPRMN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Reino%20do%20Superman.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Reino%20do%20Superman.jpg</fanart>
+<info>A Morte do Superman, segunda de duas partes. Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro - de 2007 - Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]RESGATE NO OESTE[/COLOR][/B]</title>
+<link>$doregex[BP1]RSGTNOSTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20no%20Oeste.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20no%20Oeste.jpg</fanart>
 <info>Kansas, 1880. Depois de experienciar uma tragédia familiar, a vida do pistoleiro Clay Travis vira de cabeça para baixo. Acostumado a uma rotina estável e harmoniosa, o homem é forçado a encarar uma realidade dura: seu filho está morto e sua filha desaparecida. Ao descobrir que a menina foi vendida como escrava para um bordel, Travis se atém a esperança e ao sentimento de vingança para engatar em uma busca incessável pela filha.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]SCOOBY-DOO E A MALDIÇÃO DO 13° FANTASMA[/COLOR][/B]</title>
+<link>$doregex[BP1]SCOBYDOEAMLDCAOD13FNTSMA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Scooby-Doo%20e%20a%20Maldi%C3%A7%C3%A3o%20do%2013%C2%B0%20Fantasma.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Scooby-Doo%20e%20a%20Maldi%C3%A7%C3%A3o%20do%2013%C2%B0%20Fantasma.jpg</fanart>
+<info>Scooby-Doo e seus amigos embarcam em uma emocionante jornada em busca do do misterioso baú perdido contendo os espíritos de 12 perigosos fantasmas, na intenção de capturar o 13&ordm; fantasma que escapou. Enquanto o mundo inteiro está em perigo pela ameaça do ser fantasmagórico, eles precisam correr contra o tempo para solucionar mais um mistério.</info>
 <date>2019</date>
 </item>
 
@@ -99,6 +229,32 @@
 <thumbnail>http://portalhqs.global.ssl.fastly.net/wp-content/uploads/2019/01/MV5BMjZkOGI4YTUtYzQyMC00ZTUyLWE0NDEtM2I0YjMzNDZhZjUyXkEyXkFqcGdeQXVyMzYwNTc4NDA@._V1_SY1000_CR007771000_AL_.jpg</thumbnail>
 <fanart>https://i.imgur.com/5A6R44x.jpg</fanart>
 <info>O mundo no fim e a mãe moribunda de um garoto o envia em uma busca para encontrar o lugar que concede desejos.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]VELVET BUZZSAW[/COLOR][/B]</title>
+<link>$doregex[BP1]VLTBZSAW.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Velvet%20Buzzsaw.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Velvet%20Buzzsaw.jpg</fanart>
+<info>Quando o mercado da arte colide diretamente com o mercado do comércio, artistas e investidores milionários encontram-se em um duro embate financeiro que pode sacrificar muito mais do que suas carreiras.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]WILDLING: CRIATURAS NOTURNAS / SELVAGEM[/COLOR][/B]</title>
+<link>$doregex[BP1]SLVGMWDLNG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wildling%20-%20Criaturas%20Noturnas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Wildling%20-%20Criaturas%20Noturnas.jpg</fanart>
+<info>Anna (Bel Powley) passou toda a sua infância sob os cuidados de um homem conhecido apenas como Papai (Brad Dourif). Ele a deixa trancada em um sótão, alertando-a sobre o Wildling, um monstro que come crianças e que vive do lado de fora. Aos 16 anos, Anna é resgatada pela xerife da Ellen Cooper (Liv Tyler) e a ajuda a começar uma nova vida como uma adolescente normal. Mas quando o corpo de Anna começa a florescer, seus pesadelos de infância voltam com um desejo de vingança e traz à tona um segredo sombrio.</info>
 <date>2019</date>
 </item>
 
