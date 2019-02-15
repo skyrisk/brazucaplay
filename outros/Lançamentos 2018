@@ -89,6 +89,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]DRAGON BALL SUPER: BROLY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]DBSPRBRLYLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</fanart>
+<info>Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente - ele quer estar pronto para quando uma nova ameaça surgir. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY[/COLOR][/B]</title>
 <link>$doregex[BP1]FGADHSPCIOAHSTRDNLEBLY.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
