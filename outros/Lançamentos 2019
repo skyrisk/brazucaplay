@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>18/02/2019</date>
+<date>21/02/2019</date>
 </item>
 
 <item>
@@ -29,6 +29,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/%C3%81nimas.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/%C3%81nimas.jpg</fanart>
 <info>Quando seu melhor amigo começa a agir estranhamente após um acidente, uma jovem embarca num inferno real onde a diferença entre pesadelo e realidade é indistinguível.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ATÉ QUE A GENTE TE SEPARE[/COLOR][/B]</title>
+<link>$doregex[BP1]ATEQAGNTTSPRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/At%C3%A9%20que%20a%20Gente%20te%20Separe.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/At%C3%A9%20que%20a%20Gente%20te%20Separe.jpg</fanart>
+<info>Mel (Madeleine Sami) e Jen (Jackie van Beek), duas amigas desiludidas e desacreditadas no amor decidem criar a Breaker Upperes, uma pequena empresa que separa casais por dinheiro. Mas a amizade e o negócio entram em conflito quando Jen descobre que Mel está transando com um cliente.</info>
 <date>2019</date>
 </item>
 <item>
@@ -152,6 +164,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]O DESPERTAR DE UM ASSASSINO[/COLOR][/B]</title>
+<link>$doregex[BP1]ODSPRTDUMASASNO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20de%20um%20Assassino.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Despertar%20de%20um%20Assassino.jpg</fanart>
+<info>Anos antes de ficar conhecido mundialmente como um assassino em série, Jeffrey Dahmer foi um adolescente tímido e solitário. Lidando com problemas familiares, interesses no mínimo peculiares e a pressão do ensino médio e da adolescência, o jovem Dahmer gradualmente se transforma no homem que viria a aterrorizar os EUA.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]O TRANSTORNO DE CLARA[/COLOR][/B]</title>
 <link>$doregex[BP1]OTRNSTNODCLRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -197,6 +221,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Reino%20do%20Superman.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Reino%20do%20Superman.jpg</fanart>
 <info>A Morte do Superman, segunda de duas partes. Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro - de 2007 - Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]RELAÇÕES DE FAMÍLIA[/COLOR][/B]</title>
+<link>$doregex[BP1]RLCDFMLIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rela%C3%A7%C3%B5es%20de%20Fam%C3%ADlia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rela%C3%A7%C3%B5es%20de%20Fam%C3%ADlia.jpg</fanart>
+<info>Henry vive um drama comum da classe média americana: ele enfrenta problemas financeiros e teme a influência que isso pode causar no estilo de vida de sua família, sustentado por ele. O homem de meia idade precisa encontrar uma solução para conciliar sua falta de dinheiro com as demandas de sua esposa, de sua filha adolescente e dos caçulas. Quando ele trava uma amizade com um jovem rapaz, o destino de todos parece estar atrelado.</info>
 <date>2019</date>
 </item>
 <item>
