@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>21/02/2019</date>
+<date>04/03/2019</date>
 </item>
 
 <item>
@@ -17,6 +17,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</fanart>
 <info>A lenda do passe secreto é um encantador filme de animação CGI inspirado na mitologia do índio americano.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ANAVITÓRIA: ARAGUAÍNA - LAS VEGAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ANVTRIARGANALSVGS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Anavit%C3%B3ria,%20Aragua%C3%ADna%20-%20Las%20Vegas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Anavit%C3%B3ria,%20Aragua%C3%ADna%20-%20Las%20Vegas.jpg</fanart>
+<info>O documentário "ANAVITÓRIA: Araguaína - Las Vegas" acompanha os bastidores de dois momentos marcantes na recente e já grandiosa carreira do duo brasileiro. Do show numa praça de Araguaína &mdash; cidade onde Ana Clara Cateano e Vitória Falcão foram criadas e moram seus parentes &mdash; à cerimônia de entrega no Grammy Latino em Las Vegas.</info>
 <date>2019</date>
 </item>
 <item>
@@ -104,6 +116,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]HOMEM-ARANHA NO ARANHAVERSO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]HOMARNHNARNVRSOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20No%20Aranhaverso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20No%20Aranhaverso.jpg</fanart>
+<info>Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]IO: O ÚLTIMO NA TERRA[/COLOR][/B]</title>
 <link>$doregex[BP1]IOULTMNTRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -185,6 +209,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Transtorno%20de%20Clara.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Transtorno%20de%20Clara.jpg</fanart>
 <info>Em Connecticut, na casa da família Reynolds, Clara (Paula Niedert Elliott) vive com os nervos à flor da pele devido à sua família egoísta que faz parte do mundo do showbiz. Durante uma noite, ela acredita estar sendo assombrada por uma força sobrenatural, na qual acaba encontrando consolo e orientação para lidar com os familiares e com sua vida.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]PELAS RUAS DE PARIS[/COLOR][/B]</title>
+<link>$doregex[BP1]PLSRSDPRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pelas%20Ruas%20de%20Paris.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pelas%20Ruas%20de%20Paris.jpg</fanart>
+<info>Anna (Noémie Schmidt) é uma jovem parisiense que, depois de ter uma experiência que a aproxima da morte, enfrenta uma crise em seu relacionamento. Entre tensões sociais e protestos, misturando sonhos e a realidade, a cidade se torna um espelho para o sentimentos de Anna.</info>
 <date>2019</date>
 </item>
 <item>
