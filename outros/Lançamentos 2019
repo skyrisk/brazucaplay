@@ -4,9 +4,21 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>22/03/2019</date>
+<date>26/03/2019</date>
 </item>
 
+<item>
+<title>[B][COLOR white]A FAVORITA[/COLOR][/B]</title>
+<link>$doregex[BP1]AFVRTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</fanart>
+<info>Na Inglaterra do século XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influência na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, é ameaçado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes à oportunidade única.</info>
+<date>2019</date>
+</item>
 <item>
 <title>[B][COLOR white]A LENDA DA PASSAGEM SECRETA[/COLOR][/B]</title>
 <link>$doregex[BP1]ALNDADPASSGMSCRTA.mp4$doregex[BP2]</link>
@@ -17,6 +29,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Passagem%20Secreta.jpg</fanart>
 <info>A lenda do passe secreto é um encantador filme de animação CGI inspirado na mitologia do índio americano.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A MULA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AMLALEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Mula.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Mula.jpg</fanart>
+<info>Leo Sharp coleciona uma série de honras que vão desde de prêmios por seus trabalhos como paisagista e decorador até o reconhecimento por ter lutado contra os nazistas durante a Segunda Guerra Mundial. No entanto, foi aos 90 anos que conquistou algo surpreendente: ele foi preso por portar o equivalente a três milhões de dólares em cocaína no seu carro, uma picape velha, no Michigan. Sharp era o líder do Sinaloa, um cartel de drogas no México e foi sentenciado à três anos de cadeia. A sinopse oficial ainda não foi divulgada.</info>
 <date>2019</date>
 </item>
 <item>
@@ -176,6 +200,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]DURANTE A TORMENTA[/COLOR][/B]</title>
+<link>$doregex[BP1]DRNTATRNMTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Durante%20a%20Tormenta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Durante%20a%20Tormenta.jpg</fanart>
+<info>Uma inusitada interferência entre duas épocas diferentes faz com que Vera (Adriana Ugarte), uma mulher casada e feliz, salve a vida de um menino que morou em sua casa há 25 anos. O ato de bondade distorce a realidade e Ver acorda em uma relidade totalmente diferente, onde sua filha nunca nasceu e ela nunca conheceu seu marido.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY[/COLOR][/B]</title>
 <link>$doregex[BP1]FGADHSPCIOAHSTRDNLEBLY.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -245,6 +281,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Juanita.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Juanita.jpg</fanart>
 <info>Cada dia mais desgastada por problemas na vida pessoal e no âmbito amoroso, uma mãe de três filhos já adultos procura sair da rotina de caos urbano que impera no local onde vive. Cansada e determinada a mudar, Juanita (Alfre Woodard) faz uma longa viagem de ônibus até Montana na intenção de se reinventar.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]JUSTIÇA: ENTRE A LEI E A VINGANÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]JSTCENTLEIEAVNGCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Justi%C3%A7a%20-%20Entre%20a%20Lei%20e%20a%20Vingan%C3%A7a.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Justi%C3%A7a%20-%20Entre%20a%20Lei%20e%20a%20Vingan%C3%A7a.jpg</fanart>
+<info>É 1868 e a guerra já dura três anos. Uma velha mina abandonada está sendo transformada em uma fortaleza militar pelo corrupto prefeito e um bando de bandidos sedentos que dão início a uma guerra civil. Quando o marechal James McCord chega à cidade e descobre que seu irmão foi assassinado, sua busca por vingança o leva a uma luta de vida ou morte por uma causa muito maior.</info>
 <date>2019</date>
 </item>
 <item>
@@ -416,6 +464,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]O OUTRO LADO DO LAGO[/COLOR][/B]</title>
+<link>$doregex[BP1]OOUTRLDOLGO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Outro%20Lado%20do%20Lago.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Outro%20Lado%20do%20Lago.jpg</fanart>
+<info>Harry e Rose partem para um fim de semana no campo na tentativa de salvar o relacionamento já desgastado. Ao chegarem lá, atravessam o lago em uma canoa e chegam à cabana dos pais de Harry. Depois de uma conversa, fazem as pazes e aproveitam o que parecia ser uma noite bonita e tranquila. No meio da madrugada, contudo, a cabana é invadida e eles começam a ser perseguidos por alguém que quer matá-los a qualquer custo.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]O TRANSTORNO DE CLARA[/COLOR][/B]</title>
 <link>$doregex[BP1]OTRNSTNODCLRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -437,6 +497,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Duelo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Duelo.jpg</fanart>
 <info>Montana, 1876. A Guerra Civil norte-americana chega ao seu fim. Depois de participar de batalhas violentas, o veterano Hollis Ransom ainda possui disposição para caçar seu irmão, de quem deseja se vingar por ter sido seu inimigo nos combates. Obstinado a encontrá-lo, o homem conta ainda com a ajuda de um caçador de peles para completar a missão.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]OBSESSÃO PERIGOSA[/COLOR][/B]</title>
+<link>$doregex[BP1]OBSAOPRGSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o%20Perigosa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o%20Perigosa.jpg</fanart>
+<info>Mike está na casa dos cinquenta anos e sente que sua relação com a esposa está cada vez mais fria. Com a chegada de novos vizinhos, ele começa a observar sorrateiramente a rotina do jovem casal. Depois de algumas interações com a jovem Jenna, a moça passa a se abrir com Mike, e revela que sofre agressões constantes do marido. Os dois começam a se relacionar secretamente e Mike é lentamente tragado para o caos violento da relação dos vizinhos.</info>
 <date>2019</date>
 </item>
 <item>
@@ -593,6 +665,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Seu%20Filho.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Seu%20Filho.jpg</fanart>
 <info>Depois que seu filho é espancado por um grupo de desconhecidos até ficar inconsciente, o médico Jaime (José Coronado) decide começar uma investigação por conta própria para achar os responsáveis e fazer justiça com as próprias mãos. Sem medir as consequências de seus atos, ele caça os agressores e ignora qualquer limite imposto pela lei.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]THE DIRT: CONFISSÕES DO MÖTLEY CRÜE[/COLOR][/B]</title>
+<link>$doregex[BP1]THRDRTCONFSOMTLYCRUE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Dirt%20-%20Confiss%C3%B5es%20do%20M%C3%B6tley%20Cr%C3%BCe.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Dirt%20-%20Confiss%C3%B5es%20do%20M%C3%B6tley%20Cr%C3%BCe.jpg</fanart>
+<info>Considerada uma das mais importantes bandas da história do Glam Metal, M&ouml;tley Cr&uuml;e foi responsável por dar rosto a uma vertente do Rock que, até então, não era muito bem vista pelo público em geral. Vivendo no ápice do estrelato nas décadas de 80 e 90, seus membros vivenciaram todo o glamour de ser um rockstar &mdash; até nos momentos mais improváveis.</info>
 <date>2019</date>
 </item>
 <item>
