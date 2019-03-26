@@ -8293,61 +8293,98 @@ Resultado de “dois anos de noites sem dormir e edição sem sim”, o resultad
 </item>
 
 <item>
-<title>[COLOR white][B]JURASSIC WORLD: O MUNDO DOS DINOSSAUROS[/B][/COLOR]</title>
-<link>$doregex[BP1]JRSCWRLDMNDINO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]JURASSIC WORLD: REINO AMEAÇADO[/COLOR][/B]</title>
+<link>$doregex[BP1]JRSCWRLDRNOAMCDO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcTgTM-4Yay8goHBSj0_N6Q8Wm-s5_nfAEmt2Nv77ZtaMgenONg7</thumbnail>
-<info>O Jurassic Park, localizado na ilha Nublar, enfim está aberto ao público. Com isso, as pessoas podem conferir shows acrobáticos com dinossauros e até mesmo fazer passeios bem perto deles, já que agora estão domesticados. Entretanto, a equipe chefiada pela doutora Claire (Bryce Dallas Howard) passa a fazer experiências genéticas com estes seres, de forma a criar novas espécies. Uma delas logo adquire inteligência bem mais alta, logo se tornando uma grande ameaça para a existência humana.</info>
-<date>2015</date>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Jurassic%20World%20-%20Reino%20Amea%C3%A7ado.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Jurassic%20World%20-%20Reino%20Amea%C3%A7ado.jpg</fanart>
+<info>Três anos após o fechamento do Jurassic Park, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire (Bryce Dallas Howard) convoca Owen (Chris Pratt) a retornar à ilha com ela.</info>
+<date>2018</date>
 </item>
-
 <item>
-<title>[COLOR white][B]JUVENTUDE NO OREGON[/B][/COLOR]</title>
+<title>[B][COLOR white]JUSTIÇA VERMELHA[/COLOR][/B]</title>
+<link>$doregex[BP1]JSTCVRMLHA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Justi%C3%A7a%20Vermelha.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Justi%C3%A7a%20Vermelha.jpg</fanart>
+<info>Jack Moore (Richard Gere) é um advogado americano que vai à China para fechar um meganegócio, mas uma noite conhece uma chinesa com quem se envolve. Na manhã seguinte, é acordado por soldados que invadem seu quarto e o prendem pelo assassinato da mulher que passou a noite com ele. Além de existirem vários indícios que o incriminam, ele se depara com um sistema legal que não respeita os direitos civis. Como não pode ter um advogado estrangeiro, o estado indica Shen Yuelin (Ling Bai), uma jovem advogada chinesa que nunca conversou com ele antes de entrar no tribunal nem acredita que ele seja inocente, apesar dele alegar inocência o tempo todo.</info>
+<date>1997</date>
+</item>
+<item>
+<title>[B][COLOR white]JUVENTUDE NO OREGON[/COLOR][/B]</title>
 <link>$doregex[BP1]JVNTDNORGN.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>http://www.hfv.dk/files/Filmplakater/2017.05%20Maj%20Filmplakater/youthinoregon%20plakat.jpg</thumbnail>
-<info>Um homem precisa cruzar o país para levar seu amargurado pai de 80 anos de idade ao estado do Oregon, onde ele realizará uma eutanásia, enquanto tenta trazer um novo sentido para a vida de seu pai.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Juventude%20no%20Oregon.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Juventude%20no%20Oregon.jpg</fanart>
+<info></info>
 <date>2016</date>
 </item>
-
 <item>
-<title>[COLOR white][B]JUVENTUDES ROUBADAS[/B][/COLOR]</title>
+<title>[B][COLOR white]JUVENTUDES ROUBADAS[/COLOR][/B]</title>
 <link>$doregex[BP1]JUVTNDROBDS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>http://br.web.img2.acsta.net/pictures/15/04/28/12/33/289067.jpg</thumbnail>
-<info>Vera Brittain (Alicia Vikander) relembra sua dura juventude durante a Primeira Guerra Mundial, quando, aos 17 anos, vivenciou a perda e o luto de seus amigos em seu ofício voluntário de enfermeira.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Juventudes%20Roubadas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Juventudes%20Roubadas.jpg</fanart>
+<info>Uma mulher britânica relembra sua dura juventude durante a Primeira Guerra Mundial, quando, aos 17 anos, vivenciou a perda e o luto de seus amigos em seu ofício voluntário de enfermeira.</info>
 <date>2015</date>
 </item>
-
 <item>
-<title>[COLOR white][B]KALINKA: EM NOME DA MINHA FILHA[/B][/COLOR]</title>
-<link>$doregex[BP1]KLNKAEMNMDMNHFLH.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]K-19: THE WIDOWMAKER[/COLOR][/B]</title>
+<link>$doregex[BP1]K19THWDWMKR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cdn.rialto.co.nz/cdn/resources/movies/11078/images/largeposter.jpg</thumbnail>
-<info>André Bamberski (Daniel Auteuil) batalha para trazer justiça para sua filha Kalinka (Lila-Rose Gilberti e Emma Besson), que morreu sob condições perturbadoras. Depois de 30 anos de investigação para encontrar o suposto assassino, Bamberski consegue finalmente sequestrar o criminoso e condená-lo.</info>
-<date>2018</date>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-19%20-%20The%20Widowmaker.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-19%20-%20The%20Widowmaker.jpg</fanart>
+<info>Em 1961, Alexi Vostrikov (Harrison Ford) precisa comandar a equipe do submarino K-19 em uma delicada operação nuclear, causada pelo fato do sistema de refrigeração do próprio K-19 ter deixado de funcionar repentinamente. Sem condições de se comunicar com outras embarcações russas, já que o rádio deixara de funcionar, Vostrikov e o capitão Mikhail Polenin (Liam Neeson) precisam deixar suas diferenças de lado para salvar a tripulação do submarino e, ao mesmo tempo, evitar que um desastre nuclear aconteça e possa causar a 3&ordf; Guerra Mundial.</info>
+<date>2002</date>
 </item>
-
 <item>
-<title>[COLOR white][B]KARATÊ KID[/B][/COLOR]</title>
-<link>$doregex[BP1]KRTKDRMK1.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]K-9: D.P. - UM POLICIAL BOM PRA CACHORRO[/COLOR][/B]</title>
+<link>$doregex[BP1]K9-3DP.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://is2-ssl.mzstatic.com/image/thumb/Video/v4/b3/06/4d/b3064d52-b5ba-b458-f004-7d758ac5cd09/source/1200x630bb.jpg</thumbnail>
-<info>Dre Parker (Jaden Smith) se mudou com a mãe (Taraji P. Henson) para Pequim, devido ao trabalho dela. Logo ao chegar ele se interessa por Meiying (Han Wenwen), uma garota que conhece praticando violino na praça. A aproximação deles provoca a irritação de Cheng (Zhenwei Wang), que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo sr. Han (Jackie Chan), o zelador de seu prédio, que é também um mestre de kung fu.</info>
-<date>2010</date>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20-%20Detetive%20Particular.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20-%20Detetive%20Particular.jpg</fanart>
+<info>Thomas Dooley (James Belushi) e o seu parceiro de quatro patas, Jerry Lee, regressam para combater o crime, nesta nova comédia recheada de acção. Faltam apenas algumas horas para uma afortunada reforma, quando Dooley se vê envolvido num assalto à mão armada a uma empresa de tecnologia informática. Subitamente ele passa a ser um suspeito, e a sua pensão é suspensa até que os verdadeiros criminosos sejam apanhados! Agora, Dooley e Jerry Lee vêem-se obrigados a tornarem-se detectives privados e a descobrir os verdadeiros criminosos. Trata-se de um caso desconcertante que envolve microprocessadores roubados, impostores e beldades perigosas.</info>
+<date>2002</date>
+</item>
+<item>
+<title>[B][COLOR white]K-9: UM CONTO DE NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]K-9UMCNTDNTL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20-%20Um%20Conto%20de%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20-%20Um%20Conto%20de%20Natal.jpg</fanart>
+<info>Neste conto de Natal inspiradoror, Kassie (Ariana Bagely) resgata um K-9 ex-cão policial, Scoot, e faz novos amigos, ajudando o coro infantil arrecadar dinheiro para as crianças menos afortunadas. Mas quando dois bandidos aparecem para trabalhar para o pai de Kassie (Luke Perry), com planos de chegar em suas mãos todo o dinheiro, Kassie, Scoot e sua turma devem seguir uma aventura selvagem para pegar os bandidos e salvar o Natal!</info>
+<date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]K-9: UM POLICIAL BOM PRA CACHORRO[/COLOR][/B]</title>
+<link>$doregex[BP1]K9-1.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20Um%20Policial%20Bom%20pra%20Cachorro%20.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/K-9%20Um%20Policial%20Bom%20pra%20Cachorro%20.jpg</fanart>
+<info>Michael Dooley (James Belushi) é um policial extravagante que necessita de alguma ajuda para lutar contra Lyman (Kevin Tighe), um traficante de drogas que tem tentado matá-lo. Um conhecido lhe dá Jerry Lee, um pastor alemão que foi treinado para cheirar drogas. Com sua ajuda Dooley espera colocar seu inimigo atrás das grades, mas Jerry Lee tem uma personalidade bem própria e trabalha apenas quando quer. Por sua vez, o cachorro é ótimo para destruir o carro, a casa e a vida sexual de Dooley. Além disto, Tracy (Mel Harris), a namorada de Michael Dooley, é seq&uuml;estrada por Lyman, que assim pretende deter Dooley, pois Lyman está prestes a entregar um carregamento de drogas que vale alguns milhões de dólares.</info>
+<date>1989</date>
 </item>
