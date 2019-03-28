@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.Mais18Play" name="[B][COLOR white]+18 PLAY[/COLOR][/B]" version="2.0.0" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]ADD-ON COM CONTEÚDOS ADULTOS.[/COLOR]</summary>
+<description>[B][COLOR white]BRAZUCA PLAY +18.[/COLOR][/B]</description>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDOAR[/COLOR][/B]</disclaimer>
+<news>
+[B][COLOR gold]v2.0.0 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
+</news>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/inicial.jpg</screenshot>
+<screenshot>resources/screenshots/channel.jpg</screenshot>
+<screenshot>resources/screenshots/ondemand.jpg</screenshot>
+</assets>
+</extension>
+</addon>
