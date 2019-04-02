@@ -19,6 +19,18 @@
 </item>
 
 <item>
+<title>[B][COLOR white]A CAMINHO DE CASA[/COLOR][/B]</title>
+<link>$doregex[BP1]ACMHODCSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Caminho%20de%20Casa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Caminho%20de%20Casa.jpg</fanart>
+<info>Bella é uma cadelinha especial que vive com Lucas, um estudante de medicina veterinária que trabalha como voluntário em um hospital local. Um dia ela é encontrada pelo Controle de Animais na rua e acaba sendo levada para um abrigo a 400 milhas de distância de seu dono. No entanto, Bella, uma cachorra extremamente leal e corajosa, decide iniciar sozinha uma longa jornada de volta para a casa, emocionando a todos que cruzam o seu caminho.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]A FAVORITA[/COLOR][/B]</title>
 <link>$doregex[BP1]AFVRTA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -28,6 +40,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</fanart>
 <info>Na Inglaterra do século XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influência na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, é ameaçado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes à oportunidade única.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A LENDA DA ILHA DO PÓ[/COLOR][/B]</title>
+<link>$doregex[BP1]ALNDAILHDPO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Ilha%20do%20P%C3%B3.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Lenda%20da%20Ilha%20do%20P%C3%B3.jpg</fanart>
+<info>Desesperado para encontrar um depósito de cocaína no Caribe, avaliado em cerca de dois milhões de dólares, o norte-americano Rodney Hyden se junta a um verdadeiro grupo de transgressores para conseguir completar sua missão. Indo contra as próprias ordens que recebeu, ele vai até as últimas instâncias possíveis para resolver o caso.</info>
 <date>2019</date>
 </item>
 <item>
@@ -112,6 +136,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/At%C3%A9%20que%20a%20Gente%20te%20Separe.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/At%C3%A9%20que%20a%20Gente%20te%20Separe.jpg</fanart>
 <info>Mel (Madeleine Sami) e Jen (Jackie van Beek), duas amigas desiludidas e desacreditadas no amor decidem criar a Breaker Upperes, uma pequena empresa que separa casais por dinheiro. Mas a amizade e o negócio entram em conflito quando Jen descobre que Mel está transando com um cliente.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]BAYONETA[/COLOR][/B]</title>
+<link>$doregex[BP1]BAYNTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bayoneta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bayoneta.jpg</fanart>
+<info>Miguel "Bayoneta" Galíndez (Luis Gerardo Méndez) se mudou do México para a Finlândia depois de aposentar a carreira de boxeador. Durante o dia ele dá aulas de boxe em uma academia, durante a noite se enxe de bebida em bares. Porém, confrontado pelo passado e o misterioso motivo que o fez se afastar do esporte, ele se vê tendo que retornar para os ringues em busca de redenção.</info>
 <date>2019</date>
 </item>
 <item>
@@ -223,6 +259,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]ESTRADA SEM LEI[/COLOR][/B]</title>
+<link>$doregex[BP1]ESTRDASMLEI.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Estrada%20Sem%20Lei.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Estrada%20Sem%20Lei.jpg</fanart>
+<info>Frank Hamer (Kevin Costner) e Maney Gault (Woody Harrelson) são dois policiais aposentados quando Bonnie e Clyde começam sua onda de assaltos e assassinatos. Porém, quando o FBI se mostra incapaz de capturar os bandidos, eles são recrutados como investigadores especiais para resolver o caso.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]FUGA DO HOSPÍCIO: A HISTÓRIA DE NELLIE BLY[/COLOR][/B]</title>
 <link>$doregex[BP1]FGADHSPCIOAHSTRDNLEBLY.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -319,6 +367,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]KIM POSSIBLE[/COLOR][/B]</title>
+<link>$doregex[BP1]KMPSBLE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Kim%20Possible.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Kim%20Possible.jpg</fanart>
+<info>Kim Possible poderia ser só mais uma garota comum cursando o Ensino Médio, mas na verdade, o que ela gosta de mesmo de fazer é salvar o mundo das mãos de terríveis vilões. Para isso, Kim conta com a ajuda de seu melhor amigo do colégio, Ron Stoppable, seu animal de estimação, uma toupeira chamada Rufus e Wade, um super gênio do computador.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]KRONOS: O FIM DA HUMANIDADE[/COLOR][/B]</title>
 <link>$doregex[BP1]KRNSOFMDHMNDADE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -364,6 +424,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mandy%20-%20Sede%20de%20Vingan%C3%A7a.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Mandy%20-%20Sede%20de%20Vingan%C3%A7a.jpg</fanart>
 <info>Em algum lugar no deserto primitivo perto das Montanhas das Sombras, no ano de 1983, Red Miller (Nicolas Cage) e sua esposa Mandy (Andrea Riseborough) vivem uma vida tranquila. Depois que uma seita religiosa invade o local e mata o amor de sua vida, Red vive apenas por uma coisa: caçar esses maníacos e exigir vingança.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]MÁQUINAS MORTAIS[/COLOR][/B]</title>
+<link>$doregex[BP1]MAQNSMRTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A1quinas%20Mortais.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A1quinas%20Mortais.jpg</fanart>
+<info>Anos depois da "Guerra dos Sessenta Minutos". A Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, e lutam com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
 <date>2019</date>
 </item>
 <item>
@@ -655,6 +727,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]SAVING LENINGRAD [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]SVNGLNGRDLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Saving%20Leningrad.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Saving%20Leningrad.jpg</fanart>
+<info>Setembro de 1941. Numa reviravolta dos acontecimentos, Kostya e Nastya se encontram a bordo de uma barcaça que evacuará as pessoas de Leningrado sitiada. À noite, a barcaça entra na tempestade. Quando começa a afundar, os aviões inimigos - mas não os socorristas - são os primeiros a chegar ao local.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]SCOOBY-DOO E A MALDIÇÃO DO 13° FANTASMA[/COLOR][/B]</title>
 <link>$doregex[BP1]SCOBYDOEAMLDCAOD13FNTSMA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -700,6 +784,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Novo%20Mundo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Novo%20Mundo.jpg</fanart>
 <info>Dois adolescentes que estão cheios de dúvidas sobre o seu futuro, começam a pesquisar mais sobre a vida e a obra do inventor e cientista R. Buckminster Fuller para, quem sabe, ganhar uma inspiração.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]UMA AVENTURA LEGO 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]UMAVNTRLGO2LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego%202.jpg</fanart>
+<info>Cinco anos após os eventos do primeiro filme, a batalha contra inimigos alienígenas faz com que a cidade Lego torne-se Apocalipsópolis, em um futuro distópico onde nada mais é incrível. Neste contexto, Emmet constrói uma casa para que possa viver ao lado de Lucy, mas ela ainda o considera ingênuo demais. Quando um novo ataque captura não apenas Lucy, mas também Batman, Astronauta, UniKitty e o pirata, levando-os ao sistema planetário de Manar, cabe a Emmet construir uma espaçonave e partir em seu encalço. No caminho ele encontra Rex Perigoso, um navegante solitário que decide ajudá-lo em sua jornada.</info>
 <date>2019</date>
 </item>
 <item>
