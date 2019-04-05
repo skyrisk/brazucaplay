@@ -1,0 +1,76 @@
+<item>
+<title>[B][COLOR gold]6ª TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNT06EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNT06EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNT06EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNS06EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 5 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNS06EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNS06EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BRKLNNS06EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Brooklyn%20Nine-Nine/fanart.jpg</fanart>
+</item>
