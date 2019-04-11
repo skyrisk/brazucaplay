@@ -4,7 +4,81 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>02/04/2019</date>
+<date>11/04/2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]1964: O BRASIL ENTRE ARMAS E LIVROS[/COLOR][/B]</title>
+<link>$doregex[BP1]1964OBRENTARMSELVRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/1964%20-%20O%20Brasil%20Entre%20Armas%20e%20Livros.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/1964%20-%20O%20Brasil%20Entre%20Armas%20e%20Livros.jpg</fanart>
+<info>Procurando oferecer uma outra perspectiva a respeito da ditadura militar instaurada no Brasil entre 1964 e 1985, o documentário reúne sociólogos, historiadores e jornalistas para debaterem o passado e a sua influência no futuro. Analisando uma coletânea de documentos retirados do serviço de inteligência da extinta Tchecoslováquia, eles prometem revelar uma verdade, até então, escondida.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]A QUÍMICA DO AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]AQMCADAMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Qu%C3%ADmica%20do%20Amor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Qu%C3%ADmica%20do%20Amor.jpg</fanart>
+<info>Os relacionamentos amorosos pelo ponto de vista neurológico. O funcionamento interno do cérebro de mulheres e homens, o poder da química cerebral entre casais em diferentes estágios das suas relações.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]HOLMES & WATSON[/COLOR][/B]</title>
+<link>$doregex[BP1].mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20Drew%20e%20a%20Escada%20Secreta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20Drew%20e%20a%20Escada%20Secreta.jpg</fanart>
+<info>Sherlock Holmes (Will Ferrell) e seu fiel parceiro Watson (John C.Reilly) precisam impedir o maior dos planos malignos de Moriarty (Ralph Fiennes): assassinar a rainha da Inglaterra.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]NANCY DREW E A ESCADA SECRETA[/COLOR][/B]</title>
+<link>$doregex[BP1]NACYDRWEAESCDSCTRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20Drew%20e%20a%20Escada%20Secreta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20Drew%20e%20a%20Escada%20Secreta.jpg</fanart>
+<info>Nancy Drew participa de uma investigação em uma mansão abandonada, que possui uma misteriosa escada secreta, podendo revelar todo o mistério que há ali.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O MANICÔMIO[/COLOR][/B]</title>
+<link>$doregex[BP1]OMNCMIO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Manic%C3%B4mio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Manic%C3%B4mio.jpg</fanart>
+<info>Um grupo de youtubers entra ilegalmente na área de cirurgia (supostamente assombrada) em um manicômio abandonado para um desafio de 24 horas, com a esperança de viralizar o vídeo e conseguirem mais seguidores. Porém, não demora muito para eles descobrirem que não estão sozinhos e não são bem-vindos ali. O desafio, na verdade, é o da sobrevivência.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TODOS OS FILMES[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
+<fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
+<info>TODOS OS FILMES DE 2019.<info>
+<date>04/04/2019</date>
 </item>
 
 <item>
