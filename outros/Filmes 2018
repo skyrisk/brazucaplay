@@ -1,4 +1,91 @@
 <item>
+<title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
+<fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
+<info>FILMES ADICIONADOS RECENTEMENTE.<info>
+<date>15/04/2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]MINIONS: AMARELO É O NOVO PRETO[/COLOR][/B]</title>
+<link>$doregex[BP1]MINAMRLEONVOPRTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Minions%20Amarelo%20%C3%A9%20o%20Novo%20Preto.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Minions%20Amarelo%20%C3%A9%20o%20Novo%20Preto.jpg</fanart>
+<info>Uma aventura sobre dois minions que tentam fugir da cadeia.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O HORROR ENTRE NÓS[/COLOR][/B]</title>
+<link>$doregex[BP1]OHORENTNS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Horror%20Entre%20N%C3%B3s.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Horror%20Entre%20N%C3%B3s.jpg</fanart>
+<info>Um homem que sofre com problemas de sonambolismo crônico lê em um texto misterioso que ele será possuído por um demônio. Com um terrível e antigo mal ameaçando destruir tudo o que ele ama, ele batalha para manter sua família a salvo.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O ÚLTIMO DESEJO[/COLOR][/B]</title>
+<link>$doregex[BP1]OULTMDSJO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Desejo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Desejo.jpg</fanart>
+<info>O filme conta a história de um pai (Justin Bartha), que retorna à casa para enterrar seu pai com quem não mantêm contato, então encontra que o desejo final dele era ter suas cinzas espalhas no campo de seu tão amado time de futebol, o dono da propriedade (Bruce Greenwood) e flerta secretamente com a mulher de Ken, que é interpretada por Inbar Lavi.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PEGUE A BOLA, PASSE A BOLA[/COLOR][/B]</title>
+<link>$doregex[BP1]PGABLAEPSABLA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pegue%20a%20Bola,%20Passe%20a%20Bola.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pegue%20a%20Bola,%20Passe%20a%20Bola.jpg</fanart>
+<info>Filme que conta a trajetória do Barcelona de Pep Guardiola, a máquina que conquistou 14 títulos em 19 possíveis entre 2008 e 2012 e levantou seis taças em 2009 (Campeonato Espanhol, Copa do Rei, Liga dos Campeões, Supercopa da Espanha, Supercopa da Europa e Mundial), uma façanha única.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]REFÉM DO JOGO[/COLOR][/B]</title>
+<link>$doregex[BP1]RFMDJGO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ref%C3%A9m%20do%20Jogo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ref%C3%A9m%20do%20Jogo.jpg</fanart>
+<info>De tempos em tempos, Michael Knox (Dave Bautista) viaja a Londres para rever a esposa e filha de um grande amigo, que faleceu quando ambos estavam servindo no Afeganistão. Numa destas visitas, Knox leva a adolescente Danni (Lara Peake) para um importante jogo do West Ham, que pode levá-lo à decisão da Liga Europa. O que ele não esperava era que um grupo de dissidentes russos teria um plano de ação em pleno jogo de futebol, tornando todos os presentes reféns enquanto busca seu antigo líder, até então considerado morto.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]UM NOVO CAPITALISMO[/COLOR][/B]</title>
+<link>$doregex[BP1]UMNVOCPTLSMO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Novo%20Capitalismo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Novo%20Capitalismo.jpg</fanart>
+<info>Inspirados em uma recente pesquisa da ONU que aponta a gravidade das desigualdades sociais no mundo, empreendedores brasileiros, indianos e mexicanos pensam em estratégias para reformular o capitalismo através de empresas com impacto social.</info>
+<date>2018</date>
+</item>
+
+<item>
 <title>[B][COLOR white]CATEGORIA: [COLOR gold]FILMES 2018[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
