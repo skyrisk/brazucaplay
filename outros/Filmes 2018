@@ -8,6 +8,58 @@
 </item>
 
 <item>
+<title>[B][COLOR white]AMIZADE DESFEITA 2: DARK WEB[/COLOR][/B]</title>
+<link>$doregex[BP1]AMZDSFTA2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Amizade%20Desfeita%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Amizade%20Desfeita%202.jpg</fanart>
+<info>Um jovem de 20 anos encontra arquivos ocultos no armazenamento de memória do seu novo laptop e sem perceber ele se vê preso na tela do computador e dentro da parte mais profunda e obscura da web.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]A TERNURA[/COLOR][/B]</title>
+<link>$doregex[BP1]ATRNRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Ternura.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Ternura.jpg</fanart>
+<info>Lorenzo (Renato Carpentieri) é um advogado aposentado que vive em Nápoles. Egoísta e eternamente cínico, ele vive em constante conflito com seus filhos. Um dia quando está voltando para casa do hospital depois de um ataque cardíaco, ele conhece Michela (Micaela Ramazzotti), sua nova vizinha que perdeu as chaves e está trancada para fora de casa, e acaba simpatizando com a moça e desenvolvendo uma inexplicável afeição por ela e seu marido.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]CLUBE DOS INFIÉIS HONESTOS[/COLOR][/B]</title>
+<link>$doregex[BP1]CLBSDSINFSHNST.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Clube%20dos%20Infi%C3%A9is%20Honestos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Clube%20dos%20Infi%C3%A9is%20Honestos.jpg</fanart>
+<info>Quatro amigos de infância, todos casados e sem paixão, se reúnem em um jantar de reunião do ensino médio. Entre risadas e bebidas, todos concordam que amam suas esposas, mas não as desejam mais. Juntos, eles armam um projeto ilógico: um clube secreto para homens que querem trapacear, para que eles mesmos possam recuperar o desejo por suas esposas.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]GABY ESTRELLA: O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]GBYAESTRLOFLM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gaby%20Estrella%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gaby%20Estrella%20-%20O%20Filme.jpg</fanart>
+<info>Depois do grande sucesso no mundo da música, a adolescente Gaby Estrella (Maitê Padilha) começa a sofrer com a concorrência de um novo ídolo teen, Natasha (Luisa Prochet). Para voltar às paradas de sucesso, ela precisa reencontrar suas origens, na cidade do interior Vale Mirim.</info>
+<date>2018</date>
+</item>
+
+<item>
 <title>[B][COLOR white]MINIONS: AMARELO É O NOVO PRETO[/COLOR][/B]</title>
 <link>$doregex[BP1]MINAMRLEONVOPRTO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -60,6 +112,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]PAIXÃO REAL[/COLOR][/B]</title>
+<link>$doregex[BP1]PXAOREL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Paix%C3%A3o%20Real.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Paix%C3%A3o%20Real.jpg</fanart>
+<info>Acostumados com rotinas pacatas e tranquilas, as vidas de Kelly (Cindy Busby) e de seu pai, Hank (James Brolin), mudam completamente quando eles descobrem que acabaram herdando os títulos de rei e princesa de um pequeno país. Enquanto Hank fica responsável por cuidar das terras, Kelly inicia um delicado processo de adaptação ao novo patamar onde está inserida.</info>
+<date>2018</date>
+</item>
+
+<item>
 <title>[B][COLOR white]REFÉM DO JOGO[/COLOR][/B]</title>
 <link>$doregex[BP1]RFMDJGO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -69,6 +134,32 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ref%C3%A9m%20do%20Jogo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Ref%C3%A9m%20do%20Jogo.jpg</fanart>
 <info>De tempos em tempos, Michael Knox (Dave Bautista) viaja a Londres para rever a esposa e filha de um grande amigo, que faleceu quando ambos estavam servindo no Afeganistão. Numa destas visitas, Knox leva a adolescente Danni (Lara Peake) para um importante jogo do West Ham, que pode levá-lo à decisão da Liga Europa. O que ele não esperava era que um grupo de dissidentes russos teria um plano de ação em pleno jogo de futebol, tornando todos os presentes reféns enquanto busca seu antigo líder, até então considerado morto.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]SIM, EU ACEITO[/COLOR][/B]</title>
+<link>$doregex[BP1]SMEUACTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sim,%20Eu%20Aceito.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sim,%20Eu%20Aceito.jpg</fanart>
+<info>Charlotte (Jen Lilley) é uma ocupada confeiteira que namora James (Marcus Rosner), um mecânico de helicópteros, há muito tempo e já o deixou esperando no altar duas vezes. Ganhando uma nova chance, ela precisa provar que realmente o ama e quer se casar com ele.</info>
+<date>2018</date>
+</item>
+
+<item>
+<title>[B][COLOR white]TINTA BRUTA[/COLOR][/B]</title>
+<link>$doregex[BP1]TRNTBRTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tinta%20Bruta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tinta%20Bruta.jpg</fanart>
+<info>O jovem Pedro (Shico Menegat) vive um momento complicado, ele responde a um processo criminal ao mesmo tempo em que precisa lidar com a mudança da irmã, sua única amiga. Como forma de catarse, ele assume o codinome GarotoNeon e passa a se apresentar anonimamente na internet dançando nu na escuridão do seu quarto, coberto apenas por uma tinta fluorescente.</info>
 <date>2018</date>
 </item>
 
