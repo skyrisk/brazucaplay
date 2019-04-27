@@ -4,201 +4,97 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>15/04/2019</date>
+<date>27/04/2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A BABÁ[/COLOR][/B]</title>
-<link>$doregex[BP1]ABABA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AMRTDPRBNS2LEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Bab%C3%A1%202019.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Bab%C3%A1%202019.jpg</fanart>
-<info>A jovem Noa começa a suspeitar que a nova babá Leonor, que cuida dela e de seu irmão Michael é um ser sobrenatural maligno. Desacreditada por todos à sua volta, Noa busca revelar a verdadeira identidade de Leonor, mas logo descobre muito mais do que esperava.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
+<info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]BOY ERASED: UMA VERDADE ANULADA[/COLOR][/B]</title>
-<link>$doregex[BP1]BOYERSDUMAVRDANLDA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]AMIGOS PARA SEMPRE[/COLOR][/B]</title>
+<link>$doregex[BP1]AMGSPRSMPR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Boy%20Erased%20-%20Uma%20Verdade%20Anulada.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Boy%20Erased%20-%20Uma%20Verdade%20Anulada.jpg</fanart>
-<info>O jovem Garrard (Lucas Hedges) de apenas 19 anos mora numa pequena cidade conservadora do Arkansas. Ele é gay e filho de um pastor da igreja batista. Chega um momento em que ele é confrontado pela família, ou arrisca perder sua família e amigos ou entra num programa de terapia que busca a "cura" da homossexualidade.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</fanart>
+<info>Philip (Bryan Cranston) é um homem rico que fica tetraplégico, após sofrer um acidente. A situação o deixa desgostoso com a vida, já que está sempre rodeado de enfermeiros e pessoas para ajudá-lo. Até que um dia, durante a seleção de um assistente, ele simpatiza com Dell (Kevin Hart), um jovem com registro criminal que não tem a menor experiência na função. Philip decide contratá-lo e, ao seu lado, reencontra o prazer pela vida.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]COMO TREINAR O SEU DRAGÃO 3 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]CMTRNRDRG3LEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]GREEN BOOK: O GUIA[/COLOR][/B]</title>
+<link>$doregex[BP1]GRENBOKOGUA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203.jpg</fanart>
-<info>Decidido a fazer de Berk um verdadeiro libelo ao ideal da convivência pacífica entre homens e dragões, Soluço e seus amigos seguem atrás de caçadores, para não só libertar suas presas mas também impedir a matança desenfreada dos animais. O esforço do grupo desperta a atenção de Grimmel ao descobrir que entre eles está Banguela, um legítimo Fúria da Noite. O vilão então desenvolve um plano para capturá-lo a todo custo, usando como arma uma fêmea capturada, da mesma espécie.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</fanart>
+<info>1962. Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]ESCAPE ROOM[/COLOR][/B]</title>
-<link>$doregex[BP1]ESCPROM.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]LUCKY[/COLOR][/B]</title>
+<link>$doregex[BP1]LCKY.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Escape%20Room.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Escape%20Room.jpg</fanart>
-<info>Passando por momentos complicados em suas respectivas vidas, seis estranhos acabam sendo misteriosamente convidados para um experimento inusitado: trancados em uma imersiva sala enigmática cheia de armadilhas, eles ganharão um milhão de dólares caso consigam sair. Mas quando percebem que os perigos são mais letais do que imaginavam, precisam agir rápido para desvendar as pistas que lhes são dadas.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</fanart>
+<info>O duende azarado, Happy McSweeney, se mete em uma grande Aventura, quando ele e seus amigos partem em uma missão ousada para recuperar o pote de ouro que foi roubado pelo malvado Houlihan da família McSweeney anos atrás...</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]GUERRA CONTRA ALIENS[/COLOR][/B]</title>
-<link>$doregex[BP1]GRACNTRALNS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]NANCY: EM BUSCA DE SI MESMA[/COLOR][/B]</title>
+<link>$doregex[BP1]NCYEMBSCDSIMSM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Guerra%20contra%20Aliens.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Guerra%20contra%20Aliens.jpg</fanart>
-<info>Uma equipe de Navy Seals investiga um misterioso posto avançado científico apenas para combater um esquadrão de formidáveis soldados alienígenas.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</fanart>
+<info>Uma mulher começa a acreditar que foi seqüestrada quando criança. Quando ela conhece um casal cuja filha sumiu há trinta anos, dúvidas razoáveis dão lugar a uma crença voluntária que pode ameaçar sua racionalidade.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]LOJA DE UNICÓRNIOS[/COLOR][/B]</title>
-<link>$doregex[BP1]LJADUNCRNIS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]PODERIA ME PERDOAR?[/COLOR][/B]</title>
+<link>$doregex[BP1]PDRMPDAR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Loja%20de%20Unic%C3%B3rnios.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Loja%20de%20Unic%C3%B3rnios.jpg</fanart>
-<info>Kit (Brie Larson) tomou uma decisão um tanto quanto complicada para pessoas adultas: resolveu voltar a morar com seus pais. No mesmo período, ela recebeu uma misteriosa proposta para abrir uma loja, o que irá acabar fazendo com que ela reflita sobre o que é realmente "crescer". E isso promete mudar sua vida para sempre.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</fanart>
+<info>Passando por problemas financeiros, a jornalista Lee Israel decide forjar e vender cartas de personalidades já falecidas, um negócio criminoso que dá muito certo. Quando as primeiras suspeitas começam, para não parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas. Baseado em uma história real.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]MINIONS: AJUDANTES DO PAPAI NOEL[/COLOR][/B]</title>
-<link>$doregex[BP1]MINSAJNDTDPANL.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]VIDRO[/COLOR][/B]</title>
+<link>$doregex[BP1]VDRO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Minions%20Ajudantes%20do%20Papai%20Noel.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Minions%20Ajudantes%20do%20Papai%20Noel.jpg</fanart>
-<info>Os Minions estão de volta para outra aventura. Tendo sido acidentalmente deixados no Pólo Norte, nossos amigos Minions aproveitam ao máximo a situação tentando se tornar elfos. CURTA METRAGEM.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]O DATE PERFEITO[/COLOR][/B]</title>
-<link>$doregex[BP1]ODTEPRFTO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Date%20Perfeito.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Date%20Perfeito.jpg</fanart>
-<info>Precisando de dinheiro para pagar pela faculdade, Brooks (Noah Centineo) decide criar um aplicativo que permite contratar um namorado para todo tipo de situação imaginável. Porém, adotar uma personalidade e um par romântico diferente para cada dia começa a se mostrar uma tarefa difícil e ele começa a se perguntar quem ele é de verdade e como pode encontrar o amor verdadeiro.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]O DUELO FINAL[/COLOR][/B]</title>
-<link>$doregex[BP1]ODUELFNL.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Duelo%20Final.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Duelo%20Final.jpg</fanart>
-<info>Rebecca (Amy Johnston) é uma lutadora aposentada. Quando sua irmã se envolve em um clube de luta feminina clandestina comandado por um maníaco, ela se vê obrigada a retornar ao mundo da luta para ajudar sua irmã a sobreviver.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]O SILÊNCIO: THE SILENCE[/COLOR][/B]</title>
-<link>$doregex[BP1]THSLCNCE.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Silence.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Silence.jpg</fanart>
-<info>Em um mundo pós-apocalíptico, uma família luta para sobreviver em um cenário completamente devastado por algum tipo de espécie desconhecida. Aprendendo a caçar para comer, eles contam apenas uns com os outros em um planeta onde agora quase ninguém é confiável. Enquanto a iminência de um desconhecido ataque final assola seus pensamentos, só lhes resta tentar entender as circunstâncias.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]O SOLDADO DE CRISTO[/COLOR][/B]</title>
-<link>$doregex[BP1]OSLDADCSTRO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Soldado%20de%20Cristo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Soldado%20de%20Cristo.jpg</fanart>
-<info>A vida de Cristo nas mãos de um homem. A história da ressurreição de Jesus desde um ponto de vista único. Siga os passos do soldado romano que esteve presente na crucificação de Cristo.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]QUEM VOCÊ LEVARIA PARA UMA ILHA DESERTA?[/COLOR][/B]</title>
-<link>$doregex[BP1]QMVCLVRPRUMILHDSRTA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Quem%20Voc%C3%AA%20Levaria%20para%20uma%20Ilha%20Deserta.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Quem%20Voc%C3%AA%20Levaria%20para%20uma%20Ilha%20Deserta.jpg</fanart>
-<info>Quatro amigos que viveram em seu próprio mundinho durante oito anos, divindo um apartamento juntos em Madrid, se preparam para uma nova etapa de sua vida no fim do verão. Quando, em sua última noite morando juntos, seus segredos começam a ser descobertos, seu relacionamento corre risco de mudar para sempre.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]STATUS UPDATE: PERFIL DOS SONHOS[/COLOR][/B]</title>
-<link>$doregex[BP1]STSUPDTPRFLDSNHS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Status%20Update%20-%20Perfil%20dos%20Sonhos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Status%20Update%20-%20Perfil%20dos%20Sonhos.jpg</fanart>
-<info>Ross Lynch interpreta Kyle Moore, um adolescente que depois de ser arrancado pela separação de seus pais e incapaz de se adaptar à sua nova cidade natal, se depara com um aplicativo mágico que faz com que suas atualizações nas redes sociais se tornem realidade.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]TITO E OS PÁSSAROS[/COLOR][/B]</title>
-<link>$doregex[BP1]TTOEOSPSRS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</fanart>
-<info>O filme conta a história de um menino que é responsável, junto com seu pai, por achar a cura para uma doença que é contraída após a pessoa tomar um susto.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]UMA NOVA CHANCE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]UMNVCHNCLEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Nova%20Chance.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Nova%20Chance.jpg</fanart>
-<info>Maya (Jennifer Lopez) é uma caixa de supermercado insatisfeita com sua vida profissional. Porém, tudo muda com uma pequena alteração em seu currículo e suas redes sociais. Com sua experiêcia das ruas, habilidades excepcionais e a ajuda de seus amigos, ela se reinventa e se torna uma executiva de sucesso.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</fanart>
+<info>Após a conclusão de Fragmentado (2017), Kevin Crumb (James McAvoy), o homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn (Bruce Willis), o herói de Corpo Fechado (2000). O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price (Samuel L. Jackson), que manipula seus encontros e guarda segredos sobre os dois.</info>
 <date>2019</date>
 </item>
 
