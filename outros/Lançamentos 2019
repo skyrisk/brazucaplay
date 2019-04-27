@@ -104,7 +104,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>15/04/2019</date>
+<date>27/04/2019</date>
 </item>
 
 <item>
@@ -180,6 +180,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]A MÁQUINA DE LEMBRANÇAS[/COLOR][/B]</title>
+<link>$doregex[BP1]AMQNADLMBRCS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20M%C3%A1quina%20De%20Lembran%C3%A7as.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20M%C3%A1quina%20De%20Lembran%C3%A7as.jpg</fanart>
+<info>Carolyn Dunn (Julia Ormond), uma viúva, acaba encontrando uma das invenções que o seu marido, um sábio professor assombrado pelo passado que criou um dispositivo capaz de gravar as memórias de uma pessoa. Este mistério obscuro explora as maneiras pelas quais a memória define o presente.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AMRTDPRBNS2LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
+<info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]A MULA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]AMLALEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -201,6 +225,30 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Qu%C3%ADmica%20do%20Amor.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Qu%C3%ADmica%20do%20Amor.jpg</fanart>
 <info>Os relacionamentos amorosos pelo ponto de vista neurológico. O funcionamento interno do cérebro de mulheres e homens, o poder da química cerebral entre casais em diferentes estágios das suas relações.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ALGUÉM ESPECIAL[/COLOR][/B]</title>
+<link>$doregex[BP1]ALGMESPCL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Algu%C3%A9m%20Especial.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Algu%C3%A9m%20Especial.jpg</fanart>
+<info>Depois de passar por um término devastador, a jornalista musical Jenny (Gina Rodriguez) resolve fazer uma longa viagem por Nova York com suas melhores amigas. Pretendendo fazer desta uma noite inesquecível, elas acabam aprendendo muito mais do que imaginavam e vivem alguns dos momentos mais importantes de suas vidas.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]AMIGOS PARA SEMPRE[/COLOR][/B]</title>
+<link>$doregex[BP1]AMGSPRSMPR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</fanart>
+<info>Philip (Bryan Cranston) é um homem rico que fica tetraplégico, após sofrer um acidente. A situação o deixa desgostoso com a vida, já que está sempre rodeado de enfermeiros e pessoas para ajudá-lo. Até que um dia, durante a seleção de um assistente, ele simpatiza com Dell (Kevin Hart), um jovem com registro criminal que não tem a menor experiência na função. Philip decide contratá-lo e, ao seu lado, reencontra o prazer pela vida.</info>
 <date>2019</date>
 </item>
 <item>
@@ -456,6 +504,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]GOLPE DE RISCO[/COLOR][/B]</title>
+<link>$doregex[BP1]GLPDRSCO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Golpe%20de%20Risco.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Golpe%20de%20Risco.jpg</fanart>
+<info>"The Adventurers" é um filme de muita ação, seguindo uma caça ao tesouro situada na França e na República Checa.Um ladrão (Andy Lau) rouba duas jóias de valor inestimável durante o Festival de Cinema de Cannes. Jean Reno interpreta um detetive no rastro dele, que usa a ex do ladrão (Qi Shu) como isca.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]GREEN BOOK: O GUIA[/COLOR][/B]</title>
+<link>$doregex[BP1]GRENBOKOGUA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</fanart>
+<info>1962. Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]GREEN BOOK: O GUIA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]GRENBOKOGUALEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -588,6 +660,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]LIGA DA JUSTIÇA VS. OS CINCO FATAIS[/COLOR][/B]</title>
+<link>$doregex[BP1]LGDJSTCAVSOSCNCFATS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20vs.%20os%20Cinco%20Fatais.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Liga%20da%20Justi%C3%A7a%20vs.%20os%20Cinco%20Fatais.jpg</fanart>
+<info>A equipe vai se juntar para enfrentar os Cinco Fatais, que são super-seres viajantes do tempo, que estão atrás de Jessica Cruz, a Lanterna Verde.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]LIZZIE[/COLOR][/B]</title>
 <link>$doregex[BP1]LZIE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -609,6 +693,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Loja%20de%20Unic%C3%B3rnios.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Loja%20de%20Unic%C3%B3rnios.jpg</fanart>
 <info>Kit (Brie Larson) tomou uma decisão um tanto quanto complicada para pessoas adultas: resolveu voltar a morar com seus pais. No mesmo período, ela recebeu uma misteriosa proposta para abrir uma loja, o que irá acabar fazendo com que ela reflita sobre o que é realmente "crescer". E isso promete mudar sua vida para sempre.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]LUCKY[/COLOR][/B]</title>
+<link>$doregex[BP1]LCKY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</fanart>
+<info>O duende azarado, Happy McSweeney, se mete em uma grande Aventura, quando ele e seus amigos partem em uma missão ousada para recuperar o pote de ouro que foi roubado pelo malvado Houlihan da família McSweeney anos atrás...</info>
 <date>2019</date>
 </item>
 <item>
@@ -684,6 +780,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]MISS BALA[/COLOR][/B]</title>
+<link>$doregex[BP1]MISBLA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%20Bala.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%20Bala.jpg</fanart>
+<info>Após sua amiga Suzu ter desaparecido em Tijuana, Gloria Meyer (Gina Rodriguez) se torna o peão em um perigoso jogo entre a CIA, a DEA e um carismático chefe do crime.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]NADA SANTO[/COLOR][/B]</title>
+<link>$doregex[BP1]NDASNTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nada%20Santo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nada%20Santo.jpg</fanart>
+<info>Nos anos 80, na plena época do maior boom econômico que Milão atravessou no último século, o gângster Santo Russo (Riccardo Scamarcio) iniciou a trajetória de sua ascenção no mundo do crime. Excêntrico e peculiar, ele usa de seu carisma e excessos para conquistar, aos poucos, a confiança da máfia italiana.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]NANCY DREW E A ESCADA SECRETA[/COLOR][/B]</title>
 <link>$doregex[BP1]NACYDRWEAESCDSCTRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -696,6 +816,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]NANCY: EM BUSCA DE SI MESMA[/COLOR][/B]</title>
+<link>$doregex[BP1]NCYEMBSCDSIMSM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</fanart>
+<info>Uma mulher começa a acreditar que foi seq&uuml;estrada quando criança. Quando ela conhece um casal cuja filha sumiu há trinta anos, dúvidas razoáveis dão lugar a uma crença voluntária que pode ameaçar sua racionalidade.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]NÃO ADIANTA REZAR[/COLOR][/B]</title>
 <link>$doregex[BP1]NADNTRZR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -705,6 +837,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Adianta%20Rezar.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Adianta%20Rezar.jpg</fanart>
 <info>Uma jovem estragada está ansiosa para se mudar para uma bela casa nova, mas o espírito de uma freira demente quer que ela fique onde ela está.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]NÃO OLHE[/COLOR][/B]</title>
+<link>$doregex[BP1]NOLH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Olhe.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/N%C3%A3o%20Olhe.jpg</fanart>
+<info>Uma solitária jovem de 18 anos não encontra suporte familiar e nem amigos para que possa desabafar sobre os problemas de sua vida. Cansada, ela começa a conversar com o próprio reflexo no espelho apenas para externalizar sua angústia, mas rapidamente descobre que está trocando de lugar com uma espécie de clone que tenta convencê-la a tomar atitudes vingativas.</info>
 <date>2019</date>
 </item>
 <item>
@@ -816,6 +960,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]O MENINO QUE DESCOBRIU O VENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]OMENOQQSREI.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Menino%20que%20Queria%20Ser%20Rei.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Menino%20que%20Queria%20Ser%20Rei.jpg</fanart>
+<info>Alex (Louis Serkis) é um garoto que enfrenta problemas no colégio, por sempre defender o amigo Bedders (Dean Chaumoo) dos valentões Lance (Tom Taylor) e Kaye (Rhianna Dorris). Um dia, ao fugir da dupla, ele se esconde em um canteiro de obras abandonado. Lá encontra uma espada encravada em uma pedra, da qual retira com grande facilidade. O que Alex não sabia era que a espada era a lendária Excalibur e que, como seu novo portador, precisa agora enfrentar a meia-irmã do rei Arthur, Morgana (Rebecca Ferguson), que está prestes a retomar seu poder. Para tanto, ele conta com a ajuda do mago Merlin (Angus Imrie), transformado em uma versão bem mais jovem.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]O MENINO QUE QUERIA SER REI [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]OMENOQQSREILEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Menino%20que%20Queria%20Ser%20Rei.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Menino%20que%20Queria%20Ser%20Rei.jpg</fanart>
+<info>Alex (Louis Serkis) é um garoto que enfrenta problemas no colégio, por sempre defender o amigo Bedders (Dean Chaumoo) dos valentões Lance (Tom Taylor) e Kaye (Rhianna Dorris). Um dia, ao fugir da dupla, ele se esconde em um canteiro de obras abandonado. Lá encontra uma espada encravada em uma pedra, da qual retira com grande facilidade. O que Alex não sabia era que a espada era a lendária Excalibur e que, como seu novo portador, precisa agora enfrentar a meia-irmã do rei Arthur, Morgana (Rebecca Ferguson), que está prestes a retomar seu poder. Para tanto, ele conta com a ajuda do mago Merlin (Angus Imrie), transformado em uma versão bem mais jovem.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]O OUTRO LADO DO LAGO[/COLOR][/B]</title>
 <link>$doregex[BP1]OOUTRLDOLGO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -825,6 +993,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Outro%20Lado%20do%20Lago.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Outro%20Lado%20do%20Lago.jpg</fanart>
 <info>Harry e Rose partem para um fim de semana no campo na tentativa de salvar o relacionamento já desgastado. Ao chegarem lá, atravessam o lago em uma canoa e chegam à cabana dos pais de Harry. Depois de uma conversa, fazem as pazes e aproveitam o que parecia ser uma noite bonita e tranquila. No meio da madrugada, contudo, a cabana é invadida e eles começam a ser perseguidos por alguém que quer matá-los a qualquer custo.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]O PESO DO PASSADO[/COLOR][/B]</title>
+<link>$doregex[BP1]OPSODPSADO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Peso%20do%20Passado.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Peso%20do%20Passado.jpg</fanart>
+<info>Erin Bell (Nicole Kidman) é uma detetive da polícia norte-americana que aceita participar de um plano arriscado, infiltrando-se entre bandidos para obter informações. A estratégia dá errado, gerando uma tragédia que marca a sua vida para sempre. Anos mais tarde, ela reencontra pistas da gangue de antigamente, e volta a perseguir os responsáveis por seu drama pessoal.</info>
 <date>2019</date>
 </item>
 <item>
@@ -934,6 +1114,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9rola%20No%20Para%C3%ADso.jpg</fanart>
 <info>Alex espera ser diretora criativa de sua revista se fotografar a pérola azul que Colin escreveu em Pearl in Paradise. Ela espera que ao escrever um artigo aumente as vendas, que estão fracassadas. Em Fiji eles discutem porque estão solteiros; Alex admitindo que viaja demais, e Colin admitindo que as mulheres esperam que ele seja o herói de seus romances. Ele também admite que mentiu sobre saber onde está a pérola. Os dois decidem continuar procurando a rara pérola, mesmo não sabendo que encontrar o amor verdadeiro poderia ser a aventura mais rara de todas.</info>
 <date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]PODERIA ME PERDOAR?[/COLOR][/B]</title>
+<link>$doregex[BP1]PDRMPDAR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</fanart>
+<info>Passando por problemas financeiros, a jornalista Lee Israel decide forjar e vender cartas de personalidades já falecidas, um negócio criminoso que dá muito certo. Quando as primeiras suspeitas começam, para não parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas. Baseado em uma história real.</info>
+<date>2019</date>
 </item>
 <item>
 <title>[B][COLOR white]POLAR[/COLOR][/B]</title>
@@ -1068,6 +1260,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]SEXO, MÚSICA E AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]SXOMSCEAMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sexo,%20M%C3%BAsica%20e%20Amor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sexo,%20M%C3%BAsica%20e%20Amor.jpg</fanart>
+<info>Ignorada pelos pais, Joy (Charlene deGuzman) é viciada em sexo e amor e decide procurar ajuda para mudar de vida. No grupo de apoio ela conhece Maddie (Melissa Leo), que se torna sua madrinha em um momento crítico e permite que ela more na casa de hóspedes da sua avó desde que fique 30 dias longe das tentações, lista que inclui o ex, masturbação e qualquer contato com homens.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]STATUS UPDATE: PERFIL DOS SONHOS[/COLOR][/B]</title>
 <link>$doregex[BP1]STSUPDTPRFLDSNHS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1077,6 +1281,42 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Status%20Update%20-%20Perfil%20dos%20Sonhos.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Status%20Update%20-%20Perfil%20dos%20Sonhos.jpg</fanart>
 <info>Ross Lynch interpreta Kyle Moore, um adolescente que depois de ser arrancado pela separação de seus pais e incapaz de se adaptar à sua nova cidade natal, se depara com um aplicativo mágico que faz com que suas atualizações nas redes sociais se tornem realidade.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]SUMMER: DESCOBRINDO O MEU LUGAR[/COLOR][/B]</title>
+<link>$doregex[BP1]SMRDSCBRNDOMLGR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Summer%20-%20Descobrindo%20o%20Meu%20Lugar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Summer%20-%20Descobrindo%20o%20Meu%20Lugar.jpg</fanart>
+<info>Summer (Zoe Renee) é uma adolescente negra de 17 anos que tem sua vida completamente alterada quando sua mãe, Jade (Simone Missick), uma famosa metereologista, se converte ao Islamismo e se torna uma pessoa completamente diferente. Essas mudanças vão fazer com que ela questione sua própria identidade.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]SUPER MONSTROS: SUPERAMIGOS PARA SEMPRE[/COLOR][/B]</title>
+<link>$doregex[BP1]SPRMNSTRSPRMGSPRSMPR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20-%20Super%20Amigos%20para%20Sempre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20-%20Super%20Amigos%20para%20Sempre.jpg</fanart>
+<info>Na primeira noite de primavera, os Super Monstros se divertem no parque e conhecem seus novos amigos, os adoráveis monstros de estimação!</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]TEMPORADA[/COLOR][/B]</title>
+<link>$doregex[BP1]TMPRADA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Temporada.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Temporada.jpg</fanart>
+<info>Juliana (Grace Passô) está saindo de Itaúna, no interior de Minas Gerais, para morar em Contagem, na região metropolitana de Belo Horizonte. Seu novo emprego, em que ela combate endemias da região, cria situações pouco usuais e apresenta para ela pessoas novas, que começam a mudar sua vida. Se adaptando à nova rotina, ela enfrenta dificuldades no relacionamento com seu marido, que também vai para a cidade grande.</info>
 <date>2019</date>
 </item>
 <item>
@@ -1101,6 +1341,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</fanart>
 <info>O filme conta a história de um menino que é responsável, junto com seu pai, por achar a cura para uma doença que é contraída após a pessoa tomar um susto.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]UM HOMEM DE SORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]UMHMDSRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Homem%20de%20Sorte%202018.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Homem%20de%20Sorte%202018.jpg</fanart>
+<info>No fim do século XIX, Peter Sidenius, um ambicioso jovem de uma devota família cristã da Dinamarca Ocidental, viaja para a capital, Copenhague, para estudar engenharia, rebelando-se contra o pai clérigo. Peter se envolve com uma família judia rica e intelectual, seduzindo a filha mais velha, Jakobe. Agora chamando a si próprio de Per, ele desenvolve um projeto de engenharia de grande escala, com a construção de uma série de canais em sua terra natal, a Jutlândia, e busca recursos para consumar seu sonho. Porém, assim que parece que conseguirá torná-lo realidade, seu orgulho o atrapalha.</info>
 <date>2019</date>
 </item>
 <item>
@@ -1140,7 +1392,7 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]VELVET BUZZSAW[/COLOR][/B]</title>
+<title>[B][COLOR white]VELVET BUZZSAW: TODA ARTE É PERIGOSA[/COLOR][/B]</title>
 <link>$doregex[BP1]VLTBZSAW.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1164,6 +1416,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]VICE[/COLOR][/B]</title>
+<link>$doregex[BP1]VICE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vice.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vice.jpg</fanart>
+<info>Na juventude, Dick Cheney (Christian Bale) se aproximou do Partido Republicano ao ver na política uma grande oportunidade de ascender de vida. Para tanto, se aproxima de Donald Rumsfeld (Steve Carell) e logo se torna seu assessor direto. Com a renúncia do ex-presidente Richard Nixon, os poucos republicanos que não estavam associados ao governo ganham imediata importância e, com isso, tanto Cheney quanto Rumsfeld retornam à esfera de poder do partido. Décadas depois, com a decisão de George W. Bush (Sam Rockwell) em se lançar candidato à presidência, Cheney é cortejado para assumir o posto de vice-presidente. Ele aceita, mas com uma condição: que tenha amplos poderes dentro do governo, caso a chapa formada seja eleita.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]VIDA NA NATUREZA[/COLOR][/B]</title>
 <link>$doregex[BP1]VDANTRZA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1173,6 +1437,30 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vida%20na%20Natureza.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Vida%20na%20Natureza.jpg</fanart>
 <info>Bluebird (Laia Costa) é uma mulher casada da Espanha. Em meio as caminhadas da Trilha dos Apalaches ela conhece o jovem norte-americano, Lake (Thomas Mann). Nesse ambiente cercado por natureza, os dois estranhos começam a se revelvar um para o outro durante os dias e as noites, vivendo vários momentos carregados emoções.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]VIDRO[/COLOR][/B]</title>
+<link>$doregex[BP1]VDRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</fanart>
+<info>Após a conclusão de Fragmentado (2017), Kevin Crumb (James McAvoy), o homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn (Bruce Willis), o herói de Corpo Fechado (2000). O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price (Samuel L. Jackson), que manipula seus encontros e guarda segredos sobre os dois.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]VIDRO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VDROLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</fanart>
+<info>Após a conclusão de Fragmentado (2017), Kevin Crumb (James McAvoy), o homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn (Bruce Willis), o herói de Corpo Fechado (2000). O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price (Samuel L. Jackson), que manipula seus encontros e guarda segredos sobre os dois.</info>
 <date>2019</date>
 </item>
 <item>
