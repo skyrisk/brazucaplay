@@ -4,97 +4,110 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>27/04/2019</date>
+<date>04/05/2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]AMRTDPRBNS2LEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]ASIM, O VIGARISTA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASMOVGRTA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
-<info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Asim,%20O%20Vigarista.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Asim,%20O%20Vigarista.jpg</fanart>
+<info>Quando sua filha e seu genro são vítimas de um golpe, o vigarista de Istambul Asım Noyan acha um rival à altura: o chefão insano do submundo das apostas.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]AMIGOS PARA SEMPRE[/COLOR][/B]</title>
-<link>$doregex[BP1]AMGSPRSMPR.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CINDERELA POP[/COLOR][/B]</title>
+<link>$doregex[BP1]CNDRLAPOP.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Amigos%20Para%20Sempre.jpg</fanart>
-<info>Philip (Bryan Cranston) é um homem rico que fica tetraplégico, após sofrer um acidente. A situação o deixa desgostoso com a vida, já que está sempre rodeado de enfermeiros e pessoas para ajudá-lo. Até que um dia, durante a seleção de um assistente, ele simpatiza com Dell (Kevin Hart), um jovem com registro criminal que não tem a menor experiência na função. Philip decide contratá-lo e, ao seu lado, reencontra o prazer pela vida.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cinderela%20Pop.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cinderela%20Pop.jpg</fanart>
+<info>Cintia Dorella (Maisa Silva) é uma adolescente que descobre uma traição no casamento dos pais. Descrente no amor, ela vai morar na casa da tia e passa a trabalhar como DJ, se tornando a Cinderela Pop. Mas ela não esperava que um príncipe encantado pudesse fazê-la se apaixonar.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]GREEN BOOK: O GUIA[/COLOR][/B]</title>
-<link>$doregex[BP1]GRENBOKOGUA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]O AGENTE SECRETO DE BIXLER[/COLOR][/B]</title>
+<link>$doregex[BP1]OAGNTSCRTBXLR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</fanart>
-<info>1962. Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</fanart>
+<info>Xander está procurando por seu pai, que desapareceu há três meses. Sua mãe o manda para ficar com o ex-vovô particular em Bixler, onde a próxima pista é. Ele se une e investiga com o repórter de seu novo colegial, Kenzie.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]LUCKY[/COLOR][/B]</title>
-<link>$doregex[BP1]LCKY.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]SOB O SOL DO OESTE[/COLOR][/B]</title>
+<link>$doregex[BP1]SBOSLDOST.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Lucky.jpg</fanart>
-<info>O duende azarado, Happy McSweeney, se mete em uma grande Aventura, quando ele e seus amigos partem em uma missão ousada para recuperar o pote de ouro que foi roubado pelo malvado Houlihan da família McSweeney anos atrás...</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Sob%20O%20Sol%20do%20Oeste.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Sob%20O%20Sol%20do%20Oeste.jpg</fanart>
+<info>Samuel Alabaster (Robert Pattinson), um rico pioneiro, aventura-se pela remota fronteira dos EUA para se casar com o amor de sua vida, Penelope (Mia Wasikowska). Enquanto Samuel atravessa o Velho Oeste com um bêbado chamado Parson Henry (David Zellner) e um minicavalo chamado Butterscotch, sua jornada vai se tornando traiçoeira, apagando as linhas divisórias entre herói, vilão e donzela.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]NANCY: EM BUSCA DE SI MESMA[/COLOR][/B]</title>
-<link>$doregex[BP1]NCYEMBSCDSIMSM.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]UMA AVENTURA LEGO 2[/COLOR][/B]</title>
+<link>$doregex[BP1]UMAVNTRLGO2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nancy%20-%20Em%20Busca%20De%20Si%20Mesma.jpg</fanart>
-<info>Uma mulher começa a acreditar que foi seqüestrada quando criança. Quando ela conhece um casal cuja filha sumiu há trinta anos, dúvidas razoáveis dão lugar a uma crença voluntária que pode ameaçar sua racionalidade.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Aventura%20Lego%202.jpg</fanart>
+<info>Cinco anos após os eventos do primeiro filme, a batalha contra inimigos alienígenas faz com que a cidade Lego torne-se Apocalipsópolis, em um futuro distópico onde nada mais é incrível. Neste contexto, Emmet constrói uma casa para que possa viver ao lado de Lucy, mas ela ainda o considera ingênuo demais. Quando um novo ataque captura não apenas Lucy, mas também Batman, Astronauta, UniKitty e o pirata, levando-os ao sistema planetário de Manar, cabe a Emmet construir uma espaçonave e partir em seu encalço. No caminho ele encontra Rex Perigoso, um navegante solitário que decide ajudá-lo em sua jornada.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]PODERIA ME PERDOAR?[/COLOR][/B]</title>
-<link>$doregex[BP1]PDRMPDAR.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]UMA NOVA CHANCE[/COLOR][/B]</title>
+<link>$doregex[BP1]UMNVCHNCE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Poderia%20Me%20Perdoar.jpg</fanart>
-<info>Passando por problemas financeiros, a jornalista Lee Israel decide forjar e vender cartas de personalidades já falecidas, um negócio criminoso que dá muito certo. Quando as primeiras suspeitas começam, para não parar de lucrar, ela modifica o esquema e passa a roubar os textos originais de arquivos e bibliotecas. Baseado em uma história real.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Nova%20Chance.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Uma%20Nova%20Chance.jpg</fanart>
+<info>Maya (Jennifer Lopez) é uma caixa de supermercado insatisfeita com sua vida profissional. Porém, tudo muda com uma pequena alteração em seu currículo e suas redes sociais. Com sua experiêcia das ruas, habilidades excepcionais e a ajuda de seus amigos, ela se reinventa e se torna uma executiva de sucesso.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]VIDRO[/COLOR][/B]</title>
-<link>$doregex[BP1]VDRO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]VINGADORES: ULTIMATO [COLOR gold](HDTC)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VNGDRSULTMTO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vidro.jpg</fanart>
-<info>Após a conclusão de Fragmentado (2017), Kevin Crumb (James McAvoy), o homem com 24 personalidades diferentes, passa a ser perseguido por David Dunn (Bruce Willis), o herói de Corpo Fechado (2000). O jogo de gato e rato entre o homem inquebrável e a Fera é influenciado pela presença de Elijah Price (Samuel L. Jackson), que manipula seus encontros e guarda segredos sobre os dois.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</fanart>
+<info>Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]VIRANDO A MESA DO PODER[/COLOR][/B]</title>
+<link>$doregex[BP1]VRNDAMSADPDR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Virando%20a%20Mesa%20do%20Poder.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Virando%20a%20Mesa%20do%20Poder.jpg</fanart>
+<info>Uma jovem atendente de bar, no Bronx, em New York, filha de um mineiro de carvão na Virgínia Ocidental, uma mãe em luto em Nevada e uma enfermeira registrada no Missouri, constroem um movimento de candidatos insurgentes desafiando poderosos representantes no Congresso. A mais chocante virada política na recente história do congresso americano.</info>
 <date>2019</date>
 </item>
 
