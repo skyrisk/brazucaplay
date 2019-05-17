@@ -7,7 +7,109 @@
 <date>17/05/2019</date>
 </item>
 
+<item>
+<title>[B][COLOR white]A MALDIÇÃO DA FREIRA[/COLOR][/B]</title>
+<link>$doregex[BP1]AMDLDFRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Freira.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Freira.jpg</fanart>
+<info>No outono de 1960, os padres Thomas Riley (Lalor Roddy) e John Thornton (Ciaran Flynn) são enviados pelo Vaticano para investigar um evento milagroso em um lar irlandês para mulheres órfãs, grávidas solteiras ou com distúrbios mentais. Lá eles encontram uma adolescente grávida com sinais de possessão demoníaca e acabam descobrindo algo terrível.</info>
+<date>2019</date>
+</item>
 
+<item>
+<title>[B][COLOR white]BOLDEN [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BOLDNLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bolden.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bolden.jpg</fanart>
+<info>Cinebiografia de Buddy Bolden, o primeiro Cornet King de Nova Orleans.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ENTRE VINHO E VINAGRE[/COLOR][/B]</title>
+<link>$doregex[BP1]ENTVNHEVNGR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Entre%20Vinho%20e%20Vinagre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Entre%20Vinho%20e%20Vinagre.jpg</fanart>
+<info>Amigas de longa data viajam para os vinhedos de Napa Valley, na Califórnia, para comemorarem o aniversário de 50 anos de uma delas.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]GENTE QUE VAI E VOLTA[/COLOR][/B]</title>
+<link>$doregex[BP1]GNTQVEVTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gente%20que%20Vai%20e%20Volta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gente%20que%20Vai%20e%20Volta.jpg</fanart>
+<info>Após ser traída pelo namorado, a arquiteta Bea volta a morar com sua excêntrica família para tentar reavaliar a sua vida.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]NO PORTAL DA ETERNIDADE[/COLOR][/B]</title>
+<link>$doregex[BP1]NOPRTLDETRNDAD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/No%20Portal%20da%20Eternidade.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/No%20Portal%20da%20Eternidade.jpg</fanart>
+<info>1888. Após sofrer com o ostracismo e a rejeição de suas pinturas em galerias de arte, Vincent Van Gogh (Willem Dafoe) decide ouvir o conselho de seu mentor, Paul Gauguin (Oscar Isaac), e se mudar para Arles, no sul da França. Lá, lutando contra os avanços da loucura, da depressão e as pressões sociais, o pintor holandês adentra uma das fases mais conturbadas e prolíficas de sua curta, porém meteórica trajetória.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]NUN'S DEADLY CONFESSION [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]NUNSDEADLYCNFSN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nun's%20Deadly%20Confession.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nun's%20Deadly%20Confession.jpg</fanart>
+<info>Dr. Morten Holst é um psiquiatra que luta com tantos problemas, se não mais, quanto sua ampla gama de pacientes únicos. Um detetive se vê em uma situação ameaçadora quando é pego no jogo do médico enquanto desfaz um caso misterioso.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]SANTET: O FEITIÇO DO MAL[/COLOR][/B]</title>
+<link>$doregex[BP1]SNTROFTCRODML.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Santet%20-%20O%20Feiti%C3%A7o%20do%20Mal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Santet%20-%20O%20Feiti%C3%A7o%20do%20Mal.jpg</fanart>
+<info>Um homem e sua família voltam para casa para visitar sua mãe enferma e descobrem que ela está nas garras de algum tipo de magia negra.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]VINGANÇA A SANGUE-FRIO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VNGCASNGFRIOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingan%C3%A7a%20a%20Sangue-Frio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingan%C3%A7a%20a%20Sangue-Frio.jpg</fanart>
+<info>Nels (Liam Neeson), um tranquilo homem de família, trabalha como motorista de um removedor de neve e vê seu mundo virado de cabeça para baixo quando seu filho é morto por um poderoso traficante de drogas. Impulsionado pelo desejo de vingança e sem nada para perder, ele fará tudo o que por preciso para destruir o cartel.</info>
+<date>2019</date>
+</item>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TODOS OS FILMES[/COLOR][/B]</title>
