@@ -4,110 +4,110 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>17/05/2019</date>
+<date>30/05/2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A MALDIÇÃO DA FREIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMDLDFRA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRTDPRBNS2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Freira.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Freira.jpg</fanart>
-<info>No outono de 1960, os padres Thomas Riley (Lalor Roddy) e John Thornton (Ciaran Flynn) são enviados pelo Vaticano para investigar um evento milagroso em um lar irlandês para mulheres órfãs, grávidas solteiras ou com distúrbios mentais. Lá eles encontram uma adolescente grávida com sinais de possessão demoníaca e acabam descobrindo algo terrível.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
+<info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]BOLDEN [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]BOLDNLEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CAPITÃ MARVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]CPTMRVL.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bolden.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bolden.jpg</fanart>
-<info>Cinebiografia de Buddy Bolden, o primeiro Cornet King de Nova Orleans.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
+<info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]ENTRE VINHO E VINAGRE[/COLOR][/B]</title>
-<link>$doregex[BP1]ENTVNHEVNGR.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CAPITÃ MARVEL [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CPTMRVLLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Entre%20Vinho%20e%20Vinagre.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Entre%20Vinho%20e%20Vinagre.jpg</fanart>
-<info>Amigas de longa data viajam para os vinhedos de Napa Valley, na Califórnia, para comemorarem o aniversário de 50 anos de uma delas.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
+<info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]GENTE QUE VAI E VOLTA[/COLOR][/B]</title>
-<link>$doregex[BP1]GNTQVEVTA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]IMPLACÁVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]IMPLCVL.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gente%20que%20Vai%20e%20Volta.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gente%20que%20Vai%20e%20Volta.jpg</fanart>
-<info>Após ser traída pelo namorado, a arquiteta Bea volta a morar com sua excêntrica família para tentar reavaliar a sua vida.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Implac%C3%A1vel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Implac%C3%A1vel.jpg</fanart>
+<info>Cain Burgess (Scott Adkinss) é um criminoso que recebe uma licença para sair da prisão. Ele acaba encarando esse momento como uma oportunidade para encontrar as pessoas que o tornaram um assassino cruel e se vingar delas.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]NO PORTAL DA ETERNIDADE[/COLOR][/B]</title>
-<link>$doregex[BP1]NOPRTLDETRNDAD.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]LUCCAS NETO EM UMA BABA MUITO ESQUISITA[/COLOR][/B]</title>
+<link>$doregex[BP1]LUCSNTOEMUMBABMTESQCDA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/No%20Portal%20da%20Eternidade.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/No%20Portal%20da%20Eternidade.jpg</fanart>
-<info>1888. Após sofrer com o ostracismo e a rejeição de suas pinturas em galerias de arte, Vincent Van Gogh (Willem Dafoe) decide ouvir o conselho de seu mentor, Paul Gauguin (Oscar Isaac), e se mudar para Arles, no sul da França. Lá, lutando contra os avanços da loucura, da depressão e as pressões sociais, o pintor holandês adentra uma das fases mais conturbadas e prolíficas de sua curta, porém meteórica trajetória.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Luccas%20Neto%20em%20Uma%20Baba%20Muito%20Esquisita.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Luccas%20Neto%20em%20Uma%20Baba%20Muito%20Esquisita.jpg</fanart>
+<info>Luccas e Gi esqueceram que o Dia das Mães está chegando e agora precisam achar um presente especial para sua mãe. Acompanhe os irmãos em uma aventura recheada de diversão, supervisionada pela nova babá, que é muito esquisita.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]NUN'S DEADLY CONFESSION [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]NUNSDEADLYCNFSN.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]MASSACRE NA UCRÂNIA[/COLOR][/B]</title>
+<link>$doregex[BP1]MASCRNUCRNA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Nun's%20Deadly%20Confession.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Nun's%20Deadly%20Confession.jpg</fanart>
-<info>Dr. Morten Holst é um psiquiatra que luta com tantos problemas, se não mais, quanto sua ampla gama de pacientes únicos. Um detetive se vê em uma situação ameaçadora quando é pego no jogo do médico enquanto desfaz um caso misterioso.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Massacre%20na%20Ucr%C3%A2nia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Massacre%20na%20Ucr%C3%A2nia.jpg</fanart>
+<info>O Comandante do Exército Insurgente Ucraniano entra no precário campo onde Stalin mantém seus prisioneiros. Nesse período, ele passa por sérias torturas pelos líderes do local, além de sofrer traições e altas repressões, sobretudo vindas do comandante do campo. Ainda sim, ele luta para conquistar a sua liberdade e tenta arrumar aliados para conseguir formar uma espécie de rebelião contra o sistema.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]SANTET: O FEITIÇO DO MAL[/COLOR][/B]</title>
-<link>$doregex[BP1]SNTROFTCRODML.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]THE PERFECTION[/COLOR][/B]</title>
+<link>$doregex[BP1]THPRFCTION.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Santet%20-%20O%20Feiti%C3%A7o%20do%20Mal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Santet%20-%20O%20Feiti%C3%A7o%20do%20Mal.jpg</fanart>
-<info>Um homem e sua família voltam para casa para visitar sua mãe enferma e descobrem que ela está nas garras de algum tipo de magia negra.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Perfection.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Perfection.jpg</fanart>
+<info>Uma mulher que costumava ser considerada um prodígio do violoncelo passa a perseguir seu mentor e a nova pupila que é o centro de suas atenções, deixando sua busca por perfeição tomar um rumo sinistro.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]VINGANÇA A SANGUE-FRIO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]VNGCASNGFRIOLEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]TODOS JÁ SABEM[/COLOR][/B]</title>
+<link>$doregex[BP1]TDSJSBM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingan%C3%A7a%20a%20Sangue-Frio.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingan%C3%A7a%20a%20Sangue-Frio.jpg</fanart>
-<info>Nels (Liam Neeson), um tranquilo homem de família, trabalha como motorista de um removedor de neve e vê seu mundo virado de cabeça para baixo quando seu filho é morto por um poderoso traficante de drogas. Impulsionado pelo desejo de vingança e sem nada para perder, ele fará tudo o que por preciso para destruir o cartel.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Todos%20J%C3%A1%20Sabem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Todos%20J%C3%A1%20Sabem.jpg</fanart>
+<info>Quando sua irmã se casa, Laura (Penélope Cruz) retorna à Espanha natal para acompanhar a cerimônia. Por motivos de trabalho, o marido argentino (Ricardo Darín) não pode ir com ela. Chegando no local, Laura reencontra o ex-namorado, Paco (Javier Bardem), que não via há muitos anos. Durante a festa de casamento, uma tragédia acontece. Toda a família precisa se unir diante de um possível crime de grandes proporções, enquanto se questionam se o culpado não está entre eles. Na busca por uma solução, segredos e mentiras são revelados sobre o passado de cada um.</info>
 <date>2019</date>
 </item>
 
@@ -117,9 +117,21 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>17/05/2019</date>
+<date>30/05/2019</date>
 </item>
 
+<item>
+<title>[B][COLOR white]15 MINUTOS DE GUERRA[/COLOR][/B]</title>
+<link>$doregex[BP1]15MNTSDGRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/15%20Minutos%20de%20Guerra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/15%20Minutos%20de%20Guerra.jpg</fanart>
+<info>Em fevereiro de 1976, em Djibouti, um ônibus escolar foi feito refém na fronteira somali. O GIGN é enviado no local, após 30 horas de tensão, uma operação de resgate é organizada.</info>
+<date>2019</date>
+</item>
 <item>
 <title>[B][COLOR white]1964: O BRASIL ENTRE ARMAS E LIVROS[/COLOR][/B]</title>
 <link>$doregex[BP1]1964OBRENTARMSELVRO.mp4$doregex[BP2]</link>
@@ -166,6 +178,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Favorita.jpg</fanart>
 <info>Na Inglaterra do século XVIII, Sarah Churchill, a Duquesa de Marlborough (Rachel Weisz) exerce sua influência na corte como confidente, conselheira e amante secreta da Rainha Ana (Olivia Colman). Seu posto privilegiado, no entanto, é ameaçado pela chegada de Abigail (Emma Stone), nova criada que logo se torna a queridinha da majestade e agarra com unhas e dentes à oportunidade única.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A GENTE SE VÊ ONTEM[/COLOR][/B]</title>
+<link>$doregex[BP1]AGNTSVONTM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Gente%20Se%20V%C3%AA%20Ontem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Gente%20Se%20V%C3%AA%20Ontem.jpg</fanart>
+<info>C.J. e Sebastian são dois melhores amigos adolescentes muito talentosos no mundo das ciências. Quando o irmão mais velho de C.J. é assassinado injustamente pela polícia, os dois constroem uma máquina do tempo para voltar ao passado e tentar evitar a tragédia que aconteceu.</info>
 <date>2019</date>
 </item>
 <item>
@@ -217,6 +241,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]A MENINA E O LEÃO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AMNAEOLEAOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Menina%20e%20o%20Le%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Menina%20e%20o%20Le%C3%A3o.jpg</fanart>
+<info>Mia (Daniah De Villiers) é uma jovem de 14 anos que desde pequena tem uma profunda amizade com Charlie, um leão branco da fazenda de sua família. Quando seu pai decide vender Charlie para caçadores de troféus, Mia não vê outra opção além de fugir com o leão para salvá-lo.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRTDPRBNS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
+<info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]A MORTE TE DÁ PARABÉNS 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]AMRTDPRBNS2LEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -226,6 +274,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Morte%20Te%20D%C3%A1%20Parab%C3%A9ns%202.jpg</fanart>
 <info>Depois de morrer diversas vezes para quebrar o feitiço temporal que a mantinha presa no dia de seu aniversário, Tree Gelbman (Jessica Rothe) olha para o futuro, tentando escrever uma nova história ao lado de Carter (Israel Broussard). No entanto, quando um experimento científico dá errado, a jovem é forçada a retornar ao fluxo de repetição e, desta vez, morrer não será o bastante para escapar.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]A MULA[/COLOR][/B]</title>
+<link>$doregex[BP1]AMLA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Mula.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Mula.jpg</fanart>
+<info>Leo Sharp coleciona uma série de honras que vão desde de prêmios por seus trabalhos como paisagista e decorador até o reconhecimento por ter lutado contra os nazistas durante a Segunda Guerra Mundial. No entanto, foi aos 90 anos que conquistou algo surpreendente: ele foi preso por portar o equivalente a três milhões de dólares em cocaína no seu carro, uma picape velha, no Michigan. Sharp era o líder do Sinaloa, um cartel de drogas no México e foi sentenciado à três anos de cadeia. A sinopse oficial ainda não foi divulgada.</info>
 <date>2019</date>
 </item>
 <item>
@@ -325,6 +385,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]APÓS O FURACÃO MARIA[/COLOR][/B]</title>
+<link>$doregex[BP1]APSOFRCAOMARIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3s%20o%20Furac%C3%A3o%20Maria.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3s%20o%20Furac%C3%A3o%20Maria.jpg</fanart>
+<info>Mulheres porto-riquenhas são forçadas a fugir da ilha depois que o furacão Maria atingiu o local. Elas buscam estabilidade em sua nova vida enquanto as forças tentam separá-las.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]ASFALTO DE SANGUE[/COLOR][/B]</title>
 <link>$doregex[BP1]ASFLTDSNGE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -373,6 +445,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]BATMAN VS TARTARUGAS NINJA[/COLOR][/B]</title>
+<link>$doregex[BP1]BTMNVSTRTRGSNJS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Batman%20vs.%20Tartarugas%20Ninja.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Batman%20vs.%20Tartarugas%20Ninja.jpg</fanart>
+<info>Para conseguirem capturar o Super Destruídor, Batman, Robin e Batgirl unem suas forças com as Tartarugas Mutantes Ninjas, que são os principais inimigos do vilão. Mais do que nunca, os heróis precisam lutar juntos, já que Ra's Al Ghul e A Liga dos Assassinos também entraram na complicada equação maléfica.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]BAYONETA[/COLOR][/B]</title>
 <link>$doregex[BP1]BAYNTA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -418,6 +502,30 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bundy%20and%20the%20Green%20River%20Killer.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Bundy%20and%20the%20Green%20River%20Killer.jpg</fanart>
 <info>Um detetive da polícia consulta o louco encarcerado Ted Bundy para ajudá-lo a capturar o assassino de Green River.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]BUNDY AND THE GREEN RIVER KILLER[/COLOR][/B]</title>
+<link>$doregex[BP1]CPTMRVL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
+<info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]CAPITÃ MARVEL [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CPTMRVLLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
+<info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
 <date>2019</date>
 </item>
 <item>
@@ -637,6 +745,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]ESCOLA DA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]ESCLDMRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Escola%20da%20Morte.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Escola%20da%20Morte.jpg</fanart>
+<info>Quando um misterioso buraco se forma próximo a uma escola de elite britânica, tudo se transforma em um sangrento campo de batalha. Agora, estudantes e professores devem lutra contra criaturas monstruosas se quiserem sobreviver.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]ESTRADA SEM LEI[/COLOR][/B]</title>
 <link>$doregex[BP1]ESTRDASMLEI.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -658,6 +778,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Extremamente%20Perverso,%20Escandalosamente%20Cruel%20e%20Vil.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Extremamente%20Perverso,%20Escandalosamente%20Cruel%20e%20Vil.jpg</fanart>
 <info>Cinebiografia de Ted Bundy (Zac Efron), serial killer que matou, pelo menos, 30 mulheres em sete estados norte-americanos durante a década de 1970. O foco principal será a relação disfuncional entre o assassino e sua namorada, Liz Kloepfer (Lily Collins), que durou sete anos.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]FIM DO MUNDO[/COLOR][/B]</title>
+<link>$doregex[BP1]FMDOMNDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Fim%20do%20Mundo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Fim%20do%20Mundo.jpg</fanart>
+<info>Quatro crianças completamente diferentes se tornam aliados quando precisam lutar contra uma invasão alienígena durante seu acampamento de verão.</info>
 <date>2019</date>
 </item>
 <item>
@@ -793,6 +925,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]IMPLACÁVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]IMPLCVL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Implac%C3%A1vel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Implac%C3%A1vel.jpg</fanart>
+<info>Cain Burgess (Scott Adkinss) é um criminoso que recebe uma licença para sair da prisão. Ele acaba encarando esse momento como uma oportunidade para encontrar as pessoas que o tornaram um assassino cruel e se vingar delas.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]INCIDENT AT MONTAUK [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]INCTATMNTUKLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Incident%20At%20Montauk.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Incident%20At%20Montauk.jpg</fanart>
+<info>Depois de testemunhar um OVNI, Jed Logan logo descobre que seu avistamento pode estar ligado a um projeto secreto do governo que o leva a um caminho perigoso para descobrir a verdade.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]IO: O ÚLTIMO NA TERRA[/COLOR][/B]</title>
 <link>$doregex[BP1]IOULTMNTRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -925,6 +1081,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]LUCCAS NETO EM UMA BABA MUITO ESQUISITA[/COLOR][/B]</title>
+<link>$doregex[BP1]LUCSNTOEMUMBABMTESQCDA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Luccas%20Neto%20em%20Uma%20Baba%20Muito%20Esquisita.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Luccas%20Neto%20em%20Uma%20Baba%20Muito%20Esquisita.jpg</fanart>
+<info>Luccas e Gi esqueceram que o Dia das Mães está chegando e agora precisam achar um presente especial para sua mãe. Acompanhe os irmãos em uma aventura recheada de diversão, supervisionada pela nova babá, que é muito esquisita.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]LUCKY[/COLOR][/B]</title>
 <link>$doregex[BP1]LCKY.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -970,6 +1138,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A1quinas%20Mortais.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A1quinas%20Mortais.jpg</fanart>
 <info>Anos depois da "Guerra dos Sessenta Minutos". A Terra está destruída e para sobreviver as cidades se movem em rodas gigantes, conhecidas como Cidades Tração, e lutam com outras para conseguir mais recursos naturais. Quando Londres se envolve em um ataque, Tom (Robert Sheehan) é lançado para fora da cidade junto com uma fora-da-lei e os dois juntos precisam lutar para sobreviver e ainda enfrentar uma ameaça que coloca a vida no planeta em risco.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]MASSACRE NA UCRÂNIA[/COLOR][/B]</title>
+<link>$doregex[BP1]MASCRNUCRNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Massacre%20na%20Ucr%C3%A2nia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Massacre%20na%20Ucr%C3%A2nia.jpg</fanart>
+<info>O Comandante do Exército Insurgente Ucraniano entra no precário campo onde Stalin mantém seus prisioneiros. Nesse período, ele passa por sérias torturas pelos líderes do local, além de sofrer traições e altas repressões, sobretudo vindas do comandante do campo. Ainda sim, ele luta para conquistar a sua liberdade e tenta arrumar aliados para conseguir formar uma espécie de rebelião contra o sistema.</info>
 <date>2019</date>
 </item>
 <item>
@@ -1135,9 +1315,21 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/filmes/O%20Agente%20Secreto%20de%20Bixler.jpg</fanart>
 <info>Xander está procurando por seu pai, que desapareceu há três meses. Sua mãe o manda para ficar com o ex-vovô particular em Bixler, onde a próxima pista é. Ele se une e investiga com o repórter de seu novo colegial, Kenzie.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]O BOM SAM[/COLOR][/B]</title>
+<link>$doregex[BP1]OBMSAM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Bom%20Sam.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Bom%20Sam.jpg</fanart>
+<info>O longa acompanha a repórter Kate Bradley, da Intrepid TV, que é designada para revelar a identidade de um misterioso Bom Samaritano, que anonimamente deixa de presente US $100.000 em dinheiro à porta dos novaiorquinos, aparentemente aleatórios. Enquanto o interesse pelo extraordinário presente varre todo o país, Kate procura desvendar a identidade do Good Sam e as razões poderosas e inesperadas por trás do presente extraordinário.</info>
 <date>2019</date>
 </item>
 <item>
@@ -1549,6 +1741,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]RESGATE EM MALIBU[/COLOR][/B]</title>
+<link>$doregex[BP1]RSGTEMLBU.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20em%20Malibu.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Resgate%20em%20Malibu.jpg</fanart>
+<info>Em apuros por aprontar demais, Tyler é forçado a passar o verão treinando em um programa de salva-vidas de elite para adolescentes.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]RESGATE NO OESTE[/COLOR][/B]</title>
 <link>$doregex[BP1]RSGTNOSTE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1717,6 +1921,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]THE BALKAN LINE[/COLOR][/B]</title>
+<link>$doregex[BP1]THBLKNLNE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Balkan%20Line.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Balkan%20Line.jpg</fanart>
+<info>1999. A Sérvia é bombardeada e a região de Kosovo é deixada para bandidos sob o comando do senhor da guerra albanês, Smuk. A remoção dos órgãos humanos ocorre dentro dos territórios que os bandidos tomaram, os roubos, assassinatos em massa e genocídio. O oficial da inteligência russa Bek Ethoev e o ex pára-quedista transformaram o mercenário Andrey Shatalov em chefe de um pequeno destacamento encarregado da missão perigosa de parar o terrorismo, recapturar o aeródromo usado pelos bandidos e resgatar o interesse amoroso de Shatalov.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]THE DIRT: CONFISSÕES DO MÖTLEY CRÜE[/COLOR][/B]</title>
 <link>$doregex[BP1]THRDRTCONFSOMTLYCRUE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1729,6 +1945,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]THE PERFECTION[/COLOR][/B]</title>
+<link>$doregex[BP1]THPRFCTION.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Perfection.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Perfection.jpg</fanart>
+<info>Uma mulher que costumava ser considerada um prodígio do violoncelo passa a perseguir seu mentor e a nova pupila que é o centro de suas atenções, deixando sua busca por perfeição tomar um rumo sinistro.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]TITO E OS PÁSSAROS[/COLOR][/B]</title>
 <link>$doregex[BP1]TTOEOSPSRS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1738,6 +1966,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Tito%20e%20os%20P%C3%A1ssaros.jpg</fanart>
 <info>O filme conta a história de um menino que é responsável, junto com seu pai, por achar a cura para uma doença que é contraída após a pessoa tomar um susto.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]TODOS JÁ SABEM[/COLOR][/B]</title>
+<link>$doregex[BP1]TDSJSBM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Todos%20J%C3%A1%20Sabem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Todos%20J%C3%A1%20Sabem.jpg</fanart>
+<info>Quando sua irmã se casa, Laura (Penélope Cruz) retorna à Espanha natal para acompanhar a cerimônia. Por motivos de trabalho, o marido argentino (Ricardo Darín) não pode ir com ela. Chegando no local, Laura reencontra o ex-namorado, Paco (Javier Bardem), que não via há muitos anos. Durante a festa de casamento, uma tragédia acontece. Toda a família precisa se unir diante de um possível crime de grandes proporções, enquanto se questionam se o culpado não está entre eles. Na busca por uma solução, segredos e mentiras são revelados sobre o passado de cada um.</info>
 <date>2019</date>
 </item>
 <item>
