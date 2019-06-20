@@ -6,511 +6,511 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 266 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]28ef9828.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]28ef9828.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 267 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]f5a8c939.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]f5a8c939.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 268 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]38c34e23.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]38c34e23.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 269 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]dc850920.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]dc850920.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 270 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]5d240dc3.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]5d240dc3.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 271 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]3dfc64e9.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]3dfc64e9.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 272 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]bca687ef.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]bca687ef.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 273 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]f215fae5.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]f215fae5.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 274 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]bc15f34b.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]bc15f34b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 275 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]165e1515.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]165e1515.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 276 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]71b60ab9.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]71b60ab9.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 277 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]8ad05a3b.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]8ad05a3b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 278 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]619a3652.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]619a3652.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 279 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]d32c3817.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]d32c3817.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 280 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]2b8e860f.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]2b8e860f.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 281 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]5f45c9d1.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]5f45c9d1.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 282 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]f0c5fb2f.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]f0c5fb2f.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 283 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]f2df1035.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]f2df1035.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 284 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]e9b741bc.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]e9b741bc.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 285 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]524e475c.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]524e475c.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 286 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ec7158ce.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]ec7158ce.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 287 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]2c41f165.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]2c41f165.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 288 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]6866ae2d.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]6866ae2d.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 289 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]d874b10e.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]d874b10e.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 290 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]bda583d5.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]bda583d5.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 291 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]c6384c52.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]c6384c52.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 292 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]0deddbbb.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]0deddbbb.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 293 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]a293a114.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]a293a114.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 294 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]8b7ecbff.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]8b7ecbff.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 295 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]c1db4fd2.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]c1db4fd2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 296 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]c42bc9a6.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]c42bc9a6.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 297 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]96eaa23c.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]96eaa23c.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 298 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]48c09d79.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]48c09d79.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 299 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]9ff65fa0.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]9ff65fa0.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 300 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]8d6af146.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]8d6af146.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 301 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]517ad86b.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]517ad86b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 302 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]4dd0eb37.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]4dd0eb37.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 303 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]1989bb31.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]1989bb31.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 304 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]6eff942a.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]6eff942a.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 305 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]dc0166d6.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]dc0166d6.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 306 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]c98b1f43.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]c98b1f43.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 307 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]b31ac651.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]b31ac651.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 308 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]849dd6e3.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]849dd6e3.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 309 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ab067198.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]ab067198.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 310 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]432d8245.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]432d8245.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 311 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]7bedc55e.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]7bedc55e.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 312 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]1caaf53b.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]1caaf53b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 313 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]70fe39d8.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]70fe39d8.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 314 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]cbcbbb5b.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]cbcbbb5b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 315 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]5a3af734.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]5a3af734.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 316 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]2415647a.mp4|Referer=$doregex[BP4]</link>
+<link>$doregex[BP1]2415647a.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc1</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Bleach/fanart.jpg</fanart>
 </item>
