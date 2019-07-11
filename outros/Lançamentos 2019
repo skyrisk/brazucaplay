@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>25/06/2019</date>
+<date>10/07/2019</date>
 </item>
 
 <item>
@@ -17,6 +17,32 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Inventor%20%C3%80%20Procura%20de%20Sangue%20no%20Vale%20do%20Sil%C3%ADcio.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Inventor%20%C3%80%20Procura%20de%20Sangue%20no%20Vale%20do%20Sil%C3%ADcio.jpg</fanart>
 <info>O grande escândalo passado pela empresa privada de tecnologia em saúde, Theranos, fundada em 2003 por Elisabeth Holmes. O documentário retrata a explosão da fraude cometida pela empresa, que garantiu uma revolução mundial por meio de testes de exames de sangue, e a capacidade de trapacear e persuadir da CEO.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ALITA: ANJO DE COMBATE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ALITANGDCMBTLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Alita%20-%20Anjo%20de%20Combate.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Alita%20-%20Anjo%20de%20Combate.jpg</fanart>
+<info>Uma ciborgue é descoberta por um cientista. Ela não tem memórias de sua criação, mas possui grande conhecimento de artes marciais. Enquanto busca informações sobre seu passado, trabalha como caçadora de recompensas e descobre um interesse amoroso.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]CHORAR DE RIR[/COLOR][/B]</title>
+<link>$doregex[BP1]CHRDRIR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Chorar%20de%20Rir.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Chorar%20de%20Rir.jpg</fanart>
+<info>"Estrela do programa de TV Chorar de Rir" , Nilo Perequê (Leandro Hassum) é um grande nome da comédia no país. Quando ganha o prêmio de melhor comediante do ano, o humorista decide mudar radicalmente sua carreira e se dedicar totalmente ao drama, deixando sua família e seu empresário desesperados.</info>
 <date>2019</date>
 </item>
 
