@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>10/07/2019</date>
+<date>13/07/2019</date>
 </item>
 
 <item>
@@ -17,6 +17,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Inventor%20%C3%80%20Procura%20de%20Sangue%20no%20Vale%20do%20Sil%C3%ADcio.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Inventor%20%C3%80%20Procura%20de%20Sangue%20no%20Vale%20do%20Sil%C3%ADcio.jpg</fanart>
 <info>O grande escândalo passado pela empresa privada de tecnologia em saúde, Theranos, fundada em 2003 por Elisabeth Holmes. O documentário retrata a explosão da fraude cometida pela empresa, que garantiu uma revolução mundial por meio de testes de exames de sangue, e a capacidade de trapacear e persuadir da CEO.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ALITA: ANJO DE COMBATE[/COLOR][/B]</title>
+<link>$doregex[BP1]ALITANGDCMBT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Alita%20-%20Anjo%20de%20Combate.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Alita%20-%20Anjo%20de%20Combate.jpg</fanart>
+<info>Uma ciborgue é descoberta por um cientista. Ela não tem memórias de sua criação, mas possui grande conhecimento de artes marciais. Enquanto busca informações sobre seu passado, trabalha como caçadora de recompensas e descobre um interesse amoroso.</info>
 <date>2019</date>
 </item>
 
@@ -86,6 +99,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]HELLBOY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]HLBOYLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hellboy%202019.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hellboy%202019.jpg</fanart>
+<info>Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]O PEQUENO ÓRFÃO[/COLOR][/B]</title>
 <link>$doregex[BP1]OPQNORFAO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -121,6 +147,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</fanart>
 <info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ROTA DE FUGA 3: O RESGATE[/COLOR][/B]</title>
+<link>$doregex[BP1]RTADFGA3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%203%20-%20O%20Resgate.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rota%20de%20Fuga%203%20-%20O%20Resgate.jpg</fanart>
+<info>Terceira parte da franquia Rota de Fuga. Aqui a história retorna quando Breslin e DeRosa unem suas forças para resgatar um dos membros de seu time, mantido em cativeiro na penitenciária Devil&rsquo;s Station. A sinopse oficial ainda não foi divulgada.</info>
 <date>2019</date>
 </item>
 
