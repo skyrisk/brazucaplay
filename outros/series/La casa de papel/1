@@ -1,11 +1,11 @@
 <item>
-<title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]1ª TEMPORADA: PARTE 1[/COLOR][/B]</title>
 <link>here</link>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -15,7 +15,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -25,7 +25,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -35,7 +35,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -45,7 +45,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -55,7 +55,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -65,7 +65,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -75,7 +75,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -85,7 +85,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -95,7 +95,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -105,7 +105,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP11.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -115,7 +115,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP12.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -125,7 +125,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/La%20casa%20de%20papel/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[BP1]LCSDPLT01EP13.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
