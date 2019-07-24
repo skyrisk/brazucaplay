@@ -86,6 +86,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]POKÉMON: DETETIVE PIKACHU[/COLOR][/B]</title>
+<link>$doregex[BP1]PKMNDTCTVPKCH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</fanart>
+<info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]RASTROS DO ALÉM[/COLOR][/B]</title>
 <link>$doregex[BP1]RSTRSDALM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
