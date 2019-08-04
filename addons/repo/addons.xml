@@ -1,0 +1,142 @@
+<addons>
+<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.8" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
+<description>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDONATE[/COLOR][/B]</disclaimer>
+<news>
+[B][COLOR gold]v2.0.8 - CORREÇÃO DE AGOSTO DE 2019.[/COLOR][/B]
+[B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
+</news>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/home.jpg</screenshot>
+<screenshot>resources/movies.jpg</screenshot>
+<screenshot>resources/series.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+<addon id="plugin.video.Mais18Play" name="[B][COLOR white]+18 PLAY[/COLOR][/B]" version="2.0.0" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]ADD-ON COM CONTEÚDOS ADULTOS.[/COLOR]</summary>
+<description>[B][COLOR white]BRAZUCA PLAY +18.[/COLOR][/B]</description>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDOAR[/COLOR][/B]</disclaimer>
+<news>
+[B][COLOR gold]v2.0.0 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
+</news>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/inicial.jpg</screenshot>
+<screenshot>resources/channel.jpg</screenshot>
+<screenshot>resources/ondemand.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+<addon id="repository.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="1.1" provider-name="Brazuca Play">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>    
+<import addon="script.module.livestreamer"/>
+<import addon="script.module.pyamf"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+<import addon="script.module.addon.common"/>
+<import addon="script.module.addon.signals"/>
+</requires>
+<extension point="xbmc.addon.repository" name="REPOSITÓRIO BRAZUCA PLAY">
+<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<news>
+[B][COLOR white]V1.0 - VERSÃO BETA DO REPOSITÓRIO BRAZUCA PLAY.[/COLOR][/B]
+</news>
+<summary>Brazuca Play</summary>
+<description>[B][COLOR white]REPOSITÓRIO OFICIAL DO BRAZUCA PLAY - 2019[/COLOR][/B]</description>
+<disclaimer></disclaimer>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/home.jpg</screenshot>
+<screenshot>resources/movies.jpg</screenshot>
+<screenshot>resources/series.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+<addon id="plugin.video.f4mTester" version="2.7.1" name="[B][COLOR white]F4MTESTER[/COLOR][/B]" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.video.F4mProxy" version="2.7.1"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>PLUGIN F4M OFICIAL - SHANI</summary>
+<description></description>
+<platform>all</platform>
+</extension>
+</addon>
+<addon id="script.video.F4mProxy" 
+name="[B][COLOR white]F4MPROXY[/COLOR][/B]" version="2.8.7" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
+<requires>
+<import addon="xbmc.python" version="2.1.0" />
+<import addon="script.module.requests" />
+</requires>
+<extension point="xbmc.python.module" library="lib" />
+<extension point="xbmc.python.pluginsource" library="addon.py">
+<provides>executable</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<platform>all</platform>
+<summary lang="en">Proxy for f4m</summary>
+<description lang="en">[B][COLOR white]SCRIPT F4M OFICIAL - SHANI[/COLOR][/B]</description>
+</extension>
+</addon>
+</addons>
