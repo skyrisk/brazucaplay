@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="1.1" provider-name="Brazuca Play">
+<addon id="repository.BrazucaPlay" name="[B][COLOR white]REPO BRAZUCA PLAY[/COLOR][/B]" version="1.2" provider-name="Brazuca Play">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.beautifulsoup"/>
@@ -19,13 +19,15 @@
 <import addon="script.module.addon.signals"/>
 </requires>
 <extension point="xbmc.addon.repository" name="REPOSITÓRIO BRAZUCA PLAY">
-<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://skyrisk.github.io/brazucaplay/addons/repo/addons.xml</info>
+<checksum>https://skyrisk.github.io/brazucaplay/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://skyrisk.github.io/brazucaplay/addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <news>
-[B][COLOR white]V1.0 - VERSÃO BETA DO REPOSITÓRIO BRAZUCA PLAY.[/COLOR][/B]
+V1.2 - UPDATES CORRIGIDOS.
+V1.1 - PEQUENAS CORREÇÕES.
+V1.0 - VERSÃO INICIAL.
 </news>
 <summary>Brazuca Play</summary>
 <description>[B][COLOR white]REPOSITÓRIO OFICIAL DO BRAZUCA PLAY - 2019[/COLOR][/B]</description>
