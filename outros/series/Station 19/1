@@ -1,55 +1,106 @@
 <item>
-<title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]1ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x01/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x02/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x03/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP03.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x04/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP04.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x05/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x06/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2 [COLOR gold]LEG[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BrazucaPlay]|Referer=http://netcine.us/</link><regex><name>BrazucaPlay</name><expres>file: "(.*ALTO.*?)"</expres><page>$doregex[BrazucaPlayOne]</page></regex><regex><name>BrazucaPlayOne</name><expres>src="(.*)" fra</expres><page>$doregex[BrazucaPlayTwo]</page></regex><regex><name>BrazucaPlayTwo</name><expres>src="(.*leg.*?)" fra</expres>
-<page>http://netcine.us/episode/station19-1x07/</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/Station%2019/fanart.png</fanart>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP08.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>$doregex[BP1]STATN19T01EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Station%2019/fanart.jpg</fanart>
 </item>
