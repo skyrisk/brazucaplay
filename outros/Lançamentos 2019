@@ -4,84 +4,19 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>19/07/2019</date>
+<date>09/08/2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A ESPIÃ VERMELHA[/COLOR][/B]</title>
-<link>$doregex[BP1]AESPVRMLHA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Espi%C3%A3%20Vermelha.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Espi%C3%A3%20Vermelha.jpg</fanart>
-<info>Em 1938, a britânica Joan Stanley estudava física em Cambridge quando se apaixonou por um jovem comunista. Na mesma época, ela foi convocada pelo Comitê de Segurança Russo (KGB) para atuar como espiã do Governo de Stalin no Reino Unido. Depois de mais de cinquenta anos de serviço muito bem sucedidos, ela foi descoberta e presa pela Serviço de Inteligência Britânico (MI5).</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]A MALDIÇÃO DA CHORONA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMLDCAODCHRNA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Chorona.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Chorona.jpg</fanart>
-<info>Na Los Angeles da década de 1970, uma assistente social criando seus dois filhos sozinha depois de ser deixada viúva começa a ver semelhanças entre um caso que está investigando e a entidade sobrenatural La Llorona. A lenda conta que, em vida, La Llorona afogou seus filhos e depois se jogou no rio, se debulhando em lágrimas. Agora ela chora eternamente, capturando outras crianças para substituir os filhos.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]A MALDIÇÃO DA CHORONA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]AMLDCAODCHRNALEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Chorona.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Chorona.jpg</fanart>
-<info>Na Los Angeles da década de 1970, uma assistente social criando seus dois filhos sozinha depois de ser deixada viúva começa a ver semelhanças entre um caso que está investigando e a entidade sobrenatural La Llorona. A lenda conta que, em vida, La Llorona afogou seus filhos e depois se jogou no rio, se debulhando em lágrimas. Agora ela chora eternamente, capturando outras crianças para substituir os filhos.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]NEIL ARMSTRONG: A VERDADEIRA HISTÓRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]NELARMTNDAVDRHSTRA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CAPITÃ MARVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]CPTMRVL.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Neil%20Armstrong%20-%20A%20Verdadeira%20Hist%C3%B3ria.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Neil%20Armstrong%20-%20A%20Verdadeira%20Hist%C3%B3ria.jpg</fanart>
-<info>Fitas de áudio nunca antes ouvidas gravadas com Neil Armstrong durante os últimos anos de sua vida revelam um retrato íntimo deste icônico homem. Ilustrado através de fotografias pessoais inéditas e imagens de arquivo, este documentário especial leva os espectadores a uma viagem emocional pelos pensamentos e experiências do primeiro homem a pisar na Lua.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]NO CORAÇÃO DO OURO: O ESCÂNDALO DA SELEÇÃO AMERICANA DE GINÁSTICA[/COLOR][/B]</title>
-<link>$doregex[BP1]NCRCDOROESCDLDSLCAMRDGNSTC.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/No%20Cora%C3%A7%C3%A3o%20do%20Ouro%20-%20O%20Esc%C3%A2ndalo%20da%20Sele%C3%A7%C3%A3o%20Americana%20de%20Gin%C3%A1stica.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/No%20Cora%C3%A7%C3%A3o%20do%20Ouro%20-%20O%20Esc%C3%A2ndalo%20da%20Sele%C3%A7%C3%A3o%20Americana%20de%20Gin%C3%A1stica.jpg</fanart>
-<info>Uma profunda investigação sobre o escândalo que abalou os Estados Unidos e o mundo do esporte em 2017: nesse ano, uma série de abusos sexuais envolvendo Larry Nassar, o médico osteopata da equipe de ginástica olímpica feminina americana, veio à tona. Enquanto as vítimas dão detalhes sobre o que aconteceu a elas, detalhes dos crimes são revelados, assim como o encobrimento de todos eles.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]OBSESSÃO SECRETA[/COLOR][/B]</title>
-<link>$doregex[BP1]OBSESAOSCRTA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o%20Secreta.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o%20Secreta.jpg</fanart>
-<info>Após um terrivel ataque, uma mulher acorda com amnésia parcial. Agora, ela luta para recuperar a memória e para descobrir se pode confiar nas pessoas ao seu redor.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
+<info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
 <date>2019</date>
 </item>
 
@@ -99,28 +34,28 @@
 </item>
 
 <item>
-<title>[B][COLOR white]RASTROS DO ALÉM[/COLOR][/B]</title>
-<link>$doregex[BP1]RSTRSDALM.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]VINGADORES: ULTIMATO[/COLOR][/B]</title>
+<link>$doregex[BP1]VNGDRSULTMTO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rastros%20do%20Al%C3%A9m.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rastros%20do%20Al%C3%A9m.jpg</fanart>
-<info>O mundo atravessa um apocalipse que elimina parte da humanidade. No entanto, depois da catástrofe, vivos e mortos passam a viver juntos. Uma jovem passa nove anos neste local, levando uma rotina sem turbulências, até o dia em que é atacada. Ela precisa descobrir a origem do ataque enquanto luta pela sobrevivência.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</fanart>
+<info>Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</info>
 <date>2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]UM LUGAR SOMBRIO[/COLOR][/B]</title>
-<link>$doregex[BP1]UMLGRSMBIO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]VINGADORES: ULTIMATO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VNGDRSULTMTOLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Sombrio.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Lugar%20Sombrio.jpg</fanart>
-<info>Quando um jovem rapaz aparece morto em uma pacata cidade da Pensilvânia, um motorista de caminhão de limpeza local, Donald, torna-se detetive, embarcando em uma investigação precária e obsessiva para provar que o garoto foi assassinado.</info>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</fanart>
+<info>Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</info>
 <date>2019</date>
 </item>
 
