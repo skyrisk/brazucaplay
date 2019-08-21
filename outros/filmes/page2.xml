@@ -2,7 +2,7 @@
 <title>[B][COLOR white]CATEGORIA: [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/filmes-a-a-z</externallink>
+<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/filmes/page1.xml</externallink>
 <info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 </item>
@@ -99,7 +99,7 @@
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Igreja.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Igreja.jpg</fanart>
-<info>O ministro de uma igreja batista, outrora vibrante, que agora luta para sobreviver, é o único refúgio em um bairro decadente da Filadélfia, destinado à gentrificação. Mas, em última análise, a determinação do pregador de preservar o legado evangélico de sua família na comunidade e a minguada congregação se dissolve sob a pressão implacável de sua esposa em busca de status e líderes gananciosos da igreja &ndash; atraídos por subornos e promessas de desenvolvedores inescrupulosos para estabelecer um "mega- ministério "em outro lugar. Logo, os espíritos dos membros da congregação fundadores &ndash; agitados pela inquietação de seus túmulos pelas ofensas implacáveis ​​de outra geração &ndash; começam a tornar conhecido seu descontentamento. Quando os pecadores &ndash; abruptamente e inexplicavelmente ligados dentro dos limites do santuário &ndash; são presos.</info>
+<info>O ministro de uma igreja batista, outrora vibrante, que agora luta para sobreviver, é o único refúgio em um bairro decadente da Filadélfia, destinado à gentrificação. Mas, em última análise, a determinação do pregador de preservar o legado evangélico de sua família na comunidade e a minguada congregação se dissolve sob a pressão implacável de sua esposa em busca de status e líderes gananciosos da igreja &ndash; atraídos por subornos e promessas de desenvolvedores inescrupulosos para estabelecer um "mega- ministério "em outro lugar. Logo, os espíritos dos membros da congregação fundadores &ndash; agitados pela inquietação de seus túmulos pelas ofensas implacáveis ??de outra geração &ndash; começam a tornar conhecido seu descontentamento. Quando os pecadores &ndash; abruptamente e inexplicavelmente ligados dentro dos limites do santuário &ndash; são presos.</info>
 <date>2018</date>
 </item>
 <item>
@@ -260,7 +260,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A JANELA SECRETA[/COLOR][/B]</title>
-<link>$doregex[BP1]AJNLSCRT&gplusid1=6170852626248066913&gplusid2=6170852626166595970&gid=0B265dpk7MD54dzVSSDJ4THFpck0.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AJNLSCRT.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -284,7 +284,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A LAGOA AZUL[/COLOR][/B]</title>
-<link>$doregex[BP1]ALGOAZL&gplusid1=6204628199551838465&gplusid2=6204628198258226866&gid=0B265dpk7MD54Rnc2dXZuNXVjWDQ.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ALGOAZL.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -524,7 +524,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A LISTA[/COLOR][/B]</title>
-<link>$doregex[BP1]ALISTA2011&gplusid1=6175298459477547153&gplusid2=6175298461753742226&gid=0B265dpk7MD54eUxoQjhucDU1Rjg.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ALISTA2011.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -836,7 +836,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MÁQUINA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMQNA&gplusid1=6195265974402456417&gplusid2=6195265973596510306&gid=0B265dpk7MD54bGdhcktQVTFmb1k.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMQNA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -884,7 +884,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MARCA DO MEDO[/COLOR][/B]</title>
-<link>$doregex[BP1]AMRCDMDDUB&gplusid1=6127800825745565905&gplusid2=6127800827397733858&gid=0B265dpk7MD54ZE85V1IxRHF2STg.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMRCDMDDUB.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1016,7 +1016,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MENTIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMNTR&gplusid1=6175303827777914897&gplusid2=6175303823938634482&gid=0B265dpk7MD54eTBjV083UVdqRzA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMNTR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1100,7 +1100,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MORTE DO DEMÔNIO[/COLOR][/B]</title>
-<link>$doregex[BP1]AMRTDPDMNIO&gplusid1=6204644139997821969&gplusid2=6204644137561009282&gid=0B265dpk7MD54a0NVUXExUEpfaHc.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMRTDPDMNIO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1280,7 +1280,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MULHER DE PRETO[/COLOR][/B]</title>
-<link>$doregex[BP1]AMLHRDPRT01&gplusid1=6170866923115838609&gplusid2=6170866921015770482&gid=0B265dpk7MD54emdwVzhkU21mWFU.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMLHRDPRT01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1292,7 +1292,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MULHER DE PRETO 2: ANJO DA MORTE[/COLOR][/B]</title>
-<link>$doregex[BP1]AMLHRDPRT02&gplusid1=6175300279774383009&gplusid2=6175300276021742498&gid=0B265dpk7MD54U0p3V1Ztc2psWkU.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMLHRDPRT02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1304,7 +1304,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MULHER DE PRETO 2: ANJO DA MORTE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]AMLHRDPRT02LEG&gplusid1=6147119308941380401&gplusid2=6147119309196716690&gid=0B265dpk7MD54UVo2Mk9KbW0ydG8.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMLHRDPRT02LEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1340,7 +1340,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MÚMIA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMUMIA&gplusid1=6181988671400263153&gplusid2=6181988669779260194&gid=0B265dpk7MD54aFJES2F1Qm1SXzA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMUMIA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1364,7 +1364,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A MÚMIA: TUMBA DO IMPERADOR DRAGÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]AMUMIATMBDIMPRDDRG&gplusid1=6181988799247039345&gplusid2=6181988798448392002&gid=0B265dpk7MD54UTEwUVJCcEJ6b1k.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AMUMIATMBDIMPRDDRG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1400,7 +1400,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A NOITE DA VIRADA[/COLOR][/B]</title>
-<link>$doregex[BP1]ANTDVRDNAC&gplusid1=6127801918463901697&gplusid2=6127801916985268210&gid=0B265dpk7MD54bXEzN2RtX1pXeXM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ANTDVRDNAC.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1820,7 +1820,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A PEQUENA SEREIA[/COLOR][/B]</title>
-<link>$doregex[BP1]APQNSRAFILME01&gplusid1=6147124375479229681&gplusid2=6147124373169858066&gid=0B265dpk7MD54aFptWWlrT1JSMjA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]APQNSRAFILME01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1844,7 +1844,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A PEQUENA SEREIA II: O RETORNO PARA O MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]APQNSRAFILME02&gplusid1=6147124455764362097&gplusid2=6147124456102221426&gid=0B265dpk7MD54Tko1TXJ2U2NHazg.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]APQNSRAFILME02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2480,7 +2480,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A SAGA CREPÚSCULO: AMANHECER |PARTE 1|[/COLOR][/B]</title>
-<link>$doregex[BP1]ASGCRSPCLO04&gplusid1=6171593160678466289&gplusid2=6171593158904790178&gid=0B265dpk7MD54Y3MwOWYyakVON1k.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASGCRSPCLO04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2492,7 +2492,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A SAGA CREPÚSCULO: AMANHECER |PARTE 2|[/COLOR][/B]</title>
-<link>$doregex[BP1]ASGCRSPCLO05&gplusid1=6171596925177388673&gplusid2=6171596928378950306&gid=0B265dpk7MD54dmhCNzFGNEJNdjg.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASGCRSPCLO05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2504,7 +2504,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A SAGA CREPÚSCULO: ECLIPSE[/COLOR][/B]</title>
-<link>$doregex[BP1]ASGCRSPCLO03&gplusid1=6171592992416888577&gplusid2=6171592991354363074&gid=0B265dpk7MD54ZTJtU3FBZDZTd2M.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASGCRSPCLO03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2516,7 +2516,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A SAGA CREPÚSCULO: LUA NOVA[/COLOR][/B]</title>
-<link>$doregex[BP1]ASGCRSPCLO02&gplusid1=6171592886130921969&gplusid2=6171592888501824450&gid=0B265dpk7MD54SHJ2dlhSY00xUXM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASGCRSPCLO02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2528,7 +2528,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A SAGA VIKING[/COLOR][/B]</title>
-<link>$doregex[BP1]ASGVKNG&gplusid1=6165974536913066481&gplusid2=6165974539811476418&gid=0B265dpk7MD54TUsyUDFLLUJCdWs.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASGVKNG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3044,7 +3044,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A VIATURA[/COLOR][/B]</title>
-<link>$doregex[BP1]AVIATURA&gplusid1=6209772881042273297&gplusid2=6209772880784607986&gid=0B265dpk7MD54RWNvWWNMaktDQTA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AVIATURA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3079,7 +3079,7 @@
 <date>2015</date>
 </item>
 <item>
-<title>[B][COLOR white]A VIDA E ARTE DE STANISŁAW SZUKALSKI[/COLOR][/B]</title>
+<title>[B][COLOR white]A VIDA E ARTE DE STANISLAW SZUKALSKI[/COLOR][/B]</title>
 <link>$doregex[BP1]AVDAEARTDSTNTW.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3605,30 +3605,6 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Ador%C3%A1vel%20Professora.jpg</fanart>
 <info>Linda Sinclair (Julianne Moore) é uma professora de inglês solteira, que tem 40 anos e vive na pequena cidade de Kingston. Ela leva uma vida tranquila até reencontrar um antigo aluno, Jason Sherwood (Michael Angarano), que acaba de retornar à cidade. Jason tem o sonho de se tornar um grande autor teatral, mas está prestes a abandoná-lo devido à pressão de seu pai, Tom (Greg Kinnear), para que procure um emprego que possa sustentá-lo. Para ajudá-lo, Linda resolve encenar a peça escrita por Jason na escola em que trabalha, tendo como diretor o professor Carl Kapinas (Nathan Lane). Só que a situação faz com que ela deixe sua zona de conforto, especialmente quando percebe que sente algo mais por Jason.</info>
 <date>2013</date>
-</item>
-<item>
-<title>[B][COLOR white]ADRENALINA[/COLOR][/B]</title>
-<link>$doregex[BP1]ADRNLN.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Adrenalina.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Adrenalina.jpg</fanart>
-<info>Chev Chelios (Jason Statham) é um assassino profissional que deseja deixar o ramo de trabalho. Porém ele é envenenado com uma toxina chamada "Beijing Cocktail", que afeta a glândula supra-renal. Esta glândula cuida da produção de adrenalina no organismo, com a toxina forçando a diminuição constante dos batimentos cardíacos até sua parada total. Com pouco tempo de vida, Chev decide partir atrás de vingança.</info>
-<date>2006</date>
-</item>
-<item>
-<title>[B][COLOR white]ADRENALINA 2: ALTA VOLTAGEM[/COLOR][/B]</title>
-<link>$doregex[BP1]ADRNLN2.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Adrenalina%202%20-%20Alta%20Voltagem.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Adrenalina%202%20-%20Alta%20Voltagem.jpg</fanart>
-<info>Chev Chelios (Jason Statham) teve seu coração roubado, sendo substituído por uma bateria. Agora ele precisa carregá-la de tempos em tempos, com altas doses de eletricidade, caso contrário morre. Para sobreviver ele precisa encontrar o mafioso chinês responsável por sua atual situação.</info>
-<date>2009</date>
 </item>
 <item>
 <title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]3[/COLOR][/COLOR][/B]</title>
