@@ -3607,30 +3607,6 @@
 <date>1988</date>
 </item>
 <item>
-<title>[B][COLOR white]A HORA DO PESADELO 5 - O MAIOR HORROR DE FREDDY[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL05.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo5.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo5.jpg</fanart>
-<info>Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.</info>
-<date>1889</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO 6 - PESADELO FINAL - A MORTE DE FREDDY[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL06.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo6.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo6.jpg</fanart>
-<info>Maggie Burroughs (Lisa Zane) é uma psicóloga que consegue penetrar nos pensamentos de John Doe (Shon Greenblatt), onde Freddy Krueger (Robert Englund) o ameaça. O jovem, foragido de Springwood, a cidade onde Freddy apareceu pela primeira vez, é o último sobrevivente jovem da região. Desmemoriado, ele afirma ser o filho de Freddy.</info>
-<date>1991</date>
-</item>
-<item>
 <title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]2[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
