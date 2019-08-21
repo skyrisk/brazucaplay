@@ -2431,6 +2431,1194 @@
 <date>2017</date>
 </item>
 <item>
+<title>[B][COLOR white]APENAS UM SHOW: O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]APNSUSWOFILME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Apenas%20Um%20Show%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Apenas%20Um%20Show%20-%20O%20Filme.jpg</fanart>
+<info>Os amigos Mordecai e Rigby terão de unir as suas forças contra um treinador de vôlei que quer dominar o mundo com a ajuda de misteriosas forças do mal.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]APLICATIVO DA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]APPDMRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aplicativo%20da%20Morte.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aplicativo%20da%20Morte.jpg</fanart>
+<info>Uma jovem hacker cria um aplicativo de rede "antissocial" que coincide com os inimigos em vez dos amigos. Quando seus inimigos começam a aparecer mortos, ela deve descobrir quem ou o que está por trás disso antes que seja tarde demais.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]APOCALIPSE[/COLOR][/B]</title>
+<link>$doregex[BP1]APCLPSE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Apocalipse%20(2015).jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Apocalipse%20(2015).jpg</fanart>
+<info>Durante uma noite, a Terra entra em colapso por conta de terríveis criaturas que praticamente extinguem a raça humana. Dois sobreviventes e uma criança precisam lutar por suas vidas e tentam se esconder em um lugar esquecido por todos.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]APOLLO 11 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APLO11LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2011.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2011.jpg</fanart>
+<info>Com o plano de desembarcar dois astronautas na superfície lunar e regressar para a Terra em segurança, a missão Apollo 11 é até hoje uma grande referência quando se trata de momentos importantes na humanidade. Durante décadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualização do público no geral.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]APOLLO 13: DO DESASTRE AO TRIUNFO[/COLOR][/B]</title>
+<link>$doregex[BP1]APLO13DSTRAOTRFO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2013%20-%20Do%20Desastre%20Ao%20Triunfo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2013%20-%20Do%20Desastre%20Ao%20Triunfo.jpg</fanart>
+<info>Três astronautas americanos a caminho de uma missão na Lua sobrevivem à uma explosão, mas precisam retornar rapidamente à Terra para poderem sobreviver, pois correm o risco de ficarem sem oxigênio. Além disto existe o risco de, mesmo retornando, a nave ficar seriamente danificada, por não suportar o imenso calor na reentrada da órbita terrestre.</info>
+<date>1995</date>
+</item>
+<item>
+<title>[B][COLOR white]APOLLO 18: A MISSÃO PROIBIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]APLO18AMSAOPRBDA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2018%20-%20A%20Miss%C3%A3o%20Proibida.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Apollo%2018%20-%20A%20Miss%C3%A3o%20Proibida.jpg</fanart>
+<info>Oficialmente, a Apollo 17 foi a última missão tripulada à Lua, tendo sido lançada em 17 de dezembro de 1972. Só que, um ano depois, foi enviado ao satélite uma missão sigilosa, a Apollo 18, financiada pelo Departamento de Defesa dos Estados Unidos. Apenas dois astronautas foram enviados e ambos não sabiam o que estavam por enfrentar. Quando um deles encontra um capacete rachado em pleno solo lunar eles percebem que há algo de errado ali.</info>
+<date>2011</date>
+</item>
+<item>
+<title>[B][COLOR white]APÓS O FURACÃO MARIA[/COLOR][/B]</title>
+<link>$doregex[BP1]APSOFRCAOMARIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3s%20o%20Furac%C3%A3o%20Maria.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3s%20o%20Furac%C3%A3o%20Maria.jpg</fanart>
+<info>Mulheres porto-riquenhas são forçadas a fugir da ilha depois que o furacão Maria atingiu o local. Elas buscam estabilidade em sua nova vida enquanto as forças tentam separá-las.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]APOSENTADORIA VOLUNTÁRIA[/COLOR][/B]</title>
+<link>$doregex[BP1]APSTDRIAVLTAR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aposentadoria%20Volunt%C3%A1ria.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aposentadoria%20Volunt%C3%A1ria.jpg</fanart>
+<info>Um gerente de uma empresa de telecomunicações (Imanol Arias) está prestes a enfrentar a semana mais importante da sua vida, mas todos os planos serão interrompidos pela aparição de um personagem excêntrico (Dario Grandinetti) que vai fazer de sua semana um inferno.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]APOSTANDO TUDO[/COLOR][/B]</title>
+<link>$doregex[BP1]APSTNDTD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Apostando%20Tudo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Apostando%20Tudo.jpg</fanart>
+<info>Eddie Garrett (Jake Johnson) concorda em olhar uma bolsa para um conhecido que está indo para a prisão. Quando ele descobre que o que tem na sacola é dinheiro, não resiste à tentação e acaba gastando a grana. Quando o prisioneiro é solto mais cedo, Eddie tem uma pequena janela de tempo para ganhar todo o dinheiro de volta.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]APOSTASY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APSTSYLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Apostasy.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Apostasy.jpg</fanart>
+<info>As irmãs Alex e Luisa e sua mãe, Ivanna, são Testemunhas de Jeová. Alex admira sua irmã mais velha e se esforça para seguir os passos da mãe e ser também uma "boa testemunha". Mas Luisa começa a questionar o conselho dos Anciões e comete uma transgressão que ameaça expulsá-la da congregação.Enquanto Ivanna e Alex não conseguirem convencer Luisa a voltar atrás, devem evitá-la completamente. Esse desafio torna-se ainda mais doloroso quando a família enfrenta outro teste de fé.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]APÓSTOLO[/COLOR][/B]</title>
+<link>$doregex[BP1]APSTLO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ap%C3%B3stolo.jpg</fanart>
+<info>No ano de 1905, Thomas Richardson (Dan Stevens) viaja para uma ilha remota em busca de sua irmã. Um misterioso culto religioso a raptou e agora pede uma grande quantia de dinheiro por seu resgate. Porém, eles logo percebem que mexer com Thomas foi um erro e ele torna sua missão desencavar todas as mentiras sob as quais o culto foi construído.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]APÓSTOLO[/COLOR][/B]</title>
+<link>$doregex[BP1]APLOSAUMCDADSMLEI.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Appaloosa%20-%20Uma%20Cidade%20Sem%20Lei.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Appaloosa%20-%20Uma%20Cidade%20Sem%20Lei.jpg</fanart>
+<info>Virgil Cole (Ed Harris) e Everett Hitch (Viggo Mortensen) são pistoleiros contratados para que cuidem da cidade de Appaloosa, no velho oeste americano. O local é controlado por Randall Bragg (Jeremy Irons), um rancheiro que ordenou a morte do último xerife e que não respeita qualquer lei. Entretanto a tarefa de Virgil e Everett é prejudicada pela chegada de Alliso French (Renée Zellweger), uma jovem viúva.</info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]APPLESEED [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APLSDLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed.jpg</fanart>
+<info>Appleseed se passa num mundo que acabou de sofrer uma guerra não-nuclear, porém esta guerra foi tão longa, que ainda existem soldados pelo mundo que não sabem do fim dela. Um desses soldados é Deunan Knute, a protagonista do filme.No inicio do filme, ela está se defendendo de outros soldados quando um terceiro grupo entra e a captura. Esse grupo pertence a cidade, chamada Olympus que sobreviveu a guerra. A cidade é controlada por um super-computador, Gaia, regido por sete anciões, The Seven Wisest Men. Metade da população da cidade é Bioroid, um tipo de clone, criados para que a sociedade fique mais estável.</info>
+<date>2004</date>
+</item>
+<item>
+<title>[B][COLOR white]APPLESEED ALPHA[/COLOR][/B]</title>
+<link>$doregex[BP1]APLSDALPHDUB.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Alpha.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Alpha.jpg</fanart>
+<info>Appleseed Alpha será um reboot da história, mostrando os primeiros dias de Deunan e Briarios a procura da lendária cidade de Olympus.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]APPLESEED ALPHA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APLSDALPHLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Alpha.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Alpha.jpg</fanart>
+<info>Appleseed Alpha será um reboot da história, mostrando os primeiros dias de Deunan e Briarios a procura da lendária cidade de Olympus.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]APPLESEED EX MACHINA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APLSDEXMCHN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Ex%20Machina.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Appleseed%20Ex%20Machina.jpg</fanart>
+<info></info>
+<date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]APRENDENDO COM A VOVÓ[/COLOR][/B]</title>
+<link>$doregex[BP1]APRNDOCMAVO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Aprendendo%20Com%20a%20Vov%C3%B3.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Aprendendo%20Com%20a%20Vov%C3%B3.jpg</fanart>
+<info>Elle Reid (Lily Tomlin) se fechou para o mundo após perder sua parceira, com quem viveu durante 38 anos. Antissocial e com um senso de humor ácido, ela terá que sair de "sua bolha de proteção" quando sua neta pede ajuda. As duas enfrentam uma viagem de um dia, que faz Ellie ter que confrontar seu passado e florescer, enquanto a jovem terá que se preparar para enfrentar o futuro.</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]APRISIONADOS[/COLOR][/B]</title>
+<link>$doregex[BP1]APRSNDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aprisionados.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aprisionados.jpg</fanart>
+<info>Rachel, uma policial iniciando sua carreira, nem imagina os horrores que vai viver em um dos seus primeiros trabalhos. Contratada para para o turno da noite em uma delegacia em uma região isolada da Escócia, a jovem terá de enfrentar policiais de conduta duvidosa, moradores amedrontados e Six, um homem estranho que trará o inferno para a cidade.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]APROVADOS[/COLOR][/B]</title>
+<link>$doregex[BP1]APRVDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aprovados.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aprovados.jpg</fanart>
+<info>Bartleby Gaines (Justin Long) não é aprovado em nenhuma universidade e, para evitar a decepção dos pais, inventa um convite do fictício South Harmon Institute of Technology (S.H.I.T.). Seus amigos igualmente recusados também fazem uso da criação, mas a coisa fica séria quando os responsáveis passam a exigir maiores informações sobre o instituto. Determinado a levar a farsa adiante, o grupo se apropria de uma clínica abandonada, que logo é invadida por dezenas de estudantes reprovados.</info>
+<date>2006</date>
+</item>
+<item>
+<title>[B][COLOR white]AQUAMAN[/COLOR][/B]</title>
+<link>$doregex[BP1]AQAMN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aquaman.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aquaman.jpg</fanart>
+<info>Filho do humano Tom Curry (Temuera Morrison) com a atlante Atlanna (Nicole Kidman), Arthur Curry (Jason Momoa) cresce com a vivência de um humano e as capacidades metahumanas de um atlante. Quando seu irmão Orm (Patrick Wilson) deseja se tornar o Mestre dos Oceanos, subjugando os demais reinos aquáticos para que possa atacar a superfície, cabe a Arthur a tarefa de impedir a guerra iminente. Para tanto, ele recebe a ajuda de Mera (Amber Heard), princesa de um dos reinos, e o apoio de Vulko (Willem Dafoe), que o treinou secretamente desde a adolescência.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AQUAMAN [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1].mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Aquarion%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer04/imgs-videos/Aquarion%20Filme.jpg</fanart>
+<info></info>
+<date></date>
+</item>
+<item>
+<title>[B][COLOR white]AQUARIUS[/COLOR][/B]</title>
+<link>$doregex[BP1]AQRIS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aquarius.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Aquarius.jpg</fanart>
+<info>Clara (Sonia Braga) tem 65 anos, é jornalista aposentada, viúva e mãe de três adultos. Ela mora em um apartamento localizado na Av. Boa Viagem, no Recife, onde criou seus filhos e viveu boa parte de sua vida. Interessada em construir um novo prédio no espaço, os responsáveis por uma construtora conseguiram adquirir quase todos os apartamentos do prédio, menos o dela. Por mais que tenha deixado bem claro que não pretende vendê-lo, Clara sofre todo tipo de assédio e ameaça para que mude de ideia.</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]AQUI EM CASA TUDO BEM[/COLOR][/B]</title>
+<link>$doregex[BP1]AQEMCSTDBM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aqui%20Em%20Casa%20Tudo%20Bem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aqui%20Em%20Casa%20Tudo%20Bem.jpg</fanart>
+<info>Uma grande família se reúne em uma ilha em Nápoles para comemorar as bodas de ouro dos avós, Alba e Pietro. Porém, quando em meio as festividades uma tempestade faz com que o numeroso grupo fique preso na ilha, eles são obrigados a encarar os rancores e hipocrisias escondidos por muitos anos na família.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AQUI EM CASA TUDO BEM [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AQEMCSTDBMLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aqui%20Em%20Casa%20Tudo%20Bem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aqui%20Em%20Casa%20Tudo%20Bem.jpg</fanart>
+<info>Uma grande família se reúne em uma ilha em Nápoles para comemorar as bodas de ouro dos avós, Alba e Pietro. Porém, quando em meio as festividades uma tempestade faz com que o numeroso grupo fique preso na ilha, eles são obrigados a encarar os rancores e hipocrisias escondidos por muitos anos na família.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ARÁBIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARBIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ar%C3%A1bia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ar%C3%A1bia.jpg</fanart>
+<info>Em Ouro Preto, Minas Gerais, um jovem (Murilo Caliari) encontra por acaso o diário de um operário metalúrgico que sofreu um acidente e por suas memórias embarca numa jornada pelas condições de vida de trabalhadores marginalizados.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ARACNOFOBIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARCNFBIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aracnofobia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aracnofobia.jpg</fanart>
+<info>Ross Jennings (Jeff Daniels) é um médico que, juntamente com sua família, vai morar em uma cidade do interior da Califórnia. Quando todos os seus pacientes começam a morrer misteriosamente, passa-se a suspeitar gradativamente que as mortes tenham sido provocadas por aranhas que existem em sua casa.</info>
+<date>1990</date>
+</item>
+<item>
+<title>[B][COLOR white]ARCADE: VOCÊ VAI ENTRAR NESSE JOGO[/COLOR][/B]</title>
+<link>$doregex[BP1]ARDEVCVENTNSJGO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arcade%20-%20Voc%C3%AA%20Vai%20Entrar%20Nesse%20Jogo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arcade%20-%20Voc%C3%AA%20Vai%20Entrar%20Nesse%20Jogo.jpg</fanart>
+<info>Funcionário de uma oficina de reparo de fliperamas, Oz fica responsável por vigiar o local quando o dono precisa viajar por algum tempo. Ao fazer uma velha máquina funcionar, Oz parece despertar uma misteriosa energia sobrenatural que estava guardada lá e que o leva por uma jornada surreal dentro de um jogo diferente. Quanto mais tempo passa conectado ao aparelho, mais fora da realidade o rapaz fica, alucinando, sem saber o que é real e o que é imaginação. Quando ele conhece a bela Tess, é questão de tempo até que ela também se envolva com a máquina e a coisas fujam do controle.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]ARDIDA COMO PIMENTA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARDACMPMTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ardida%20como%20Pimenta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ardida%20como%20Pimenta.jpg</fanart>
+<info>Calamity Jane (Doris Day) é uma rude pistoleira do Velho Oeste, temida pelos próprios homens. Ela alimenta uma secreta paixão por Danny Gilmartin (Philip Carey), que a vê somente como uma amiga. O dono do saloon local encarrega Jane de buscar uma nova cantora para se apresentar lá e ela, equivocadamente, traz uma outra pessoa em seu lugar. Esta pessoa é Katie Brown (Allyn Ann McLerie), que irá ajudar Jane a se tornar mais feminina e a conquistar o amor de Danny. Mas o que a pistoleira ainda não sabe é que ela pode estar ganhando uma forte concorrente.</info>
+<date>1953</date>
+</item>
+<item>
+<title>[B][COLOR white]ÁREA 15[/COLOR][/B]</title>
+<link>$doregex[BP1]AR15.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/%C3%81rea%2015.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/%C3%81rea%2015.jpg</fanart>
+<info>Após uma grande festa, um grupo de estudantes universitários acorda e tem uma notícia perturbadora: os Estados Unidos foram consumidos por um apocalipse zumbi que se espalhou. Agora, sozinhos, eles acabam decidindo iniciar uma jornada para encontrar uma cura para a doença e restaurar a liberdade. O problema é que talvez já seja tarde.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ÁREA 51[/COLOR][/B]</title>
+<link>$doregex[BP1]AREA512015.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%81rea%2051%202015.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/%C3%81rea%2051%202015.jpg</fanart>
+<info>Os jovens Chris, Rob, Natalie e Paul resolvem viajar para o estado de Nevada para procurar um homem que diz trabalhar na famosa Area 51, conhecida por esconder todas as coisas relacionadas a seres extraterrestres e sempre negada pelo governo americano. O nome é Novak e disse para eles que tinha um vídeo que vai revelar de uma vez por todas os experimentos realizados com alienígenas. Entre eles, Paul é o mais cético e acha que tudo não passa de uma mentira, mas Chris acredita que a história é verdadeira.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]ARENA DOS SONHOS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]ARNDSNHS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arena%20dos%20Sonhos%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arena%20dos%20Sonhos%202.jpg</fanart>
+<info>Dakota Rose é uma garota, que próximo aos seus 18 anos de idade, descobre um segredo de família guardado até o momento. Confusa, ela resolve ir ao rancho do seu avô Austin Rose, uma lenda do rodeio, a fim de se concentrar em uma nova jornada na competição que toda sua família é voltada.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]ARISTOGATAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ARSTGTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aristogatas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aristogatas.jpg</fanart>
+<info>Para garantir o futuro da gata Duquesa e de seus três gatinhos, Marie, Berlioz e Toulouse, a rica madame Bonnefamille decide deixar para os animais todas as suas riquezas, para desespero do malvado mordomo Edgar.</info>
+<date>1970</date>
+</item>
+<item>
+<title>[B][COLOR white]ARIZONA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARZNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arizona.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arizona.jpg</fanart>
+<info>Depois de perder sua casa por dificuldades financeiras, um homem instável (Danny McBride) sequestra sua agente imobiliária e a força a um jogo mortal, por que acha que ela foi desonesta e ficou com o dinheiro de clientes como ele.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ARMADILHA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARMDLHA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Armadilha.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Armadilha.jpg</fanart>
+<info>Kuttappayi (Ashanth K. Shah), um jovem rapaz, encontra-se triste e desesperado quando começa a escrever uma carta para o avô em um lugar sombrio e escuro. As recordações de Kuttappayi nos levam aos locais pitorescos de Kuttanad, onde Kuttappayi e seu avô, Valiyappachayi (Vasudevan), estão chegando com seus patos. A aldeia é muito agradável, mas o motivo que o leva até lá é a morte de seus queridos pais. Com esperança e liberdade, ele está prestes a começar sua nova vida entre o carteiro da aldeia sem cartas, o cão sem nome, o rapaz rico e muitos outros.</info>
+<date>2012</date>
+</item>
+<item>
+<title>[B][COLOR white]ARMADOS E PERIGOSOS[/COLOR][/B]</title>
+<link>$doregex[BP1]ARMDSEPRGSOS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Armados%20e%20Perigosos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/Armados%20e%20Perigosos.jpg</fanart>
+<info>O policial Frank Dooley (John Candy) e o advogado Norman Kane (Eugene Levy) entram no ramo da segurança, após perderem seus respectivos empregos. Mas a empresa para qual eles trabalharão, presidida por um mafioso (Robert Loggia), nem sempre faz justiça.</info>
+<date>1986</date>
+</item>
+<item>
+<title>[B][COLOR white]ARMAGEDDON[/COLOR][/B]</title>
+<link>$doregex[BP1]ARMGDN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Armageddon.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Armageddon.jpg</fanart>
+<info>Após uma chuva de pequenos meteoros que atingem a Terra (incluindo Nova York), a NASA se dá conta de que um asteróide do tamanho do Texas está em um curso de colisão com o nosso planeta. O asteróide se aproxima da Terra à uma velocidade 35.000km/h. e, se o choque acontecer, qualquer forma de vida deixará de existir na Terra, exatamente como o que exterminou os dinossauros 65 milhões de anos atrás. Restando apenas 18 dias para o choque entre a Terra e o asteróide, a única solução possível é enviar astronautas em um ônibus espacial até a superfície do asteróide e lá perfurar 800 pés para colocar um bomba nuclear, detonando-a por controle remoto. Para cumprir tal missão é convocado o mais famoso perfurador de petróleo (Bruce Willis) a grandes profundidades do mundo, que exige formar sua equipe com técnicos que têm um comportamento nada convencional para os padrões do governo.</info>
+<date>1998</date>
+</item>
+<item>
+<title>[B][COLOR white]ARMAS NA MESA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARMSNMSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Armas%20na%20Mesa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Armas%20na%20Mesa.jpg</fanart>
+<info>Elizabeth Sloane (Jessica Chastain) é uma das lobistas mais poderosas dos Estados Unidos, conhecida por usar uma série de estratégias ilegais para atingir os seus objetivos. Um dia, é abordada para apoiar a bancada mais poderosa do congresso americano: os senadores pró-armas. Contrária à ideia, ela pede demissão e passa a trabalhar para o lado oposto, na intenção de conseguir leis mais rígidas para o porte de armas. Sloane começa a sofrer um série de ameças pessoais e profissionais, e começa a questionar os seus limites dentro desta profissão.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]ARN: O CAVALEIRO TEMPLÁRIO[/COLOR][/B]</title>
+<link>$doregex[BP1]ARNOCVLROTMPRIO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arn%20-%20O%20Cavaleiro%20Templ%C3%A1rio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arn%20-%20O%20Cavaleiro%20Templ%C3%A1rio.jpg</fanart>
+<info>Arn Magnusson (Joakim Nätterqvist) foi criado em um mosteiro, com o objetivo de ser um monge e um bravo guerreiro, um herói especializado em lutas de espada. Ao deixar o seu local de criação, em meio à guerra entre cristãos e muçulmanos, ele conhece Cecília (Sofia Helin) e se apaixona. Eles vivem um tórrido e inconsequente amor, contrariando todos os ensinamentos da Igreja, e acabam sendo punidos: Arn é enviado para lutar na Terra Santa como um cavaleiro templário e sua amada vai para um convento, onde sofrerá pelos seus atos e terá que viver sob voto de castidade.</info>
+<date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITE[/COLOR][/B]</title>
+<link>$doregex[BP1]ARNHCEUCRGMSMLMT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</fanart>
+<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ARRANHA-CÉU: CORAGEM SEM LIMITE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ARNHCEUCRGMSMLMTLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arranha-C%C3%A9u%20-%20Coragem%20Sem%20Limite.jpg</fanart>
+<info>Responsável pela segurança de arranha-céus, o veterano de guerra americano e ex-líder da operação de resgate do FBI, Will Ford (Dwayne Johnson), é acusado de ter colocado o edifício mais alto e mais seguro da China em chamas. Cabe ao agente então achar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome antes que seja tarde demais.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ARRASTE-ME PARA O INFERNO[/COLOR][/B]</title>
+<link>$doregex[BP1]ARSTMPROINFRNO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arraste-me%20para%20o%20Inferno.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arraste-me%20para%20o%20Inferno.jpg</fanart>
+<info>Los Angeles. Christine Brown (Alison Lohman) trabalha como analista de crédito e vive com seu namorado, o professor Clay Dalton (Justin Long). Um dia, para impressionar seu chefe, ela recusa o pedido de uma senhora (Lorna Raver) para conseguir um acréscimo em seu empréstimo, de forma que possa pagar sua casa. Como vingança ela joga uma maldição sobrenatural na vida de Christine.</info>
+<date>2009</date>
+</item>
+<item>
+<title>[B][COLOR white]ARTE DO DEMÔNIO[/COLOR][/B]</title>
+<link>$doregex[BP1]AARTDEMO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Arte%20do%20Dem%C3%B4nio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Arte%20do%20Dem%C3%B4nio.jpg</fanart>
+<info>Um homem rico e sua família são encontrados mortos. Enquanto as investigações prosseguem a polícia passa a desconfiar da amante do milionário, mas não encontra nenhuma evidência de sua participação. Seguindo uma espécie de intuição, um jovem repórter descobre que a arma do crime não foi uma faca, ou um revólver; em vez disso foi algo bem mais poderoso e mortal.</info>
+<date>2004</date>
+</item>
+<item>
+<title>[B][COLOR white]ARTE DO DEMONIO 2[/COLOR][/B]</title>
+<link>$doregex[BP1]ARTDDEMO2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Arte%20do%20Demonio%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Arte%20do%20Demonio%202.jpg</fanart>
+<info>O terror ganha uma nova explosão.... Arte do Demônio explora a sedutora professora de uma escola primária chamada Srta. Panor. Cativados por sua beleza e desesperados por ganhar seu coração, muitos dos homens do vilarejo simultaneamente fazem um feitiço de amor para ela. Mas aquela quantidade de feitiços foi demais para que uma só mulher aguentasse e a Srta. Panor começa a perder o contato com a realidade.</info>
+<date>2005</date>
+</item>
+<item>
+<title>[B][COLOR white]ARTISTA DO DESASTRE[/COLOR][/B]</title>
+<link>$doregex[BP1]OARTSTDSTRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Artista%20do%20Desastre.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Artista%20do%20Desastre.jpg</fanart>
+<info>Greg Sestero (Dave Franco) se aproxima do excêntrico Tommy Wiseau (James Franco) após uma aula de atuação e os dois desenvolvem uma intensa amizade ancorada no sonho em comum de fazer sucesso nas artes dramáticas. Juntos eles partem para Hollywood, onde Tommy, cansado de ser rejeitado em testes, decide produzir, financiar, dirigir, escrever e protagonizar &ndash; ao lado do melhor amigo &ndash; o longa-metragem que o catapultará ao estrelato: "The Room".</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]ÁRVORE DE SANGUE[/COLOR][/B]</title>
+<link>$doregex[BP1]ARVRDSNG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/%C3%81rvore%20de%20Sangue.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/%C3%81rvore%20de%20Sangue.jpg</fanart>
+<info>Um jovem casal desvenda segredos sombrios de seus ancestrais ao escrever a história em comum das famílias de ambos. E um dos dois precisa fazer uma confissão dolorosa.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AMAZONAS NA LUA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAMZNSNLUA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Amazonas%20na%20Lua.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Amazonas%20na%20Lua.jpg</fanart>
+<info>Uma série de pequenas histórias e paródias de filmes de ficção científica da televisão, num longa-metragem que tenta emular o hábito de "zapear" entre canais da televisão. Entre as vinhetas, além de sátiras de programas conhecidos e de comerciais de TV, aparecem episódios com um homem sendo atacado por seu próprio apartamento, um funeral recepcionado por comediantes e o filme de ficção científica do título, "As Amazonas na Lua", que brinca com os clichês das produções classe B dos anos 1950.</info>
+<date>1987</date>
+</item>
+<item>
+<title>[B][COLOR white]AS APIMENTADAS: #DESAFIO MUNDIAL[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAPMTDS6.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Desafio%20Mundial.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Desafio%20Mundial.jpg</fanart>
+<info>Vivica A. Fox faz sua estreia em "Bring It On" como Cheer Goddess, o mais popular "Cheer-lebrity" da Internet. Quando o Destiny (Prosperi), a capitã dos três campeões nacionais "The Rebels", é desafiada a um confronto mundial por uma nova equipe chamada "The Truth", a Deusa Cheer organiza uma batalha virtual para esquadrões de todo o mundo . Parece que o mundo inteiro quer derrubar Destiny e sua equipe, e eles só podem ter sucesso, a menos que Destiny possa enfrentar o desafio, afastar seu ego e descobrir quem são seus verdadeiros amigos.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS APIMENTADAS: AINDA MAIS APIMENTADAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAPMTDS5.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Ainda%20Mais%20Apimentadas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Ainda%20Mais%20Apimentadas.jpg</fanart>
+<info></info>
+<date>2009</date>
+</item>
+<item>
+<title>[B][COLOR white]AS APIMENTADAS: ENTRAR PARA GANHAR[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAPMTDS4.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Entrar%20para%20Ganhar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Entrar%20para%20Ganhar.jpg</fanart>
+<info>A veterana Carson (Ashley Benson) chega à principal competição de líderes de torcida determinada a vencer com sua equipe, os West High Sharks. Ela não contava com mesma ambição do time da novaiorquina Brooke (Cassie Scerbo), os East High Jets. As duas descobrem que a rivalidade não está apenas dentro de campo, mas também fora dele.</info>
+<date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]AS APIMENTADAS: MANDANDO VER[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAPMTDS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Mandando%20Ver.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Mandando%20Ver.jpg</fanart>
+<info>A jovem Whittier (Anne Judson-Yager) decide retomar os tempos de líder de torcida e junta-se com sua amiga Monica (Faune A. Chambers) à equipe oficial da Universidade de Stinger. As duas esbarram na esnobe e mandona capitã Tina (Bree Turner) e resolvem criar seu próprio grupo de meninas, reunindo todas as estudantes excluídas.</info>
+<date>2004</date>
+</item>
+<item>
+<title>[B][COLOR white]AS APIMENTADAS: TUDO OU NADA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAPMTDS3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Tudo%20ou%20Nada.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Apimentadas%20-%20Tudo%20ou%20Nada.jpg</fanart>
+<info>A jovem Britney Allen (Hayden Panettiere) é popular e vive o sonho de ser líder de torcida no colégio em que estuda, o Pacific Vista High School. O entusiasmo da estudante aumenta ainda mais quando ela descobre que a cantora Rihanna está realizando uma seleção de grupos de meninas para participar de seu novo videoclipe. No entanto, ela é obrigada a se mudar com a família para o bairro de Crenshaw Heights, onde não é bem recebida.</info>
+<date>2006</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DA LIGA DA JUSTIÇA: ARMADILHA DO TEMPO[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDLGDJSTCARMD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20da%20Liga%20da%20Justi%C3%A7a%20Armadilha%20do%20Tempo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20da%20Liga%20da%20Justi%C3%A7a%20Armadilha%20do%20Tempo.jpg</fanart>
+<info>Lex Luthor comanda a Legião do Mal que se divide em dois grupos, um no Polo Norte e outro no Espaço, em outro plano para subjugar a Humanidade, dessa vez através de alterações no clima. São surpreendidos pela Liga da Justiça e durante a luta, Luthor cai no Oceano Ártico e fica congelado. Mil anos depois, seu corpo está preso num bloco de gelo e mantido num museu cuidado pela Legião dos Super-Heróis. O vilão se liberta e usa uma ampulheta do tempo, fonte de poder da entidade maligna Senhor do Tempo, para voltar a época de seu congelamento e se reencontrar com seus asseclas da Legião do Mal. Reunidos em parte os vilões, imediatamente Luthor põe em andamento um novo plano, que consiste em voltar ao passado e evitar que Clark Kent se torne o Superman e forme a Liga da Justiça. Mas dois aspirantes a legionários, Vésper e Karatê Kid, viajaram no tempo também e avisam aos heróis da Liga sobre o novo poder do vilão.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE BRIGSBY BEAR[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDBGBYBER.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Brigsby%20Bear.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Brigsby%20Bear.jpg</fanart>
+<info>"Brigsby Bear Adventures" é um programa de TV infantil produzido para um público formado por uma pessoa: James (Kyle Mooney). Quando o show acaba de repente, a vida de James muda para sempre, e ele traça como objetivo terminar a história do programa sozinho.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE BRIGSBY BEAR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]BRGSBEARLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Brigsby%20Bear.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Brigsby%20Bear.jpg</fanart>
+<info>"Brigsby Bear Adventures" é um programa de TV infantil produzido para um público formado por uma pessoa: James (Kyle Mooney). Quando o show acaba de repente, a vida de James muda para sempre, e ele traça como objetivo terminar a história do programa sozinho.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE OZZY[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDOZY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Ozzy.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Ozzy.jpg</fanart>
+<info>Ozzy é um pacífico e amigável cão da raça Beagle que mora com os Martins. Quando a família decide fazer uma longa viagem na qual cães não são permitidos, eles decidem deixar o amado Ozzy em um spa para cachorros. Acontece que esse lugar perfeito na verdade é um fachada construída por um vilão que deseja sequestrar cachorros. Preso, Ozzy precisa evitar o perigo e encontrar força nos seus novos amigos para conseguir voltar a salvo para casa.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE PADDINGTON[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRDPNGTN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Paddington.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Paddington.jpg</fanart>
+<info>Paddington (voz de Ben Whishaw) foi criado na floresta do Peru pelos tios Pastuzo (voz de Michael Gambon) e Luzy (voz de Imelda Staunton), mas um terremoto acaba separando o trio. Diante disto, o pequeno urso é enviado pela tia para Londres, local onde mora um explorador que visitou o Peru décadas atrás. Paddington faz a viagem clandestinamente e, ao chegar, acaba indo para uma estação de trem. Lá ele conhece a família Brown, que decide ajudá-lo a encontrar o tal explorador. Só que a vida na civilização e entre humanos não é tão simples assim.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE PEABODY & SHERMAN[/COLOR][/B]</title>
+<link>$doregex[BP1].mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Paddington.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Paddington.jpg</fanart>
+<info></info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE PETER PAN[/COLOR][/B]</title>
+<link>$doregex[BP1]PTRPN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Peter%20Pan.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Peter%20Pan.jpg</fanart>
+<info>Londres. Peter Pan (Bobby Driscoll/ Lauro Fabiano), o garoto que se recusa a crescer, espreita a casa dos Darling, pois Wendy (Kathryn Beaumont/ Therezinha), a mais velha dos filhos do casal Darling, crê que ele exista e já convenceu seus irmãos, João (Paul Collins) e Miguel (Tommy Luske). Wendy tem certeza disto, pois Peter Pan perdeu sua sombra. Aproveitando a ausência dos pais de Wendy, ele vai até a casa dela. Após recuperar sua sombra, Peter Pan ensina a Wendy, João e Miguel o que devem fazer para voar: pensar em algo bom e usar um um pó mágico, que uma pequena fada, Sininho, joga sobre eles. Peter leva as três crianças para um passeio na Terra do Nunca, um ilha encantada que é o lar de Peter, Sininho, os Garotos Perdidos e um maquiavélico pirata, o Capitão Gancho (Hans Conried/ Aloysio de Oliveira), que jurou se vingar de Peter. Gancho perdeu uma de suas mãos em um duelo com Peter Pan, com ela tendo sido comida por um crocodilo que agora segue sempre o navio do Capitão Gancho, pois quer comer o resto. Tudo realmente se complica quando Sininho fica com muito ciúme de Wendy e quer prejudicá-la.</info>
+<date>1953</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE PI[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTDPI.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Pi.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Pi.jpg</fanart>
+<info>Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.</info>
+<date>2012</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE ROBINSON CRUSOÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDRBNSCRSOE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20de%20Robinson%20Cruso%C3%A9.jpg</fanart>
+<info>Em uma pequena e exótica ilha, Tuesday, um papagaio pensa que viver naquele paraíso é muito pouco para ele - e está amadurecendo seu desejo de conhecer o mundo. Depois de uma violenta tempestade, a ilha recebe um refugiado: Robinson Crusoe. O que começa com um jogo de interesses, já que o pássaro vê no rapaz um bilhete para fora da ilha, e o rapaz, em Tuesday, uma forma de sobreviver naquele lugar, vai se desenvolver para uma profunda relação de amizade e companheirismo - que vai ensinar aos dois o poder da parceria.</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE SCOOBY-DOO: O MAPA MISTERIOSO[/COLOR][/B]</title>
+<link>$doregex[BP1].mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Scooby-Doo%20-%20O%20Mapa%20Misterioso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Scooby-Doo%20-%20O%20Mapa%20Misterioso.jpg</fanart>
+<info></info>
+<date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE SHARKBOY E LAVAGIRL[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDSHKBYELVRGRL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Aventuras%20de%20SharkBoy%20e%20LavaGirl.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Aventuras%20de%20SharkBoy%20e%20LavaGirl.jpg</fanart>
+<info>Max (Cayden Boyd) é um solitário garoto de 10 anos, que se perde em seu próprio mundo de fantasia para escapar das confusões diárias decorrentes do contato com seus pais, dos valentões da escola e de férias de verão nem um pouco divertidas. Porém quando Max descobre que os super-heróis que existem em sua imaginação podem ser bem mais reais do que ele imaginava, seu mundo se transforma completamente. Max parte em uma viagem interplanetária rumo ao planeta Baba, onde conhece Sharkboy (Taylor Lautner), um garoto metade tubarão e metade humano que foi criado por tubarões após se perder no mar, e Lavagirl (Taylor Dooley), uma jovem vulcânica que lança chamas e pedras incandescentes. O planeta Baba parece um paraíso infantil, repleto de montanha-russas gigantescas e com um céu violeta, mas o lugar enfrenta uma perigosa ameaça: o Sr. Elétrico (George Lopez), que tem por objetivo acabar com os sonhos para sempre. Com Sharkboy e Lavagirl em perigo cabe a Max salvá-los, tendo que usar sua imaginação para conseguir derrotar o Sr. Elétrico.</info>
+<date>2005</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE TADEO[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDTAD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20De%20Tadeo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20De%20Tadeo.jpg</fanart>
+<info>Tadeo (Óscar Barberán) é um trabalhador simples, mas de espírito aventureiro e sonhador, que vive em Chicago. Um dia, ele é confundido com um arqueólogo bastante conhecido e, por causa disto, é enviado para uma expedição no Peru. Lá ele precisa enfrentar uma organização criminosa que, especializada em roubar tesouros, deseja agora saquear uma mítica cidade inca que acaba de ser descoberta. Para impedir que isto aconteça, Tadeo conta com a ajuda de seu fiel cachorro Jeff, a professora de arqueologia Sara (Michelle Jenner) e o guia Freddy (José Mota).</info>
+<date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE TADEO 2: O SEGREDO DO REI MIDAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDTAD2OSGRNDRM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Tadeo%202%20-%20O%20Segredo%20do%20Rei%20Midas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20de%20Tadeo%202%20-%20O%20Segredo%20do%20Rei%20Midas.jpg</fanart>
+<info>Tadeo, pedreiro e aspirante a arqueólogo, é muito aventureiro e sempre se mete em grandes aventuras. Quando ele descobre que o colar do rei Midas, que transformava tudo que tocava em ouro, existiu de verdade, ele logo sai numa jornada com seus amigos rumo a Los Angeles. Mas um problema surge quando Sara, uma de suas amigas, desaparece misteriosamente.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE TINTIM - O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]AAVTRSDTNFILME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Tintim%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Aventuras%20de%20Tintim%20Filme.jpg</fanart>
+<info>Tintim (Jamie Bell) é um jovem repórter, que está sempre atrás de boa matéria. Um dia, ele vê à venda na rua o modelo de um galeão antigo e resolve comprá-lo. Logo dois outros interessados o abordam, querendo adquirir o objeto, mas Tintim não o vende. Ele leva o galeão à sua casa, onde o coloca em destaque. Só que a entrada de um gato faz com que Milu, seu cachorro, o persiga dentro de casa e, por acidente, derrube o galeão. Ele fica danificado e um pequeno cilindro sai de seu interior, sem que Tintim perceba. Logo Tintim e Milu vão à biblioteca, onde tentam encontrar mais informações sobre o navio retratado no modelo. Ao retornar percebem que o galeão foi roubado. Tintim vai até a mansão recentemente comprada pelo doutor Sakharine (Daniel Craig), um dos interessados em comprar o modelo, mas nada descobre. Ao retornar ele encontra o cilindro e percebe que, dentro dele, há uma pista para um tesouro perdido. É o início de uma nova aventura, onde Tintim e Milu se juntam ao capitão Haddock (Andy Serkis) na disputa contra Sakharine para encontrar o tesouro.</info>
+<date>2011</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DO BARÃO MUNCHAUSEN[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTSDBARMNCHSN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20do%20Bar%C3%A3o%20Munchausen.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Aventuras%20do%20Bar%C3%A3o%20Munchausen.jpg</fanart>
+<info>As fantásticas histórias do maior mentiroso de todos os tempos. Enquanto tenta escapar da morte, encontrar seus amigos e salvar a cidade do ataque dos turcos, o Barão relembra a aposta com o Califa, a visita à Lua, a dança com Afrodite, entre outras aventuras.</info>
+<date>1988</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DO CAPITÃO CUECA: O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDCAPCUC.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20do%20Capit%C3%A3o%20Cueca.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Aventuras%20do%20Capit%C3%A3o%20Cueca.jpg</fanart>
+<info>Jorge e Haroldo são amigos inseparáveis, tanto no colégio quanto na casa na árvore que mantém juntos, onde se dedicam a escrever histórias em quadrinhos do Capitão Cueca, super-herói por eles inventado. Ambos adoram se divertir na base de pegadinhas, especialmente em relação aos professores e ao rabugento diretor Krupp. Quando são ameaçados de serem separados de turma, Jorge usa um anel hipnótico contra o diretor, que faz com que ele obedeça a todas as suas ordens. É quando a dupla tem a ideia de transformá-lo no próprio Capitão Cueca.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DO PEQUENO SPIROU[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDPQNSPR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Aventuras%20do%20Pequeno%20Spirou.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Aventuras%20do%20Pequeno%20Spirou.jpg</fanart>
+<info>Anos antes das peripécias ao lado de Fantásio, Spirou é uma criança que adora a escola e os amigos, mas o seu destino já está traçado: ir para uma academia aprender a ser ascensorista, uma tradição familiar. Antes de partir para essa vida, porém, está determinado a ter uma última aventura com as pessoas que vai deixar para trás, além de declarar o seu amor pela rapariga por quem está apaixonado. Com realização de Nicolas Bary, uma adaptação em imagem real da saga "O Pequeno Spirou", que conta as histórias de Spirou, de "Spirou e Fantásio", a popular banda desenhada franco-belga criada por Robert Velter.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS BARREIRAS DO AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]ASBRERSDAMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Barreiras%20do%20Amor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Barreiras%20do%20Amor.jpg</fanart>
+<info>Jay Ray (Hrithik Roshan) é um jovem que sempre tentou se dar bem e sempre teve seu jeitinho para tanto. Porém, ele é capturado e jogado no deserto entre a fronteira do México com os Estados Unidos. Enquando Jay luta para sobreviver, conhece uma mulher por quem se apaixona intensamente. Ele iniciam um romance, mas ela é a namorada um homem muito poderoso. Para viverem em paz, os amantes precisam fugir de tudo e recomeçar a vida.</info>
+<date>2010</date>
+</item>
+<item>
+<title>[B][COLOR white]AS BOAS MANEIRAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASBOSMNRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Boas%20Maneiras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Boas%20Maneiras.jpg</fanart>
+<info>Ana (Marjorie Estiano) contrata Clara (Isabél Zuaa), uma solitária enfermeira moradora da periferia de São Paulo, para ser babá de seu filho ainda não nascido. Conforme a gravidez vai avançando, Ana começa a apresentar comportamentos cada vez mais estranhos e sinistros hábitos noturnos que afetam diretamente Clara.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS BRANQUELAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASBRNQLS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Branquelas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Branquelas.jpg</fanart>
+<info>Os irmãos Marcus (Marlon Wayans) e Kevin Copeland (Shawn Wayans) são detetives do FBI que estão com problemas no trabalho. A última investigação da dupla foi um grande fracasso e eles estão sob a ameaça de serem demitidos. Quando um plano para sequestrar as mimadas irmãs Brittany (Maitland Ward) e Tiffany Wilson (Anne Dudek) é descoberto, o caso é entregue aos principais rivais dos irmãos Copeland, os agentes Vincent Gomez (Eddie Velez) e Jack Harper (Lochlyn Munro). Para aumentar ainda mais a humilhação da dupla, eles são escalados para escoltar as jovens mimadas do aeroporto até o local de um evento pelo qual elas esperaram por meses. Porém no trajeto um acidente de carro provoca um verdadeiro desastre: enquanto uma das irmãs arranha o nariz, a outra corta o lábio. Desesperadas, elas se recusam a ir ao evento. É quando,para salvar o emprego, Marcus e Kevin decidem por assumir as identidades das irmãs.</info>
+<date>2004</date>
+</item>
+<item>
+<title>[B][COLOR white]AS BRUMAS DE AVALON[/COLOR][/B]</title>
+<link>$doregex[BP1]ASBRMSDAVLN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Brumas%20de%20Avalon.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Brumas%20de%20Avalon.jpg</fanart>
+<info>Morgana (Julianna Margulies) recorda que a maioria do que foi dito sobre o Rei Arthur (Edward Atherton) e aqueles que o cercavam é mentira, pois, como sacerdotisa de Avalon, onde nasceu a religião da Deusa-Mãe, viveu estes acontecimentos, que começaram quando acontece o maior levante já visto na Bretanha. Os saxões varriam o país matando igualmente cristãos e seguidores da deusa de Avalon. Se um grande líder não unisse cristãos e pagãos, a Bretanha estaria condenada ao barbarismo e Avalon ao desaparecimento. Gorlois (Clive Russell), o pai de Morgana, lutava incansavelmente contra as hordas de saxões. Nesta época Morgana era apenas uma criança, que vivia na Cornuália com Igrane (Caroline Goodall), sua mãe, que era ainda uma seguidora da antiga religião e praticava secretamente a antiga magia. Morgause (Joan Allen), a irmã de Igrane, também lá morava e apreciava o poder de Avalon. Um dia Viviane (Anjelica Huston), que também tia de Morgana e, principalmente, era a grã-sacerdotisa de Avalon, passou a visar apenas um objetivo: salvar Avalon dos saxões. Ela teve uma visão que o rei morreria em 6 meses, sem deixar herdeiros. Viviane comunica a Igrane que ela irá gerar este líder, mas não com Gorlois, seu marido, e sim com um homem que usa o símbolo do dragão e é um seguidor da deusa. A idéia desagrada Igrane, sendo que Morgause diz que não tem marido a quem trair e também tem o sangue de Avalon, assim quer fazer este homem se apaixonar por ela e gerar esta criança. Viviane se opõe, dizendo que ninguém pode viver o destino de outro, e fala para Morgause que ela tem um rei e filhos no seu futuro, mas não dá explicações. Viviane planeja salvar Avalon através da unção e treinamento de sua sobrinha, Morgana, como sua sucessora, manipulando a linhagem real para gerar Arthur, um rei que abraçará tanto as crenças pagãs quanto o cristianismo. Desta forma Avalon seria salva, pois a ilha é o centro pagão do poder e um mundo místico invisível para aqueles que não crêem. Porém, conforme o cristianismo avança pela Inglaterra e mais pessoas se afastam da Deusa, esse reino misterioso se torna difícil de alcançar até mesmo para os que têm fé, com a ambiciosa Morgause se empenhando em frustrar seus planos. Viviane tem um temperamento determinado e boas intenções, mas comete um erro que atingirá Morgana pessoalmente e afetará toda a Bretanha.</info>
+<date>2001</date>
+</item>
+<item>
+<title>[B][COLOR white]AS BRUXAS AMISH[/COLOR][/B]</title>
+<link>$doregex[BP1]ASBXSAMSH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Bruxas%20Amish.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Bruxas%20Amish.jpg</fanart>
+<info>Uma equipe de televisão chega na cidade para documentar fatos sobre uma seita isolada de Amish. Mas seus planos mudam, e as filmagens são interrompidas após a morte de uma bruxa amish. Após o funeral da bruxa, os habitantes da cidade tentam convencer a empresa de produção a documentar as atividades paranormais que começaram a assolá-los.</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CALOURAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCLRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Calouras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Calouras.jpg</fanart>
+<info>Três amigas abrem suas cartas de aceitação da faculdade ao mesmo tempo durante uma grande festa de fim de ano, mas a decepção das cartas faz com que a noite vire uma grande bagunça.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CRIATURAS ATRÁS DAS PAREDES[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRTURSARSDPRDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Criaturas%20Atr%C3%A1s%20das%20Paredes.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Criaturas%20Atr%C3%A1s%20das%20Paredes.jpg</fanart>
+<info>Fool (Brandon Quintin Adams) é um pobre menino negro que está prestes a ser despejado e com uma mãe doente pra cuidar. Desesperado, ele acaba topando participar de um assalto à uma casa com Leroy (Ving Rhames), namorado de sua irmã. Mas ao entrarem lá, Fool percebe a má índole do misterioso casal que mora ali (Everett McGill e Wendy Robie), que vem mantendo sua filha Alice (A.J. Langer) trancada desde a infância e escondem um terrível segredo. Agora, o jovem vai ter que enfrentar os perigos dos diversos sádicos dispositivos de segurança para conseguir escapar com vida daquela sinistra casa.</info>
+<date>1992</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CRÔNICAS DE NÁRNIA: A VIAGEM DO PEREGRINO DA ALVORADA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRNCSDNRNAVGMDPRGNDALV.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20A%20Viagem%20do%20Peregrino%20da%20Alvorada.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20A%20Viagem%20do%20Peregrino%20da%20Alvorada.jpg</fanart>
+<info>Lúcia (Georgie Henley), Edmundo (Skandr Keynes) e Eustáquio (Will Poulter) retornam para Nárnia, onde encontram com príncipe Caspian (Ben Barnes), agora rei, e outros amigos. Buscando os Sete Fidalgos Desaparecidos de Telmar, eles começam uma nova aventura a bordo do navio Peregrino da Alvorada e irão encarar guerreiros, dragões, anões e tritões.</info>
+<date>2010</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CRÔNICAS DE NÁRNIA: O LEÃO, A FEITICEIRA E O GUARDA-ROUPA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRNCSDNRNOLEAFETEOGRDRP.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20O%20Le%C3%A3o,%20a%20Feiticeira%20e%20o%20Guarda-Roupa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20O%20Le%C3%A3o,%20a%20Feiticeira%20e%20o%20Guarda-Roupa.jpg</fanart>
+<info>Lúcia (Georgie Henley), Susana (Anna Popplewell), Edmundo (Skandar Keynes) e Pedro (William Moseley) são quatro irmãos que vivem na Inglaterra, em plena 2&ordf; Guerra Mundial. Eles vivem na propriedade rural de um professor misterioso, onde costumam brincar de esconde-esconde. Em uma de suas brincadeiras eles descobrem um guarda-roupa mágico, que leva quem o atravessa ao mundo mágico de Nárnia. Este novo mundo é habitado por seres estranhos, como centauros e gigantes, que já foi pacífico mas hoje vive sob a maldição da Feiticeira Branca, Jadis (Tilda Swinton), que fez com que o local sempre estivesse em um pesado inverno. Sob a orientação do leão Aslam, que governa Nárnia, as crianças decidem ajudar na luta para libertar este mundo do domínio de Jadis.</info>
+<date>2005</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CRÔNICAS DE NÁRNIA: PRÍNCIPE CASPIAN[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRNCSDNRNPRNCPCASPAN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20Pr%C3%ADncipe%20Caspian.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Cr%C3%B4nicas%20de%20N%C3%A1rnia%20-%20Pr%C3%ADncipe%20Caspian.jpg</fanart>
+<info></info>
+<date>2008</date>
+</item>
+<item>
+<title>[B][COLOR white]AS CRÔNICAS DE SPIDERWICK[/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRNCSDSPRWCK.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Cr%C3%B4nicas%20de%20Spiderwick.jpg</fanart>
+<info>Quando a família Grace se muda de Nova York para o velho casarão de um tio-avô, Arthur Spiderwick (David Strathairn), fatos estranhos começam a acontecer. Misteriosos desaparecimentos e acidentes ocorrem diariamente, o que intrigam os irmãos Jared (Freddie Highmore), Simon (Freddie Highmore) e Mallory (Sarah Bolger). Eles decidem investigar a casa e encontram um livro mágico, que os leva a um mundo repleto de criaturas mágicas e, às vezes, perigosas.</info>
+<date>2008</date>
+</item>
+<item>
+<title>[B][COLOR white]AS DELÍCIAS DA TARDE[/COLOR][/B]</title>
+<link>$doregex[BP1]ASDLCSDTRD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Del%C3%ADcias%20da%20Tarde.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Del%C3%ADcias%20da%20Tarde.jpg</fanart>
+<info>Em Los Angeles, Rachel é uma dona de casa que enfrenta problemas em seu casamento, por ter perdido os momentos de intimidade com o marido. Um dia, ela aceita a proposta de uma amiga para visitar um clube de striptease, apenas por diversão. No local, ela conhece a jovem prostituta McKenna, e fica inconformada com esta profissão. Rachel decide então salvar a garota, levando-a para a sua casa e buscando novos rumos à vida de McKenna. Mas a dona de casa terá que enfrentar os seus próprios medos a partir do momento em que colocar uma prostituta dentro de sua casa.</info>
+<date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]AS DIVERSAS FACES DE ITO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ASDVRSFCSDITOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Diversas%20Faces%20de%20Ito.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Diversas%20Faces%20de%20Ito.jpg</fanart>
+<info>O dorama dará destaque à personagem Yazaki Rio. Um dia, ao dar uma palestra, ela percebe que quatro mulheres estão saindo com o mesmo homem. Com isso, Yazaki decide escrever um roteiro de um dorama com base na história de amor dessas mulheres, que ela apelida de A, B, C e D.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS DUAS IRENES[/COLOR][/B]</title>
+<link>$doregex[BP1]ASDUSIRNS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Duas%20Irenes.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Duas%20Irenes.jpg</fanart>
+<info></info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS EXCLUÍDAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASEXCLDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Exclu%C3%ADdas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Exclu%C3%ADdas.jpg</fanart>
+<info>Depois de serem vítimas de uma brincadeira humilhante pela Abelha Rainha da escola, as melhores amigas nerds, Mindy e Jodi, decidem começar uma vingança escolar reunindo todos os nerd que já foram pisados por ela. Porém no meio da guerra é que a amizade de Jodi e Mindy será provada.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS FÁBULAS NEGRAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASFBLSNGRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20F%C3%A1bulas%20Negras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20F%C3%A1bulas%20Negras.jpg</fanart>
+<info>Quatro garotos brincam de super-heróis no meio do mato. Em um intervalo nas brincadeiras, eles passam a contar histórias repletas de suspense e terror, supostamente veridicas, envolvendo lendas urbanas e mitos do folclore brasileiro.O Monstro do Esgoto, de Rodrigo AragãoO prefeito de uma cidade se recusa a investir no tratamento do esgoto, preferindo embolsar o dinheiro que seria gasto nesta obra. Com isso, o esgoto é despejado bem na frente de um homem que, desesperado, tenta resolver o problema com todo tipo de autoridade pública.Pampa Feroz, de Petter BaiestorfA ameaça de um lobisomem faz com que dois capangas partam para enfrentá-lo. Um deles está apaixonado pela filha do coronel local, o que lhe traz sérios problemas.O Saci, de José Mojica MarinsUm homem despreza o conselho de Pai Pedro de respeitar o povo da mata e entra no bambuzal à noite, por conta própria. Tal arrogância desperta o saci, que passa a perseguir não só a ele, mas também a mulher pela qual é apaixonado.A Loira do Banheiro, de Joel CaetanoAprisionada em um banheiro sujo, onde é obrigada a invocar a loira do banheiro, uma garota é morta pelo espírito. Só que a brincadeira de mau gosto não era direcionada a ela, mas sim à uma amiga que, agora, é enviada a um colégio interno. Lá ela precisa lidar com o bullying das colegas e ainda a arrogância da diretora.A Casa de Iara, de Rodrigo AragãoAlertada por um monstro, Iara descobre que seu marido a está traindo. É o suficiente para que ela elabore um plano para matá-lo, sem dó nem piedade.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]AS FACES DE TONI ERDMANN[/COLOR][/B]</title>
+<link>$doregex[BP1]ASFCSDTNERDM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Faces%20de%20Toni%20Erdmann.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Faces%20de%20Toni%20Erdmann.jpg</fanart>
+<info>Winfried (Peter Simonischek) é um senhor que gosta de levar a vida com bom humor, fazendo brincadeiras que proporcionem o riso nas pessoas. Seu jeito extrovertido fez com que se afastasse de sua filha, Ines (Sandra H&uuml;ller), sempre sisuda e extremamente dedicada ao trabalho. Percebendo o afastameto, Winfried decide visitar a filha na cidade em que ela mora, Bucareste. A iniciativa não dá certo, resultando em vários enfrentamentos entre pai e filha, o que faz com que ele volte para casa. Tempos depois, Winfried ressurge na vida de Ines sob o alter-ego de Toni Erdmann, especialista em contar mentiras bem-intencionadas a todos que ela conhece.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS FANTÁSTICAS AVENTURAS DE SPIROU E FANTÁSIO[/COLOR][/B]</title>
+<link>$doregex[BP1]ASFNTSTACNTSPREFNTSIO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Fant%C3%A1sticas%20Aventuras%20de%20Spirou%20e%20Fant%C3%A1sio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Fant%C3%A1sticas%20Aventuras%20de%20Spirou%20e%20Fant%C3%A1sio.jpg</fanart>
+<info>Spirou e Fantasio não têm nenhuma chance de se tornarem amigos. No entanto, quando o Conde de Champignac, um brilhante inventor excêntrico, é sequestrado pelos comparsas do infame Zorglub, os dois heróis embarcam imediatamente para a missão. Acompanhados pela jornalista Seccotine e por SPIP, esquilo travesso, eles partem para uma perseguição frenética entre a Europa e África. Spirou e Fantasio terão de se unir para salvar Champignac ... e, incidentalmente, o mundo!</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS FÉRIAS DO PEQUENO NICOLAU[/COLOR][/B]</title>
+<link>$doregex[BP1]ASFERSDPQNONCL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20F%C3%A9rias%20do%20Pequeno%20Nicolau.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20F%C3%A9rias%20do%20Pequeno%20Nicolau.jpg</fanart>
+<info>Termina o ano letivo. Nicolau (Mathéo Boisselier), seus pais e a avó viajam para o litoral com o objetivo de aproveitar ao máximo o verão. Na praia o menino faz novos amigos e conhece uma garota, Isabelle (Erja Malatier), que ele acredita ser sua futura esposa.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS FITAS DE POUGHKEEPSIE[/COLOR][/B]</title>
+<link>$doregex[BP1]ASFTSDPUGKPS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Fitas%20de%20Poughkeepsie.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/As%20Fitas%20de%20Poughkeepsie.jpg</fanart>
+<info>Centenas de fitas cassetes com torturas e assassinatos são encontradas em uma casa abandonada. E tudo isso acaba revelando uma década inteira do terror de um serial killer, se tornando uma perturbadora coleção de provas criminais que jamais foi vistas.</info>
+<date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]AS GAROTAS DA TRAGÉDIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASGRTSDTRGDIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Garotas%20Da%20Trag%C3%A9dia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Garotas%20Da%20Trag%C3%A9dia.jpg</fanart>
+<info>McKayla Hooper (Alexandra Shipp) e Sadie Cunningham (Brianna Hildebrand) são duas jovens que tem um canal online e são obcecadas com a morte. Através dos seus vídeos, as duas decidem criar um verdadeiro caos em sua cidade para que possam se tornar verdadeiras lendas do terror local.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS GÊMAS ENTRAM EM QUADRA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASGMSENTRMQDRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20G%C3%AAmas%20Entram%20em%20Quadra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20G%C3%AAmas%20Entram%20em%20Quadra.jpg</fanart>
+<info>Baseado na história de Heather e Heidi Burge, gemeas acostumadas a um bairro simples da Califórnia, sofrem grande mudança ao serem transferidas para a escola secundária "Palos Verdes" num bairro chique da cidade. Ainda mais quando seu pai Larry resolve investir no basquete. Entre amizades, confusoes e competitividade elas acabam por se unir para alcançar um sonho: o de se profissionalizar no esporte.</info>
+<date>2002</date>
+</item>
+<item>
+<title>[B][COLOR white]AS INCRÍVEIS HISTÓRIAS DE MAX E LEON[/COLOR][/B]</title>
+<link>$doregex[BP1]ASINCRVSHSTRDMXELEN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Incr%C3%ADveis%20Hist%C3%B3rias%20de%20Max%20e%20Leon.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/As%20Incr%C3%ADveis%20Hist%C3%B3rias%20de%20Max%20e%20Leon.jpg</fanart>
+<info>Max (David Marsais) e Léon (Grégoire Ludig), os dois preguiçosos e festeiros, são melhores amigos desde a infância. Durante a Segunda Guerra Mundial, eles lutam como soldados, mas a verdadeira aventura é o que eles fazem para tentar fugir da batalha.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS IRMÃS VAMPIRAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ASIRMSVAMPS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras.jpg</fanart>
+<info>As gêmeas Dakaria (Laura Antonia Roge) e Silvânia (Marta Martin) preparam-se para deixar Transilvânia, mas não é uma mudança tão simples, já que as duas são vampiras. Elas têm de enfrentar a reladidade de uma vida normal, deixando de lado os super-poderes, dormir no teto e aversão ao dia. Apesar do parentesco, as duas são bem diferentes e, enquanto Daka quer voltar para a antiga cidade, tudo o que Silvânia deseja é uma rotina comum.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS IRMÃS VAMPIRAS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]ASIRMSVAMPS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras%202.jpg</fanart>
+<info>As duas irmãs de vampiros Dakaria (Laura Antonia Roge) e Silva Nina (Marta Martin) se instalaram bem na província alemã e fez novos amigos. As férias de verão estão chegando, finalmente é hora para um acampamento de férias com Ludo, Helene e Jacob. Mas quando Dakaria descobre que sua banda favorita Krypton Krax estará em turnê na Alemanha, este plano é rapidamente esquecido.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]AS IRMÃS VAMPIRAS 3: VIAGEM PARA A TRANSILVÂNIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASIRMSVAMPS3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras%203.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/As%20Irm%C3%A3s%20Vampiras%203.jpg</fanart>
+<info>Dakaria e Silvania vão para a sua terra natal, Transilvânia, para resgatar seu irmão sequestrado pela rainha vampira, Antanasia.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]AS LEIS DA TERMODINÂMICA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASLESDTRMDNMCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Leis%20da%20Termodin%C3%A2mica.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Leis%20da%20Termodin%C3%A2mica.jpg</fanart>
+<info>Um cientista neurótico associa o seu azar no amor e sua relação conturbada com um famosa modelo com as Leis da Termodinâmica, para tentar entender o mundo romântico e conseguir alcançar o famoso final feliz.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]AS LOUCAS AVENTURAS DE ELVIRA[/COLOR][/B]</title>
+<link>$doregex[BP1]ELVRA2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Elvira%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/Elvira%202.jpg</fanart>
+<info>Esbelta como sempre e vestida de negro, Elvira e a sua serva voltam a criar desacatos, dessa vez em uma mansão dominada por fantasmas. A história é ambientada em 1851, em Carpathia. Lá, ambas estão a caminho de um espetáculo da Mistress of Dark, mas, inadvertidamente, vão parar no sinistro castelo medieval do Lord Vladimere Hellsubus.</info>
+<date>2001</date>
+</item>
+<item>
+<title>[B][COLOR white]AS LOUCAS AVENTURAS DE JAMES WEST[/COLOR][/B]</title>
+<link>$doregex[BP1]ASLCSAVNTSDJMSWST.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Loucas%20Aventuras%20de%20James%20West.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Loucas%20Aventuras%20de%20James%20West.jpg</fanart>
+<info>James West (Will Smith), um herói da Guerra Civil americana, e Artemus Gordon (Kevin Kline), um criativo inventor, são chamados pelo Presidente Ulysses S. Grant para combater o Dr. Arliss Loveless (Kenneth Branagh), que pretende conquistar os Estados Unidos com suas máquinas modernas.</info>
+<date>1999</date>
+</item>
+<item>
+<title>[B][COLOR white]AS MELHORES COISAS DO MUNDO[/COLOR][/B]</title>
+<link>$doregex[BP1]ASMLHRSCSDMNDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/As%20Melhores%20Coisas%20do%20Mundo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/As%20Melhores%20Coisas%20do%20Mundo.jpg</fanart>
+<info>Mano (Francisco Miguez) é um adolescente de 15 anos. Ele está aprendendo a tocar guitarra com Marcelo (Paulo Vilhena), pois deseja chamar a atenção de uma garota. Seus pais, Camila (Denise Fraga) e Horácio (Zé Carlos Machado), estão se separando, o que afeta tanto ele quanto seu irmão mais velho, Pedro (Fiuk). Sua melhor amiga e confidente é Carol (Gabriela Rocha), que está apaixonada pelo professor Artur (Caio Blat). Em meio a estas situações, Mano precisa lidar com os colegas de escola em momentos de diversão e também sérios, típicos da adolescência nos dias atuais.</info>
+<date>2010</date>
+</item>
+<item>
+<title>[B][COLOR white]AS MEMÓRIAS DE MARNIE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ASMORISDMRN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Mem%C3%B3rias%20de%20Marnie.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Mem%C3%B3rias%20de%20Marnie.jpg</fanart>
+<info>Anna (Hailee Steinfeld) é uma menina de 12 anos, filha de pais adotivos, sempre muito solitária e não exatamente feliz. Um belo dia, em um castelo numa ilha isolada, ela conhece Marnie (Kiernan Shipka). A menina loira de vestido branco se torna a grande e única amiga de Anna, mas ela descobrirá que Marnie não é exatamente quem parece ser.</info>
+<date>2014</date>
+</item>
+<item>
 <title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]4[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
