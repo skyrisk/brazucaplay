@@ -2,7 +2,7 @@
 <title>[B][COLOR white]CATEGORIA: [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/filmes-a-a-z</externallink>
+<externallink>https://raw.github.com/skyrisk/brazucaplay/master/outros/filmes/page1.xml</externallink>
 <info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 </item>
@@ -56,7 +56,7 @@
 </item>
 <item>
 <title>[B][COLOR white]+ VELOZES + FURIOSOS[/COLOR][/B]</title>
-<link>$doregex[BP1]VLZEFROSOS02&gplusid1=6171196296866660097&gplusid2=6171196294652756482&gid=0B265dpk7MD54akZPQkp6VjlGbkk.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]VLZEFROSOS02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -500,7 +500,7 @@
 </item>
 <item>
 <title>[B][COLOR white]118 DIAS[/COLOR][/B]</title>
-<link>$doregex[BP1]118DAS&gplusid1=6153660857064887857&gplusid2=6153660859830526258&gid=0B265dpk7MD54Y3pZQkVsT1ZqZTg.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]118DAS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -512,7 +512,7 @@
 </item>
 <item>
 <title>[B][COLOR white]118 DIAS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]118DASLEG&gplusid1=6147113287433868929&gplusid2=6147113287109190002&gid=0B265dpk7MD54VXVBVm1yUWYtMGs.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]118DASLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -812,7 +812,7 @@
 </item>
 <item>
 <title>[B][COLOR white]2012[/COLOR][/B]</title>
-<link>$doregex[BP1]2012&gplusid1=6175293478782413169&gplusid2=6175293478969199330&gid=0B265dpk7MD54ZXZfMXpyZjRrQ1E.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]2012.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1220,7 +1220,7 @@
 </item>
 <item>
 <title>[B][COLOR white]9: A SALVAÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]ASLVCAO&gplusid1=6128517608379724289&gplusid2=6128517608394497282&gid=0B265dpk7MD54ankyOGV5cUt1YU0.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASLVCAO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1448,7 +1448,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A BATALHA DO PLANETA DOS MACACOS[/COLOR][/B]</title>
-<link>$doregex[BP1]PLNTDSMCMCS5&gplusid1=6209086373560809153&gplusid2=6209086373866070274&gid=0B265dpk7MD54amYwWVNhQlBnek0.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PLNTDSMCMCS5.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2276,7 +2276,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A CONQUISTA DO PLANETA DOS MACACOS[/COLOR][/B]</title>
-<link>$doregex[BP1]PLNTDSMCMCS4&gplusid1=6209086090431528177&gplusid2=6209086086937216226&gid=0B265dpk7MD54UnBfb2xPR0lqSjA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PLNTDSMCMCS4.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2516,7 +2516,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ENTREVISTA[/COLOR][/B]</title>
-<link>$doregex[BP1]AERVTVST&gplusid1=6153661692259607745&gplusid2=6153661690729458258&gid=0B265dpk7MD54ekNWbU1jd2J0N0U.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERVTVST.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2528,7 +2528,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL1&gplusid1=6128902075780149505&gplusid2=6128902078264996690&gid=0B265dpk7MD54RUZweEcyTW45Tkk.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL1.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2540,7 +2540,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 2[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL2&gplusid1=6128902229811856081&gplusid2=6128902229802717618&gid=0B265dpk7MD54U3l4SXNmQ25qSm8.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2552,7 +2552,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 3[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL3&gplusid1=6128902345312560977&gplusid2=6128902345269916290&gid=0B265dpk7MD54X0pKRDhPaUVRVk0.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL3.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2564,7 +2564,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 4[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL4&gplusid1=6129260791979336753&gplusid2=6129260792010040226&gid=0B265dpk7MD54QTNpR2lTUEZWYkU.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL4.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2756,7 +2756,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ESTRADA 47[/COLOR][/B]</title>
-<link>$doregex[BP1]AESTD47&gplusid1=6181993456051365921&gplusid2=6181993455277235762&gid=0B265dpk7MD54a18tbFBPeGJwdWM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AESTD47.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2972,12 +2972,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A FAMÍLIA BUSCAPÉ[/COLOR][/B]</title>
-<link>$doregex[BP1]AFMLBSCP" frameborder="0" height="400" scrolling="no" width="640" allowfullscreen=""> 
-
-	   
-
-
-												</iframe>.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFMLBSCP.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2989,7 +2984,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A FANTÁSTICA FÁBRICA DE CHOCOLATE[/COLOR][/B]</title>
-<link>$doregex[BP1]AFNTSCFBRCDCHCLT&gplusid1=6147116873776038753&gplusid2=6147116875842378034&gid=0B265dpk7MD54N0ZMZy12WjNoWGs.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFNTSCFBRCDCHCLT.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3001,7 +2996,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A FANTÁSTICA FÁBRICA DE CHOCOLATE[/COLOR][/B]</title>
-<link>$doregex[BP1]AFNTSCFBRCDCHCLT2005&gplusid1=6153663995858705201&gplusid2=6153663994183542082&gid=0B265dpk7MD54MGhNeUtRTi04NjQ.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFNTSCFBRCDCHCLT2005.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
