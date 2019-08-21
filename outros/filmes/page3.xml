@@ -3599,18 +3599,6 @@
 <date>2010</date>
 </item>
 <item>
-<title>[B][COLOR white]AS MEMÓRIAS DE MARNIE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ASMORISDMRN.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Mem%C3%B3rias%20de%20Marnie.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/As%20Mem%C3%B3rias%20de%20Marnie.jpg</fanart>
-<info>Anna (Hailee Steinfeld) é uma menina de 12 anos, filha de pais adotivos, sempre muito solitária e não exatamente feliz. Um belo dia, em um castelo numa ilha isolada, ela conhece Marnie (Kiernan Shipka). A menina loira de vestido branco se torna a grande e única amiga de Anna, mas ela descobrirá que Marnie não é exatamente quem parece ser.</info>
-<date>2014</date>
-</item>
-<item>
 <title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]4[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
