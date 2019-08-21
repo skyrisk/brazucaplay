@@ -7,6 +7,30 @@
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 </item>
 <item>
+<title>[B][COLOR white]A HORA DO PESADELO 5 - O MAIOR HORROR DE FREDDY[/COLOR][/B]</title>
+<link>$doregex[BP1]AHRDPSDL05.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo5.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo5.jpg</fanart>
+<info>Após sobreviver ao último ataque de Freddy Krueger (Robert Englund), Alice Johnson (Lisa Wilcox) tem um período de calmaria até voltar a ter sonhos com o assassino. Desta vez o alvo de Freddy não é Alice, mas o filho que ela carrega na barriga. Seu plano é usá-lo para que possa nascer outra vez.</info>
+<date>1889</date>
+</item>
+<item>
+<title>[B][COLOR white]A HORA DO PESADELO 6 - PESADELO FINAL - A MORTE DE FREDDY[/COLOR][/B]</title>
+<link>$doregex[BP1]AHRDPSDL06.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo6.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo6.jpg</fanart>
+<info>Maggie Burroughs (Lisa Zane) é uma psicóloga que consegue penetrar nos pensamentos de John Doe (Shon Greenblatt), onde Freddy Krueger (Robert Englund) o ameaça. O jovem, foragido de Springwood, a cidade onde Freddy apareceu pela primeira vez, é o último sobrevivente jovem da região. Desmemoriado, ele afirma ser o filho de Freddy.</info>
+<date>1991</date>
+</item>
+<item>
 <title>[B][COLOR white]A HORA DO RUSH[/COLOR][/B]</title>
 <link>$doregex[BP1]AHRDRSH01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -3581,30 +3605,6 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Adeus%20Christopher%20Robin.jpg</fanart>
 <info>Traumatizado pelas batalhas vivenciadas na 1&ordf; Guerra Mundial, o escritor e autor de peças teatrais Alan Milne (Domnhall Gleeson) retorna a Londres, onde tenta retomar a vida cotidiana ao lado da esposa, Daphne (Margot Robbie). Eles têm um filho, o pequeno Christopher Robin (Will Tilston), que basicamente é criado pela babá da família, Olive (Kelly Macdonald), devido à distância estabelecida pelo próprio pai. Disposto a escrever um livro que irá ajudar o mundo a evitar uma nova guerra, Milne leva a família para morar no campo. Lá ele se aproxima do filho, que serve de inspiração para criar seu personagem mais conhecido: o ursinho Pooh.</info>
 <date>2018</date>
-</item>
-<item>
-<title>[B][COLOR white]ADIEU GALAXY EXPRESS 999 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ADIEUGLXYEXPR999.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Adieu%20Galaxy%20Express%20999.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Adieu%20Galaxy%20Express%20999.jpg</fanart>
-<info>Dois anos após os acontecimentos no Galaxy Express 999,a terra tornou-se um campo de batalha. Tetsuro, mais velho e lutando contra o povo máquina, reingressa Maetel a bordo do GE999.</info>
-<date>1981</date>
-</item>
-<item>
-<title>[B][COLOR white]ADORÁVEL PROFESSORA[/COLOR][/B]</title>
-<link>$doregex[BP1]ADRVLPRFSRA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Ador%C3%A1vel%20Professora.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Ador%C3%A1vel%20Professora.jpg</fanart>
-<info>Linda Sinclair (Julianne Moore) é uma professora de inglês solteira, que tem 40 anos e vive na pequena cidade de Kingston. Ela leva uma vida tranquila até reencontrar um antigo aluno, Jason Sherwood (Michael Angarano), que acaba de retornar à cidade. Jason tem o sonho de se tornar um grande autor teatral, mas está prestes a abandoná-lo devido à pressão de seu pai, Tom (Greg Kinnear), para que procure um emprego que possa sustentá-lo. Para ajudá-lo, Linda resolve encenar a peça escrita por Jason na escola em que trabalha, tendo como diretor o professor Carl Kapinas (Nathan Lane). Só que a situação faz com que ela deixe sua zona de conforto, especialmente quando percebe que sente algo mais por Jason.</info>
-<date>2013</date>
 </item>
 <item>
 <title>[B][COLOR gold]l[/COLOR] [COLOR white]PRÓXIMA PAGINA: [COLOR gold]3[/COLOR][/COLOR][/B]</title>
