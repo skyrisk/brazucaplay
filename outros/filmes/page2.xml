@@ -1,12 +1,4 @@
 <item>
-<title>[B][COLOR gold]l[/COLOR] [COLOR white]PÁGINA ANTERIOR: [COLOR gold]1[/COLOR][/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/filmes/page1.xml</externallink>
-<info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
-<fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
-</item>
-<item>
 <title>[B][COLOR white]A HORA DO PESADELO 5 - O MAIOR HORROR DE FREDDY[/COLOR][/B]</title>
 <link>$doregex[BP1]AHRDPSDL05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
