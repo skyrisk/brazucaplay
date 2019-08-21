@@ -7,14 +7,6 @@
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]CATEGORIA: [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/filmes-a-a-z</externallink>
-<info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
-<fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
-</item>
-<item>
 <title>[B][COLOR white]#HORROR[/COLOR][/B]</title>
 <link>$doregex[BP1]HROR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
