@@ -34,6 +34,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]CRUISE: DESTINO EM COLISÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]CRSEDSTNOEMCLSAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cruise%20-%20Destino%20em%20Colis%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Cruise%20-%20Destino%20em%20Colis%C3%A3o.jpg</fanart>
+<info>Situado na década de 1980, um jovem ítalo-americano se apaixona por uma menina judia de Long Island.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]DESCENDENTES 3[/COLOR][/B]</title>
 <link>$doregex[BP1]DSCDNT3.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
