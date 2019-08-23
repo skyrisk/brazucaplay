@@ -18,11 +18,13 @@
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
-<description>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
+<description>[B][COLOR blue]●[/COLOR][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</description>
 <disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDONATE[/COLOR][/B]</disclaimer>
 <news>
-[B][COLOR gold]v2.0.8 - CORREÇÃO DE AGOSTO DE 2019.[/COLOR][/B]
-[B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
+[COLOR blue]●[/COLOR] v2.0.8 - CORREÇÃO DE AGOSTO DE 2019.
+[COLOR blue]●[/COLOR] v2.0.7 - PEQUENAS CORREÇÕES DE 2019.
 </news>
 <platform>all</platform>
 <assets>
@@ -34,7 +36,7 @@
 </assets>
 </extension>
 </addon>
-<addon id="plugin.video.Mais18Play" name="[B][COLOR white]+18 PLAY[/COLOR][/B]" version="2.0.0" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<addon id="plugin.video.Mais18Play" name="[B][COLOR white]+18 PLAY [COLOR gold](EM MANUTENÇÃO!)[/COLOR][/COLOR][/B]" version="2.0.0" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.t0mm0.common"/>
@@ -88,16 +90,16 @@
 <import addon="script.module.addon.signals"/>
 </requires>
 <extension point="xbmc.addon.repository" name="Brazuca Play Repository">
-<info compressed="false">http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
-<checksum>http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <news>
-[COLOR blue]●[/COLOR] V1.3 - CORREÇÕES DE BUGS.
-[COLOR blue]●[/COLOR] V1.2 - UPDATES CORRIGIDOS.
-[COLOR blue]●[/COLOR] V1.1 - PEQUENAS CORREÇÕES.
-[COLOR blue]●[/COLOR] V1.0 - VERSÃO INICIAL.
+[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.
+[COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.
+[COLOR blue]●[/COLOR] v1.1 - PEQUENAS CORREÇÕES.
+[COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
 </news>
 <summary>Repositório Brazuca Play</summary>
 <description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório oficial do Brazuca Play - 2019[/COLOR][/B]
