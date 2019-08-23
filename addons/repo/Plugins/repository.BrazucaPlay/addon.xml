@@ -19,16 +19,16 @@
 <import addon="script.module.addon.signals"/>
 </requires>
 <extension point="xbmc.addon.repository" name="Brazuca Play Repository">
-<info compressed="false">http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
-<checksum>http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">http://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <news>
-[COLOR blue]●[/COLOR] V1.3 - CORREÇÕES DE BUGS.
-[COLOR blue]●[/COLOR] V1.2 - UPDATES CORRIGIDOS.
-[COLOR blue]●[/COLOR] V1.1 - PEQUENAS CORREÇÕES.
-[COLOR blue]●[/COLOR] V1.0 - VERSÃO INICIAL.
+[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.
+[COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.
+[COLOR blue]●[/COLOR] v1.1 - PEQUENAS CORREÇÕES.
+[COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
 </news>
 <summary>Repositório Brazuca Play</summary>
 <description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório oficial do Brazuca Play - 2019[/COLOR][/B]
