@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>18/08/2019</date>
+<date>23/08/2019</date>
 </item>
 
 <item>
@@ -82,6 +82,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/filmes/Godzilla%20II%20-%20Rei%20dos%20Monstros.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/filmes/Godzilla%20II%20-%20Rei%20dos%20Monstros.jpg</fanart>
 <info>Nesta continuação que se passa cinco anos após Godzilla (2014), os integrantes da agência Monarch precisam lidar com a súbita aparição de vários monstros, incluindo Mothra, Rodan e Ghidorah. Enquanto buscam uma aliança com o próprio Godzilla a fim de garantir o equilíbrio da Terra, os humanos acabam fazendo parte de uma grande disputa por poder protagonizada por titãs.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]HELLBOY[/COLOR][/B]</title>
+<link>$doregex[BP1]HLBOY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hellboy%202019.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hellboy%202019.jpg</fanart>
+<info>Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.</info>
 <date>2019</date>
 </item>
 
