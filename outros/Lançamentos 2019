@@ -4,7 +4,20 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>23/08/2019</date>
+<date>30/08/2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ALADDIN[/COLOR][/B]</title>
+<link>$doregex[BP1]ALDN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Aladdin%202019.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Aladdin%202019.jpg</fanart>
+<info>Aladdin (Mena Massoud) é um jovem ladrão que vive de pequenos roubos em Agrabah. Um dia, ele ajuda uma jovem a recuperar um valioso bracelete, sem saber que ela na verdade é a princesa Jasmine (Naomi Scott). Aladdin logo fica interessado nela, que diz ser a criada da princesa. Ao visitá-la em pleno palácio e descobrir sua identidade, ele é capturado por Jafar (Marwan Kenzari), o grão-vizir do sultanato, que deseja que ele recupere uma lâmpada mágica, onde habita um gênio (Will Smith) capaz de conceder três desejos ao seu dono.</info>
+<date>2019</date>
 </item>
 
 <item>
@@ -147,6 +160,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Invasor%20Zim%20e%20o%20Florpus.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Invasor%20Zim%20e%20o%20Florpus.jpg</fanart>
 <info>Ao notar que os poderosos chefes não tinham nenhuma ideia de viajar até o planeta Terra, Zim fica para baixo, descrente dele próprio e de sua vida. Esse momento é a oportunidade perfeita para o ser humano vilão, Dib, dar início aos seus planos maléficos.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]JOHN WICK 3: PARABELLUM[/COLOR][/B]</title>
+<link>$doregex[BP1]JHNWCK3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/John%20Wick%203%20-%20Parabellum.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/John%20Wick%203%20-%20Parabellum.jpg</fanart>
+<info>Após assassinar o chefe da máfia Santino D'Antonio (Riccardo Scamarcio) no Hotel Continental, John Wick (Keanu Reeves) passa a ser perseguido pelos membros da Alta Cúpula sob a recompensa de U$14 milhões. Agora, ele precisa unir forças com antigos parceiros que o ajudaram no passado enquanto luta por sua sobrevivência.</info>
 <date>2019</date>
 </item>
 
@@ -355,6 +381,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</fanart>
 <info>Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]X-MEN: FÊNIX NEGRA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]XMENFNXNGRALEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/X-Men%20-%20F%C3%AAnix%20Negra.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/X-Men%20-%20F%C3%AAnix%20Negra.jpg</fanart>
+<info>1992. Os X-Men são considerados heróis nacionais e o professor Charles Xavier (James McAvoy) agora dispõe de contato direto com o presidente dos Estados Unidos. Quando uma missão espacial enfrenta problemas, o governo convoca a equipe mutante para ajudá-lo. Liderado por Mística (Jennifer Lawrence), os X-Men partem rumo ao espaço em uma equipe composta por Fera (Nicholas Hoult), Jean Grey (Sophie Turner), Ciclope (Tye Sheridan), Tempestade (Alexandra Shipp), Mercúrio (Evan Peters) e Noturno (Kodi Smit-McPhee). Ao tentar resgatar o comandante da missão, Jean Grey fica presa no ônibus espacial e é atingida por uma poderosa força cósmica, que acaba absorvida em seu corpo. Após ser resgatada e retornar à Terra, aos poucos ela percebe que há algo bem estranho dentro de si, o que desperta lembranças de um passado sombrio e, também, o interesse de seres extra-terrestres.</info>
 <date>2019</date>
 </item>
 
