@@ -1,246 +1,246 @@
 <item>
-<title>[COLOR gold][B]7ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]7ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP01.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP02.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP03.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP04.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP05.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP06.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP07.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP08.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP09.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP10.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP11.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 11[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP11.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP12.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 12[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP12.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP13.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 13[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP13.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP14.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 14[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP14.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP15.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 15[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP15.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP16.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 16[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP16.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 17[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP17.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 17[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP17.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 18[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP18.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 18[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP18.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 19[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP19.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 19[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP19.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 20[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP20.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 20[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP20.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 21[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP21.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 21[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP21.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 22[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP2.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 22[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP22.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 23[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP23.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 23[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP23.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 24[/B][/COLOR]</title>
-<link>$doregex[BP1]CMEUCNHCSMT07EP24.mp4|Referer=$doregex[BP4]</link>
+<title>[B][COLOR white]EPISÓDIO - 24[/COLOR][/B]</title>
+<link>$doregex[BP1]CMEUCNHCSMT07EP24.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc9</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/How%20I%20Met%20Your%20Mother/fanart.jpg</fanart>
 </item>
