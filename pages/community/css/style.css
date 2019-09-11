@@ -314,12 +314,20 @@ http://www.templatemo.com/tm-490-comila
 
 */
 
-body
-	{
-		background: #ffffff;
-   font-family: 'Rajdhani', sans-serif;
-    font-weight: 400;
-	}
+a:hover {
+ text-decoration: none;
+}
+
+body {
+background-image:url(https://i.imgur.com/2Q5I4nG.jpg);
+background-attachment: fixed;
+background-size: 100%;
+background-repeat: no-repeat;
+background-color: #000;
+background: #ffffff;
+font-family: 'Rajdhani', sans-serif;
+font-weight: 400;
+}
 
 html,body {
   width: 100%;
