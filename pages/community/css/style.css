@@ -322,7 +322,7 @@ background-image:url(https://i.imgur.com/2Q5I4nG.jpg);
 background-attachment: fixed;
 background-size: 100%;
 background-repeat: no-repeat;
-color: #fff;
+background-color: #000;
 font-family: 'Rajdhani', sans-serif;
 font-weight: 400;
 }
@@ -613,7 +613,7 @@ footer {
 }
 
 #feature p {
-  color: #333;
+  color: #fff;
 }
 
 #feature .btn {
@@ -633,7 +633,7 @@ footer {
 
 #feature .btn:hover {
   background: #ffffff;
-  color: #333;
+  color: #fff;
   border-color: transparent;
 }
 
