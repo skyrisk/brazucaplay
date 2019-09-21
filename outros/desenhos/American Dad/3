@@ -1,12 +1,12 @@
 <item>
-<title>[COLOR gold][B]3ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]2ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP01.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -15,8 +15,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP02.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -25,8 +25,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP03.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -35,8 +35,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP04.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -45,8 +45,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP05.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -55,8 +55,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP06.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -65,8 +65,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP07.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -75,8 +75,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP08.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -85,8 +85,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP09.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -95,8 +95,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP10.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -105,8 +105,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 11[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP11.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 11[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP11.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -115,8 +115,18 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 12[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP12.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 12[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc10"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 13[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP13.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -125,8 +135,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 13[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP13.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 14[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP14.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -135,8 +145,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 14[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP14.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 15[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP15.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -145,8 +155,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 15[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP15.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 16[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP16.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -155,8 +165,28 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 16[/B][/COLOR]</title>
-<link>$doregex[BP1]AMRCDDT03EP16.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 17[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP17.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 18[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP18.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc9"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/American%20Dad/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 19[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDDT02EP19.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
