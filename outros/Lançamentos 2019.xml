@@ -468,7 +468,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>15/09/2019</date>
+<date>21/09/2019</date>
 </item>
 
 <item>
@@ -496,8 +496,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]3 VIDAS[/COLOR][/B]</title>
-<link>$doregex[BP1]3VDS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]3 VIDAS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]3VDSLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -952,8 +952,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]A SCORE TO SETTLE[/COLOR][/B]</title>
-<link>$doregex[BP1]ASCRTSTLE.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A SCORE TO SETTLE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ASCRTSTLELEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1192,6 +1192,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]ANNABELLE 3: DE VOLTA PARA CASA[/COLOR][/B]</title>
+<link>$doregex[BP1]ANBL3DVLTPCSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg</fanart>
+<info>Quando Ed (Patrick Wilson) e Lorraine Warren (Vera Farmiga) deixam sua casa durante um fim de semana, a filha do casal, a pequena Judy Warren (McKenna Grace), é deixada aos cuidados de sua babá (Madison Iseman). Mas as duas entram em perigo quando a maligna boneca Annabelle, aproveitando que os investigadores paranormais estão fora de jogo, anima os letais e aterrorizantes objetos contidos na Sala dos Artefatos dos Warren.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ANNABELLE 3: DE VOLTA PARA CASA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ANBL3DVLTPCSALEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Annabelle%203%20-%20De%20Volta%20para%20Casa.jpg</fanart>
+<info></info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]ANOS 90[/COLOR][/B]</title>
 <link>$doregex[BP1]ANS90.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1216,8 +1240,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]APÓS A LETARGIA[/COLOR][/B]</title>
-<link>$doregex[BP1]APSALTRGA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]APÓS A LETARGIA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]APSALTRGALEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1276,8 +1300,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]ASSASSINAUT[/COLOR][/B]</title>
-<link>$doregex[BP1]ASASNUT.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]ASSASSINAUT [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ASASNUTLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1516,8 +1540,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]CAMP WEDDING[/COLOR][/B]</title>
-<link>$doregex[BP1]CMPWDNG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CAMP WEDDING [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CMPWDNGLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1660,8 +1684,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]CLEAVERS: KILLER CLOWNS[/COLOR][/B]</title>
-<link>$doregex[BP1]CLVRSKLRCLWNS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CLEAVERS: KILLER CLOWNS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CLVRSKLRCLWNSLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1684,8 +1708,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]CLOWN[/COLOR][/B]</title>
-<link>$doregex[BP1]CLWN.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]CLOWN [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CLWNLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1705,6 +1729,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Clown%20Motel%20-%20Spirits%20Arise.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Clown%20Motel%20-%20Spirits%20Arise.jpg</fanart>
 <info>Clown Motel segue um grupo de caçadores de fantasmas, vindo de uma velha cidade fantasma e uma festa de despedida, voltando para casa de Las Vegas. Quando os grupos se encontram, por engano, eles são deixados para descobrir se o motel é realmente abandonado e assombrado pelas almas, dos palhaços, que uma vez viveu lá.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]CLOWNADO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]CLWNDOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Clownado.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Clownado.jpg</fanart>
+<info>Uma grande tempestade sobrenatural assola diversos locais norte-americanos e traz consigo palhaços assassinos devoradores de carne humana. Presos na atípica situação, um improvisado grupo de sobreviventes precisa achar o caminho para a liberdade de uma maneira nada convencional: sendo ainda mais brutal do que os palhaços.</info>
 <date>2019</date>
 </item>
 <item>
@@ -1885,6 +1921,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Cruise%20-%20Destino%20em%20Colis%C3%A3o.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Cruise%20-%20Destino%20em%20Colis%C3%A3o.jpg</fanart>
 <info>Situado na década de 1980, um jovem ítalo-americano se apaixona por uma menina judia de Long Island.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]CRUSH À ALTURA[/COLOR][/B]</title>
+<link>$doregex[BP1]CRSHALTRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Crush%20%C3%A0%20Altura.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Crush%20%C3%A0%20Altura.jpg</fanart>
+<info>Jodi é uma adolescente que tem que lidar com as inconveniências de ser a garota mais alta da escola. Tudo muda quando ela se apaixona por um bonito (e igualmente alto) intercambista, que vai morar na casa do melhor amigo de Jodi. Como resultado, Jodi se vê embolada num triângulo amoroso inesperado, que a ajuda a perceber que ela é bem mais do que suas inseguranças a faziam acreditar.</info>
 <date>2019</date>
 </item>
 <item>
@@ -2116,8 +2164,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]DOMINO[/COLOR][/B]</title>
-<link>$doregex[BP1]DOMNO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]DOMINO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]DOMNOLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2201,7 +2249,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DUMBO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]httDps://cometa.top/DMBOLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]DMBOLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2536,6 +2584,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]GOTTI: O CHEFE DA MÁFIA[/COLOR][/B]</title>
+<link>$doregex[BP1]GOTIOCHFDMFIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gotti%20-%20O%20Chefe%20Da%20M%C3%A1fia.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gotti%20-%20O%20Chefe%20Da%20M%C3%A1fia.jpg</fanart>
+<info>História do mafioso John Gotti, chefão da Família Gambino que liderava o crime organizado em Nova York durante muitos anos e falecido em 2002, enquanto cumpria pena de prisão perpétua.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]GREEN BOOK: O GUIA[/COLOR][/B]</title>
 <link>$doregex[BP1]GRENBOKOGUA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -2557,6 +2617,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Green%20Book%20-%20O%20Guia.jpg</fanart>
 <info>1962. Tony Lip (Viggo Mortensen), um dos maiores fanfarrões de Nova York, precisa de trabalho após sua discoteca, o Copacabana, fechar as portas. Ele conhece um um pianista e quer que Lip faça uma turnê com ele. Enquanto os dois se chocam no início, um vínculo finalmente cresce à medida que eles viajam.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]GRITOS DA NOITE[/COLOR][/B]</title>
+<link>$doregex[BP1]GRTSDNTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gritos%20da%20Noite.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gritos%20da%20Noite.jpg</fanart>
+<info>Esta história começa 30 anos atrás, em uma remota aldeia inglesa. Então, muitos acreditaram nos contos estranhos que tinham ouvido falar sobre um milionário cientista e socialite chamado Rathbone, que muitas vezes realizava experimentos com animais, mas desapareceu misteriosamente de sua mansão. Mas a versão local da lenda de Rathbone levou suas esquisitices um pouco mais longe. Eles tinham certeza de que suas experiências incluíam humanos. Portanto, ninguém ficou chateado ou muito curioso quando o homem desapareceu, mesmo depois de rumores de que uma de suas cobaias se soltou, o matou e escapou. Agora, um grupo de adolescentes decide procurar pistas sobre tal lenda.</info>
 <date>2019</date>
 </item>
 <item>
@@ -3169,6 +3241,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Megarrrom%C3%A2ntico.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Megarrrom%C3%A2ntico.jpg</fanart>
 <info>Natalie (Rebel Wilson) é uma jovem arquiteta bastante cética em relação ao amor, que se empenha para ser reconhecida por seu trabalho. Um dia, ao saltar do metrô, ela é assaltada em plena estação e, ao reagir, acaba batendo com a cabeça em uma pilastra. Ao despertar em um hospital, ela descobre que, misteriosamente, foi parar dentro de um filme de comédia romântica.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]MEMÓRIAS DE UM CRIME[/COLOR][/B]</title>
+<link>$doregex[BP1]MEMRIADUMCRME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mem%C3%B3rias%20de%20um%20Crime.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mem%C3%B3rias%20de%20um%20Crime.jpg</fanart>
+<info>Um ladrão sobrevivente de um violento roubo ao carro blindado é colocado em uma instalação de alta segurança, usado para uma droga experimental.</info>
 <date>2019</date>
 </item>
 <item>
@@ -4036,6 +4120,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]O ÚLTIMO HOMEM NEGRO EM SÃO FRANCISCO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]OULTMHMNGREMSAOFNCOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Homem%20Negro%20em%20S%C3%A3o%20Francisco.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20%C3%9Altimo%20Homem%20Negro%20em%20S%C3%A3o%20Francisco.jpg</fanart>
+<info>Cansado de ser passado para trás e ignorado, Jimmie (Jimmie Fails) tem o sonho de recuperar a modesta casa vitoriana que seu avô construiu em São Francisco. Acompanhado por seu melhor amigo, ele inicia uma jornada para que consiga conquistar o que é seu de direito dentro de uma cidade que parece ter esquecido qualquer senso de empatia.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]OBSESSÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]OBSAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Obsess%C3%A3o.jpg</fanart>
+<info>Frances (Chloë Grace Moretz) é uma jovem mulher cuja mãe acaba de falecer. Recém-chegada em Manhattan e cheia de problemas com o pai, ela divide apartamento com a amiga Erica (Maika Monroe) e trabalha como garçonete de um luxuoso restaurante. Um dia, voltando para casa, Frances encontra uma bolsa abandonada em um dos assentos do metrô, e, ao devolvê-la, acaba iniciando uma amizade improvável com a dona do acessório, uma senhora viúva chamada Greta (Isabelle Huppert). Os problemas começam a surgir quando Frances percebe que a necessidade de atenção de Greta é muito mais perigosa do que ela imaginava.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]OBSESSÃO PERIGOSA[/COLOR][/B]</title>
 <link>$doregex[BP1]OBSAOPRGSA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -4285,6 +4393,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pra%C3%A7a%20P%C3%BAblica.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Pra%C3%A7a%20P%C3%BAblica.jpg</fanart>
 <info>Castro (Jean-Pierre Bacri) costumava ser um apresentador de TV de sucesso, mas sua fama ficou no passado. Quando sua produtora, Nathalie (Léa Drucker), se muda para o interior, ele vai parar em uma festa de abertura da casa junto com sua filha, sua ex mulher, a atual namorada e uma porção de excêntricos convidados.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]PRIMEIRO ANO[/COLOR][/B]</title>
+<link>$doregex[BP1]PRMRANO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Primeiro%20Ano.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Primeiro%20Ano.jpg</fanart>
+<info>Benjamin (William Lebghil) acaba de se formar no ensino médio e está começando seu primeiro ano da faculdade de medicina. Já Antoine (Vincent Lacoste) está começando o primeiro ano pela terceira vez. Quando os dois se conhecem, uma amizade logo se forma e os dois se unem para enfrentar noites mal dormidas, um ambiente extremamente competitivo e a pressão das expectativas para seu futuro.</info>
 <date>2019</date>
 </item>
 <item>
@@ -4708,8 +4828,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]SHANGHAI FORTRESS[/COLOR][/B]</title>
-<link>$doregex[BP1]SHNGFRTS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]SHANGHAI FORTRESS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]SHNGFRTSLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -4864,8 +4984,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]TERRORISTA AMERICANO[/COLOR][/B]</title>
-<link>$doregex[BP1]TRSTAMRCNO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]TERRORISTA AMERICANO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]TRSTAMRCNOLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -4900,8 +5020,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]THE BEACH BUM[/COLOR][/B]</title>
-<link>$doregex[BP1]THBCHBM.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]THE BEACH BUM [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]THBCHBMLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -4909,6 +5029,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Beach%20Bum.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Beach%20Bum.jpg</fanart>
 <info>Moondog (Matthew McConaughey), um rebelde, astuto e também amável homem, leva a vida de acordo com as suas próprias regras. Abusando das festas, drogas e mulheres, ele usa de sua própria jornada como inspiração para escrever uma espécie de diário ficcional, obra que acredita ser o próximo grande sucesso literário.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]THE BOAT[/COLOR][/B]</title>
+<link>$doregex[BP1]THBOAT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Boat.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Boat.jpg</fanart>
+<info>Um marinheiro sozinho é trancado dentro da cabine de um veleiro que está a navegar à deriva.</info>
 <date>2019</date>
 </item>
 <item>
@@ -4924,8 +5056,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]THE ISLE[/COLOR][/B]</title>
-<link>$doregex[BP1]THEISLE.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]THE ISLE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]THEISLELEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -5248,8 +5380,8 @@
 <date>2018</date>
 </item>
 <item>
-<title>[B][COLOR white]VARGUR[/COLOR][/B]</title>
-<link>$doregex[BP1]VRGR.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]VARGUR [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VRGRLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -5496,7 +5628,7 @@
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Wolf%20Boru.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Wolf%20Boru.jpg</fanart>
-<info>Pegando o explosivo cliffhanger do sexto episódio da minissérie, o filme segue a angustiante tentativa de golpe na noite de 15 de julho, e os heróis das Operações Especiais e Forças Especiais da Polícia, que colocaram tudo em risco para impedir uma aquisição cultista da Turquia.</info>
+<info></info>
 <date>2019</date>
 </item>
 <item>
@@ -5524,8 +5656,8 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]XENOPHOBIA[/COLOR][/B]</title>
-<link>$doregex[BP1]XNPHBIA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]XENOPHOBIA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]XNPHBIALEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
