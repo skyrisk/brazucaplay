@@ -226,7 +226,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 23[/COLOR][/B]</title>
-<link>$doregex[BP1]TBBTT02EP20.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]TBBTT02EP23.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
