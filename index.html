@@ -1,8 +1,60 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
-<html>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<!DOCTYPE html>
+<html lang="en">
 <head>
+<meta charset="utf-8">
+<title>Repo - Brazuca Community</title>
+<link rel="icon" type="imagem/png" href="https://i.imgur.com/BfFiAAy.png" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/animate.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/et-line-font.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/vegas.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/css/style.css">
+<link href='https://fonts.googleapis.com/css?family=Rajdhani:400,500,700' rel='stylesheet' type='text/css'>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/vegas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/wow.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/smoothscroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/custom.js"></script>
+<!--<script src="//code.jquery.com/jquery-3.0.0.min.js"></script>-->
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/jquery.cookie.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/jaascript.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/backup.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/skyrisk/brazucaplay@master/pages/community/js/jquery.mb.YTPlayer.min.js"></script>
+<script src="https://kit.fontawesome.com/73f96667f9.js"></script>
+<style>
+.tw6 {
+background-color: #9b00dd;
+}
+a:hover {
+ text-decoration: none;
+}
+body {
+   background-image:url(https://i.imgur.com/2Q5I4nG.jpg);
+   background-attachment: fixed;
+   background-size: 100%;
+   background-repeat: no-repeat;
+   color: #fff;
+   background-color: #1C1C1C;
+   font-family: 'Rajdhani', sans-serif;
+   font-weight: 400;
+}
+#about,
+#feature,
+#contact {
+  background: #1C1C1C;
+}
+/* footer section  */
+footer {
+  background: #2C2C2C;
+}
+</style>
 <!-- Chatra {literal} -->
 <script>
     (function(d, w, c) {
@@ -17,33 +69,111 @@
     })(document, window, 'Chatra');
 </script>
 <!-- /Chatra {/literal} -->
-<title>REPO - BRAZUCA PLAY</title>
-<style>
-body {
-    color: white;
+<script>
+jQuery( function() {
+var myPlayer = jQuery( "#bgndVideo" ).YTPlayer( {
+onReady: function( player ) {
+YTPConsole.append( player.id + " player is ready" );
+YTPConsole.append( "<br>" );
 }
-h1 {
-    color: white;
-}
-a {
-    color: white;
-}
-</style>
+} );
+
+myPlayer.on( "YTPData", function( e ) {
+$( ".dida" ).html( e.prop.title + "<br>@" + e.prop.channelTitle );
+$( "#videoData" ).show();
+} );
+
+var YTPConsole = jQuery( "#eventListener" );
+myPlayer.on( "YTPStart YTPEnd YTPLoop YTPPause YTPBuffering YTPMuted YTPUnmuted", function( e ) {
+YTPConsole.append( "event: " + e.type + " (" + jQuery( "#bgndVideo" ).YTPGetPlayer().getPlayerState() + ") > time: " + e.time );
+YTPConsole.append( "<br>" );
+} );
+} );
+</script>
+
 </head>
-<body bgcolor="#1C1C1C">
-<center>
-<h1 style="background: black;padding: 10px;color: white; border-radius: 5px; filter:alpha(opacity=80); opacity:0.8;">REPO - BRAZUCA PLAY</h1>
-<table style="background: black;padding: 10px;color: white; border-radius: 5px; filter:alpha(opacity=80); opacity:0.8;">
-<tr><th colspan="5"><hr></th></tr>
-<tr><th colspan="5">ADD-ONS:<hr></th></tr>
-<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</a></td><td align="right"> ||| V:</td><td align="right">1.3</td></td></tr>
-<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</a></td><td align="right"> ||| V:</td><td align="right">2.0.8</td></td></tr>
-<tr><th colspan="5"><hr></th></tr>
-<tr><th colspan="5">PLUGINS:<hr></th></tr>
-<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/plugin.video.f4mTester-2.7.1.zip">addons/plugin.video.f4mTester-2.7.1.zip</a></td><td align="right"> ||| V:</td><td align="right">2.7.1</td></td></tr>
-<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/script.video.F4mProxy-2.8.7.zip">addons/script.video.F4mProxy-2.8.7.zip</a></td><td align="right"> ||| V:</td><td align="right">2.8.7</td></td></tr>
-<tr><th colspan="5"><hr></th></tr>
-</table>
-</center>
+
+<body ondragstart="return false" oncontextmenu="return false" onselectstart="return false">
+
+<section id="home">
+<div class="container">
+<div class="row">
+
+<div class="col-md-offset-2 col-md-8 col-sm-12">
+<div class="home-thumb">
+<img style="width: 20%;" src="https://i.imgur.com/kjtlfSP.png" />
+<h4 class="wow fadeInUp" data-wow-delay="0.6s">Brazuca Community - Participe do Telegram</h4>
+<a href="/forum" title="Faça o Download do Add-on" class="button fb">ADD-ON</a>
+<a href="https://skyrisk.github.io/brazucaplay/addons/repository.BrazucaPlay.zip" title="Faça o Download do Repositório" class="button tw2" target="_blank">REPOSITÓRIO</a>
+<a href="https://t.me/joinchat/KqLjN1NU2IDM_tjtMKJwSw" title="Participe do nosso grupo no Telegram" class="button tw" target="_blank">TELEGRAM</a>
+</div>
+</div>
+<a href="https://www.forumeiros.com" target="_blank"></a>
+</div>
+</div>
+</section>
+
+<section id="about">
+<div class="container">
+<div class="row">
+
+<div class="col-md-6 col-sm-12">
+<video src="https://i.imgur.com/OIyVLp9.mp4" muted  controls class="img-responsive wow fadeInUp" alt="About"></video>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<div class="about-thumb">
+<div class="section-title">
+<h1 class="wow fadeIn" data-wow-delay="0.2s">Como instalar o repositório?</h1>
+<h3 class="wow fadeInUp" data-wow-delay="0.4s">Siga os passos do vídeo</h3>
+</div>
+
+<div class="wow fadeInUp" data-wow-delay="0.6s">
+<span style="color: firebrick;">●</span> Proibido a venda dos add-ons do Brazuca Play.<br />
+<span style="color: firebrick;">●</span> Não vendemos IPTV, caso ache sites ou mesmo apps é falso.
+<br />
+<span style="color: firebrick;">●</span> Não há suporte para SSIPTV ou qualquer outro app.
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+<footer>
+<div class="container">
+<div class="row">
+
+<div class="col-md-9 col-sm-10">
+<h2>Copyright © 2015-2019 ● Brazuca Community</h2>
+<q class="wow fadeInUp" data-wow-delay="0.3s">
+O autor não se responsabiliza pelo conteúdo encontrado aqui nem o mau uso do mesmo. Nosso add-on funciona apenas como um agregador de links e apenas organiza os mesmos, bem como as sinopses, títulos e outros!
+</q>
+</div>
+</div>
+
+</div>
+</div>
+</footer>
+<!--
+<a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
+-->
+<a id="bgndVideo" class="player" data-property="{videoURL:'C1xUergJyvA',containment:'body',  stopMovieOnBlur:false, showControls:true, autoPlay:true, loop:true, vol:20, mute:false, startAt:0,  stopAt:59, opacity:1, addRaster:true, quality:'hd720', optimizeDisplay:true}"></a>
+</head>
+
 </body>
 </html>
+<div id="div" style="display:none">
+<table>
+<tr><th colspan="5"><hr></th></tr>
+<tr><th colspan="5">ADD-ONS:<hr></th></tr>
+<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</a></td><td align="right"> V:</td><td align="right">1.3</td></td></tr>
+<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</a></td><td align="right"> V:</td><td align="right">2.0.8</td></td></tr>
+<tr><th colspan="5"><hr></th></tr>
+<tr><th colspan="5">PLUGINS:<hr></th></tr>
+<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/plugin.video.f4mTester-2.7.1.zip">addons/plugin.video.f4mTester-2.7.1.zip</a></td><td align="right"> V:</td><td align="right">2.7.1</td></td></tr>
+<tr><td valign="top"><img src="http://temporada.peraltas.com.br/wp-content/plugins/download-manager/assets/file-type-icons/download2.png" height="20px" width="20px" alt="[   ]"></td><td><a href="addons/script.video.F4mProxy-2.8.7.zip">addons/script.video.F4mProxy-2.8.7.zip</a></td><td align="right"> V:</td><td align="right">2.8.7</td></td></tr>
+<tr><th colspan="5"><hr></th></tr>
+</table>
+</div>
