@@ -6,7 +6,7 @@
 </item>
 <item>
 <title>[B][COLOR white]OVA - TOKYO GHOUL: JACK[/COLOR][/B]</title>
-<link>$doregex[BP1]TOKYOGHLS04EP01.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]TOKYOGHLOVA01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -17,11 +17,11 @@
 </item>
 <item>
 <title>[B][COLOR white]OVA - TOKYO GHOUL: PINTO[/COLOR][/B]</title>
-<link>$doregex[BP1]TOKYOGHLS04EP02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]TOKYOGHLOVA02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc7"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Tokyo%20Ghoul/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Tokyo%20Ghoul/fanart.jpg</fanart>
 <info>Um OVA que mostra como Shuu Tsukiyama e Chie Hori se conheceram.</info>
