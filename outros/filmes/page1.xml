@@ -7,14 +7,6 @@
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]CATEGORIA: [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</title>
-<link>here</link>
-<thumbnail>https://i.imgur.com/Z9IM8en.png</thumbnail>
-<externallink>here</externallink>
-<info>[B][COLOR white]TODOS OS MELHORES FILMES EM [COLOR gold]ORDEM ALFABÉTICA[/COLOR][/COLOR][/B]</info>
-<fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
-</item>
-<item>
 <title>[B][COLOR white]#HORROR[/COLOR][/B]</title>
 <link>$doregex[BP1]HROR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -64,7 +56,7 @@
 </item>
 <item>
 <title>[B][COLOR white]+ VELOZES + FURIOSOS[/COLOR][/B]</title>
-<link>$doregex[BP1]VLZEFROSOS02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]VLZEFROSOS02.mp4?617119629686666009761711962946527564820B265dpk7MD54akZPQkp6VjlGbkk.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -155,7 +147,7 @@
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20Goldfinger.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20Goldfinger.jpg</fanart>
-<info>James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fr&ouml;be), um poderoso milionário cujas remessas de ouro espalhadas por diversos países podem esconder ações criminosas. Após ser capturado, Bond descobre que o plano de Goldfinger é bem maior do que ele imaginava: Goldfinger pretende roubar nada mais nada menos do que as reservas americanas de ouro, guardadas no Forte Knox.</info>
+<info>James Bond é (Sean Connery) encarregado de espionar Goldfinger (Gert Fröbe), um poderoso milionário cujas remessas de ouro espalhadas por diversos países podem esconder ações criminosas. Após ser capturado, Bond descobre que o plano de Goldfinger é bem maior do que ele imaginava: Goldfinger pretende roubar nada mais nada menos do que as reservas americanas de ouro, guardadas no Forte Knox.</info>
 <date>1964</date>
 </item>
 <item>
@@ -179,7 +171,7 @@
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20o%20Homem%20Com%20a%20Pistola%20de%20Ouro.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Contra%20o%20Homem%20Com%20a%20Pistola%20de%20Ouro.jpg</fanart>
-<info>Quando uma bala de ouro chega ao quartel-general da inteligência britânica com um "007" gravado nela, se acredita que James Bond (Roger Moore) será o próximo alvo de um assassino profissional (Christopher Lee) que cobra um milhão de dólares por serviço. Assim, Bond vai investigar a situação e acaba descobrindo que o objetivo do matador internacional seq&uuml;estrar um cientista, que inventou um conversor solar capaz de resolver a crise de energia no planeta.</info>
+<info>Quando uma bala de ouro chega ao quartel-general da inteligência britânica com um "007" gravado nela, se acredita que James Bond (Roger Moore) será o próximo alvo de um assassino profissional (Christopher Lee) que cobra um milhão de dólares por serviço. Assim, Bond vai investigar a situação e acaba descobrindo que o objetivo do matador internacional seqüestrar um cientista, que inventou um conversor solar capaz de resolver a crise de energia no planeta.</info>
 <date>1974</date>
 </item>
 <item>
@@ -239,7 +231,7 @@
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Casino%20Royale.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20Casino%20Royale.jpg</fanart>
-<info>A 1&ordf; missão de James Bond (Daniel Craig) como agente 007 o leva a Madagascar. Sua tarefa é espionar o terrorista Mollaka (Sebastien Foucan), mas nem tudo sai como o planejado. Bond decide espionar por conta própria o restante da célula terrorista, o que o leva às Bahamas. Lá ele conhece Alex Dimitrios (Simon Abkarian) e sua namorada Solange (Caterina Murino). Alex está envolvido com Le Chiffre (Mads Mikkelsen), o banqueiro de organizações terroristas espalhadas pelo planeta, que pretende conseguir dinheiro em um jogo de pôquer milionário em Montenegro, no Cassino Royale. O MI6 envia Bond para jogar contra Le Chiffre, sabendo que caso Le Chiffre perca a partida isto desmontará sua organização. Mas para esta tarefa o agente 007 terá a companhia da sedutora Vesper Lynd (Eva Green), enviada por M (Judi Dench) para acompanhá-lo na missão.</info>
+<info>A 1ª missão de James Bond (Daniel Craig) como agente 007 o leva a Madagascar. Sua tarefa é espionar o terrorista Mollaka (Sebastien Foucan), mas nem tudo sai como o planejado. Bond decide espionar por conta própria o restante da célula terrorista, o que o leva às Bahamas. Lá ele conhece Alex Dimitrios (Simon Abkarian) e sua namorada Solange (Caterina Murino). Alex está envolvido com Le Chiffre (Mads Mikkelsen), o banqueiro de organizações terroristas espalhadas pelo planeta, que pretende conseguir dinheiro em um jogo de pôquer milionário em Montenegro, no Cassino Royale. O MI6 envia Bond para jogar contra Le Chiffre, sabendo que caso Le Chiffre perca a partida isto desmontará sua organização. Mas para esta tarefa o agente 007 terá a companhia da sedutora Vesper Lynd (Eva Green), enviada por M (Judi Dench) para acompanhá-lo na missão.</info>
 <date>2006</date>
 </item>
 <item>
@@ -299,7 +291,7 @@
 <regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20O%20Mundo%20N%C3%A3o%20%C3%A9%20o%20Bastante.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/007%20-%20O%20Mundo%20N%C3%A3o%20%C3%A9%20o%20Bastante.jpg</fanart>
-<info>Após o assassinato de Sir Robert King (David Calder), um magnata inglês do petróleo, Elektra King (Sophie Marceau), sua filha, herda uma imensa fortuna, que inclui bilhões de dólares em depósitos de petróleo situados na região do Mar Cáspio. Elektra planeja construir um oleoduto de 1300 quilômetros para transportar todo este óleo, mas existem mais três empresas interessadas em ter o controle do envio de petróleo daquela região para o Ocidente. James Bond (Pierce Brosnan) passa a ser o responsável direto pela segurança dela e os dois terminam se envolvendo. Entretanto, a fortuna de Elektra chama a atenção de Renard (Robert Carlyle), um terrorista internacional que no passado tinha seq&uuml;estrado Elektra e tem uma bala alojada no cérebro disparada a mando de M (Judi Dench), que ordenou sua morte. Milagrosamente, Renard sobreviveu e a bala alojada o tornou imune à dor e cada vez mais forte, apesar de estar morrendo. Deste modo, vingança seria a única razão que ele tem para viver e uma explosão, que destrói cerca de sessenta metros do oleoduto, parece ser a prova definitiva disto. Mas na verdade ele esconde um plano infinitamente mais maquiavélico.</info>
+<info>Após o assassinato de Sir Robert King (David Calder), um magnata inglês do petróleo, Elektra King (Sophie Marceau), sua filha, herda uma imensa fortuna, que inclui bilhões de dólares em depósitos de petróleo situados na região do Mar Cáspio. Elektra planeja construir um oleoduto de 1300 quilômetros para transportar todo este óleo, mas existem mais três empresas interessadas em ter o controle do envio de petróleo daquela região para o Ocidente. James Bond (Pierce Brosnan) passa a ser o responsável direto pela segurança dela e os dois terminam se envolvendo. Entretanto, a fortuna de Elektra chama a atenção de Renard (Robert Carlyle), um terrorista internacional que no passado tinha seqüestrado Elektra e tem uma bala alojada no cérebro disparada a mando de M (Judi Dench), que ordenou sua morte. Milagrosamente, Renard sobreviveu e a bala alojada o tornou imune à dor e cada vez mais forte, apesar de estar morrendo. Deste modo, vingança seria a única razão que ele tem para viver e uma explosão, que destrói cerca de sessenta metros do oleoduto, parece ser a prova definitiva disto. Mas na verdade ele esconde um plano infinitamente mais maquiavélico.</info>
 <date>1999</date>
 </item>
 <item>
@@ -508,7 +500,7 @@
 </item>
 <item>
 <title>[B][COLOR white]118 DIAS[/COLOR][/B]</title>
-<link>$doregex[BP1]118DAS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]118DAS.mp4?615366085706488785761536608598305262580B265dpk7MD54Y3pZQkVsT1ZqZTg.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -520,7 +512,7 @@
 </item>
 <item>
 <title>[B][COLOR white]118 DIAS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]118DASLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]118DASLEG.mp4?614711328743386892961471132871091900020B265dpk7MD54VXVBVm1yUWYtMGs.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -529,6 +521,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/118%20Dias.jpg</fanart>
 <info>Maziar Bahari (Gael García Bernal) é um jornalista iraniano que trabalha para a revista americana Newsweek e vive em Londres, ao lado da esposa grávida. Ele é enviado para cobrir as eleições presidenciais no Irã em 2009, onde o atual presidente Mahmoud Ahmadinejad corre o risco de não se reeleger. Após uma vitória folgada de Ahmadinejad, rumores de que a eleição teria sido fraudada provocam diversas manifestações populares, algumas repelidas com violência pela polícia local. Bahari consegue filmar um destes ataques e veicula o material para ser divulgado mundo afora, o que o transforma em alvo do governo iraniano. Preso por tempo indeterminado, ele passa a ser torturado para que confesse que estava agindo em nome de uma conspiração ocidental para derrubar o presidente iraniano.</info>
 <date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]12 FEET DEEP [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]12FETDEPLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/12%20Feet%20Deep.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/12%20Feet%20Deep.jpg</fanart>
+<info>Duas irmãs são esquecidas e ficam presas numa piscina olímpica de mais de 50m de comprimento, embaixo da lona de fibra de vidro. As duas se veem à mercê de uma faxineira noturna com segundas intenções.</info>
+<date>2017</date>
 </item>
 <item>
 <title>[B][COLOR white]12 HERÓIS[/COLOR][/B]</title>
@@ -635,7 +639,7 @@
 <regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/13%20Dias%20Que%20Abalaram%20o%20Mundo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/13%20Dias%20Que%20Abalaram%20o%20Mundo.jpg</fanart>
-<info>Em outubro de 1962 um avião U-2, que fazia vigilância de rotina, tira fotos fotográficas que revelam que a União Soviética está em processo de colocar uma plataforma de lançamento de armas nucleares em Cuba. Estas armas terão a capacidade de destruir em minutos a maior parte do leste e sul dos Estados Unidos quando ficarem operacionais. O presidente John F. Kennedy (Bruce Greenwood) e seus assessores têm de pôr um plano de ação contra os soviéticos. Kennedy está determinado em mostrar que ele é forte o bastante para resistir a ameaça e o Pentágono aconselha o exército dos Estados Unidos a contra-golpear, o que poderia levar a uma outra invasão norte-americana em Cuba. Entretanto, Kennedy está receoso em levar a cabo esta operação, pois uma invasão norte-americana poderia fazer com que os soviéticos partissem para a retaliação na Europa. Por treze dias o destino da humanidade esteve nas mãos de um grupo reunido no salão oval na Casa Branca, pois a possibilidade de uma guerra nuclear era real e navios soviéticos rumavam para Cuba levando o material que faltava para terminar a plataforma de lançamento, que estava sendo construída em ritmo acelerado. Com a situação cada vez mais tensa, qualquer ato impensado poderia provocar um conflito armado de conseq&uuml;ências atras.</info>
+<info>Em outubro de 1962 um avião U-2, que fazia vigilância de rotina, tira fotos fotográficas que revelam que a União Soviética está em processo de colocar uma plataforma de lançamento de armas nucleares em Cuba. Estas armas terão a capacidade de destruir em minutos a maior parte do leste e sul dos Estados Unidos quando ficarem operacionais. O presidente John F. Kennedy (Bruce Greenwood) e seus assessores têm de pôr um plano de ação contra os soviéticos. Kennedy está determinado em mostrar que ele é forte o bastante para resistir a ameaça e o Pentágono aconselha o exército dos Estados Unidos a contra-golpear, o que poderia levar a uma outra invasão norte-americana em Cuba. Entretanto, Kennedy está receoso em levar a cabo esta operação, pois uma invasão norte-americana poderia fazer com que os soviéticos partissem para a retaliação na Europa. Por treze dias o destino da humanidade esteve nas mãos de um grupo reunido no salão oval na Casa Branca, pois a possibilidade de uma guerra nuclear era real e navios soviéticos rumavam para Cuba levando o material que faltava para terminar a plataforma de lançamento, que estava sendo construída em ritmo acelerado. Com a situação cada vez mais tensa, qualquer ato impensado poderia provocar um conflito armado de conseqüências atras.</info>
 <date>2000</date>
 </item>
 <item>
@@ -671,7 +675,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/13%20Minutos.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/13%20Minutos.jpg</fanart>
-<info>Uma biografia de Georg Elser, o homem que tentou matar Adolf Hitler. Em 8 de novembro de 1939, Elser implantou uma bomba atrás de um púlpito usado por Hitler, em Munique. Mas o F&uuml;hrer deixou o local mais cedo que o esperado, contrariando o plano que poderia ter evitado a Segunda Guerra Mundial.</info>
+<info>Uma biografia de Georg Elser, o homem que tentou matar Adolf Hitler. Em 8 de novembro de 1939, Elser implantou uma bomba atrás de um púlpito usado por Hitler, em Munique. Mas o Führer deixou o local mais cedo que o esperado, contrariando o plano que poderia ter evitado a Segunda Guerra Mundial.</info>
 <date>2016</date>
 </item>
 <item>
@@ -779,7 +783,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/1941%20Uma%20Guerra%20Muito%20Louca.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/1941%20Uma%20Guerra%20Muito%20Louca.jpg</fanart>
-<info>7 de dezembro de 1941. Em um ataque de surpresa o braço naval aéreo da frota imperial japonesa bombardeou a base naval de Pearl Harbor, nos Estados Unidos, e colocou o país na 2&ordf; Guerra Mundial. Os americanos ficaram abalados, chocados e ultrajados com este ataque traiçoeiro. Na costa oeste a população entrou em paranóia. O pânico se espalhou e todos se convenceram de que a Califórnia era o próximo alvo. O general do estado-maior Joseph W. Stilwell (Robert Stack), comandante do 3&ordm; batalhão do exército, recebeu ordens de defender o sul da Califórnia. Unidades da marinha e do exército se mobilizaram para o local. Baterias de defesa anti-aérea foram colocadas de prontidão. Operações de defesa civil entraram em ação. Pela 1&ordf; vez desde a Guerra Civil cidadãos americanos se preparavam para defender sua pátria contra um inimigo, que poderia atacar em qualquer lugar e a qualquer hora, com uma força desconhecida. Em 13 de dezembro de 1941, na costa da Califórnia, um submarino japonês quer atacar algo que desencorage a população. O alvo escolhido é Hollywood, o que gera uma enorme confusão.</info>
+<info>7 de dezembro de 1941. Em um ataque de surpresa o braço naval aéreo da frota imperial japonesa bombardeou a base naval de Pearl Harbor, nos Estados Unidos, e colocou o país na 2ª Guerra Mundial. Os americanos ficaram abalados, chocados e ultrajados com este ataque traiçoeiro. Na costa oeste a população entrou em paranóia. O pânico se espalhou e todos se convenceram de que a Califórnia era o próximo alvo. O general do estado-maior Joseph W. Stilwell (Robert Stack), comandante do 3º batalhão do exército, recebeu ordens de defender o sul da Califórnia. Unidades da marinha e do exército se mobilizaram para o local. Baterias de defesa anti-aérea foram colocadas de prontidão. Operações de defesa civil entraram em ação. Pela 1ª vez desde a Guerra Civil cidadãos americanos se preparavam para defender sua pátria contra um inimigo, que poderia atacar em qualquer lugar e a qualquer hora, com uma força desconhecida. Em 13 de dezembro de 1941, na costa da Califórnia, um submarino japonês quer atacar algo que desencorage a população. O alvo escolhido é Hollywood, o que gera uma enorme confusão.</info>
 <date>1979</date>
 </item>
 <item>
@@ -793,6 +797,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/1964%20-%20O%20Brasil%20Entre%20Armas%20e%20Livros.jpg</fanart>
 <info>Procurando oferecer uma outra perspectiva a respeito da ditadura militar instaurada no Brasil entre 1964 e 1985, o documentário reúne sociólogos, historiadores e jornalistas para debaterem o passado e a sua influência no futuro. Analisando uma coletânea de documentos retirados do serviço de inteligência da extinta Tchecoslováquia, eles prometem revelar uma verdade, até então, escondida.</info>
 <date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]20 ANOS MAIS JOVEM[/COLOR][/B]</title>
+<link>$doregex[BP1]20ANSMSJVNS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/20%20Anos%20Mais%20Jovem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/20%20Anos%20Mais%20Jovem.jpg</fanart>
+<info></info>
+<date>2013</date>
 </item>
 <item>
 <title>[B][COLOR white]2001: UMA ODISSEIA NO ESPAÇO[/COLOR][/B]</title>
@@ -820,7 +836,7 @@
 </item>
 <item>
 <title>[B][COLOR white]2012[/COLOR][/B]</title>
-<link>$doregex[BP1]2012.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]2012.mp4?617529347878241316961752934789691993300B265dpk7MD54ZXZfMXpyZjRrQ1E.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -828,6 +844,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/2012.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/2012.jpg</fanart>
 <info>Em 2008, o presidente americano (Danny Glover) convoca uma reunião de emergência com as principais potências para conversar sobre um grande perigo para a humanidade. Os anos passam e, com a proximidade de 2012, as autoridades decidem que não é mais possível conter o perigo eminente que pode significar o fim do mundo. Com isso, colocam em prática o plano iniciado anos atrás, sob o comando dos cientistas Adrian Helmsley (Chiwetel Ejiofor) e Carl Anheuser (Oliver Platt). Enquanto isso, o escritor Jackson Curtis (John Cusack) leva sua vida de marido separado, pai de dois filhos, como motorista de limusine e tendo que aturar as reclamações da ex esposa (Amanda Peet). Ao levar os filhos para passear, ele descobre os primeiros sintomas da destruição do planeta.</info>
+<date>2009</date>
+</item>
+<item>
+<title>[B][COLOR white]2019: O ANO DA EXTINÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]2019OANDEXTCAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/2019%20-%20O%20Ano%20da%20Extin%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/2019%20-%20O%20Ano%20da%20Extin%C3%A7%C3%A3o.jpg</fanart>
+<info>Um vírus se espalhou pelo planeta, transformando a maior parte da população mundial em vampiros. Apenas 5% da raça humana ainda existe e o risco de extinção é cada vez maior para ambas as espécies. Procurando uma maneira de salvar sua raça, Edward Dalton (Ethan Hawke), um pesquisador vampiro, conhece Elvis (Willem Dafoe), um ex-vampiro, cujo passado pode ser a resposta para a salvação da raça humana.</info>
 <date>2009</date>
 </item>
 <item>
@@ -891,6 +919,18 @@
 <date>2017</date>
 </item>
 <item>
+<title>[B][COLOR white]3 DIAS PARA MATAR[/COLOR][/B]</title>
+<link>$doregex[BP1]3DISPRMTR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/3%20Dias%20para%20Matar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/3%20Dias%20para%20Matar.jpg</fanart>
+<info>Ethan Renner (Kevin Costner), veterano agente secreto, está à beira da morte. Seu último desejo é reatar com sua filha, com quem perdeu contato há muito tempo. Temendo não ter tempo hábil para salvar seus relacionamentos com a menina e com a ex-esposa, este homem descobre a existência de uma potente droga que pode salvá-lo, contanto que ele aceite um derradeiro trabalho.</info>
+<date>2014</date>
+</item>
+<item>
 <title>[B][COLOR white]3 NINJAS CONTRA-ATACAM[/COLOR][/B]</title>
 <link>$doregex[BP1]3NJSCNTRATCM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -911,7 +951,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/3%20Ninjas%20-%20Aventura%20na%20Mega%20Mountain.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/3%20Ninjas%20-%20Aventura%20na%20Mega%20Mountain.jpg</fanart>
-<info>Três irmãos ninjas vão a parque de diversões ver artista de TV preferido. Tudo parece tranq&uuml;ilo, quando aparece uma turma de vilões.</info>
+<info>Três irmãos ninjas vão a parque de diversões ver artista de TV preferido. Tudo parece tranqüilo, quando aparece uma turma de vilões.</info>
 <date>1998</date>
 </item>
 <item>
@@ -935,12 +975,24 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/3%20Ninjas%20-%20Uma%20Aventura%20Radical.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/3%20Ninjas%20-%20Uma%20Aventura%20Radical.jpg</fanart>
-<info>3 garotos se envolvem de forma hilária em uma grande investigação do FBI sobre seq&uuml;estros, e até o pai dos garotos se torna suspeito para eles. Mas o avô que preparou esses garotos para serem mestres em artes marciais entra em ação para ajudá-los a resolver essa questão.</info>
+<info>3 garotos se envolvem de forma hilária em uma grande investigação do FBI sobre seqüestros, e até o pai dos garotos se torna suspeito para eles. Mas o avô que preparou esses garotos para serem mestres em artes marciais entra em ação para ajudá-los a resolver essa questão.</info>
 <date>1992</date>
 </item>
 <item>
-<title>[B][COLOR white]3 VIDAS[/COLOR][/B]</title>
-<link>$doregex[BP1]3VDS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]3 PEDIDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]3PDIDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/filmes/3%20Pedidos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/filmes/3%20Pedidos.jpg</fanart>
+<info>Antes de entrar no programa de proteção de testemunhas, o ladrão de bancos Mikael exige 3 coisas da polícia, 3 coisas que lançam uma nova luz sobre o assalto em que ele e seus parceiros foram presos.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]3 VIDAS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]3VDSLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1179,6 +1231,18 @@
 <date>2010</date>
 </item>
 <item>
+<title>[B][COLOR white]72 HORAS: MÁRTIR QUE NUNCA MORREU[/COLOR][/B]</title>
+<link>$doregex[BP1]72HRSMRTQNCMRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/72%20Horas%20-%20M%C3%A1rtir%20Que%20Nunca%20Morreu.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/72%20Horas%20-%20M%C3%A1rtir%20Que%20Nunca%20Morreu.jpg</fanart>
+<info>É um filme de drama biográfico indiano de 2019, dirigido por Avinash Dhyani. A história é baseada na vida e tempos do atirador Jaswant Singh Rawat, que lutou contra o invasor exército chinês durante a Guerra Sino-Indiana de 1962.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]7ETENTA E 5INCO[/COLOR][/B]</title>
 <link>$doregex[BP1]7TNTE5NCO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1189,6 +1253,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/7etenta%20e%205inco.jpg</fanart>
 <info>Os exames finais na prestigiada Universidade de Dreyskill estão finalmente no fim e é tempo de festejar. "A Tripulação", como são conhecidos pelos seus colegas e companheiros de dormitório, são convidados para um refúgio de um aluno filho de pais ricos, lá bem no alto dos montes em Colorado, que mais não é do que uma fantástica mansão.O que seria suposto ser um fim de semana de diversão e festa depressa se torna numa viagem que eles jamais vão esquecer&hellip; Se conseguirem escapar com vida! Uma simples brincadeira de chamadas telefónicas para assustar converte-se num jogo intenso de fuga pela sobrevivência quando um dos membros da "Tripulação" faz uma chamada à pessoa errada.</info>
 <date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]8 BALL CLOWN [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]8BALCLWNLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/8%20Ball%20Clown.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/8%20Ball%20Clown.jpg</fanart>
+<info>Viciado em heroína e atormentado por crianças, 8 Ball o palhaço tenta acabar com sua vida e o tormento, mas ele simplesmente não é capaz, então ele rastreia as crianças que foram chamando e chamando e começa a jogar um jogo. Oh, eu vou te encontrar, eu vou te encontrar e depois vamos jogar o dia todo. 8 A mente de Ball é distorcida da heroína e ele traz um novo significado ao jogo. 8 A bola está tão torcida que ele simplesmente vai te atormentar.</info>
+<date>2017</date>
 </item>
 <item>
 <title>[B][COLOR white]9 CANÇÕES[/COLOR][/B]</title>
@@ -1228,7 +1304,7 @@
 </item>
 <item>
 <title>[B][COLOR white]9: A SALVAÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]ASLVCAO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ASLVCAO.mp4?612851760837972428961285176083944972820B265dpk7MD54ankyOGV5cUt1YU0.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1431,6 +1507,18 @@
 <date>2018</date>
 </item>
 <item>
+<title>[B][COLOR white]A BALADA DO B.O.B.[/COLOR][/B]</title>
+<link>$doregex[BP1]ABLADOBOB.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20do%20B.O.B..jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Balada%20do%20B.O.B..jpg</fanart>
+<info>O suspense não termina para B.O.B., que trama sua fuga da cela secreta do governo sob a guarda do general W.R. Monger.</info>
+<date>2009</date>
+</item>
+<item>
 <title>[B][COLOR white]A BARRACA DO BEIJO[/COLOR][/B]</title>
 <link>$doregex[BP1]ABARCDBJ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1455,8 +1543,20 @@
 <date>2018</date>
 </item>
 <item>
+<title>[B][COLOR white]A BATALHA DE RIDDICK[/COLOR][/B]</title>
+<link>$doregex[BP1]ABTLHDRDCK.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Batalha%20de%20Riddick.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Batalha%20de%20Riddick.jpg</fanart>
+<info>Os Necromongers são guerreiros interplanetários que vivem de assolar novos mundos, oferecendo aos seus habitantes duas opções: se converter ou morrer. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias, já que não vêem outra saída de salvação. Quem pode ajudá-los é Riddick (Vin Diesel), um homem solitário que vive exilado e fugindo de seus perseguidores.</info>
+<date>2004</date>
+</item>
+<item>
 <title>[B][COLOR white]A BATALHA DO PLANETA DOS MACACOS[/COLOR][/B]</title>
-<link>$doregex[BP1]PLNTDSMCMCS5.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PLNTDSMCMCS5.mp4?620908637356080915362090863738660702740B265dpk7MD54amYwWVNhQlBnek0.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -1487,7 +1587,7 @@
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/%C3%80%20Beira%20da%20Loucura.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/%C3%80%20Beira%20da%20Loucura.jpg</fanart>
-<info>O investigador John Trent (Sam Neill) é contratado para achar Sutter Cane (J&uuml;rgen Prochnow), um escritor de histórias de terror que, após terminar seu último livro, misteriosamente desapareceu. Mesmo desconfiando que isso não passa de uma jogada publicitária, aceita o trabalho. Passa a ler seus livros, procurando pistas da cidade onde Cane possa estar escondido, mas estes livros são macabros e, após sua leitura, as pessoas agem de um modo bem estranho.</info>
+<info>O investigador John Trent (Sam Neill) é contratado para achar Sutter Cane (Jürgen Prochnow), um escritor de histórias de terror que, após terminar seu último livro, misteriosamente desapareceu. Mesmo desconfiando que isso não passa de uma jogada publicitária, aceita o trabalho. Passa a ler seus livros, procurando pistas da cidade onde Cane possa estar escondido, mas estes livros são macabros e, após sua leitura, as pessoas agem de um modo bem estranho.</info>
 <date>1994</date>
 </item>
 <item>
@@ -1611,6 +1711,30 @@
 <date>1989</date>
 </item>
 <item>
+<title>[B][COLOR white]A BONECA QUE VIROU GENTE[/COLOR][/B]</title>
+<link>$doregex[BP1]ABNCQVRGNT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Boneca%20Que%20Virou%20Gente.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Boneca%20Que%20Virou%20Gente.jpg</fanart>
+<info>Casey Stuart é uma menina que ainda está se recuperando da morte da mãe. Quando seu pai apresenta uma nova namorada, ela decide ressucitar a mãe com um feitiço, mas acidentalmente dá vida a uma boneca, que se transforma em uma pessoa de carne e osso.</info>
+<date>2000</date>
+</item>
+<item>
+<title>[B][COLOR white]A BONECA QUE VIROU GENTE 2[/COLOR][/B]</title>
+<link>$doregex[BP1]ABNCQVRGNT2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Boneca%20Que%20Virou%20Gente%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Boneca%20Que%20Virou%20Gente%202.jpg</fanart>
+<info>Grace Manning (Francia Raisa) é a jovem CEO da empresa Marathon Toys, uma gigante companhia de brinquedos que sua mãe criou e ficou famosa por fabricar a boneca Eve. Passando por uma crise em sua vida, Grace percebe que não está preparada para o cargo e as ações da empresa estão caindo. Para ajudá-la a vencer esses obstáculos, Eve (Tyra Banks) é magicamente trazida a vida, tendo também que aprender por si só sobre os altos e baixos da vida real.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]A BRUMA ASSASSINA[/COLOR][/B]</title>
 <link>$doregex[BP1]ABRMASASINA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1641,8 +1765,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Bruxa%20de%20Blair.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Bruxa%20de%20Blair.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Bruxa%20De%20Blair.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Bruxa%20De%20Blair.jpg</fanart>
 <info>Três estudantes de cinema embrenham-se nas matas do estado de Maryland para fazer um documentário sobre a lenda da bruxa de Blair e desaparecem misteriosamente. Um ano depois, uma sacola cheia de rolos de filmes e fitas de vídeo encontrada na mata. As imagens registradas pelo trio dão algumas pistas sobre seu macabro destino.</info>
 <date>1999</date>
 </item>
@@ -1653,8 +1777,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Bruxa%20de%20Blair%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Bruxa%20de%20Blair%202.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Bruxa%20de%20Blair%202%20-%20O%20Livro%20das%20Sombras.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Bruxa%20de%20Blair%202%20-%20O%20Livro%20das%20Sombras.jpg</fanart>
 <info>Em A Bruxa de Blair, um grupo de jovens cineastas viajam para uma floresta, em busca de rodar um documentário sobre uma força maligna chamada "bruxa de Blair". Nenhum dos cineastas foi visto novamente e o videotape produzido por eles foi encontrado e visto por milhões de pessoas nos cinemas de todo o planeta. O sucesso do filme fez com que uma grande indústria de turismo fosse criada em torno de Burkittsville, Maryland, onde o videotape fora rodado. Com isso, um empresário local criou a "Caça à Bruxa de Blair", uma excursão repleta de aventura em plena floresta onde o primeiro filme fora rodado, em que os interessados em participar devem se inscrever pela internet. Entretanto, quando os primeiros turistas chegam ao local, fatos bizarros e assustadores começam a ocorrer de forma descontrolada, fazendo com que todos tentem de qualquer maneira escapar da floresta e da maldição da bruxa de Blair.</info>
 <date>2001</date>
 </item>
@@ -1703,7 +1827,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20B%C3%BAssola%20De%20Ouro.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20B%C3%BAssola%20De%20Ouro.jpg</fanart>
-<info>Lyra Belacqua (Dakota Blue Richards) é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranq&uuml;ila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel (Daniel Craig), seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger (Ben Walker), seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</info>
+<info>Lyra Belacqua (Dakota Blue Richards) é uma órfã que foi criada na Universidade Oxford. No mundo em que vive todas as pessoas têm um "daemon", ou seja, uma manifestação de sua própria alma em forma animal. Lyra leva uma vida tranqüila até ela e seu daemon, Pantalaimon, descobrirem a existência de uma substância misteriosa chamada "pó". Isto provoca um estranho efeito nas crianças, o que faz com que as autoridades religiosas se convençam de que representa o mal. Seguindo o misterioso Lorde Asriel (Daniel Craig), seu protetor, Lyra parte em busca de uma resposta. Em Londres ela descobre que diversas crianças estão desaparecendo, entre elas Roger (Ben Walker), seu melhor amigo. Com a ajuda de um instrumento ancestral, que se parece com uma bússola de ouro, ela parte numa jornada que pode alterar o mundo para sempre.</info>
 <date>2007</date>
 </item>
 <item>
@@ -1839,6 +1963,18 @@
 <date>2017</date>
 </item>
 <item>
+<title>[B][COLOR white]A CASA DA ÁRVORE[/COLOR][/B]</title>
+<link>$doregex[BP1]ACSDAVRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Casa%20da%20%C3%81rvore.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Casa%20da%20%C3%81rvore.jpg</fanart>
+<info>Um célebre chef tenta escapar de uma onda de exposição negativa na mídia ao se mudar para a casa de campo da família, mas os fantasmas de seu passado estão ao seu redor e todas as dívidas deverão ser pagas.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]A CASA DE CERA[/COLOR][/B]</title>
 <link>$doregex[BP1]ACSADCRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -1921,6 +2057,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Casa%20do%20Espanto%203.jpg</fanart>
 <info>Finalmente, o detetive Lucas McCarthy (Lance Henriksen) consegue prender Max Jenke (Brion James), um assassino diabólico. Ele é executado na cadeira elétrica, porém isso só o transporta para um outro nível de realidade e o assassino jura vingança contra o detetive. E, após a sua morte, ele retorna para infernizar a vida de seu algoz. Agora, a família de Lucas está sendo atacada, ele está à beira da loucura e sua casa assombrada. Será que com a ajuda de um mal-afamado professor, ele conseguirá mandar Max de uma vez por todas para o inferno?</info>
 <date>1989</date>
+</item>
+<item>
+<title>[B][COLOR white]A CASA DO LAGO[/COLOR][/B]</title>
+<link>$doregex[BP1]ACSADLGO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Casa%20do%20Lago.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Casa%20do%20Lago.jpg</fanart>
+<info>Kate Forster (Sandra Bullock) é uma médica solitária, que morava em uma casa à beira de um lago. Hoje esta casa é ocupada por Alex Wyler (Keanu Reeves), um arquiteto frustrado. Kate passa a trocar cartas com Alex, com quem mantém um relacionamento à distância por 2 anos. É quando, ao se descobrirem apaixonados um pelo outro, eles buscam um meio de se encontrar.</info>
+<date>2006</date>
 </item>
 <item>
 <title>[B][COLOR white]A CASA DO MEDO[/COLOR][/B]</title>
@@ -2284,7 +2432,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A CONQUISTA DO PLANETA DOS MACACOS[/COLOR][/B]</title>
-<link>$doregex[BP1]PLNTDSMCMCS4.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PLNTDSMCMCS4.mp4?620908609043152817762090860869372162260B265dpk7MD54UnBfb2xPR0lqSjA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2399,7 +2547,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Cura.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/A%20Cura.jpg</fanart>
-<info>Um jovem e ambicioso executivo (Dane DeHaan) é enviado para os Alpes Suíços com a missão de trazer de volta o CEO da empresa, em tratamento em um 'Centro de Cura'. Após sofrer um acidente automobilístico, no entanto, o rapaz acaba internado na mesma instituição, cujo corpo médico promete purificar os pacientes por meio de uma água milagrosa &ndash; e que se localiza em um lugar de passado misterioso. Incapacitado de retornar para casa, o personagem passa a duvidar da própria sanidade, ao mesmo tempo em que desconfia da motivação do doutor responsável pelo "spa".</info>
+<info>Um jovem e ambicioso executivo (Dane DeHaan) é enviado para os Alpes Suíços com a missão de trazer de volta o CEO da empresa, em tratamento em um 'Centro de Cura'. Após sofrer um acidente automobilístico, no entanto, o rapaz acaba internado na mesma instituição, cujo corpo médico promete purificar os pacientes por meio de uma água milagrosa – e que se localiza em um lugar de passado misterioso. Incapacitado de retornar para casa, o personagem passa a duvidar da própria sanidade, ao mesmo tempo em que desconfia da motivação do doutor responsável pelo "spa".</info>
 <date>2017</date>
 </item>
 <item>
@@ -2524,7 +2672,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ENTREVISTA[/COLOR][/B]</title>
-<link>$doregex[BP1]AERVTVST.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERVTVST.mp4?615366169225960774561536616907294582580B265dpk7MD54ekNWbU1jd2J0N0U.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2536,7 +2684,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL1.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL1.mp4?612890207578014950561289020782649966900B265dpk7MD54RUZweEcyTW45Tkk.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2548,7 +2696,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 2[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL2.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL2.mp4?612890222981185608161289022298027176180B265dpk7MD54U3l4SXNmQ25qSm8.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2560,7 +2708,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 3[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL3.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL3.mp4?612890234531256097761289023452699162900B265dpk7MD54X0pKRDhPaUVRVk0.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2572,7 +2720,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ERA DO GELO 4[/COLOR][/B]</title>
-<link>$doregex[BP1]AERDGL4.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AERDGL4.mp4?612926079197933675361292607920100402260B265dpk7MD54QTNpR2lTUEZWYkU.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2615,7 +2763,7 @@
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo%20-%20O%20Big%20Bang.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Era%20do%20Gelo%20-%20O%20Big%20Bang.jpg</fanart>
-<info>Depois que o esquilo Scrat, involuntariamente, provoca um acidente espacial em sua incansável perseguição pela noz, um enorme meteoro entra em rota de colisão com a Terra, ameaçando o lar de Manny, Diego, Sid e cia. Sem saber o que fazer para reverter a situação, eles terão que confiar em Buck, a elétrica doninha caolha do terceiro filme &ndash; único do grupo que realmente tem um plano para evitar o trágico fim de todos. Paralelamente, Mannie e Ellie têm que lidar com iminente saída de Amora de casa, ao passo que Diego e Shira pensam em aumentar a família e Sid finalmente parece encontrar o amor.</info>
+<info>Depois que o esquilo Scrat, involuntariamente, provoca um acidente espacial em sua incansável perseguição pela noz, um enorme meteoro entra em rota de colisão com a Terra, ameaçando o lar de Manny, Diego, Sid e cia. Sem saber o que fazer para reverter a situação, eles terão que confiar em Buck, a elétrica doninha caolha do terceiro filme – único do grupo que realmente tem um plano para evitar o trágico fim de todos. Paralelamente, Mannie e Ellie têm que lidar com iminente saída de Amora de casa, ao passo que Diego e Shira pensam em aumentar a família e Sid finalmente parece encontrar o amor.</info>
 <date>2016</date>
 </item>
 <item>
@@ -2764,7 +2912,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A ESTRADA 47[/COLOR][/B]</title>
-<link>$doregex[BP1]AESTD47.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AESTD47.mp4?618199345605136592161819934552772357620B265dpk7MD54a18tbFBPeGJwdWM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2867,7 +3015,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Experi%C3%AAncia%20III.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Experi%C3%AAncia%20III.jpg</fanart>
-<info>A filha de Eve (Natasha Henstridge), Sara (Sunny Mabrey), faz parte da 3&ordf; geração de alienígenas na Terra. Existem outros da sua espécie, mas Sara é mais resistente aos diversos tipos de doença do planeta. Ela vive na casa de um professor universitário, Abbot (Robert Knepper), que a seq&uuml;estrou do governo quando era apenas um bebê, ou seja, poucos dias atrás, pois ela cresce 15 centímetros por dia e em breve será uma adulta. Abbot quer criar o espécime perfeito e obter reconhecimento internacional, mas várias coisas começam a dar totalmente e mortes acontecem. Além disto outros alienígenas mestiços começam a apresentar sérios problemas de saúde, mas uma dela, Amelia (Amelia Cooke), parece estar disposta a tudo para poder sobreviver.</info>
+<info>A filha de Eve (Natasha Henstridge), Sara (Sunny Mabrey), faz parte da 3ª geração de alienígenas na Terra. Existem outros da sua espécie, mas Sara é mais resistente aos diversos tipos de doença do planeta. Ela vive na casa de um professor universitário, Abbot (Robert Knepper), que a seqüestrou do governo quando era apenas um bebê, ou seja, poucos dias atrás, pois ela cresce 15 centímetros por dia e em breve será uma adulta. Abbot quer criar o espécime perfeito e obter reconhecimento internacional, mas várias coisas começam a dar totalmente e mortes acontecem. Além disto outros alienígenas mestiços começam a apresentar sérios problemas de saúde, mas uma dela, Amelia (Amelia Cooke), parece estar disposta a tudo para poder sobreviver.</info>
 <date>2004</date>
 </item>
 <item>
@@ -2927,7 +3075,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Face%20da%20Morte%20-%20O%20Dem%C3%B4nio%20Veste%20Sorriso.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Face%20da%20Morte%20-%20O%20Dem%C3%B4nio%20Veste%20Sorriso.jpg</fanart>
-<info>Numa tentativa de superar a morte de sua mãe, Ashley parte para a faculdade. Lá, ela conhece novas pessoas, incluindo um colega chamado Binder, que a convida para uma festa. Durante essa festa, a jovem conhece uma lenda urbana que está circulando o campus &ndash; trata-se de um assassino que frequenta o mundo online e tem como apelido "Smiley", aquela carinha feliz que se usa quando se escreve uma mensagem. Ele ataca suas vítimas depois que elas repetem determinada frase três vezes no mundo virtual. Até então ele só pode ser visto na internet, ninguém o viu no mundo real. Intrigada, Ashley volta para o dormitório e, junto com sua colega de quarto Proxy, ela resolve colocar à prova tal lenda. Para seu terror, Ashley vê o tal assassino e fica paranoica sobre o assunto, pensando se o que ela viu é real ou se ela está ficando louca. E enquanto ela investiga o assassino, várias mortes passam a acontecer no campus. Será que Ashley realmente viu o Smiley ou estaria ela cometendo os crimes fingindo ser essa figura assustadora?</info>
+<info>Numa tentativa de superar a morte de sua mãe, Ashley parte para a faculdade. Lá, ela conhece novas pessoas, incluindo um colega chamado Binder, que a convida para uma festa. Durante essa festa, a jovem conhece uma lenda urbana que está circulando o campus – trata-se de um assassino que frequenta o mundo online e tem como apelido "Smiley", aquela carinha feliz que se usa quando se escreve uma mensagem. Ele ataca suas vítimas depois que elas repetem determinada frase três vezes no mundo virtual. Até então ele só pode ser visto na internet, ninguém o viu no mundo real. Intrigada, Ashley volta para o dormitório e, junto com sua colega de quarto Proxy, ela resolve colocar à prova tal lenda. Para seu terror, Ashley vê o tal assassino e fica paranoica sobre o assunto, pensando se o que ela viu é real ou se ela está ficando louca. E enquanto ela investiga o assassino, várias mortes passam a acontecer no campus. Será que Ashley realmente viu o Smiley ou estaria ela cometendo os crimes fingindo ser essa figura assustadora?</info>
 <date>2012</date>
 </item>
 <item>
@@ -2939,7 +3087,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Face%20De%20Um%20Anjo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Face%20De%20Um%20Anjo.jpg</fanart>
-<info>Depois do fracasso de bilheterias de seu primeiro filme, o cineasta Thomas (Daniel Br&uuml;hl) busca uma segunda chance em Hollywood. Com isso, por ordem de seus produtores, ele vai a Siena, na Itália, para pesquisar sobre um brutal assassinato que está em julgamento na cidade. Mas, atmosférica cidade medieval e seus habitantes começam a exercer uma estranha influência sobre o diretor. Ele passa a ter visões e pesadelos desconcertantes enquanto segue em sua busca pela verdade, ao lado de Simone (Kate Beckinsale) uma jornalista que escreveu um livro sobre o assassinato e conhece tudo sobre o caso.</info>
+<info>Depois do fracasso de bilheterias de seu primeiro filme, o cineasta Thomas (Daniel Brühl) busca uma segunda chance em Hollywood. Com isso, por ordem de seus produtores, ele vai a Siena, na Itália, para pesquisar sobre um brutal assassinato que está em julgamento na cidade. Mas, atmosférica cidade medieval e seus habitantes começam a exercer uma estranha influência sobre o diretor. Ele passa a ter visões e pesadelos desconcertantes enquanto segue em sua busca pela verdade, ao lado de Simone (Kate Beckinsale) uma jornalista que escreveu um livro sobre o assassinato e conhece tudo sobre o caso.</info>
 <date>2017</date>
 </item>
 <item>
@@ -2980,7 +3128,12 @@
 </item>
 <item>
 <title>[B][COLOR white]A FAMÍLIA BUSCAPÉ[/COLOR][/B]</title>
-<link>$doregex[BP1]AFMLBSCP.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFMLBSCP" frameborder="0" height="400" scrolling="no" width="640" allowfullscreen=""> 
+
+	   
+
+
+												</iframe>.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -2992,7 +3145,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A FANTÁSTICA FÁBRICA DE CHOCOLATE[/COLOR][/B]</title>
-<link>$doregex[BP1]AFNTSCFBRCDCHCLT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFNTSCFBRCDCHCLT.mp4?614711687377603875361471168758423780340B265dpk7MD54N0ZMZy12WjNoWGs.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3004,7 +3157,7 @@
 </item>
 <item>
 <title>[B][COLOR white]A FANTÁSTICA FÁBRICA DE CHOCOLATE[/COLOR][/B]</title>
-<link>$doregex[BP1]AFNTSCFBRCDCHCLT2005.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]AFNTSCFBRCDCHCLT2005.mp4?615366399585870520161536639941835420820B265dpk7MD54MGhNeUtRTi04NjQ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -3347,7 +3500,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Grande%20Ilus%C3%A3o.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Grande%20Ilus%C3%A3o.jpg</fanart>
-<info>Atingido pelos efeitos da Depressão, há muitos pobres no estado da Louisiana. Neste contexto surge o populista e demagogo Willie Stark (Sean Penn), que diz ser um caipira por ter descoberto que, falando assim, era ouvido pelo povo. Ele é estimulado por um partido de oposição, que busca os votos dos indecisos, a disputar o cargo de governador, sendo convencido pelo manipulador Tiny Duffy (James Gandolfini) e também por um jovem jornalista, Jack Burden (Jude Law). A retórica de Willie cresce e ele não pára de fazer promessas de forma eloq&uuml;ente, o que faz com que seja eleito governador com a maior margem registrada no estado. Mas o suposto idealismo de Willie com o tempo dá lugar a um questionável modo de agir. Um processo de impeachment contra ele tem andamento e o conhecido juiz Samuel Irwin (Anthony Hopkins) diz a um jornal que há base legal para isto. Willie então incumbe Burden de achar algo "podre" no passado do Irwin, para fazê-lo mudar de posição.</info>
+<info>Atingido pelos efeitos da Depressão, há muitos pobres no estado da Louisiana. Neste contexto surge o populista e demagogo Willie Stark (Sean Penn), que diz ser um caipira por ter descoberto que, falando assim, era ouvido pelo povo. Ele é estimulado por um partido de oposição, que busca os votos dos indecisos, a disputar o cargo de governador, sendo convencido pelo manipulador Tiny Duffy (James Gandolfini) e também por um jovem jornalista, Jack Burden (Jude Law). A retórica de Willie cresce e ele não pára de fazer promessas de forma eloqüente, o que faz com que seja eleito governador com a maior margem registrada no estado. Mas o suposto idealismo de Willie com o tempo dá lugar a um questionável modo de agir. Um processo de impeachment contra ele tem andamento e o conhecido juiz Samuel Irwin (Anthony Hopkins) diz a um jornal que há base legal para isto. Willie então incumbe Burden de achar algo "podre" no passado do Irwin, para fazê-lo mudar de posição.</info>
 <date>2006</date>
 </item>
 <item>
@@ -3393,8 +3546,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer07/imgs-videos/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg</fanart>
+<thumbnail>https://cometa.top/player3/imgs-videos/filmes/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/filmes/A%20Guarda%20do%20Le%C3%A3o%20-%20Um%20Novo%20Rugido.jpg</fanart>
 <info>Nas savanas africanas, Kion, o segundo filho de Simba, cria e se torna o líder de um grupo de animais chamados The Guard Lion, uma equipe que deseja manter o equilíbrio no círculo da vida resolvendo problemas e realizando tarefas. O time deveria ser composto por animais corajosos, rápidos e fortes,mas Kion acaba convidando os seus amigos: o texugo Bunga, a garça Ono, o guepardo Fuli e o hipopótamo Beshte.</info>
 <date>2016</date>
 </item>
@@ -3419,7 +3572,7 @@
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Guerra%20de%20Hart.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Guerra%20de%20Hart.jpg</fanart>
-<info>Tommy Hart (Colin Farrell) é um estudante do 2&ordm; ano de Direito que se alista no exército para lutar pelos Aliados na 2&ordf; Guerra Mundial. Em meio a guerra ele acaba sendo capturado, sendo posteriormente enviado a um campo de concentração. Lá um soldado negro é acusado de ter assassinado um soldado branco que era racista, sendo que ambos eram prisioneiros no local. Ao invés de executá-lo, os nazistas concordam com o plano apresentado pelo coronel William McNamara (Bruce Willis), também prisioneiro no campo, que propõe que o soldado acusado tenha um julgamento realizado no local. Hart é então designado a defender o soldado acusado enquanto que McNamara usa a situação para empreender seu plano de fuga do local.</info>
+<info>Tommy Hart (Colin Farrell) é um estudante do 2º ano de Direito que se alista no exército para lutar pelos Aliados na 2ª Guerra Mundial. Em meio a guerra ele acaba sendo capturado, sendo posteriormente enviado a um campo de concentração. Lá um soldado negro é acusado de ter assassinado um soldado branco que era racista, sendo que ambos eram prisioneiros no local. Ao invés de executá-lo, os nazistas concordam com o plano apresentado pelo coronel William McNamara (Bruce Willis), também prisioneiro no campo, que propõe que o soldado acusado tenha um julgamento realizado no local. Hart é então designado a defender o soldado acusado enquanto que McNamara usa a situação para empreender seu plano de fuga do local.</info>
 <date>2002</date>
 </item>
 <item>
@@ -3457,160 +3610,4 @@
 <fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Herdeira.jpg</fanart>
 <info>Dina (Rebecca Emilie Sattrup) herdou da mãe a habilidade sobrenatural de olhar a alma das pessoas, fazendo com que os observados tenham vergonha. Ela é requisitada para fazer com que o herdeiro de um trono confesse ter assassinado sua família, mas se recusa a usar seu dom para fins malignos e acaba presa, o que faz com que ela precise descobrir quem é o verdadeiro culpado dos crimes para salvar a si própria.</info>
 <date>2016</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA DE ESTER[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTRIDESTR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20de%20Ester.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20de%20Ester.jpg</fanart>
-<info>Boas batalhas contra o mal foram travadas nesta épica história bíblica de heroísmo. Essa narrativa apresenta Mardoqueu (Robert Miano), um honesto judeu, e Hamã (Thaao Penghlis), um perverso primeiro-ministro que foge completamente ao controle do jovem rei persa Xerxes. Hamã é o segundo em autoridade depois do rei persa e quer ser venerado por todos. Mas Mardoqueu não se curva diante dele. Tal atitude aumenta a ira de Hamã e o faz criar planos terríveis contra esse líder judeu e seu povo.</info>
-<date>2014</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA DO SEXO: O SÉCULO XX[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTRDSXSCLXX.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</fanart>
-<info>O século XX foi testemunha de mudanças revolucionárias no terreno sexual. Veremos neste programa desde o primeiro preservativo de látex, em 1920, passando pelo nascimento da pílula nos anos 60, e chegando ao Viagra no final dos anos 90. E embora em matéria de sexo nada mais possa nos chocar, o novo milênio parece trazer também uma visão inovadora do mais básico dos instintos.</info>
-<date>2015</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA SEM FIM[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTSMFM.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim.jpg</fanart>
-<info>Bastian (Barret Oliver) é um garoto que usa sua imaginação como refúgio dos problemas do dia-a-dia, como as provas do colégio, as brigas na escola e a perda de sua mãe. Um dia, após se livrar de alguns garotos que insistem em atormentá-lo, ele entra em uma livraria. Lá o proprietário mostra um antigo livro, chamado A História Sem Fim, o qual classifica como perigoso. O alerta atiça a curiosidade de Bastian, que pega o livro emprestado sem ser percebido. A leitura o transporta para o mundo de Fantasia, um lugar que espera desesperadamente a chegada de um herói. A imperatriz local (Tami Stronach) está morrendo e, junto com ela, o mundo em que vive é aos poucos devorado pelo feroz Nada. A única esperança é Atreyu (Noah Hathaway), que busca a cura para a doença da imperatriz com a ajuda de Bastian.</info>
-<date>1984</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA SEM FIM 2[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTSMFM2.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim%202.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim%202.jpg</fanart>
-<info>Bastian (Jonathan Brandis) retorna a Fantasia, que está agora ameaçada por um feitiço da bruxa Xayide (Clarissa Burt). Com a ajuda de Atreyu (Kenny Morrison), o cão voador Falkor (Donald Arthur) e o Homem de Pedra, ele enfrenta a bruxa e seus protetores, os temíveis gigantes.</info>
-<date>1990</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA SEM FIM 3[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTSMFM3.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim%203.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20Sem%20Fim%203.jpg</fanart>
-<info>Bastian (Jason James Richter) se esconde em uma biblioteca, ao fugir de uma gangue de garotos. Lá ele encontra o livro A História Sem Fim. Decidido a esquecer seus problemas, ele começa a lê-lo e novamente chega a Fantasia. Só que o líder da gangue encontra o livro caído no chão e passa a escrever nele diversas maldades e perigos, o que faz com que o reino torne-se um pesadelo. O único jeito de salvar Fantasia é com Bastian retornando ao mundo real para resgatar o livro.</info>
-<date>1994</date>
-</item>
-<item>
-<title>[B][COLOR white]A HISTÓRIA VERDADEIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]AHISTVRDA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Hist%C3%B3ria%20Verdadeira.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Hist%C3%B3ria%20Verdadeira.jpg</fanart>
-<info>Baseado em fatos reais, o densorado jornalista do New York Times Michael Finkel (Jonah Hill) encontra Christian Longo (James Franco), um criminoso presente na lista dos mais procurados do FBI e que viveu fora dos Estados Unidos por muitos anos usando o nome de Finkel. Baseado nas memórias do próprio Michael Finkel. Uma investigação longa que engloba assassinato, amor, engano e redenção</info>
-<date>2015</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO ACERTO[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDACRT.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Hora%20do%20Acerto.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Hora%20do%20Acerto.jpg</fanart>
-<info>O Inspetor Wing (Jackie Chan) e sua equipe são alvos de um ataque arquitetado por Joe (Daniel Wu). Wing é o único sobrevivente e, sentindo-se culpado, se afunda no álcool. Um jovem policial com motivações secretas se aproxima do inspetor disposto a ajudá-lo a sair dessa e prender os assassinos.</info>
-<date>2004</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO LOBISOMEM / BALA DE PRATA[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDLBSMNBLADPRTA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Hora%20do%20Lobisomem%20-%20Bala%20de%20Prata.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Hora%20do%20Lobisomem%20-%20Bala%20de%20Prata.jpg</fanart>
-<info>O filme aborda a drástica alteração no cotidiano da outrora pacata cidadezinha de Tarker's Mill, no interior dos EUA, quando na primavera de 1976, uma série de violentos assassinatos passam a se suceder, cada vez que a lua cheia surge no céu. Um garoto paralítico chamado Marty Coslaw, começa a desconfiar que o responsável pelos crimes seja um lobisomem, o que acaba se confirmando. Mais tarde, quando Marty, descobre a identidade do monstro, passa a ser perseguido pelo mesmo, e precisará encontrar uma forma de destruí-lo para salvar a própria vida.</info>
-<date>1985</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL01.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo1.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo1.jpg</fanart>
-<info>Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono.</info>
-<date>1984</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL08.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo%20Remake.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo%20Remake.jpg</fanart>
-<info>Um grupo de adolescentes de um subúrbio americano tem um sonho em comum, envolvendo Freddy Krueger (Jackie Earle Haley). Ele é um assassino desfigurado, que sempre os persegue em seus sonhos. Enquanto eles estão acordados não há risco algum, mas quando adormecem é a chance que Krueger tem para dominá-los.</info>
-<date>2010</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO 2 - A VINGANÇA DE FREDDY[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL02.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo2.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo2.jpg</fanart>
-<info>A família Walsh se mudou para a antiga casa de Freddy Krueger (Robert Englund) na Elm Street. Logo Jesse (Mark Patton) passa a ter horríveis pesadelos com o assassino. Lisa (Kim Myers), sua namorada, investiga e descobre o passado da casa. Entretanto, Freddy já está de posse do corpo de Jesse e o obriga a cometer assassinatos contra sua família e amigos.</info>
-<date>1985</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO 3 - OS GUERREIROS DOS SONHOS[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL03.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo3.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo3.jpg</fanart>
-<info>Nancy Thompson (Heather Langenkamp), uma das sobreviventes dos ataques de Freddy Krueger (Robert Englund), é agora uma psicóloga especialista em sonhos. Ela trata de alguns adolescentes em um sanatório, que são atacados por Krueger em seus sonhos. Para combatê-lo, Nancy ensina as crianças a usarem suas habilidades especiais no mundo onírico. Quando Krueger sequestra um de seus pupilos, Nancy lidera uma busca no domínio do assassino para resgatá-lo.</info>
-<date>1987</date>
-</item>
-<item>
-<title>[B][COLOR white]A HORA DO PESADELO 4 - O MESTRE DOS SONHOS[/COLOR][/B]</title>
-<link>$doregex[BP1]AHRDPSDL04.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo4.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/A%20Hora%20do%20Pesadelo4.jpg</fanart>
-<info>Freddy Krueger (Robert Englund) retorna e logo mata os três sobreviventes da rua Elm. Só que Kristen (Tuesday Knight), que possui o poder de atrair outras pessoas em seus sonhos, consegue transferir seu poder para a amiga Alice (Lisa Wilcox) antes de sua morte. É a chance ideal para que Freddy se aproveite do poder recém-adquirido por Alice, usando-a para matar outras pessoas.</info>
-<date>1988</date>
 </item>
