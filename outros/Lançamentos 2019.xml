@@ -151,6 +151,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]HOMEM-ARANHA: LONGE DE CASA[/COLOR][/B]</title>
+<link>$doregex[BP1]HMEMARNHLNGDCSA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20-%20Longe%20de%20Casa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Homem-Aranha%20-%20Longe%20de%20Casa.jpg</fanart>
+<info>Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson). Precisando de ajuda para enfrentar monstros nomeados como Elementais, Fury o convoca para lutar ao lado de Mysterio (Jake Gyllenhaal), um novo herói que afirma ter vindo de uma Terra paralela. Além da nova ameaça, Peter precisa lidar com a lacuna deixada por Tony Stark, que deixou para si seu óculos pessoal, com acesso a um sistema de inteligência artificial associado à Stark Industries.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]HOMEM-ARANHA: LONGE DE CASA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]HMEMARNHLNGDCSALEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
