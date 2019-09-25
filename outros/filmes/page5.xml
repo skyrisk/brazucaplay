@@ -3594,3 +3594,15 @@
 <info>O que Freddie Steinmark (Finn Wittrock) mais que na vida é jogar futebol. Mesmo tendo estatura considerada abaixo da média, seu pai o treina de forma rígida. Em um jogo, ele chama a atenção para ninguém menos que Darrell Royal (Aaron Eckhart), treinador da Universidade do Texas. Quando ganha uma bolsa de estudo no local, ele parte para Austin junto com a namorada Linda (Sarah Bolger). No time, ele enfrenta uma prática esgitante, mas nada comparado ao diagnóstico que recebe ao sofrer uma lesão em meio a um jogo da temporada.</info>
 <date>2017</date>
 </item>
+<item>
+<title>[B][COLOR white]CORAGEM PARA VENCER[/COLOR][/B]</title>
+<link>$doregex[BP1]CRGMPRVNCR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Coragem%20para%20Vencer.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Coragem%20para%20Vencer.jpg</fanart>
+<info>Hannah e sua família levavam uma vida despreocupada, até o morte inesperada do patriarca. Como se não fosse suficiente a perda súbita de seu pai, agora os Rhodes enfrentam problemas financeiros. Um inescrupuloso empresário local pede à viúva Anne para pagar as dívidas de seu falecido marido, caso contrário eles perdem a fazenda e suas casas. A jovem Hannah decide, então, participar de um grande rodeio de cavalos com esperança de ganhar o prêmio final e salvar a propriedade de sua família.</info>
+<date>2019</date>
+</item>
