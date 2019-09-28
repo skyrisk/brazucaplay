@@ -3611,3 +3611,15 @@
 <info>Dina (Rebecca Emilie Sattrup) herdou da mãe a habilidade sobrenatural de olhar a alma das pessoas, fazendo com que os observados tenham vergonha. Ela é requisitada para fazer com que o herdeiro de um trono confesse ter assassinado sua família, mas se recusa a usar seu dom para fins malignos e acaba presa, o que faz com que ela precise descobrir quem é o verdadeiro culpado dos crimes para salvar a si própria.</info>
 <date>2016</date>
 </item>
+<item>
+<title>[B][COLOR white]A HISTÓRIA DE ESTER[/COLOR][/B]</title>
+<link>$doregex[BP1]AHSTRIDESTR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20de%20Ester.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20de%20Ester.jpg</fanart>
+<info>Boas batalhas contra o mal foram travadas nesta épica história bíblica de heroísmo. Essa narrativa apresenta Mardoqueu (Robert Miano), um honesto judeu, e Hamã (Thaao Penghlis), um perverso primeiro-ministro que foge completamente ao controle do jovem rei persa Xerxes. Hamã é o segundo em autoridade depois do rei persa e quer ser venerado por todos. Mas Mardoqueu não se curva diante dele. Tal atitude aumenta a ira de Hamã e o faz criar planos terríveis contra esse líder judeu e seu povo.</info>
+<date>2014</date>
+</item>
