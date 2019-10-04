@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>15/09/2019</date>
+<date>04/10/2019</date>
 </item>
 
 <item>
@@ -34,6 +34,32 @@
 </item>
 
 <item>
+<title>[B][COLOR white]ARCO-ÍRIS DO AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]ARCOIRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arco-%C3%ADris%20do%20Amor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arco-%C3%ADris%20do%20Amor.jpg</fanart>
+<info>Lucy (Jodie Sweetin) é uma professora que acredita estar muito ocupada para buscar o amor. Quando ela conhece Jack (David Haydn-Jones), um homem que perdeu a esposa recentemente e acaba de se mudar para a cidade com sua filha, ela tem sua vida mudada. Juntos, eles aprendem que nunca é tarde demais para recomeçar.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]BETWEEN TWO FERNS: O FILME[/COLOR][/B]</title>
+<link>$doregex[BP1]BTWNTWOFLME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Between%20Two%20Ferns%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Between%20Two%20Ferns%20-%20O%20Filme.jpg</fanart>
+<info>Zach Galifianakis sempre sonhou em se tornar uma estrela. Mas quando Will Ferrell descobriu seu programa de acesso publico Between Two Ferns e publicou no Funny or Die, Zach virou um motivo de piadas viral. Agora, ele e sua equipe resolvem fazer uma viagem de carro para completar a série de entrevistas com celebridades do alto-escalão para restaurar sua reputação.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]BRINQUEDO ASSASSINO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]BRNQDASASNOLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -56,6 +82,32 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Capit%C3%A3%20Marvel.jpg</fanart>
 <info>Carol Danvers (Brie Larson) é uma ex-agente da Força Aérea norte-americana, que, sem se lembrar de sua vida na Terra, é recrutada pelos Kree para fazer parte de seu exército de elite. Inimiga declarada dos Skrull, ela acaba voltando ao seu planeta de origem para impedir uma invasão dos metaformos, e assim vai acabar descobrindo a verdade sobre si, com a ajuda do agente Nick Fury (Samuel L. Jackson) e da gata Goose.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]COMANDO JUSTICEIRO[/COLOR][/B]</title>
+<link>$doregex[BP1]CMNDJSTCRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Comando%20Justiceiro.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Comando%20Justiceiro.jpg</fanart>
+<info>Um especialista em grupos de operações especiais é contratado por um bilionário de Hong Kong para formar um grupo implacável que terá uma única missão: eliminar os criminosos mais notórios e perigosos do mundo.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]CORAGEM PARA AMAR[/COLOR][/B]</title>
+<link>$doregex[BP1]CRGMPRAMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Coragem%20Para%20Amar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Coragem%20Para%20Amar.jpg</fanart>
+<info>Alex Shelby (Jared Withrow) recebe a difícil missão de salvar a empresa da família, que ele acaba de herdar. Quando, trabalhando infiltrado em uma das sedes da empresa, ele se apaixona por uma funcionária, ele se vê obrigado a tomar uma difícil decisão.</info>
 <date>2019</date>
 </item>
 
@@ -108,6 +160,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Duendes%20e%20Drag%C3%B5es.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Duendes%20e%20Drag%C3%B5es.jpg</fanart>
 <info>Nessa aventura que mescla fantasia e elementos steampunk, um colapso dentro de uma caverna aprisiona três anões mineiros que agora precisam trabalhar juntos para combater o desespero, a fome e uma misteriosa criatura. Maiores complicações surgem quando um dos anões compreende o destino terrível e doentio que os aguarda, e agora precisa decidir se contará a verdade ou manterá segredo para conservar a esperança.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ESPÍRITO JOVEM[/COLOR][/B]</title>
+<link>$doregex[BP1]ESPRTJVM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Esp%C3%ADrito%20Jovem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Esp%C3%ADrito%20Jovem.jpg</fanart>
+<info>Violet (Elle Fanning) é uma garota adolescente que sonha em ser popstar e escapar no vilarejo rural onde mora junto da mãe desajustada. Quando o concurso Teen Spirit passa por sua cidade, ela decide se arriscar, entre centenas de garotas. Aos poucos, Violet recebe a ajuda de Vlad (Zlatko Buric), cantor de ópera bósnio e decadente, e começa a superar as etapas do concurso. Mas conforme a fama se aproxima, a garota deve pensar suas prioridades e enfrentar os perigos da fama.</info>
 <date>2019</date>
 </item>
 
@@ -177,6 +242,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]HORA DE RECOMEÇAR[/COLOR][/B]</title>
+<link>$doregex[BP1]HRDRCMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Hora%20de%20Recome%C3%A7ar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Hora%20de%20Recome%C3%A7ar.jpg</fanart>
+<info>Faith (Brighton Sharbino) é uma jovem problemática que se vê obrigada a enfrentar uma escolha difícil. Ela precisa decidir entre viver a divertida e sem preocupações vida da cidade grande, ou ir em busca de sua identidade trabalhando duro no interior.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]INDÚSTRIA AMERICANA[/COLOR][/B]</title>
 <link>$doregex[BP1]INDSTRAMRCNA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -228,7 +306,20 @@
 <date>2019</date>
 </item>
 
-  <item>
+<item>
+<title>[B][COLOR white]LOS BANDO[/COLOR][/B]</title>
+<link>$doregex[BP1]LSBNDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Los%20Bando.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Los%20Bando.jpg</fanart>
+<info>Desde pequenos, Axel (Jakob Dyrud) e Grim (Tage Hogness) sonham em fazer história com sua banda 'Los Bando Immortale'. Um dia, eles recebem um convite para participar do Campeonato Noruguês de Rock e, de repente, parece que tudo é possível. O problema é que Axel não sabe cantar e Grim não consegue falar a verdade para seu amigo. Eles acabam em uma viagem com Thilda (Tiril Marie H&oslash;istad Berger), uma violoncelista de 9 anos, e Martin (Jonas Hoff Oftebro), um motorista de corrida. contra o tempo, a polícia e seus país.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]MIB: HOMENS DE PRETO - INTERNACIONAL[/COLOR][/B]</title>
 <link>$doregex[BP1]MIBHMDPRTINTER.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -255,19 +346,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]MUSSUM: UM FILME DO CACILDIS[/COLOR][/B]</title>
-<link>$doregex[BP1]MSUMFLMDCACLDS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg</fanart>
-<info>A trajetória do humorista e sambista Antônio Carlos Bernado Gomes, o "Mussum", é contada de diferentes ângulos. São reveladas facetas mais sérias da figura que foi eternizada no imaginário popular brasileiro por sua participação no programa "Os Trapalhões". Por trás de sua persona humorística e debochada, Antônio Carlos mantinha uma rotina de responsabilidades com sua família, projetos e compromissos.</info>
-<date>2019</date>
-</item>
-
-<item>
 <title>[B][COLOR white]MISSÃO EXTRAORDINÁRIA[/COLOR][/B]</title>
 <link>$doregex[BP1]MSAOEXTRDNRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -277,6 +355,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Extraordin%C3%A1ria.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Miss%C3%A3o%20Extraordin%C3%A1ria.jpg</fanart>
 <info>Um policial chinês se infiltra em uma organização do narcotráfico que atua em vários países. É uma jogada arriscada que o leva a enfrentar perigos em florestas e cidades, e a se envolver em perseguições cheias de adrenalina.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]MUSSUM: UM FILME DO CACILDIS[/COLOR][/B]</title>
+<link>$doregex[BP1]MSUMFLMDCACLDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Mussum%20-%20Um%20Filme%20do%20Cacildis.jpg</fanart>
+<info>A trajetória do humorista e sambista Antônio Carlos Bernado Gomes, o "Mussum", é contada de diferentes ângulos. São reveladas facetas mais sérias da figura que foi eternizada no imaginário popular brasileiro por sua participação no programa "Os Trapalhões". Por trás de sua persona humorística e debochada, Antônio Carlos mantinha uma rotina de responsabilidades com sua família, projetos e compromissos.</info>
 <date>2019</date>
 </item>
 
@@ -294,6 +385,32 @@
 </item>
 
 <item>
+<title>[B][COLOR white]O IMPERADOR DE PARIS[/COLOR][/B]</title>
+<link>$doregex[BP1]OIMPRDRDPRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Imperador%20de%20Paris.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Imperador%20de%20Paris.jpg</fanart>
+<info>Sob o reinado de Napoleão, François Vidocq, o único homem a ser libertado da maior colônia penal do país, é uma lenda parisiense.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]O INIMIGO AO MEU REDOR[/COLOR][/B]</title>
+<link>$doregex[BP1]OINMGOAOMRDR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Inimigo%20ao%20Meu%20Redor.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Inimigo%20ao%20Meu%20Redor.jpg</fanart>
+<info>Um jovem hacker é perseguido por agentes governamentais e descobre que tem em mãos um arquivo ultrassecreto capaz de controlar a mente humana.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]O SHOW DA LUNA: DAS ILHAS AO CONTINENTE[/COLOR][/B]</title>
 <link>$doregex[BP1]OSHWDLNDSILHSAOCNTNE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -303,6 +420,84 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Show%20da%20Luna%20-%20Das%20Ilhas%20ao%20Continente.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Show%20da%20Luna%20-%20Das%20Ilhas%20ao%20Continente.jpg</fanart>
 <info>Luna é uma garotinha totalmente, incrivelmente e desesperadamente apaixonada por ciência. Com a ajuda de Júpiter e Cláudio, ela vai conhecer alguns dos lugares mais incríveis do planeta, ilhas, desertos, até a África! Embarque nesta viagem!</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PASSARINHEIROS[/COLOR][/B]</title>
+<link>$doregex[BP1]PASARNHRS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Passarinheiros.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Passarinheiros.jpg</fanart>
+<info>Observadores de pássaros dos dois lados da fronteira entre México e Estados Unidos compartilham o entusiasmo pela proteção das mais belas espécies do mundo.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PEPPA PIG: GEORGE O GIGANTE[/COLOR][/B]</title>
+<link>$doregex[BP1]PEPAPGGRGOGNTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Peppa%20Pig%20-%20George%20O%20Gigante.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Peppa%20Pig%20-%20George%20O%20Gigante.jpg</fanart>
+<info>Peppa, uma simpática porquinha cor-de-rosa, vive na Europa ao lado dos pais e do irmão caçuila George. Com eles, todo dia é uma diversão diferente.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]POKÉMON: DETETIVE PIKACHU[/COLOR][/B]</title>
+<link>$doregex[BP1]PKMNDTCTVPKCH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</fanart>
+<info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PREDADORES ASSASSINOS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]PRDRSASANSLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Predadores%20Assassinos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Predadores%20Assassinos.jpg</fanart>
+<info>Quando a Flórida é vítima de um imenso furacão, os tsnunamis levam todos os habitantes a evacuarem o local. Mesmo assim, a jovem Haley (Kaya Scodelario) se recusa a sair de casa enquanto não conseguir resgatar o pai, gravemente ferido. Aos poucos, o nível da água começa a subir, Haley também se fere e tanto ela quanto o pai precisam enfrentar inimigos inesperados: gigantescos crocodilos que chegam com as águas.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PÉ GRANDE VS. PAPAI NOEL[/COLOR][/B]</title>
+<link>$doregex[BP1]PEGRNDVSPANEL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</fanart>
+<info>Um menino e seu dragão tentam resgatar o Papai Noel dos planos de um Arvid, o yeti mais maligno de todo o Pólo Norte.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]ROCKETMAN[/COLOR][/B]</title>
+<link>$doregex[BP1]RCKMAN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rocketman.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rocketman.jpg</fanart>
+<info>A trajetória de como o tímido Reginald Dwight (Taron Egerton) se transformou em Elton John, ícone da música pop. Desde a infância complicada, fruto do descaso do pai pela família, sua história de vida é contada através da releitura das músicas do superstar, incluindo a relação do cantor com o compositor e parceiro profissional Bernie Taupin (Jamie Bell) e o empresário e o ex-amante John Reid (Richard Madden).</info>
 <date>2019</date>
 </item>
 
@@ -333,58 +528,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white]PEPPA PIG: GEORGE O GIGANTE[/COLOR][/B]</title>
-<link>$doregex[BP1]PEPAPGGRGOGNTE.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Peppa%20Pig%20-%20George%20O%20Gigante.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Peppa%20Pig%20-%20George%20O%20Gigante.jpg</fanart>
-<info>Peppa, uma simpática porquinha cor-de-rosa, vive na Europa ao lado dos pais e do irmão caçuila George. Com eles, todo dia é uma diversão diferente.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]PÉ GRANDE VS. PAPAI NOEL[/COLOR][/B]</title>
-<link>$doregex[BP1]PEGRNDVSPANEL.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</fanart>
-<info>Um menino e seu dragão tentam resgatar o Papai Noel dos planos de um Arvid, o yeti mais maligno de todo o Pólo Norte.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]POKÉMON: DETETIVE PIKACHU[/COLOR][/B]</title>
-<link>$doregex[BP1]PKMNDTCTVPKCH.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Detetive%20Pikachu.jpg</fanart>
-<info>O desaparecimento do detetive Harry Goodman faz com que seu filho Tim (Justice Smith) parta à sua procura. Ao seu lado ele conta com Pikachu, o antigo parceiro Pokémon de seu pai, que perdeu a memória recentemente. Juntos, eles percorrem as ruas da metrópole de Ryme City, onde humanos e Pokémon vivem em harmonia... por enquanto.</info>
-<date>2019</date>
-</item>
-
-<item>
-<title>[B][COLOR white]ROCKETMAN[/COLOR][/B]</title>
-<link>$doregex[BP1]RCKMAN.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rocketman.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rocketman.jpg</fanart>
-<info>A trajetória de como o tímido Reginald Dwight (Taron Egerton) se transformou em Elton John, ícone da música pop. Desde a infância complicada, fruto do descaso do pai pela família, sua história de vida é contada através da releitura das músicas do superstar, incluindo a relação do cantor com o compositor e parceiro profissional Bernie Taupin (Jamie Bell) e o empresário e o ex-amante John Reid (Richard Madden).</info>
-<date>2019</date>
-</item>
-
-<item>
 <title>[B][COLOR white]THE BANANA SPLITS MOVIE[/COLOR][/B]</title>
 <link>$doregex[BP1]THBNASPLTS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -411,6 +554,32 @@
 </item>
 
 <item>
+<title>[B][COLOR white]TOY STORY 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]TYSTRY4LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Toy%20Story%204.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Toy%20Story%204.jpg</fanart>
+<info>Agora morando na casa da pequena Bonnie, Woody apresenta aos amigos o novo brinquedo construído por ela: Forky, baseado em um garfo de verdade. O novo posto de brinquedo não o agrada nem um pouco, o que faz com que Forky fuja de casa. Decidido a trazer de volta o atual brinquedo favorito de Bonnie, Woody parte em seu encalço e, no caminho, reencontra Bo Peep, que agora vive em um parque de diversões.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]VELOZES & FURIOSOS: HOBBS & SHAW [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]VLZEFROSOSHBSESWLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Velozes%20E%20Furiosos%20-%20Hobbs%20e%20Shaw.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Velozes%20E%20Furiosos%20-%20Hobbs%20e%20Shaw.jpg</fanart>
+<info>Desde que se conheceram, Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um homem alterado geneticamente que deseja obter um vírus mortal para pôr em andamento um plano que mataria milhões de pessoas em nome de uma suposta evolução da humanidade. Para tanto eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]VINGADORES: ULTIMATO[/COLOR][/B]</title>
 <link>$doregex[BP1]VNGDRSULTMTO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -433,6 +602,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Vingadores%20Ultimato.jpg</fanart>
 <info>Após Thanos eliminar metade das criaturas vivas, os Vingadores precisam lidar com a dor da perda de amigos e seus entes queridos. Com Tony Stark (Robert Downey Jr.) vagando perdido no espaço sem água nem comida, Steve Rogers (Chris Evans) e Natasha Romanov (Scarlett Johansson) precisam liderar a resistência contra o titã louco.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]VOX LUX: O PREÇO DA FAMA[/COLOR][/B]</title>
+<link>$doregex[BP1]VXLXOPRCDFMA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vox%20Lux%20-%20O%20Pre%C3%A7o%20da%20Fama.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vox%20Lux%20-%20O%20Pre%C3%A7o%20da%20Fama.jpg</fanart>
+<info>Celeste (Natalie Portman) é uma menina que sobrevive após uma grande tragédia, o que a torna conhecida nacionalmente. Após um tempo, ela se lança como cantora e alcança o estrelato.</info>
 <date>2019</date>
 </item>
 
