@@ -164,6 +164,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]EL CAMINO: A BREAKING BAD MOVIE[/COLOR][/B]</title>
+<link>$doregex[BP1]ELCMNOABRKNGBDMVE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/El%20Camino%20-%20A%20Breaking%20Bad%20Movie.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/El%20Camino%20-%20A%20Breaking%20Bad%20Movie.jpg</fanart>
+<info>Após fugir do cativeiro, onde foi mantido quando sequestrado, dramaticamente, Jesse Pinkman (Aaron Paul) inicia uma jornada em busca da própria liberdade, mas antes precisa se reconciliar com o passado para, só então, ter seu futuro garantido.</info>
+<date>2019</date>
+</item>
+
+<item>
 <title>[B][COLOR white]ESPÍRITO JOVEM[/COLOR][/B]</title>
 <link>$doregex[BP1]ESPRTJVM.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -498,6 +511,19 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A9%20Grande%20vs.%20Papai%20Noel.jpg</fanart>
 <info>Um menino e seu dragão tentam resgatar o Papai Noel dos planos de um Arvid, o yeti mais maligno de todo o Pólo Norte.</info>
+<date>2019</date>
+</item>
+
+<item>
+<title>[B][COLOR white]PETS: A VIDA SECRETA DOS BICHOS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]PETSAVSCDBS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202.jpg</fanart>
+<info>Nova York. A vida de Max e Duke muda bastante quando sua dona tem um filho. De início eles não gostam nem um pouco deste pequeno ser que divide a atenção, mas aos poucos ele os conquista. Não demora muito para que Max se torne superprotetor em relação à criança, o que lhe causa uma coceira constante. Quando toda a família decide passar uns dias em uma fazenda, os cachorros enfrentam uma realidade completamente diferente com a qual estão acostumados.</info>
 <date>2019</date>
 </item>
 
