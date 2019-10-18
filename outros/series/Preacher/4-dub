@@ -76,7 +76,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
-<link>$doregex[BP1]PRCERT04EP08.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PRCERT03EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -86,7 +86,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
-<link>$doregex[BP1]PRCERT04EP09.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PRCERT03EP09.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -96,7 +96,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
-<link>$doregex[BP1]PRCERT04EP10.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PRCERT03EP10.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
