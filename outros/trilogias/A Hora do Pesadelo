@@ -77,6 +77,19 @@
 </item>
 
 <item>
+<title>[B][COLOR white]O NOVO PESADELO - O RETORNO DE FREDDY KRUEGER[/COLOR][/B]</title>
+<link>$doregex[BP1]AHRDPSDL07.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://image.tmdb.org/t/p/original/8egEnmimj2jWM8BqD57k38clUvR.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
+<info>O filme "A Hora do Pesadelo" está perto de completar 10 anos. Uma das estrelas, Heather Langenkamp (Nancy Thompson), fica assustada ao ouvir por telefone uma voz bastante parecida com a de Freddy Krueger (Robert Englund), o vilão do filme. Pouco tempo depois o marido dela morre em um acidente de carro, sendo encontrado com as famosas marcas provocadas pela garra metálica de Freddy. Heather descobre que Wes Craven, diretor do filme original, está escrevendo o roteiro de uma sequência. É quando percebe que, para enfrentar Freddy, precisará voltar a interpretar Nancy Thomson, sua personagem no filme.</info>
+<date>1994</date>
+</item>
+
+<item>
 <title>[COLOR white][B]A HORA DO PESADELO[/B][/COLOR]</title>
 <link>$doregex[BP1]AHRDPSDL08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
