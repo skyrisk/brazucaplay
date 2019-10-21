@@ -1,1 +1,496 @@
-1
+<item>
+<title>[B][COLOR gold]1ª TEMPORADA[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 01[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP001.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 02[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP002.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 03[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP004.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 04[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP004.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 05[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP005.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 06[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP006.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 07[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP007.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 08[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP008.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 09[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP009.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP010.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 11[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP011.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 12[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP012.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 13[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP013.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 14[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP014.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 15[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP015.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 16[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP016.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 17[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP017.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 18[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP018.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 19[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP019.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 20[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP020.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 21[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP021.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 22[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP022.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 23[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP023.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 24[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP024.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 25[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP025.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 26[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP026.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 27[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP027.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 28[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP028.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 29[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP029.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 30[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP030.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 31[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP031.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 32[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP032.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 33[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP033.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 34[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP034.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 35[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP035.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 36[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP036.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 37[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP037.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 38[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP038.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 39[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP039.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 40[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP040.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 41[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP041.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 42[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP042.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 43[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP043.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 44[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP044.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 45[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP045.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 46[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP046.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 47[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP047.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 48[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP048.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 49[/COLOR][/B]</title>
+<link>$doregex[BP1]YUGOHEP049.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Yu-Gi-OH!:%20Duel%20Monsters/fanart.jpg</fanart>
+</item>
