@@ -4,127 +4,55 @@
 <thumbnail>https://i.imgur.com/T2AVDHW.png</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>02/11/2019</date>
+<date>05/11/2019</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A FORCA 2: SEGUNDO ATO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]AFRCA2SGNDATOLEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A PEQUENA TRAVESSA[/COLOR][/B]</title>
+<link>$doregex[BP1]APQNTRVSA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Forca%202%20-%20Segundo%20Ato.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Forca%202%20-%20Segundo%20Ato.jpg</fanart>
-<info>Uma jovem aspirante a atriz se vê presa numa aterrorizante maldição após apresentar uma parte da peça A Forca em uma transmissão ao vivo.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Travessa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Pequena%20Travessa.jpg</fanart>
+<info>Lilli Susewind (Malu Leicher) tem a habilidade de falar com animais, mas fora seus pais, ninguém sabe deste segredo. Quando ela conhece Jess (Aaron Kissiov), um menino divertido e misterioso de sua nova escola, decide contar para ele. Juntos, os dois precisam achar o filhote de elefante que foi roubado do zoológico da cidade.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]A MALDIÇÃO DOS ESQUECIDOS[/COLOR][/B]</title>
-<link>$doregex[BP1]AMLDCAODESQCDS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A VIDA SECRETA DAS CHEERLEADERS[/COLOR][/B]</title>
+<link>$doregex[BP1]AVDASCRTDSCHHERLDR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20dos%20Esquecidos.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20dos%20Esquecidos.jpg</fanart>
-<info>Os irmãos Jackson (Ben Lloyd-Hughes) e Angela (Florence Pugh), estudantes universitários, começam um novo negócio para tentar fazer um dinheiro extra. E, com isso, eles começam a dar golpes em idosos que moram na cidade, até que se encontram em apuros quando são contratados por um senhor de um velho orfanato, que é assombrado.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Vida%20Secreta%20das%20Cheerleaders.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Vida%20Secreta%20das%20Cheerleaders.jpg</fanart>
+<info>A líder de torcida naturalmente talentosa Ava é um sucesso instantâneo em sua nova escola, mas seu rápido aumento de popularidade é ameaçado pela rivalidade entre a capitã de torcida e a rainha do baile Katrina, que coloca Ava e os outros novos recrutas em um processo brutal de iniciação, deixando Ava para enfrentar conseqüências na escola e em casa.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]ARPÃO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ARPAOLEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]AGENTE ASHER [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]AGNTASHRLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Arp%C3%A3o.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Arp%C3%A3o.jpg</fanart>
-<info>Rivalidades, segredos obscuros e tensão sexual emergem quando três melhores amigos ficam presos em um iate no meio do oceano sob circunstâncias suspeitas.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Agente%20Asher.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Agente%20Asher.jpg</fanart>
+<info>Asher (Ron Perlman) é um ex-agente que trabalhava como assassino de aluguel. Ao aproximar-se do fim de sua carreira, ele conhece uma mulher e quebra um juramento que fez na juventude. Para ter o amor da sua vida, ele terá que deixar todo seu passado para trás.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]DANÇA DOS PÁSSAROS[/COLOR][/B]</title>
-<link>$doregex[BP1]DNCDSPASARS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]ASTERIX E O SEGREDO DA POÇÃO MÁGICA[/COLOR][/B]</title>
+<link>$doregex[BP1]ASTRXEOSGRDODPCAOMGCA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Dan%C3%A7a%20dos%20P%C3%A1ssaros.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Dan%C3%A7a%20dos%20P%C3%A1ssaros.jpg</fanart>
-<info>Neste paraíso, as aves precisam agitar as penas e executar coreografias caprichadas se quiserem ter alguma chance de conseguir um par.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]GRAÇAS A DEUS[/COLOR][/B]</title>
-<link>$doregex[BP1]GRCSADEUS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Gra%C3%A7as%20a%20Deus.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Gra%C3%A7as%20a%20Deus.jpg</fanart>
-<info>Um dia, Alexandre (Melvil Poupaud) toma coragem para escrever uma carta à Igreja Católica, revelando um segredo: quando era criança, foi abusado sexualmente pelo padre Preynat (Bernard Verley). Os psicólogos da Igreja tentam ajudar, mas não conseguem ocultar o fato de que o criminoso jamais foi afastado do cargo, pelo contrário: ele continua atuando junto às crianças. Alexandre toma coragem e publica a sua carta, o que logo faz aparecerem muitas outras denúncias de abuso, feitas pelo mesmo padre, além da conivência do cardeal Barbarin (François Marthouret), que sempre soube dos crimes, mas nunca tomou providências. Juntos, Alexandre, François (Denis Ménochet) e Emmanuel (Swann Arlaud) criam um grupo de apoio para aumentar a pressão na justiça por providências. Mas eles terão que enfrentar todo o poder da cúpula da Igreja.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]LUCKY DAY [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]LCKYDAYLEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Lucky%20Day.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Lucky%20Day.jpg</fanart>
-<info>Red acabou de ser libertado da prisão. Ele está tentando manter sua família unida à medida que seu passado o acompanha sob a forma de Luc, um assassino de aluguel psicopata que está se vingando da morte do seu irmão.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]RAINHAS DO CRIME[/COLOR][/B]</title>
-<link>$doregex[BP1]RNHASDCRME.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rainhas%20do%20Crime.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rainhas%20do%20Crime.jpg</fanart>
-<info>Nova York, janeiro de 1978. Kathy (Melissa McCarthy), Ruby (Tiffany Haddish) e Claire (Elisabeth Moss) são casadas com mafiosos irlandeses, que comandam os negócios em Hell's Kitchen. Quando eles são presos pela polícia, o trio fica a mercê de Little Jackie (Myk Watford), o novo chefão local, que se recusa a lhes dar o dinheiro necessário para seu sustento. Com isso, Kathy, Ruby e Claire decidem unir forças para criar sua própria "família", oferecendo apoio e proteção a pequenos comerciantes locais. Com o tempo, o poder das mulheres cresce ao ponto não só de incomodar Little Jackie, mas também chamar a atenção da máfia italiana.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]STUBER: A CORRIDA MALUCA[/COLOR][/B]</title>
-<link>$doregex[BP1]STBRACRDAMLCA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Stuber%20-%20A%20Corrida%20Maluca.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Stuber%20-%20A%20Corrida%20Maluca.jpg</fanart>
-<info>Quando Stu (Kumail Nanjiani), um motorista da Uber, é recrutado por um policial (Dave Bautista) para ajudá-lo a investigar o paradeiro de um brutal assassino, algumas regras precisam ser quebradas. Seguindo as poucas pistas que possuem para seguir o traço do criminoso, eles cada vez se complicam mais na perseguição desenfreada.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]THE ART OF SELF-DEFENSE [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]THEARTOFSLFDFNSELEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/The%20Art%20of%20Self-Defense.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/The%20Art%20of%20Self-Defense.jpg</fanart>
-<info>Quando Casey (Jesse Eisenberg) é atacado por um desconhecido na rua, ele decide entrar para um dojô para aprender a se defender. Ao se deparar com o misterioso e carismático sensei que lidera o local, ele toma gosto e adentra o mundo do karatê.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]YESTERDAY[/COLOR][/B]</title>
-<link>$doregex[BP1]YESRTDY.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Yesterday.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Yesterday.jpg</fanart>
-<info>Após sofrer um acidente, um cantor-compositor (Himesh Patel) acorda numa estranha realidade, onde ele é a única pessoa que lembra dos Beatles. Com as músicas de seus ídolos, o protagonista se torna um sucesso gigante, mas a fama tem seu preço.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Asterix%20e%20o%20Segredo%20da%20Po%C3%A7%C3%A3o%20M%C3%A1gica.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Asterix%20e%20o%20Segredo%20da%20Po%C3%A7%C3%A3o%20M%C3%A1gica.jpg</fanart>
+<info>Astérix e Obelix embarcam em uma jornada inédita. Dessa vez eles precisam ajudar o velho druída Getafix a encontrar um novo guardião para a poção mágica de Gália. Durante a viagem pela região, eles devem impedir que a receita mágica caia nas mãos erradas, dando início a uma inesperada aventura.</info>
 <date>2019</date>
 </item>
 
