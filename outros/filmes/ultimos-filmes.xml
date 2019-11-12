@@ -1843,18 +1843,6 @@
 <date>2018</date>
 </item>
 <item>
-<title>[B][COLOR white]PONTE PARA TERABÍTIA[/COLOR][/B]</title>
-<link>$doregex[BP1]PNTPRTRBTIA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Ponte%20para%20Terab%C3%ADtia.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Ponte%20para%20Terab%C3%ADtia.jpg</fanart>
-<info>Jess Aarons (Josh Hutcherson) sente-se um estranho na escola e até mesmo em sua família. Durante todo o verão ele treinou para ser o garoto mais rápido da escola, mas seus planos são ameaçados por Leslie Burke (AnnaSophia Robb), que vence uma corrida que deveria ser apenas para garotos. Logo Jess e Leslie tornam-se grandes amigos e, juntos, criam o reino secreto de Terabítia, um lugar mágico onde apenas é possível chegar se pendurando em uma velha corda, que fica sobre um riacho perto de suas casas. Lá eles lutam contra Dark Master (Matt Gibbons) e suas criaturas, além de conspirar contra as brincadeiras de mau gosto que são feitas na escola.</info>
-<date>2007</date>
-</item>
-<item>
 <title>[B][COLOR white]POR ÁGUA ABAIXO[/COLOR][/B]</title>
 <link>$doregex[BP1]PRAGUABXO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
