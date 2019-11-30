@@ -1,12 +1,36 @@
 <item>
-<title>[B][COLOR white]CATEGORIA: [COLOR gold]ÚLTIMOS ADICIONADOS[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]CATEGORIA: [COLOR gold]UPDATE: ÚLTIMOS ADICIONADOS[/COLOR][/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://i.imgur.com/osBDac3.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/xW3MLq7t8gynEiFj3E4YP7KQoqw.jpg</fanart>
 <info>[B][COLOR white]TODOS OS MELHORES FILMES [COLOR gold]ADICIONADOS RECENTEMENTE[/COLOR][/COLOR][/B]</info>
-<date>27/11/2019</date>
+<date>30/11/2019</date>
 </item>
 
+<item>
+<title>[B][COLOR white]A VOLTA DO TODO PODEROSO[/COLOR][/B]</title>
+<link>$doregex[BP1]AVLTDTDPDRSO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/A%20Volta%20do%20Todo%20Poderoso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/A%20Volta%20do%20Todo%20Poderoso.jpg</fanart>
+<info>Evan Baxter (Steve Carell) é o âncora de um telejornal de Buffalo, que foi recentemente eleito para seu 1º mandato como congressista. Ele então se muda para Washington com sua esposa Joan (Lauren Graham) e os filhos Dylan (Johnny Simmons), Ryan (Jimmy Bennett) e Jordan (Graham Phillips). Porém, logo após se instalar em sua casa, Evan passa a receber estranhas encomendas, que incluem ferramentas e grandes quantidades de madeira. Logo ele se encontra com Deus (Morgan Freeman), que lhe incumbe a missão de construir uma arca, já que uma inundação está por vir. Evan descarta a idéia, mas uma série de situações ocorre de forma a prejudicar sua vida até que ele aceite a missão.</info>
+<date>2007</date>
+</item>
+<item>
+<title>[B][COLOR white]BOA SORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]BOSRTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Boa%20Sorte.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Boa%20Sorte.jpg</fanart>
+<info>O adolescente João (João Pedro Zappa) tem uma série de problemas comportamentais: ele é ignorado pelos pais e se torna agressivo com os amigos de escola. Quando é diagnosticado com depressão, seus familiares decidem interná-lo em uma clínica psiquiátrica. No local, ele conhece Judite (Deborah Secco), paciente HIV positivo e dependente química, em fase terminal. Apesar do ambiente hostil, os dois se apaixonam e iniciam um romance. Mas Judite tem medo que a sua morte abale a saúde de João.</info>
+<date>2014</date>
+</item>
 <item>
 <title>[B][COLOR white]CADEADO DO AMOR[/COLOR][/B]</title>
 <link>$doregex[BP1]CDADAMR.mp4$doregex[BP2]</link>
@@ -18,6 +42,66 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Cadeado%20do%20Amor.jpg</fanart>
 <info>Lindsey Wilson encontrou amor pela primeira vez, na romântica cidade de Paris, quando estudava artes. Agora, vinte anos mais tarde, ela está voltando para a Cidade da Luz, numa aventura com sua filha. Lindsay é uma pintora talentosa, porém, depois de uma promessa quebrada por uma antiga paixão, ela acabou em Nova York, não como artista, mas como editora de uma revista de arte. Lindsay só não imaginaria que sua viagem à Paris com sua filha, geraria um reencontro com seu ex-namorado e a aventura se tornaria um belo romance.</info>
 <date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]EMANUELLE NA AMÉRICA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELENAMRCALEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emanuelle%20Na%20Am%C3%A9rica.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emanuelle%20Na%20Am%C3%A9rica.jpg</fanart>
+<info>A repórter Emanuelle investiga uma rede de prostituição de luxo e acaba envolvida em diversas aventuras sexuais, viajando de Nova York para Veneza, na Itália, onde participa de uma grande orgia na mansão de um nobre. De volta aos Estados Unidos, acaba envolvendo-se com uma quadrilha que produz snuff movies - filmes em que mulheres são estupradas e mortas de verdade diante das câmeras.</info>
+<date>1977</date>
+</item>
+<item>
+<title>[B][COLOR white]EMMANUELLE 2: ANTIVIRGEM[/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELE2ANTVRGM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%202%20-%20Antivirgem.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%202%20-%20Antivirgem.jpg</fanart>
+<info>Deixando a Tailândia, Emmanuelle (Sylvia Kristel) navega para Hong Kong para ir ao encontro de seu marido, Jean (Umberto Orsini), com quem mantêm um casamento aberto. Ao chegar descobre que ele convidara Christopher (Frédéric Lagache) para ficar hospedado na casa deles. Ela tenta seduzir o hóspede mas não obtém sucesso, pois ele prefere a companhia de asiáticas, o que o faz estar sempre no Jardim de Jade, um prostíbulo. Emmanuelle conhece Laura (Florence L. Afuma), com quem Jean teve um caso. Paralelamente ela tem suas aventuras amorosas, mas o futuro lhes reserva a mesma pessoa.</info>
+<date>1975</date>
+</item>
+<item>
+<title>[B][COLOR white]EMMANUELLE 3: ADEUS, EMMANUELLE[/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELE3ADSEMANELE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%203%20-%20Adeus,%20Emmanuelle.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%203%20-%20Adeus,%20Emmanuelle.jpg</fanart>
+<info>Na derradeira aparição de Sylvia Kristel no papel principal, Emmanuelle leva uma vida liberal e alegre nas ilhas Seychelles com o seu marido, até a chegada de um jovem cineasta, cheio de idéias para o seu novo filme. É quando o ciúme se interpõe na relação. Emmanuelle agora procura emoções ainda mais fortes.</info>
+<date>1977</date>
+</item>
+<item>
+<title>[B][COLOR white]EMMANUELLE 4: E SUA FORMA DE AMAR[/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELE4ESAFRMDAMR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%204%20-%20E%20Sua%20forma%20de%20Amar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%204%20-%20E%20Sua%20forma%20de%20Amar.jpg</fanart>
+<info>Sylvia (Sylvia Kristel) sofre uma grande desilusão amorosa e para fugir do namorado, se submete a cirurgia plástica para mudar sua fisionomia completamente. Loira e rejuvenescida ela se transforma na bela Emmanuelle (Mia Nygren). Junto de sua psiquiatra, Emmanuelle viaja para o Brasil em busca de novas sensações e se entrega a ardentes aventuras amorosas. Ao se sentir incompleta, ela decide lutar por sua antiga paixão, Marc (Patrick Bauchau), utilizando os seus novos dotes.</info>
+<date>1984</date>
+</item>
+<item>
+<title>[B][COLOR white]EMMANUELLE NO ESPAÇO 2: UM MUNDO DE DESEJO[/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELENESPC2UMNDSJO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%20no%20Espa%C3%A7o%202%20-%20Um%20Mundo%20de%20Desejo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle%20no%20Espa%C3%A7o%202%20-%20Um%20Mundo%20de%20Desejo.jpg</fanart>
+<info>A jovem e sedutora Emmanuelle é mais uma tripulante da nave espacial comandada pelo Capitão Haffron no filme da série Emmanuelle no Espaço. Nesta produção, a famosa personagem passa por aventuras em lugares exóticos, como o Himalaia, e explora a cultura sedutora dos ciganos. Ela é interpretada pela americana Krista Allen, que ganhou fama após atuar no seriado "Baywatch". Já o Capitão Haffron é interpretado por Paul Michael Robinson, que além e ator é fotografo, produtor e modelo.</info>
+<date>1996</date>
 </item>
 <item>
 <title>[B][COLOR white]EMMANUELLE: POSSESSÃO CARNAL[/COLOR][/B]</title>
@@ -44,6 +128,30 @@
 <date>2003</date>
 </item>
 <item>
+<title>[B][COLOR white]EMMANUELLE[/COLOR][/B]</title>
+<link>$doregex[BP1]EMANELE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Emmanuelle.jpg</fanart>
+<info>A modelo Emmanuelle (Sylvia Kristel) vai de Paris até Bangcoc, na Tailândia, para se encontrar com o marido, Jean (Daniel Sarky), que atua no corpo diplomático. Lá ela tem aventuras amorosas com homens e mulheres do novo círculo de amizades, apesar de amar Jean. Ele também tem casos extraconjugais e ambos aceitam este tipo de comportamento, que Emmanuelle se recusa a rotular como traição, pois não há mentiras entre eles.</info>
+<date>1974</date>
+</item>
+<item>
+<title>[B][COLOR white]ERA UMA VEZ EM... HOLLYWOOD[/COLOR][/B]</title>
+<link>$doregex[BP1]ERAUMVZEMHLWOD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</fanart>
+<info>Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]GARÇONETES DE BIQUINI[/COLOR][/B]</title>
 <link>$doregex[BP1]GARCNTSDBQNI.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -68,6 +176,30 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]INVASÃO AO SERVIÇO SECRETO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]INVSAOSRVSCRTOLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</fanart>
+<info>Dedicado e sempre focado em seu trabalho, o agente do Serviço Secreto, Mike Banning (Gerard Butler) vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estão atrás dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]IT: A COISA[/COLOR][/B]</title>
+<link>$doregex[BP1]ITACOS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20A%20Coisa.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20A%20Coisa.jpg</fanart>
+<info>Um grupo de sete adolescentes de Derry, uma cidade no Maine, formam o auto-intitulado "Losers Club" - o clube dos perdedores. A pacata rotina da cidade é abalada quando crianças começam a desaparecer e tudo o que pode ser encontrado delas são partes de seus corpos. Logo, os integrantes do "Losers Club" acabam ficando face a face com o responsável pelos crimes: o palhaço Pennywise.</info>
+<date>2017</date>
+</item>
+<item>
 <title>[B][COLOR white]IT: CAPÍTULO 2[/COLOR][/B]</title>
 <link>$doregex[BP1]ITCAP2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -78,6 +210,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg</fanart>
 <info>27 anos depois dos eventos de "It - A Coisa", Mike (Isaiah Mustafa) percebe que o palhaço Pennywise (Bill Skarsgard) está de volta à cidade de Derry. Ele convoca os antigos amigos do Clube dos Otários para honrar a promessa de infância e acabar com o inimigo de uma vez por todas. Mas quando Bill (James McAvoy), Beverly (Jessica Chastain), Ritchie (Bill Hader), Ben (Jay Ryan) e Eddie (James Ransone) retornam às suas origens, eles precisam se confrontar a traumas nunca resolvidos de suas infâncias, e que repercutem até hoje na vida adulta.</info>
 <date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]IT: UMA OBRA-PRIMA DO MEDO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ITUMOBRPRMDMDLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Uma%20Obra%20Prima%20do%20Medo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Uma%20Obra%20Prima%20do%20Medo.jpg</fanart>
+<info></info>
+<date>1991</date>
 </item>
 <item>
 <title>[B][COLOR white]JUSTINE: FANTASIAS EXÓTICAS[/COLOR][/B]</title>
@@ -116,6 +260,18 @@
 <date>1992</date>
 </item>
 <item>
+<title>[B][COLOR white]MÃOS TALENTOSAS: A HISTÓRIA DE BEN CARSON[/COLOR][/B]</title>
+<link>$doregex[BP1]MASTLTSASAHSTRBNCRSN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A3os%20Talentosas%20-%20A%20Hist%C3%B3ria%20de%20Ben%20Carson.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/M%C3%A3os%20Talentosas%20-%20A%20Hist%C3%B3ria%20de%20Ben%20Carson.jpg</fanart>
+<info>Ben Carson (Cuba Gooding Jr.), menino pobre de Detroit, sempre levou uma vida desmotivada, já que tirava notas baixas e não tinha perspectivas de um grande futuro. O que ele e os que estavam ao redor não esperavam era que ele se tornaria um neurocirurgião de fama mundial.</info>
+<date>2009</date>
+</item>
+<item>
 <title>[B][COLOR white]MEU AMIGO ENZO[/COLOR][/B]</title>
 <link>$doregex[BP1]MEUAMGENZO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -125,6 +281,138 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Amigo%20Enzo.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Amigo%20Enzo.jpg</fanart>
 <info>Denny Swift (Milo Ventimiglia) é um piloto de corridas arrojado, com um talento especial para dirigir sob chuva. Um dia, ao ir para o trabalho, encontra um filhote de cachorro que decide adotar. Ele ganha o nome de Enzo, em homenagem ao criador da Ferrari, e passa a acompanhá-lo em todo lugar que vá, ganhando um apreço especial pela adrenalina das corridas, seja ao assisti-las ao vivo ou pela televisão. Com o passar dos anos, a amizade entre Denny e Enzo sofre profundas mudanças quando o piloto conhece, e se apaixona, por Eve (Amanda Seyfried).</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]MEU PAPAI É NOEL 2[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUPAPENOEL2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel%202.jpg</fanart>
+<info>Após 8 anos ocupando o posto de Papai Noel, Scott Calvin (Tim Allen) é considerado a pessoa mais indicada para o cargo. Entretanto, Scott enfrenta problemas. Além de estar perdendo peso inexplicavelmente, seu filho Charlie (Eric Lloyd) entrou neste ano para a lista dos meninos maus, que não receberão presente no próximo Natal. Preocupado, Scott decide voltar para casa para saber o que está acontecendo com Charlie, deixando em seu lugar um substituto. Porém, logo após a viagem de Scott o Papai Noel temporário começa a tomar medidas arbitrárias, que modificam com as definições de bom e mau para os garotos e pode acabar estragando o próprio Natal.</info>
+<date>2002</date>
+</item>
+<item>
+<title>[B][COLOR white]MEU PAPAI É NOEL 3[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUPAPENOEL3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel%203.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel%203.jpg</fanart>
+<info>Papai Notel tem uma tarefa dupla: manter sua família feliz ao mesmo tempo em que tem que deter Jack Frost, o vilão que quer acabar com a alegria do Natal.</info>
+<date>2006</date>
+</item>
+<item>
+<title>[B][COLOR white]MEU PAPAI É NOEL[/COLOR][/B]</title>
+<link>$doregex[BP1]MEUPAPENOEL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Papai%20%C3%A9%20Noel.jpg</fanart>
+<info>Entregando os presentes na casa do vendedor de brinquedos Scott Calvin (Tim Allen), Papai Noel sofre um acidente e cai do telhado da casa. Machucado, ele não consegue continuar seu trabalho e resolve pedir a ajuda de Scott para salvar o Natal. O homem aceita a complicada tarefa, mas logo percebe que está engordando e ganhando barba, transformando-se no novo Papai Noel.</info>
+<date>1994</date>
+</item>
+<item>
+<title>[B][COLOR white]NOTÍCIAS DE UMA GUERRA PARTICULAR[/COLOR][/B]</title>
+<link>$doregex[BP1]NTCSDUMGRAPRTCLR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Not%C3%ADcias%20de%20uma%20Guerra%20Particular.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Not%C3%ADcias%20de%20uma%20Guerra%20Particular.jpg</fanart>
+<info>Documentário que conta a história da violência urbana na cidade do Rio de Janeiro, e outras cidades do Brasil. Um cenário de policiais corruptos, traficantes e usuários em que todos estão submetidos à uma grande guerra diária.</info>
+<date>1999</date>
+</item>
+<item>
+<title>[B][COLOR white]O ANJO DE AUSCHWITZ[/COLOR][/B]</title>
+<link>$doregex[BP1]OANJDAUSCHWTZ.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</fanart>
+<info>Durante a Segunda Guerra Mundial, uma mulher arriscou sua vida para salvar mulheres grávidas e seus bebês recém-nascidos em um campo de concentração. Baseado na história real de uma polonesa que foi recrutada para trabalhar para o Dr. Mengele.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]O BICHO VAI PEGAR 2[/COLOR][/B]</title>
+<link>$doregex[BP1]OBCHVAPGR2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%202.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%202.jpg</fanart>
+<info>Elliot está totalmente apaixonado por Giselle e eles estão com o casamento marcado. Quando Salcicha é raptado por um grupo de animais domésticos mimados que querem devolvê-lo aos seus antigos donos, ele vai ter que adiar a cerimônia para ajudar o amigo. Junto com Boog, Elliot, McSquizzy, Buddy e as outras animais da floresta, Elliot vai viver uma grande aventura.</info>
+<date>2009</date>
+</item>
+<item>
+<title>[B][COLOR white]O BICHO VAI PEGAR 3[/COLOR][/B]</title>
+<link>$doregex[BP1]OBCHVAPGR3.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%203.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%203.jpg</fanart>
+<info>Decepcionado com sua turma, que prefere cuidar das obrigações familiares a participar de sua viagem anual, Boog parte sozinho e acaba dentro de um picadeiro de circo. Ao trocar de lugar com um artista e se apaixonar por uma russa ele aprende que talvez não seja preciso escolher entre a família e os amigos.</info>
+<date>2010</date>
+</item>
+<item>
+<title>[B][COLOR white]O BICHO VAI PEGAR 4[/COLOR][/B]</title>
+<link>$doregex[BP1]OBCHVAPGR4.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%204.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar%204.jpg</fanart>
+<info>Após ouvir Elliot contando sobre a lenda de um lobisomen que vive na floresta nacional de Timberline, Boog fica assutado com a história e decide não ir a viagem de acampamento anual que fazem no verão até ter certeza que o lobisomen não existe. Determinado a ajudar Boog, Elliot se junta com os outros amigos da floresta para desvendar o mistério da lenda.</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]O BICHO VAI PEGAR[/COLOR][/B]</title>
+<link>$doregex[BP1]OBCHVAPGR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Bicho%20Vai%20Pegar.jpg</fanart>
+<info>Boog (Martin Lawrence) é um urso pardo domesticado, que vive na pacata cidade de Timberline. Ele é a grande estrela dos shows ecológicos de sua cidade, sendo que à noite desfruta das acomodações da garagem de Beth (Debra Messing), uma guarda florestal que o criou desde que era filhote. Porém nem todos gostam de Boog. Shaw (Gary Sinise) é um deles, pois acredita que os animais estão conspirando contra os humanos. Em uma de suas caçadas ele traz à cidade Elliot (Ashton Kutcher), um cervo de um único chifre que ainda está vivo. Após vários pedidos, Boog decide ajudá-lo e solta Elliot. Querendo retribuir o favor, Elliot segue Boog até sua casa e decide libertá-lo de sua garagem, a qual considera como sendo seu cativeiro.</info>
+<date>2006</date>
+</item>
+<item>
+<title>[B][COLOR white]O CAÇADOR DE PIPAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OCACDRDPIPS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Ca%C3%A7ador%20de%20Pipas.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Ca%C3%A7ador%20de%20Pipas.jpg</fanart>
+<info>Kabul. Amir (Zekeria Ebrahimi) e Hassan (Ahmad Khan Mahmidzada) são dois amigos, que se divertem em um torneio de pipas. Após a vitória neste dia um ato de traição de um menino marcará para sempre a vida de ambos. Amir passa a viver nos Estados Unidos, retornando ao Afeganistão apenas após 20 anos. É quando ele enfrenta a mão de ferro do governo talibã para tentar consertar o ocorrido em seu passado.</info>
+<date>2008</date>
+</item>
+<item>
+<title>[B][COLOR white]O IRLANDÊS[/COLOR][/B]</title>
+<link>$doregex[BP1]OIRLNDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</fanart>
+<info>Conhecido como "O Irlandês", Frank Sheeran (Robert De Niro) é um veterano de guerra cheio de condecorações que concilia a vida de caminhoneiro com a de assassino de aluguel número um da máfia. Promovido a líder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associação desaparece misteriosamente.</info>
 <date>2019</date>
 </item>
 <item>
@@ -152,6 +440,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]OS JETSONS E OS FLINTSTONES SE ENCONTRAM[/COLOR][/B]</title>
+<link>$doregex[BP1]OSJTSNSEOSFLTSNSENCTRM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jetsons%20e%20os%20Flintstones%20se%20Encontram.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Os%20Jetsons%20e%20os%20Flintstones%20se%20Encontram.jpg</fanart>
+<info>Quando o caçula da família Jetson, Elroy, constrói uma máquina do tempo, a família acha que é uma brincadeira, mas a testam de qualquer forma. Eles decidem visitar o futuro até que o cão Astro, acidentalmente encosta sua cauda na alavanca, levando a família até a Pré-História. Lá, eles acabam conhecendo os Flinstones e os Rubbles. E a situação se complica ainda mais quando a máquina funciona da maneira errada mais uma vez, levando os Flinstones para o futuro e fazendo as duas famílias trocarem de lugar no tempo.</info>
+<date>1987</date>
+</item>
+<item>
 <title>[B][COLOR white]PÂNICO NO DESERTO 2[/COLOR][/B]</title>
 <link>$doregex[BP1]PNCONDSRTO2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -174,6 +474,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A1ssaro%20do%20Oriente.jpg</fanart>
 <info>Em Tóquio de 1989, Lucy Fly (Alicia Vikander), uma misteriosa estrangeira assombrada por um passado doloroso, entra em um intenso relacionamento com Teiji (Naoki Kobayashi), um fotógrafo local com problemas semelhantes. A aparente paz de espírito de Lucy começa a ser testada quando uma recém-chegada, Lily Bridges (Riley Keough) se envolve em suas vidas e desaparece, fazendo com que a estrangeira seja a principal suspeita de seu possível assassinato.</info>
 <date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]PATETA 2: RADICALMENTE PATETA[/COLOR][/B]</title>
+<link>$doregex[BP1]PTETA2RDCLMTPTETA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Pateta%202%20-%20Radicalmente%20Pateta.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Pateta%202%20-%20Radicalmente%20Pateta.jpg</fanart>
+<info>Pateta sente a falta de seu filho Max, que começa a estudar e morar sozinho em uma universidade. Porém, quando o pai perde o emprego e não consegue arranjar outro por não ter feito faculdade, Pateta decide voltar a estudar e acaba indo parar na sala de seu filho, unindo o útil ao agradavel e gerando mil confusões. Enquanto Max e seus amigos decidem participar dos Jogos Radicais, competição de skate, para desafiar o time de veteranos, os Gammas, Pateta redescobre a alegria da juventude, espalhando pelo campus todo o clima de discoteca da época de "Embalos de Sábado à Noite".</info>
+<date>1999</date>
 </item>
 <item>
 <title>[B][COLOR white]PEQUENO MILAGRE[/COLOR][/B]</title>
@@ -236,6 +548,18 @@
 <date>2006</date>
 </item>
 <item>
+<title>[B][COLOR white]SE A RUA BEALE FALASSE[/COLOR][/B]</title>
+<link>$doregex[BP1]SEARUAFLSE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</fanart>
+<info>Baseado no célebre romance de James Baldwin, o filme acompanha Tish (Kiki Layne), uma grávida do Harlem, que luta para livrar seu marido de uma acusação criminal injusta e de subtextos racistas a tempo de tê-lo em casa para o nascimento de seu bebê.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]SEDUÇÃO À MEIA-NOITE[/COLOR][/B]</title>
 <link>$doregex[BP1]SDCAOAMENTE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -246,6 +570,54 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Sedu%C3%A7%C3%A3o%20%C3%80%20Meia-Noite.jpg</fanart>
 <info>Dançarinas de boate estão sendo assassinadas. Nas noites que antecedem os crimes, a estrela do clube sonha com os assassinatos. Incerta sobre sua inocência, ela busca a ajuda de seu analista, que deve afastar as suspeitas que sobre ela recaem.</info>
 <date>1994</date>
+</item>
+<item>
+<title>[B][COLOR white]SUPER MONSTROS SALVAM O NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]SPRMSNTSLVMONTL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</fanart>
+<info>Na véspera do Natal, os Super Monstros unem forças para fazer as decorações, encontrar a rena desaparecida do Papai Noel e salvar o fim de ano!</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]TARZAN & JANE[/COLOR][/B]</title>
+<link>$doregex[BP1]TRZNEJNE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tarzan%20e%20Jane.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tarzan%20e%20Jane.jpg</fanart>
+<info>Assim que o aniversário de um ano de casamento de Tarzan (Michael T. Weiss) e Jane (Olivia D'Abo) se aproxima, ela vai à procura do presente perfeito para Tarzan e até mesmo recruta Terk e Tantor (Jim Cummings) para ajudá-la na missão. Conforme eles vão se recordando das aventuras na selva que compartilharam até então, Jane se dá conta dos momentos emocionantes pelos quais passaram. Desde encontros com antigos amigos até surfar na lava de um vulcão em erupção. Mas nada disso se compara à surpresa que Tarzan está reservando para Jane.</info>
+<date>2001</date>
+</item>
+<item>
+<title>[B][COLOR white]TODO PODEROSO[/COLOR][/B]</title>
+<link>$doregex[BP1]TDOPDRSO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Poderoso.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Todo%20Poderoso.jpg</fanart>
+<info>Bruce Nolan (Jim Carrey) é um jornalista que tem um bom emprego na TV e uma bela namorada, Grace (Jennifer Aniston). Num acesso de fúria ele começa a xingar e questionar Deus e seu modo de fazer tudo funcionar, o que faz com que ele próprio (Morgan Freeman) resolva descer à Terra como um homem comum e lhe entregar o poder de comandar o planeta da forma como desejar durante um dia. É quando Bruce percebe o quão difícil é ser Deus e tomar conta de tudo o que ocorre no planeta.</info>
+<date>2003</date>
+</item>
+<item>
+<title>[B][COLOR white]TUDO QUE APRENDEMOS JUNTOS[/COLOR][/B]</title>
+<link>$doregex[BP1]TDOQAPRNDMSJNTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Tudo%20que%20Aprendemos%20Juntos.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Tudo%20que%20Aprendemos%20Juntos.jpg</fanart>
+<info>Laerte (Lázaro Ramos) é um violinista que, após não passar em um teste para a OSESP, vai dar aulas em uma favela na periferia de São Paulo. Lá descobre um garoto com talento excepcional e por meio da música faz com que ele abandone o tráfico de drogas e dê um novo sentido para sua vida.</info>
+<date>2015</date>
 </item>
 <item>
 <title>[B][COLOR white]UM PASSADO DE PRESENTE[/COLOR][/B]</title>
@@ -270,6 +642,18 @@
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Time%20Show%20de%20Bola.jpg</fanart>
 <info>Desde garoto Amadeo é aficcionado por totó, tendo construído seus próprios jogadores e com eles ensaiado as mais diversas jogadas. Um dia ele é desafiado por Ezequiel (Juan José Campanella), um arrogante garoto que vive se gabando por ser um exímio jogador de futebol de verdade. Mas a partida épica de totó entre os dois não foi vencida por ele. Anos mais tarde, ele retorna rico e com seu dinheiro quer transformar a cidade natal em um espécie de parque temático. Agora, para salvar a cidade, Amadeo terá que aceitar o desafio proposto pelo vilão: enfrentá-lo numa partida de futebol de verdade. É quando algo mágico acontece e os bonecos da mesa de jogo ganham vida para ajudar o seu companheiro de grandes jogadas.</info>
 <date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]VERA: SONHOS DE INVERNO[/COLOR][/B]</title>
+<link>$doregex[BP1]VRASNHSDINVRNO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</fanart>
+<info>Um cristal está deixando tudo congelado no Reino do Arco-Íris, até os moradores! Será que a Vera consegue salvar os Desejos de Inverno e seus amigos?</info>
+<date>2019</date>
 </item>
 <item>
 <title>[B][COLOR white]YELLOWBIRD: O PEQUENO HERÓI[/COLOR][/B]</title>
