@@ -4,12 +4,36 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>29/11/2019</date>
+<date>02/12/2019</date>
 </item>
 
 <item>
+<title>[B][COLOR white]ATLANTIQUE[/COLOR][/B]</title>
+<link>$doregex[BP1]ATLNTQ.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Atlantique.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Atlantique.jpg</fanart>
+<info>Ada é uma menina de 17 anos apaixonada por Souleimane, um jovem pedreiro que está trabalhando na construção de um prédio futurista à beira mar no subúrbio de Dakar, no Senegal. O único problema é que ela foi prometida para outro homem. Quando, certa noite, os trabalhadores desaparecem no mar, seus espíritos retornam possuindo o corpo de suas namoradas para buscar justiça.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]BACURAU[/COLOR][/B]</title>
+<link>$doregex[BP1]BCRAU.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bacurau.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bacurau.jpg</fanart>
+<info>Pouco após a morte de dona Carmelita, aos 94 anos, os moradores de um pequeno povoado localizado no sertão brasileiro, chamado Bacurau, descobrem que a comunidade não consta mais em qualquer mapa. Aos poucos, percebem algo estranho na região: enquanto drones passeiam pelos céus, estrangeiros chegam à cidade pela primeira vez. Quando carros se tornam vítimas de tiros e cadáveres começam a aparecer, Teresa (Bárbara Colen), Domingas (Sônia Braga), Acácio (Thomas Aquino), Plínio (Wilson Rabelo), Lunga (Silvero Pereira) e outros habitantes chegam à conclusão de que estão sendo atacados. Falta identificar o inimigo e criar coletivamente um meio de defesa.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]ERA UMA VEZ EM... HOLLYWOOD[/COLOR][/B]</title>
-<link>$doregex[BP1]ERAUMVZEMHLWOD.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]ERAUMVZEMHLWD.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -17,18 +41,6 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</fanart>
 <info>Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]GO! FESTA INESQUECÍVEL[/COLOR][/B]</title>
-<link>$doregex[BP1]GOFSTINSQCVL.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Go!%20Festa%20Inesquec%C3%ADvel.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Go!%20Festa%20Inesquec%C3%ADvel.jpg</fanart>
-<info>É um especial de verão da série Go! Vive a Tu Manera (Go! Viva do Seu Jeito), em formato de filme. Ele se passa durante os dois últimos dias do ano. Mía (Pilar Pascual) e seu pai (Gastón Ricaud) resolvem celebrar o Ano Novo em um resort. O que ela não esperava é que Mercedes (Laura Azcurra), Lupe (Renata Toscano), Juanma (Santiago Sáez) e Alvaro (José Giménez Zapiola) tivessem a mesma ideia.</info>
 <date>2019</date>
 </item>
 <item>
@@ -56,18 +68,6 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]MEU AMIGO ENZO[/COLOR][/B]</title>
-<link>$doregex[BP1]MEUAMGENZO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Amigo%20Enzo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Meu%20Amigo%20Enzo.jpg</fanart>
-<info>Denny Swift (Milo Ventimiglia) é um piloto de corridas arrojado, com um talento especial para dirigir sob chuva. Um dia, ao ir para o trabalho, encontra um filhote de cachorro que decide adotar. Ele ganha o nome de Enzo, em homenagem ao criador da Ferrari, e passa a acompanhá-lo em todo lugar que vá, ganhando um apreço especial pela adrenalina das corridas, seja ao assisti-las ao vivo ou pela televisão. Com o passar dos anos, a amizade entre Denny e Enzo sofre profundas mudanças quando o piloto conhece, e se apaixona, por Eve (Amanda Seyfried).</info>
-<date>2019</date>
-</item>
-<item>
 <title>[B][COLOR white]O ANJO DE AUSCHWITZ[/COLOR][/B]</title>
 <link>$doregex[BP1]OANJDAUSCHWTZ.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -92,51 +92,39 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]O PINTASSILGO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]OPNTSLGOLEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]O RELATÓRIO[/COLOR][/B]</title>
+<link>$doregex[BP1]ORLTRIO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Pintassilgo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Pintassilgo.jpg</fanart>
-<info>Um atentado terrorista no Metropolitan Museum of Art, em Nova York, modifica para sempre a vida do jovem Theodore Decker (Oakes Fegley). Além de sua mãe falecer no evento, ele é incentivado por um desconhecido a levar consigo um quadro lá exposto, O Pintassilgo, além de um anel com o brasão de sua família. Nos dias seguintes Theo recebe o abrigo da sra. Barbour (Nicole Kidman) e, ao pesquisar sobre o brasão, conhece Hobie (Jeffrey Wright), um vendedor de antiguidades que agora é o tutor de Pippa (Aimee Laurence), filha do homem desconhecido, que também estava no museu no momento do atentado. Tal encontro modifica para sempre a vida do garoto, seja por seu interesse no mercado de antiguidades ou mesmo pela paixão que nutre pela jovem.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</fanart>
+<info>Após os atentados terroristas de 11 de setembro de 2001, a CIA passou a adotar o uso da tortura como meio de obter informações de pessoas consideradas ameaças ao país, sob a justificativa de evitar a todo custo que um ataque do tipo acontecesse mais uma vez. Trabalhando para a senadora Dianne Feinstein (Annette Bening), o agente Daniel J. Jones (Adam Driver) inicia, em 2007, uma investigação interna acerca de denúncias sobre a destruição de fitas de interrogatório por parte da CIA, divulgadas através de reportagem publicada pelo jornal New York Times. Com muita dificuldade em conseguir os documentos necessários, Daniel dedica-se ao relatório por quase uma década, sem saber se um dia as descobertas por ele feitas serão expostas ao público.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]O PINTASSILGO[/COLOR][/B]</title>
-<link>$doregex[BP1]OPNTSLGO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]PERDI MEU CORPO[/COLOR][/B]</title>
+<link>$doregex[BP1]PRDIMEUCRPO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Pintassilgo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Pintassilgo.jpg</fanart>
-<info>Um atentado terrorista no Metropolitan Museum of Art, em Nova York, modifica para sempre a vida do jovem Theodore Decker (Oakes Fegley). Além de sua mãe falecer no evento, ele é incentivado por um desconhecido a levar consigo um quadro lá exposto, O Pintassilgo, além de um anel com o brasão de sua família. Nos dias seguintes Theo recebe o abrigo da sra. Barbour (Nicole Kidman) e, ao pesquisar sobre o brasão, conhece Hobie (Jeffrey Wright), um vendedor de antiguidades que agora é o tutor de Pippa (Aimee Laurence), filha do homem desconhecido, que também estava no museu no momento do atentado. Tal encontro modifica para sempre a vida do garoto, seja por seu interesse no mercado de antiguidades ou mesmo pela paixão que nutre pela jovem.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</fanart>
+<info>Naoufel (Hakim Faris) éum jovem apaixonado por Gabrielle (Victoire Du Bois). Enquanto isso, em outra parte da cidade, uma mão decepada escapa de um laboratório de dissecação, determinada a encontrar seu corpo novamente.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]PÁSSARO DO ORIENTE[/COLOR][/B]</title>
-<link>$doregex[BP1]PSRODORNTE.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]RAMBO: ATÉ O FIM [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RMBOATOFMLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A1ssaro%20do%20Oriente.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/P%C3%A1ssaro%20do%20Oriente.jpg</fanart>
-<info>Em Tóquio de 1989, Lucy Fly (Alicia Vikander), uma misteriosa estrangeira assombrada por um passado doloroso, entra em um intenso relacionamento com Teiji (Naoki Kobayashi), um fotógrafo local com problemas semelhantes. A aparente paz de espírito de Lucy começa a ser testada quando uma recém-chegada, Lily Bridges (Riley Keough) se envolve em suas vidas e desaparece, fazendo com que a estrangeira seja a principal suspeita de seu possível assassinato.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]PROJETO GEMINI [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]PRJTGMNILEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Projeto%20Gemini.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Projeto%20Gemini.jpg</fanart>
-<info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</fanart>
+<info>Após décadas lutando contra seus inimigos, John Rambo (Sylvester Stallone) enfim encontrou a paz em um rancho na fronteira entre os Estados Unidos e o México. Lá ele ajuda Maria Beltran (Adriana Barraza) a criar a neta Gabrielle (Yvette Monreal), que o trata com imenso carinho. Decidida a encontrar o pai, que a abandonou ainda criança, ela conta com a ajuda de uma amiga que agora vive no México para localizá-lo. Mesmo contra a vontade da avó e de Rambo, Gabrielle parte escondida para o país vizinho e, após ser dispensada pelo próprio pai, acaba vendida para uma gangue que gerencia prostitutas. Alertado sobre o que aconteceu, Rambo decide ir até o Mèxico para salvá-la.</info>
 <date>2019</date>
 </item>
 <item>
@@ -152,6 +140,18 @@
 <date>2019</date>
 </item>
 <item>
+<title>[B][COLOR white]SÓCRATES[/COLOR][/B]</title>
+<link>$doregex[BP1]SCRTES.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/S%C3%B3crates.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/S%C3%B3crates.jpg</fanart>
+<info>Depois da morte de sua mãe, o jovem Sócrates (Christian Malheiros), que foi criado apenas por ela durante os últimos tempos, precisa fazer tudo o que for possível para que consiga sobreviver na realidade da miséria, somado com o preconceito por ser homossexual. Seus valores e ideais são colocados na balança com o medo de não conseguir se virar sozinho.</info>
+<date>2019</date>
+</item>
+<item>
 <title>[B][COLOR white]SUPER MONSTROS SALVAM O NATAL[/COLOR][/B]</title>
 <link>$doregex[BP1]SPRMSNTSLVMONTL.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -164,18 +164,6 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]UM PASSADO DE PRESENTE[/COLOR][/B]</title>
-<link>$doregex[BP1]UMPSDODPSNTE.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Um%20Passado%20de%20Presente.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Um%20Passado%20de%20Presente.jpg</fanart>
-<info>Depois que uma feiticeira transporta o cavaleiro medieval Sir Cole (Josh Whitehouse) para a época atual em Ohio, durante as festas de fim de ano, ele faz amizade com Brooke (Vanessa Hudgens), uma professora de ciências inteligente e gentil que está desiludida pelo amor. Brooke ajuda Sir Cole a navegar no mundo moderno e tenta ajudá-lo a descobrir como cumprir sua misteriosa e verdadeira missão - o único ato que o levará de volta para casa. Mas, à medida que ele e Brooke se aproximam, Sir Cole começa a se perguntar se realmente quer voltar à sua antiga vida.</info>
-<date>2019</date>
-</item>
-<item>
 <title>[B][COLOR white]VERA: SONHOS DE INVERNO[/COLOR][/B]</title>
 <link>$doregex[BP1]VRASNHSDINVRNO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -185,6 +173,18 @@
 <thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</thumbnail>
 <fanart>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</fanart>
 <info>Um cristal está deixando tudo congelado no Reino do Arco-Íris, até os moradores! Será que a Vera consegue salvar os Desejos de Inverno e seus amigos?</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]VOANDO ALTO[/COLOR][/B]</title>
+<link>$doregex[BP1]VONDOALT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Voando%20Alto.jpg</thumbnail>
+<fanart>https://cometa.top/player3/imgs-videos/Filmes/Voando%20Alto.jpg</fanart>
+<info>O pequeno Manou passou sua vida inteira acreditando que era uma gaivota, quando na realidade ele é filho de um casal de andorinhas. Enquanto tenta aprender a voar, ele percebe que nunca será capaz de alçar grandes voos e foge de casa. Mas quando os animais correm perigo de vida devido a uma nova ameaça, só ele será capaz de salvar o dia.</info>
 <date>2019</date>
 </item>
 
