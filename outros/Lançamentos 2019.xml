@@ -4,9 +4,57 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>02/12/2019</date>
+<date>13/12/2019</date>
 </item>
 
+<item>
+<title>[B][COLOR white]A COPA DO PERU[/COLOR][/B]</title>
+<link>$doregex[BP1]ACOPDPRU.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/A%20Copa%20do%20Peru.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/A%20Copa%20do%20Peru.jpg</fanart>
+<info>Um urbanista é levado de volta a sua cidade natal por seus amigos do colégio no Dia de Ação de Graças para terminar o The Turkey Bowl - um jogo épico de futebol contra os rivais de cidades vizinhas.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ACHO QUE MATEI MINHA CHEFE[/COLOR][/B]</title>
+<link>$doregex[BP1]ACHQMTMNHCHFE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Acho%20Que%20Matei%20Minha%20Chefe.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Acho%20Que%20Matei%20Minha%20Chefe.jpg</fanart>
+<info>Paige Davis acaba de ser promovida a presidente de vendas em seu trabalho. Depois de uma noite de festa, Paige e suas amigas hilariamente acordam com sua chefe morta.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]AD ASTRA: RUMO ÀS ESTRELAS[/COLOR][/B]</title>
+<link>$doregex[BP1]ADSTRMASESTRLS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Ad%20Astra%20-%20Rumo%20%C3%A0s%20Estrelas.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Ad%20Astra%20-%20Rumo%20%C3%A0s%20Estrelas.jpg</fanart>
+<info>Roy McBride (Brad Pitt) é um engenheiro espacial que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos no caminho para Netuno.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ARCTIC DOGS[/COLOR][/B]</title>
+<link>$doregex[BP1]ARCTDGS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Arctic%20Dogs.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Arctic%20Dogs.jpg</fanart>
+<info></info>
+<date>2019</date>
+</item>
 <item>
 <title>[B][COLOR white]ATLANTIQUE[/COLOR][/B]</title>
 <link>$doregex[BP1]ATLNTQ.mp4$doregex[BP2]</link>
@@ -14,8 +62,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Atlantique.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Atlantique.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Atlantique.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Atlantique.jpg</fanart>
 <info>Ada é uma menina de 17 anos apaixonada por Souleimane, um jovem pedreiro que está trabalhando na construção de um prédio futurista à beira mar no subúrbio de Dakar, no Senegal. O único problema é que ela foi prometida para outro homem. Quando, certa noite, os trabalhadores desaparecem no mar, seus espíritos retornam possuindo o corpo de suas namoradas para buscar justiça.</info>
 <date>2019</date>
 </item>
@@ -26,9 +74,69 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Bacurau.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Bacurau.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Bacurau.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Bacurau.jpg</fanart>
 <info>Pouco após a morte de dona Carmelita, aos 94 anos, os moradores de um pequeno povoado localizado no sertão brasileiro, chamado Bacurau, descobrem que a comunidade não consta mais em qualquer mapa. Aos poucos, percebem algo estranho na região: enquanto drones passeiam pelos céus, estrangeiros chegam à cidade pela primeira vez. Quando carros se tornam vítimas de tiros e cadáveres começam a aparecer, Teresa (Bárbara Colen), Domingas (Sônia Braga), Acácio (Thomas Aquino), Plínio (Wilson Rabelo), Lunga (Silvero Pereira) e outros habitantes chegam à conclusão de que estão sendo atacados. Falta identificar o inimigo e criar coletivamente um meio de defesa.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]CENTRO DE TRAUMA[/COLOR][/B]</title>
+<link>$doregex[BP1]CNTRDTRMA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Centro%20de%20Trauma.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Centro%20de%20Trauma.jpg</fanart>
+<info>Um ex-paramédico fica ferido depois que ela testemunha um fogo cruzado envolvendo dois policiais corruptos. Despachado para o hospital, a mulher deve sobreviver a noite enquanto os homens a caçam. Felizmente, um policial veterano é designado para protegê-la, e ele se torna seu protetor à medida que a noite se torna mais perigosa.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]CORGI: TOP DOG[/COLOR][/B]</title>
+<link>$doregex[BP1]CRGTOPDOG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Corgi%20-%20Top%20Dog.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Corgi%20-%20Top%20Dog.jpg</fanart>
+<info>O corgi Rex foi escolhido como "Top Dog", o cachorro preferido da Rainha. Ele vive cercado de outros cachorros no Palácio de Buckingham, repleto de alimentos finos e outras mordomias. Quando uma visita do presidente Donald Trump à Inglaterra tem desdobramentos negativos graças a Rex, o cachorro abandona o Palácio e se aventura por Londres. No caminho, faz novos amigos no canil e se apaixona por Wanda, uma cadela prometida ao cão mais valente do local. Rex precisará reunir todos os esforços necessários para conquistar o amor da sua vida e voltar aos braços da Rainha.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]DEAD KIDS[/COLOR][/B]</title>
+<link>$doregex[BP1]DEDKDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Dead%20Kids.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Dead%20Kids.jpg</fanart>
+<info>Um grupo de estudantes conspiram para sequestrar um colega de classe, pedindo dinheiro em resgate.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]DOR E GLÓRIA[/COLOR][/B]</title>
+<link>$doregex[BP1]DREGLRIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Dor%20e%20Gl%C3%B3ria.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Dor%20e%20Gl%C3%B3ria.jpg</fanart>
+<info>Salvador Mallo (Antonio Banderas) é um melancólico cineasta em declínio que se vê obrigado a pensar sobre as escolhas que fez na vida quando seu passado retorna. Entre lembranças e reencontros, ele reflete sobre sua infância na década de 1960, seu processo de imigração para a Espanha, seu primeiro amor maduro e sua relação com a escrita e com o cinema.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]DORA E A CIDADE PERDIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]DRAEACDEPRDA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Dora%20e%20a%20Cidade%20Perdida.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Dora%20e%20a%20Cidade%20Perdida.jpg</fanart>
+<info>Ambientado na floresta peruana, o filme narra as aventuras de Dora (Isabella Merced) junto de seu macaco Botas, amigos que acabou de fazer na escola e um misterioso explorador a fim de salvar seus pais de mercenários. Mas Dora também terá de solucionar um grande mistério envolvendo Parapata, uma antiga cidade perdida dos Incas.</info>
 <date>2019</date>
 </item>
 <item>
@@ -38,9 +146,57 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Era%20uma%20Vez%20em...%20Hollywood.jpg</fanart>
 <info>Los Angeles, 1969. Rick Dalton (Leonardo DiCaprio) é um ator de TV que, juntamente com seu dublê, está decidido a fazer o nome em Hollywood. Para tanto, ele conhece muitas pessoas influentes na indústria cinematográfica, o que os acaba levando aos assassinatos realizados por Charles Manson na época, entre eles o da atriz Sharon Tate (Margot Robbie), que na época estava grávida do diretor Roman Polanski (Rafal Zawierucha).</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]ESPECIAL DE NATAL PORTA DOS FUNDOS: A PRIMEIRA TENTAÇÃO DE CRISTO[/COLOR][/B]</title>
+<link>$doregex[BP1]EPSCLDNTLPRTDSFNDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Especial%20de%20Natal%20Porta%20dos%20Fundos%20A%20Primeira%20Tenta%C3%A7%C3%A3o%20de%20Cristo.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Especial%20de%20Natal%20Porta%20dos%20Fundos%20A%20Primeira%20Tenta%C3%A7%C3%A3o%20de%20Cristo.jpg</fanart>
+<info>Jesus Cristo está completando seus 30 anos de idade quando decide levar para casa um convidado especial para conhecer sua família, surpreendendo a todos.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]FILHAS DO SOL[/COLOR][/B]</title>
+<link>$doregex[BP1]FLHSDSL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Filhas%20do%20Sol.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Filhas%20do%20Sol.jpg</fanart>
+<info>Bahar (Golshifteh Farahani) é a comandante das Filhas do Sol, um batalhão composto apenas por mulheres curdas que atua ofensivamente na guerra do país. Ela e as suas soldadas estão prestes a entrar na cidade de Gordyene, local onde Bahar foi capturada uma vez no passado. Mathilde (Emmanuelle Bercot) é uma jornalista francesa que está acompanhando o batalhão durante o ataque. O encontro entre as duas mulheres, dentro do cenário caótico que as cercam, irá mudar a vida de ambas permanentemente.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]HALA[/COLOR][/B]</title>
+<link>$doregex[BP1]HLA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Hala.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Hala.jpg</fanart>
+<info>Acostumada a guardar sempre seus sentimentos e pensamentos para si, a adolescente muçulmana Hala (Geraldine Viswanathan) está constantemente tentando criar válvulas de escape devido ao lar conservador onde mora. Quando ela se apaixona por um vizinho e contraria todos os ensinamentos que recebeu, precisa achar uma maneira de lidar com os seus pais.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]HISTÓRIA DE UM CASAMENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]HSTRDUMCSMNTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Hist%C3%B3ria%20de%20um%20Casamento.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Hist%C3%B3ria%20de%20um%20Casamento.jpg</fanart>
+<info>Nicole (Scarlett Johansson) e seu marido Charlie (Adam Driver) estão passando por muitos problemas e decidem se divorciar. Os dois concordam em não contratar advogados para tratar do divórcio, mas Nicole muda de ideia após receber a indicação de Nora Fanshaw (Laura Dern), especialista no assunto. Surpreso com a decisão da agora ex-esposa, Charlie precisa encontrar um advogado para tratar da custódia do filho deles, o pequeno Henry (Azhy Robertson).</info>
 <date>2019</date>
 </item>
 <item>
@@ -50,8 +206,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Invas%C3%A3o%20ao%20Servi%C3%A7o%20Secreto.jpg</fanart>
 <info>Dedicado e sempre focado em seu trabalho, o agente do Serviço Secreto, Mike Banning (Gerard Butler) vê sua vida mudar completamente da noite para o dia ao ser acusado de conspirar para o assassinato do presidente dos Estados Unidos. Quando percebe que todos estão atrás dele, Mike corre contra o tempo para descobrir o que realmente aconteceu enquanto foge de outros agentes.</info>
 <date>2019</date>
 </item>
@@ -62,9 +218,33 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/It%20-%20Cap%C3%ADtulo%20Dois.jpg</fanart>
 <info>27 anos depois dos eventos de "It - A Coisa", Mike (Isaiah Mustafa) percebe que o palhaço Pennywise (Bill Skarsgard) está de volta à cidade de Derry. Ele convoca os antigos amigos do Clube dos Otários para honrar a promessa de infância e acabar com o inimigo de uma vez por todas. Mas quando Bill (James McAvoy), Beverly (Jessica Chastain), Ritchie (Bill Hader), Ben (Jay Ryan) e Eddie (James Ransone) retornam às suas origens, eles precisam se confrontar a traumas nunca resolvidos de suas infâncias, e que repercutem até hoje na vida adulta.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]LET'S DANCE[/COLOR][/B]</title>
+<link>$doregex[BP1]LTSDNCE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Let's%20Dance.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Let's%20Dance.jpg</fanart>
+<info>Joseph, apaixonado dançarino de hip-hop, se recusa a entrar na companhia de seu pai para tentar a sorte em Paris. Com sua namorada Emma e seu melhor amigo Karim ele se junta a equipe do famoso Yuri, para tentar ganhar uma competição internacional de hip-hop. Mas no dia nada acontece como esperado, Joseph é traído por Emma e Yuri. Recolhido por Rémi, ex-estrela dançarina que se tornou professora, Joseph descobriu o mundo da dança clássica e conheceu a brilhante Chloe, no meio da competição de balé de Nova York. Através deste encontro, orquestrando a inesperada aliança entre o hip-hop e a dança clássica, Joseph aprenderá a se sentir legítimo como dançarino e líder, e se tornará um artista.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]LUCCAS NETO EM O FIM DO NATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]LCSNTOEMFMDNTL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Luccas%20Neto%20em%20O%20Fim%20do%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Luccas%20Neto%20em%20O%20Fim%20do%20Natal.jpg</fanart>
+<info>Luccas Neto e Gi viverão uma inesquecível aventura no Polo Norte. Às vésperas do Natal, os presentes começam a sumir misteriosamente e o Papai Noel precisa de ajuda. Luccas e Gi vão correr contra o tempo para descobrir o que aconteceu e salvar o Natal!</info>
 <date>2019</date>
 </item>
 <item>
@@ -74,8 +254,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/O%20Anjo%20de%20Auschwitz.jpg</fanart>
 <info>Durante a Segunda Guerra Mundial, uma mulher arriscou sua vida para salvar mulheres grávidas e seus bebês recém-nascidos em um campo de concentração. Baseado na história real de uma polonesa que foi recrutada para trabalhar para o Dr. Mengele.</info>
 <date>2019</date>
 </item>
@@ -86,9 +266,21 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/O%20Irland%C3%AAs.jpg</fanart>
 <info>Conhecido como "O Irlandês", Frank Sheeran (Robert De Niro) é um veterano de guerra cheio de condecorações que concilia a vida de caminhoneiro com a de assassino de aluguel número um da máfia. Promovido a líder sindical, ele torna-se o principal suspeito quando o mais famoso ex-presidente da associação desaparece misteriosamente.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]O PRÍNCIPE DO NATAL: O BEBÊ REAL[/COLOR][/B]</title>
+<link>$doregex[BP1]OPRNCPDNTL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/O%20Pr%C3%ADncipe%20do%20Natal%20-%20O%20Beb%C3%AA%20Real.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/O%20Pr%C3%ADncipe%20do%20Natal%20-%20O%20Beb%C3%AA%20Real.jpg</fanart>
+<info>Aldovia está em clima de Natal enquanto a Rainha Amber (Rose McIver) e o Rei Richard (Ben Lamb) se preparam para tirar um tempo para si e cuidar do seu primeiro filho, que está para nascer. Porém, primeiro eles precisam renovar um sagrado tratado de paz com o reino da Penglia. Quando uma tempestade de neve atinge o castelo na véspera de Natal e o tratado desaparece, o casal real precisa encontrar o ladrão para garantir a segurança de sua família e seus súditos.</info>
 <date>2019</date>
 </item>
 <item>
@@ -98,9 +290,21 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/O%20Relat%C3%B3rio.jpg</fanart>
 <info>Após os atentados terroristas de 11 de setembro de 2001, a CIA passou a adotar o uso da tortura como meio de obter informações de pessoas consideradas ameaças ao país, sob a justificativa de evitar a todo custo que um ataque do tipo acontecesse mais uma vez. Trabalhando para a senadora Dianne Feinstein (Annette Bening), o agente Daniel J. Jones (Adam Driver) inicia, em 2007, uma investigação interna acerca de denúncias sobre a destruição de fitas de interrogatório por parte da CIA, divulgadas através de reportagem publicada pelo jornal New York Times. Com muita dificuldade em conseguir os documentos necessários, Daniel dedica-se ao relatório por quase uma década, sem saber se um dia as descobertas por ele feitas serão expostas ao público.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]OS MORTOS NÃO MORREM[/COLOR][/B]</title>
+<link>$doregex[BP1]OSMRTSNMOREM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Os%20Mortos%20N%C3%A3o%20Morrem.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Os%20Mortos%20N%C3%A3o%20Morrem.jpg</fanart>
+<info>Em uma cidadezinha pacata, uma série de crimes começam a chamar a atenção dos policiais Cliff (Bill Murray) e Ronald (Adam Driver). Depois de investigarem, descobrem que os seus piores medos se tornaram reais: o local está sendo tomado por zumbis, que voltaram para executar as atividades que faziam diariamente quando vivos.</info>
 <date>2019</date>
 </item>
 <item>
@@ -110,9 +314,21 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Perdi%20Meu%20Corpo.jpg</fanart>
 <info>Naoufel (Hakim Faris) éum jovem apaixonado por Gabrielle (Victoire Du Bois). Enquanto isso, em outra parte da cidade, uma mão decepada escapa de um laboratório de dissecação, determinada a encontrar seu corpo novamente.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]PODERIA ME PERDOAR?[/COLOR][/B]</title>
+<link>$doregex[BP1]PDRMPRDR.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Poderia%20Me%20Perdoar!.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Poderia%20Me%20Perdoar!.jpg</fanart>
+<info></info>
 <date>2019</date>
 </item>
 <item>
@@ -122,8 +338,20 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</fanart>
+<info>Após décadas lutando contra seus inimigos, John Rambo (Sylvester Stallone) enfim encontrou a paz em um rancho na fronteira entre os Estados Unidos e o México. Lá ele ajuda Maria Beltran (Adriana Barraza) a criar a neta Gabrielle (Yvette Monreal), que o trata com imenso carinho. Decidida a encontrar o pai, que a abandonou ainda criança, ela conta com a ajuda de uma amiga que agora vive no México para localizá-lo. Mesmo contra a vontade da avó e de Rambo, Gabrielle parte escondida para o país vizinho e, após ser dispensada pelo próprio pai, acaba vendida para uma gangue que gerencia prostitutas. Alertado sobre o que aconteceu, Rambo decide ir até o Mèxico para salvá-la.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]RAMBO: ATÉ O FIM[/COLOR][/B]</title>
+<link>$doregex[BP1]RMBOATOFM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Rambo%20-%20At%C3%A9%20o%20Fim.jpg</fanart>
 <info>Após décadas lutando contra seus inimigos, John Rambo (Sylvester Stallone) enfim encontrou a paz em um rancho na fronteira entre os Estados Unidos e o México. Lá ele ajuda Maria Beltran (Adriana Barraza) a criar a neta Gabrielle (Yvette Monreal), que o trata com imenso carinho. Decidida a encontrar o pai, que a abandonou ainda criança, ela conta com a ajuda de uma amiga que agora vive no México para localizá-lo. Mesmo contra a vontade da avó e de Rambo, Gabrielle parte escondida para o país vizinho e, após ser dispensada pelo próprio pai, acaba vendida para uma gangue que gerencia prostitutas. Alertado sobre o que aconteceu, Rambo decide ir até o Mèxico para salvá-la.</info>
 <date>2019</date>
 </item>
@@ -134,8 +362,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Se%20a%20Rua%20Beale%20Falasse.jpg</fanart>
 <info>Baseado no célebre romance de James Baldwin, o filme acompanha Tish (Kiki Layne), uma grávida do Harlem, que luta para livrar seu marido de uma acusação criminal injusta e de subtextos racistas a tempo de tê-lo em casa para o nascimento de seu bebê.</info>
 <date>2019</date>
 </item>
@@ -146,8 +374,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/S%C3%B3crates.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/S%C3%B3crates.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/S%C3%B3crates.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/S%C3%B3crates.jpg</fanart>
 <info>Depois da morte de sua mãe, o jovem Sócrates (Christian Malheiros), que foi criado apenas por ela durante os últimos tempos, precisa fazer tudo o que for possível para que consiga sobreviver na realidade da miséria, somado com o preconceito por ser homossexual. Seus valores e ideais são colocados na balança com o medo de não conseguir se virar sozinho.</info>
 <date>2019</date>
 </item>
@@ -158,9 +386,21 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Super%20Monstros%20Salvam%20o%20Natal.jpg</fanart>
 <info>Na véspera do Natal, os Super Monstros unem forças para fazer as decorações, encontrar a rena desaparecida do Papai Noel e salvar o fim de ano!</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]THE MUSTANG[/COLOR][/B]</title>
+<link>$doregex[BP1]THMSTNG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/The%20Mustang.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/The%20Mustang.jpg</fanart>
+<info>Julgado como um homem violentamente convicto, Roman Coleman (Matthias Schoenaerts) recebe a chance de participar de uma nova terapia de reabilitação. O inovador programa de treinamento procura mudar suas raízes violentas de uma maneira pouco ortodoxa.</info>
 <date>2019</date>
 </item>
 <item>
@@ -170,8 +410,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Vera%20-%20Sonhos%20de%20Inverno.jpg</fanart>
 <info>Um cristal está deixando tudo congelado no Reino do Arco-Íris, até os moradores! Será que a Vera consegue salvar os Desejos de Inverno e seus amigos?</info>
 <date>2019</date>
 </item>
@@ -182,8 +422,8 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://cometa.top/player3/imgs-videos/Filmes/Voando%20Alto.jpg</thumbnail>
-<fanart>https://cometa.top/player3/imgs-videos/Filmes/Voando%20Alto.jpg</fanart>
+<thumbnail>https://cometa.top/imgs-videos/Filmes/Voando%20Alto.jpg</thumbnail>
+<fanart>https://cometa.top/imgs-videos/Filmes/Voando%20Alto.jpg</fanart>
 <info>O pequeno Manou passou sua vida inteira acreditando que era uma gaivota, quando na realidade ele é filho de um casal de andorinhas. Enquanto tenta aprender a voar, ele percebe que nunca será capaz de alçar grandes voos e foge de casa. Mas quando os animais correm perigo de vida devido a uma nova ameaça, só ele será capaz de salvar o dia.</info>
 <date>2019</date>
 </item>
@@ -194,7 +434,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>27/11/2019</date>
+<date>09/12/2019</date>
 </item>
 
 <item>
