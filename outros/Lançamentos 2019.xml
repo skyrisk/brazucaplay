@@ -4,31 +4,43 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>31/12/2019</date>
+<date>01/01/2020</date>
 </item>
 
 <item>
-<title>[B][COLOR white]CASAMENTO SANGRENTO[/COLOR][/B]</title>
-<link>$doregex[BP1]CSMNTSNGNTO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A NOITE AMARELA[/COLOR][/B]</title>
+<link>$doregex[BP1]ANTEAMRLA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Casamento%20Sangrento.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Casamento%20Sangrento.jpg</fanart>
-<info>Grace (Samara Weaving) acaba de se casar com o herdeiro milionário de uma família especializada em jogos de tabuleiro. Antes de realmente integrar a família, no entanto, ela é obrigada a participar de uma tradição familiar: um jogo de esconde-esconde pela mansão dos Le Domas. Aos poucos, Grace percebe que a brincadeira inocente é na verdade uma caçada sangrenta contra a recém-casada, em que todas as armas e golpes são permitidos para assassiná-la. A jovem terá a difícil missão de sobreviver aos ataques até o amanhecer.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/A%20Noite%20Amarela.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/A%20Noite%20Amarela.jpg</fanart>
+<info>Em um breve feriado, um grupo de jovens decide ir até uma ilha. No entanto, lá se mostra um lugar extremamente escuro tanto durante o dia quanto à noite e acontecimentos sinistros acontecem enquanto os amigos estão por lá. Ou seriam meras alucinações?</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]CORAÇÕES BATENDO ALTO[/COLOR][/B]</title>
-<link>$doregex[BP1]CRCOSBTNDOALTO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]APOLLO 11[/COLOR][/B]</title>
+<link>$doregex[BP1]APLO11.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Cora%C3%A7%C3%B5es%20Batendo%20Alto.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Cora%C3%A7%C3%B5es%20Batendo%20Alto.jpg</fanart>
-<info>Frank (Nick Offerman) é um pai solteiro que não está preparado para se despedir de sua filha, que em breve se mudará para seguir seu sonho de estudar medicina. Ele é dono de uma gravadora que está falindo, mas espera manter contato com a filha através da paixão que dividem: a música. Um pouco antes da mudança, Frank sugere que os dois iniciem uma banda, a "We're Not A Band". Uma das músicas compostas pela dupla viraliza instantaneamente na internet. Agora, Sam precisa decidir entre cursar a faculdade de medicina, um dos maiores objetivos de sua vida, ou se continua ao lado do pai, se dedicando a banda e a carreira de cantora.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Apollo%2011.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Apollo%2011.jpg</fanart>
+<info>Com o plano de desembarcar dois astronautas na superfície lunar e regressar para a Terra em segurança, a missão Apollo 11 é até hoje uma grande referência quando se trata de momentos importantes na humanidade. Durante décadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualização do público no geral.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]B.O.[/COLOR][/B]</title>
+<link>$doregex[BP1]BO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/B.O..jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/B.O..jpg</fanart>
+<info>Pedro (Daniel Belmonte) e Fabricio (André Pellegrino) são dois jovens cineastas que tentam de tudo para ter seus roteiros de comédia realizados, mas sempre acabam rejeitados. Frustrados, eles passam a acreditar que não são tão engraçados assim. Quando, em uma última tentativa de conseguir uma carreira, eles decidem fazer um drama de baixo orçamento para passar em festivais, seu futuro no cinema engata e tudo em que eles acreditavam entra em questionamento.</info>
 <date>2019</date>
 </item>
 <item>
@@ -44,63 +56,51 @@
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]DEPOIS DO CASAMENTO[/COLOR][/B]</title>
-<link>$doregex[BP1]DPSDCSMNTO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]MALÉVOLA: DONA DO MAL [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]MALVLADNADMLLEG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Depois%20Do%20Casamento.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Depois%20Do%20Casamento.jpg</fanart>
-<info>A gerente de um orfanato em Calcutá, na Índia, luta para manter o estabelecimento funcionando. Desesperada por dinheiro, ela acredita ter encontrado a benfeitora perfeita (Julianne Moore), dona de empresa multimilionária. Porém, para receber o dinheiro, ela precisa viajar até Nova York e conhecer a mulher por trás da riqueza, em meio a uma pomposa celebração matrimonial. Chegando ao local, a gerente não consegue disfarçar os segredos que a unem ao marido da empresária.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</fanart>
+<info>Cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]MAMÃE SAIU DE FÉRIAS[/COLOR][/B]</title>
-<link>$doregex[BP1]MAMESUDFRS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]RECEITA PARA O AMOR[/COLOR][/B]</title>
+<link>$doregex[BP1]RCTPROAMR.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Mam%C3%A3e%20Saiu%20de%20F%C3%A9rias.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Mam%C3%A3e%20Saiu%20de%20F%C3%A9rias.jpg</fanart>
-<info>Victor (Diego Peretti) e Vera (Carla Peterson) têm quatro filhos e são casados há 20 anos. Ele vive sua vida, já ela, sobrecarregada com as tarefas domésticas, decide tirar férias de tudo e viaja por 10 dias. Com isso, Vicor é forçado a se dedicar a sua casa e aos filhos.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Receita%20para%20o%20Amor.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Receita%20para%20o%20Amor.jpg</fanart>
+<info>Gabby (Roselyn Sanchez) abre o próprio restaurante em sua cidade natal. Ela, então, conhece Caleb (Eric Winter), chef do restaurante concorrente. Mesmo com um festival gastronômico próximo, da rivalidade surge uma intensa paixão.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]O APLICATIVO[/COLOR][/B]</title>
-<link>$doregex[BP1]OAPLCTVO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]SOL ALEGRIA[/COLOR][/B]</title>
+<link>$doregex[BP1]SOLEALGRA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/O%20Aplicativo.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/O%20Aplicativo.jpg</fanart>
-<info>Em Roma para fazer seu primeiro filme, o ator e herdeiro industrial Nick fica obcecado por um aplicativo de encontros que o faz adotar um comportamento autodestrutivo.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Sol%20Alegria.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Sol%20Alegria.jpg</fanart>
+<info>Pastores ocupam os principais cargos políticos do país, o apocalipse está próximo e uma excêntrica família comete um atentado e se refugia na sede da falange Sol Alegria, comandada por freiras nada convencionais. Um mapa secreto pode levar à salvação da humanidade, mas a jornada até o portal é repleta de imprevistos.</info>
 <date>2019</date>
 </item>
 <item>
-<title>[B][COLOR white]PROJETO GEMINI[/COLOR][/B]</title>
-<link>$doregex[BP1]PRJTGMNI.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]UM AMANTE FRANCÊS[/COLOR][/B]</title>
+<link>$doregex[BP1]UMAMTFRNCS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Projeto%20Gemini.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Projeto%20Gemini.jpg</fanart>
-<info>Henry Brogan (Will Smith) é o melhor assassino profissional do mundo, com uma taxa de sucesso maior do que de qualquer outro, mas, quando decide se aposentar, acaba se tornando um alvo da Agência de Inteligência de Defesa dos Estados Unidos, para quem trabalhava anteriormente. Enquanto luta para se manter vivo, ele se depara com um clone de si mesmo e descobre que as ações do governo americano são para esconder um grande segredo, que só Brogan, com toda sua experiência, é capaz de desmascarar.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]ZUMBILÂNDIA: ATIRE DUAS VEZES [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]ZMBLNDATRDSVZLEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Zumbil%C3%A2ndia%20-%20Atire%20Duas%20Vezes.jpg</fanart>
-<info>Anos depois de se unirem para atravessar o início da epidemia zumbi nos Estados Unidos, Columbus (Jesse Eisenberg), Tallahassee (Woody Harrelson), Wichita (Emma Stone) e Little Rock (Abigail Breslin) seguem buscando novos lugares para habitação e sobrevivência. Quando decidem ir até a Casa Branca, acabam encontrando outros sobreviventes e percebem que novos rumos podem ser explorados.</info>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Um%20Amante%20Franc%C3%AAs.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/Um%20Amante%20Franc%C3%AAs.jpg</fanart>
+<info>Após 25 anos morando com Denise, Alex é demitido de surpresa e fica sem lugar para morar. Obrigado a se mudar para a casa da irmã e do sobrinho, ele decide trabalhar com algo que o dê muito dinheiro e felicidade: ser um gigolô a procura de uma rica herdeira.</info>
 <date>2019</date>
 </item>
 
