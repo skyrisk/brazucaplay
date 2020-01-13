@@ -3,105 +3,57 @@
 <link>here</link>
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
-<info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>01/01/2020</date>
+<info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
+<date>13/01/2020</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A NOITE AMARELA[/COLOR][/B]</title>
-<link>$doregex[BP1]ANTEAMRLA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]ANO NOVO, MORTE NOVA[/COLOR][/B]</title>
+<link>$doregex[BP1]ANNVOMRTNVA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/A%20Noite%20Amarela.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/A%20Noite%20Amarela.jpg</fanart>
-<info>Em um breve feriado, um grupo de jovens decide ir até uma ilha. No entanto, lá se mostra um lugar extremamente escuro tanto durante o dia quanto à noite e acontecimentos sinistros acontecem enquanto os amigos estão por lá. Ou seriam meras alucinações?</info>
-<date>2019</date>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</fanart>
+<info>Durante a véspera de ano novo, sete amigos e um mochileiro se unem para sobreviver à crueldade de três assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles são perseguidos e assassinados das formas mais chocantes e violentas. Conseguirá alguém sobreviver à fúria dos três matadores e começar o novo ano vivo? Não será fácil, pois eles chegaram para matar, e não vão parar até que o banho de sangue termine.</info>
+<date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]APOLLO 11[/COLOR][/B]</title>
-<link>$doregex[BP1]APLO11.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]O HERDEIRO DAS DROGAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OHRDRDSDRGS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Apollo%2011.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Apollo%2011.jpg</fanart>
-<info>Com o plano de desembarcar dois astronautas na superfície lunar e regressar para a Terra em segurança, a missão Apollo 11 é até hoje uma grande referência quando se trata de momentos importantes na humanidade. Durante décadas, trechos dos bastidores permaneceram guardados e apenas recentemente foram liberados para visualização do público no geral.</info>
-<date>2019</date>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Herdeiro%20das%20Drogas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Herdeiro%20das%20Drogas.jpg</fanart>
+<info>Os irmãos Kip (Josh Hartnett), Josie (Margarita Levieva) e Boots tentam escapar de uma espiral de violência que os mantém cativos desde a morte do pai, morando em uma região prejudicada pela economia, onde a venda de drogas tornou-se o seu meio de sobrevivência.</info>
+<date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]B.O.[/COLOR][/B]</title>
-<link>$doregex[BP1]BO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]PAIS MUITO LOUCOS[/COLOR][/B]</title>
+<link>$doregex[BP1]PAISMTLCS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/B.O..jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/B.O..jpg</fanart>
-<info>Pedro (Daniel Belmonte) e Fabricio (André Pellegrino) são dois jovens cineastas que tentam de tudo para ter seus roteiros de comédia realizados, mas sempre acabam rejeitados. Frustrados, eles passam a acreditar que não são tão engraçados assim. Quando, em uma última tentativa de conseguir uma carreira, eles decidem fazer um drama de baixo orçamento para passar em festivais, seu futuro no cinema engata e tudo em que eles acreditavam entra em questionamento.</info>
-<date>2019</date>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</fanart>
+<info>Na história, o casal acaba de se despedir da filha que foi para a universidade, e sai para beber e comemorar a liberdade após 18 anos. O resultado é uma sequência de decisões ruins, incluindo um sequestro e um caso de identidade trocada.</info>
+<date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]CORINGA[/COLOR][/B]</title>
-<link>$doregex[BP1]CRNGA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]QUATRO HISTÓRIAS DE FANTASMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]QTROHSTRDFNTSMS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Coringa.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Coringa.jpg</fanart>
-<info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]MALÉVOLA: DONA DO MAL [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]MALVLADNADMLLEG.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Mal%C3%A9vola%20-%20Dona%20do%20Mal.jpg</fanart>
-<info>Cinco anos após Aurora (Elle Fanning) despertar do sono profundo, a agora rainha dos Moors é pedida em casamento pelo príncipe Phillip (Harris Dickinson). Ela aceita o pedido e, com isso, parte rumo ao reino de Ulstead ao lado de Malévola (Angelina Jolie), no intuito de conhecer seus futuros sogros, John (Robert Lindsay) e Ingrith (Michelle Pfeiffer). O jantar entre eles deveria ser de celebração entre os reinos, mas os interesses de Ingrith vêm à tona quando é criado um atrito com Malévola e os demais seres mágicos.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]RECEITA PARA O AMOR[/COLOR][/B]</title>
-<link>$doregex[BP1]RCTPROAMR.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Receita%20para%20o%20Amor.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Receita%20para%20o%20Amor.jpg</fanart>
-<info>Gabby (Roselyn Sanchez) abre o próprio restaurante em sua cidade natal. Ela, então, conhece Caleb (Eric Winter), chef do restaurante concorrente. Mesmo com um festival gastronômico próximo, da rivalidade surge uma intensa paixão.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]SOL ALEGRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]SOLEALGRA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Sol%20Alegria.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Sol%20Alegria.jpg</fanart>
-<info>Pastores ocupam os principais cargos políticos do país, o apocalipse está próximo e uma excêntrica família comete um atentado e se refugia na sede da falange Sol Alegria, comandada por freiras nada convencionais. Um mapa secreto pode levar à salvação da humanidade, mas a jornada até o portal é repleta de imprevistos.</info>
-<date>2019</date>
-</item>
-<item>
-<title>[B][COLOR white]UM AMANTE FRANCÊS[/COLOR][/B]</title>
-<link>$doregex[BP1]UMAMTFRNCS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/Filmes/Um%20Amante%20Franc%C3%AAs.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/Filmes/Um%20Amante%20Franc%C3%AAs.jpg</fanart>
-<info>Após 25 anos morando com Denise, Alex é demitido de surpresa e fica sem lugar para morar. Obrigado a se mudar para a casa da irmã e do sobrinho, ele decide trabalhar com algo que o dê muito dinheiro e felicidade: ser um gigolô a procura de uma rica herdeira.</info>
-<date>2019</date>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</fanart>
+<info>Quatro histórias de terror dirigidas por Karan Johar, Dibakar Banerjee, Zoya Akhtar e Anurag Kashyap. Os mesmos diretores de Quatro Histórias de Desejo, indicado ao Emmy.</info>
+<date>2020</date>
 </item>
 
 <item>
@@ -110,7 +62,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>31/12/2019</date>
+<date>13/01/2020</date>
 </item>
 
 <item>
