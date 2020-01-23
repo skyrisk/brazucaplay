@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>13/01/2020</date>
+<date>23/01/2020</date>
 </item>
 
 <item>
@@ -32,6 +32,18 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]O LIMITE DA TRAIÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]OLMTDTRCAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Limite%20da%20Trai%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Limite%20da%20Trai%C3%A7%C3%A3o.jpg</fanart>
+<info>Uma cidadã exemplar é acusada de assassinar o marido, e sua advogada logo desconfia de uma conspiração.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]PAIS MUITO LOUCOS[/COLOR][/B]</title>
 <link>$doregex[BP1]PAISMTLCS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -53,6 +65,42 @@
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</fanart>
 <info>Quatro histórias de terror dirigidas por Karan Johar, Dibakar Banerjee, Zoya Akhtar e Anurag Kashyap. Os mesmos diretores de Quatro Histórias de Desejo, indicado ao Emmy.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]QUEM COM FERRO FERE[/COLOR][/B]</title>
+<link>$doregex[BP1]QMCMFERFRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Quem%20com%20Ferro%20Fere.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Quem%20com%20Ferro%20Fere.jpg</fanart>
+<info>Após a morte de seu irmão Sergio, o enfermeiro de asilo Mario (Luis Tosar) se prepara para um novo capítulo da sua vida com a chegada de seu primeiro filho. Mas, quando um chefe de cartel é enviado ao asilo para os cuidados de Mario, ele começa a questionar se seu dever é mais importante que as vidas que este homem destruiu.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SALYUT-7: MISSÃO ESPACIAL[/COLOR][/B]</title>
+<link>$doregex[BP1]SLYT7MSAOESPCL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Salyut%207%20-%20Miss%C3%A3o%20Espacial.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Salyut%207%20-%20Miss%C3%A3o%20Espacial.jpg</fanart>
+<info>URSS, junho de 1985. Com base em eventos reais. Depois que o contato com a estação espacial Salyut 7 é perdido, os cosmonautas Vladimir Dzhanibekov e Viktor Savinykh aportam com a nave vazia e congelada e voltam à vida.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TROPA ZERO[/COLOR][/B]</title>
+<link>$doregex[BP1]TRPAZRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Tropa%20Zero.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Tropa%20Zero.jpg</fanart>
+<info>Na Geórgia rural de 1977, uma menina fora dos padrões sonha com a vida no espaço. Quando uma competição nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.</info>
 <date>2020</date>
 </item>
 
