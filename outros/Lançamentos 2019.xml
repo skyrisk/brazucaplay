@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>23/01/2020</date>
+<date>04/02/2020</date>
 </item>
 
 <item>
@@ -17,6 +17,54 @@
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</fanart>
 <info>Durante a véspera de ano novo, sete amigos e um mochileiro se unem para sobreviver à crueldade de três assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles são perseguidos e assassinados das formas mais chocantes e violentas. Conseguirá alguém sobreviver à fúria dos três matadores e começar o novo ano vivo? Não será fácil, pois eles chegaram para matar, e não vão parar até que o banho de sangue termine.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ÁRTICO[/COLOR][/B]</title>
+<link>$doregex[BP1]ARTCO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</fanart>
+<info>Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BLACK 47[/COLOR][/B]</title>
+<link>$doregex[BP1]BLCK47.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Black%2047.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Black%2047.jpg</fanart>
+<info>Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BONS MENINOS[/COLOR][/B]</title>
+<link>$doregex[BP1]BNSMNOS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</fanart>
+<info>Três meninos ainda inocentes, mas que estão prestes a atingirem a adolescência, matam aula em San Fernando Valley, na Califórinia, para conseguir consertar um drone quebrado antes que seus pais cheguem em casa. O que prometia ser um dia comum transforma-se em uma grande aventura repleta de perigos cômicos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MODO AVIÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MDOAVIAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Modo%20Avi%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Modo%20Avi%C3%A3o.jpg</fanart>
+<info>Como a grande maioria das estudantes de moda, Ana (Larissa Manoela) tinha o sonho de se tornar uma estilista de muito sucesso. Porém, ao receber uma proposta de ser influenciadora digital de uma marca renomada, ela larga a faculdade para investir todo o seu tempo na página digital criando publicações. O trabalho que a princípio seria incrível, foi ficando cada vez mais nocivo para ela mesma: certo dia, de tanto ter os olhos somente na tela do celular, a jovem sofre um sério acidente de carro, o que a leva a deixar sua função de influenciadora de lado e passar um tempo na casa de seu avô Germano (Erasmo Carlos), no interior da cidade. Nessa volta às origens, Ana entra em um profundo processo de autoconhecimento e estabelece mais proximidade e afeto pela sua família e por ela própria.</info>
 <date>2020</date>
 </item>
 <item>
@@ -53,6 +101,18 @@
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</fanart>
 <info>Na história, o casal acaba de se despedir da filha que foi para a universidade, e sai para beber e comemorar a liberdade após 18 anos. O resultado é uma sequência de decisões ruins, incluindo um sequestro e um caso de identidade trocada.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PRÓXIMA FASE: FUGINDO DE RANCALA[/COLOR][/B]</title>
+<link>$doregex[BP1]NOSSOID.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pr%C3%B3xima%20Fase%20-%20Fugindo%20de%20Rancala.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pr%C3%B3xima%20Fase%20-%20Fugindo%20de%20Rancala.jpg</fanart>
+<info>Quando um gerente de arcade percebe que seu irmão foi transportado para um videogame perigoso, ela e seus dois melhores amigos o seguem para o mundo virtual, lutando contra criaturas perigosas e um senhor da guerra que não pára por nada para mantê-los no jogo e fazê-los parte do seu exército.</info>
 <date>2020</date>
 </item>
 <item>
