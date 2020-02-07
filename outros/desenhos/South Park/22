@@ -1,11 +1,11 @@
 <item>
-<title>[COLOR gold][B]22ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]22ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP01.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -15,7 +15,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP02.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -25,7 +25,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP03.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -35,7 +35,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP04.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -45,7 +45,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP05.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -55,7 +55,7 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[BP1]STHPRKT22EP06.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -65,8 +65,8 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]STHPRKS22EP07.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
+<link>$doregex[BP1]STHPRKT22EP07.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -75,12 +75,32 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]STHPRKS22EP08.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>$doregex[BP1]STHPRKT22EP08.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>$doregex[BP1]STHPRKT22EP09.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>$doregex[BP1]STHPRKT22EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/South%20Park/fanart.jpg</fanart>
 </item>
