@@ -1,0 +1,26 @@
+<item>
+<title>[B][COLOR gold]ESPECIAIS[/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]ESPECIAL - 1[/COLOR][/B]</title>
+<link>$doregex[BP1]KNDATRMDBROES01.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]ESPECIAL - 2[/COLOR][/B]</title>
+<link>$doregex[BP1]KNDATRMDBROES02.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/KND%20A%20Turma%20do%20Bairro/fanart.jpg</fanart>
+</item>
