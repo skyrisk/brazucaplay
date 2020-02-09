@@ -4,7 +4,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>04/02/2020</date>
+<date>09/02/2020</date>
 </item>
 
 <item>
@@ -32,6 +32,18 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]AVENTURAS DE BETTY[/COLOR][/B]</title>
+<link>$doregex[BP1]AVNTRSDBETY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aventuras%20de%20Betty.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aventuras%20de%20Betty.jpg</fanart>
+<info>Com o sucesso de Toy Story 4, a Pixar criou um spinoff para o serviço de streaming Disney +, com Bo Peep: Lamp Life. Ela finalmente responde às perguntas sobre onde Bo estava desde a última vez que a vimos em Toy Story 2.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]BLACK 47[/COLOR][/B]</title>
 <link>$doregex[BP1]BLCK47.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -53,6 +65,54 @@
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</fanart>
 <info>Três meninos ainda inocentes, mas que estão prestes a atingirem a adolescência, matam aula em San Fernando Valley, na Califórinia, para conseguir consertar um drone quebrado antes que seus pais cheguem em casa. O que prometia ser um dia comum transforma-se em uma grande aventura repleta de perigos cômicos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CORES DA JUSTIÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]CRSDJSTCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Cores%20da%20Justi%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Cores%20da%20Justi%C3%A7a.jpg</fanart>
+<info>Após presenciar e filmar o assassinato de um jovem traficante por policiais corruptos, a oficial novata Alicia West (Naomie Harris) se une a Mouse (Tyrese Gibson), que está disposto a ajudá-la a escapar dos criminosos que querem vingança e da polícia que deseja destruir a gravação incriminadora.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DELOREAN: DO MOTOR AO CRIME[/COLOR][/B]</title>
+<link>$doregex[BP1]DLRNDMTRAOCRME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/DeLorean%20-%20Do%20Motor%20ao%20Crime.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/DeLorean%20-%20Do%20Motor%20ao%20Crime.jpg</fanart>
+<info>O filme segue Jim Hoffman (Jason Sudeikis), um artista que se tornou informante para o FBI na guerra contra as drogas.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]FROZEN 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]FRZN2LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]JOIAS BRUTAS[/COLOR][/B]</title>
+<link>$doregex[BP1]JOSBRTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Joias%20Brutas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Joias%20Brutas.jpg</fanart>
+<info>Nova York, primavera de 2012. Howard Ratner (Adam Sandler) é o dono de uma loja de joias, que está repleto de dívidas. Sua grande chance em quitar a situação é através da venda de uma pedra não lapidada enviada diretamente da Etiópia, cheia de minerais preciosos. Inicialmente Howard a oferece ao astro da NBA Kevin Garnett, um de seus clientes assíduos, mas depois resolve que conseguirá faturar mais caso ela vá a leilão. Para tanto, precisa driblar seus cobradores e a própria confusão que cria a partir de suas constantes mudanças.</info>
 <date>2020</date>
 </item>
 <item>
@@ -105,7 +165,7 @@
 </item>
 <item>
 <title>[B][COLOR white]PRÓXIMA FASE: FUGINDO DE RANCALA[/COLOR][/B]</title>
-<link>$doregex[BP1]NOSSOID.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]PRXMFSEFGNDODRNCLA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -152,6 +212,18 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]SURDO[/COLOR][/B]</title>
+<link>$doregex[BP1]SRDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Surdo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Surdo.jpg</fanart>
+<info>Um revolucionário rebelde contra a ditadura de Franquist, fica surdo após uma sabotagem fracassada, e tenta escapar das forças militares que o processam.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]TROPA ZERO[/COLOR][/B]</title>
 <link>$doregex[BP1]TRPAZRO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -163,6 +235,18 @@
 <info>Na Geórgia rural de 1977, uma menina fora dos padrões sonha com a vida no espaço. Quando uma competição nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.</info>
 <date>2020</date>
 </item>
+<item>
+<title>[B][COLOR white]UM LINDO DIA NA VIZINHANÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]UMLNDDINVZNHCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Lindo%20Dia%20na%20Vizinhan%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Lindo%20Dia%20na%20Vizinhan%C3%A7a.jpg</fanart>
+<info>Fred Rogers (Tom Hanks) foi o criador do Mister Rogers' Neighborhood, um programa infantil de TV muito popular na década de 1960, nos Estados Unidos. Em 1998, Tom Junod (Matthew Rhys), até então um cínico jornalista investigativo, aceitou escrever o perfil de Rogers para a revista Esquire. Durante as entrevistas para a materia, Junod mudou não só sua visão em relação ao seu entrevistado como também sua visão de mundo, iniciando uma inspiradora amizade com o apresentador.</info>
+<date>2020</date>
+</item>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TODOS OS FILMES[/COLOR][/B]</title>
@@ -170,7 +254,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2019.<info>
-<date>13/01/2020</date>
+<date>09/02/2020</date>
 </item>
 
 <item>
