@@ -1,3 +1,4 @@
+
 <item>
 <title>[B][COLOR gold]3ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
@@ -91,6 +92,56 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 10 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP10.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 11 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP11.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 12 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP12.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 13 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP13.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 14 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RAINCOCS03EP14.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Black%20Lightning/fanart.jpg</fanart>
 </item>
