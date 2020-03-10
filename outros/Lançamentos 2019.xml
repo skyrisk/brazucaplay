@@ -4,10 +4,69 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>FILMES ADICIONADOS RECENTEMENTE.<info>
-<date>03/03/2020</date>
+<date>10/03/2020</date>
 </item>
 
-
+<item>
+<title>[B][COLOR white]DE QUEM É A CULPA?[/COLOR][/B]</title>
+<link>$doregex[BP1]DQMEACLPA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/De%20Quem%20%C3%89%20a%20Culpa.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/De%20Quem%20%C3%89%20a%20Culpa.jpg</fanart>
+<info>Um bonitão da faculdade é acusado de estupro por uma aluna nada popular. A namorada dele procura a verdade em várias versões da história</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]FROZEN 2[/COLOR][/B]</title>
+<link>$doregex[BP1]FRZN2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O SILÊNCIO DA CIDADE BRANCA[/COLOR][/B]</title>
+<link>$doregex[BP1]OSLNCDCDABRNCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Sil%C3%AAncio%20da%20Cidade%20Branca.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Sil%C3%AAncio%20da%20Cidade%20Branca.jpg</fanart>
+<info>Um detetive volta à ativa para investigar dois assassinatos que imitam crimes cujo suposto autor que está prestes a sair da prisão.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SONIC: O FILME [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]SONCOFLMLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sonic%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sonic%20-%20O%20Filme.jpg</fanart>
+<info>Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs. A sinopse oficial ainda não foi divulgada.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TROCO EM DOBRO[/COLOR][/B]</title>
+<link>$doregex[BP1]TRCOEMDBRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Troco%20em%20Dobro.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Troco%20em%20Dobro.jpg</fanart>
+<info></info>
+<date>2020</date>
+</item>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TODOS OS FILMES[/COLOR][/B]</title>
