@@ -184,3 +184,43 @@
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/fanart.jpg</fanart>
 </item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 19 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RVDLS03EP19.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 20 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RVDLS03EP20.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 21 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RVDLS03EP21.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 22 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]RVDLS03EP22.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc6"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Riverdale/fanart.jpg</fanart>
+</item>
