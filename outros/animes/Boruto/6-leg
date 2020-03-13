@@ -5,8 +5,212 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 127 [COLOR gold](INDISPONÍVEL)[/COLOR][/COLOR][/B]</title>
-<link>here</link>
+<title>[B][COLOR white]EPISÓDIO - 127[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP127.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 128[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP128.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 129[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP129.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 130[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP130.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 131[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP131.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 132[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP132.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc12"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 133[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP133.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc13"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 134[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP134.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 135[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP135.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 136[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP136.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 137[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP137.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 138[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP138.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 139[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP139.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 140[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP140.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 141[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP141.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 142[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP142.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc8"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 143[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP143.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 144[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP144.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 145[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP145.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 146[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP146.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 147[/COLOR][/B]</title>
+<link>$doregex[BP1]BRTNRTNXGRNEP147.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rc14"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Boruto/fanart.png</fanart>
 </item>
