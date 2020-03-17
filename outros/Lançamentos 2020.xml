@@ -112,3 +112,640 @@
 <info>TODOS OS FILMES DE 2020.<info>
 <date>17/03/2020</date>
 </item>
+
+<item>
+<title>[B][COLOR white]A HORA DA SUA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]AHRDSUAMRTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Hora%20da%20Sua%20Morte.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Hora%20da%20Sua%20Morte.jpg</fanart>
+<info>Em A Hora da sua Morte, uma jovem freira baixa um aplicativo que promete prever o momento e a data da morte das pessoas. Quando o aplicativo indica que ela tem três dias de vida restantes, a freira luta por sua sobrevivência ao mesmo tempo em que enfrenta uma misteriosa criatura que a assombra.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A LENDA DA BEFANA[/COLOR][/B]</title>
+<link>$doregex[BP1]ALNDDBFNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Lenda%20da%20Befana.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Lenda%20da%20Befana.jpg</fanart>
+<info>Paola é uma professora amada na escola onde trabalha, e que esconde um grande segredo: à noite ela é a Befana, a bruxa natalina que entrega os presentes às boas crianças. Quando ela é capturada por um misterioso vilão, seis de seus alunos suspeitam de sua verdadeira identidade e saem em busca de salvar sua professora e o natal.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A TRINCHEIRA INFINITA[/COLOR][/B]</title>
+<link>$doregex[BP1]ATRNCRINFTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Trincheira%20Infinita.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Trincheira%20Infinita.jpg</fanart>
+<info>Higinio (Antonio de la Torre) e Rosa (Belén Cuesta) estavam casados ​​há apenas alguns meses quando a Guerra Civil estourou, representando uma séria ameaça à sua vida. A partir da ideia de Rosa, eles decidem usar um buraco cavado em sua própria casa como esconderijo provisório. O medo de possíveis represálias e o amor que sentem um pelo outro os condenará a uma prisão que durará mais de 30 anos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A ÚLTIMA COISA QUE ELE QUERIA[/COLOR][/B]</title>
+<link>$doregex[BP1]AULTMCSAQELEQRIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20%C3%9Altima%20Coisa%20que%20Ele%20Queria.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20%C3%9Altima%20Coisa%20que%20Ele%20Queria.jpg</fanart>
+<info>Adaptação cinematográfica do romance homônimo que narra a história de uma jornalista que abandona a cobertura de uma campanha presidencial para ir a uma ilha ajudar o pai em um acordo de negócios que se releva cada vez mais sórdido e perigoso conforme seu envolvimento cresce.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ANO NOVO, MORTE NOVA[/COLOR][/B]</title>
+<link>$doregex[BP1]ANNVOMRTNVA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Ano%20Novo,%20Morte%20Nova.jpg</fanart>
+<info>Durante a véspera de ano novo, sete amigos e um mochileiro se unem para sobreviver à crueldade de três assassinos mascarados que invadem o alojamento onde eles esperariam pela chegada da meia-noite. Um por um, eles são perseguidos e assassinados das formas mais chocantes e violentas. Conseguirá alguém sobreviver à fúria dos três matadores e começar o novo ano vivo? Não será fácil, pois eles chegaram para matar, e não vão parar até que o banho de sangue termine.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ARANHA NA TEIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ARNHNTEIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aranha%20na%20Teia.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aranha%20na%20Teia.jpg</fanart>
+<info>A história segue um agente secreto, uma vez elogiado, mas muito velho, Adereth (Ben Kingsley), que é considerado passado por seus superiores. As estrelas de Itay Tiran ("Líbano"), uma jovem operadora enviada para rastrear o personagem enigmático de Adereth e Bellucci, encobre as linhas, como quem está caçando, quem se torna a questão em um mundo de intriga e decepção.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ÁRTICO[/COLOR][/B]</title>
+<link>$doregex[BP1]ARTCO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/%C3%81rtico.jpg</fanart>
+<info>Um homem fica perdido no Ártico e está prestes a ser socorrido. Contudo, um acidente trágico faz com que ele perca sua aguardada oportunidade de resgate. É aí que ele precisa decidir entre ficar relativamente seguro em seu acampamento ou seguir numa jornada incerta para escapar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DE TIMMY FAILURE[/COLOR][/B]</title>
+<link>$doregex[BP1]AVNTRSDTMYFLRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/As%20Aventuras%20de%20Timmy%20Failure.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/As%20Aventuras%20de%20Timmy%20Failure.jpg</fanart>
+<info>Timmy "Fiasco" Failure é um garoto de 11 anos que acredita ser o melhor detetive da cidade. Ele comanda a grande agência de investigação Fiasco Total, ao lado de um urso polar (imaginário) de meia tonelada. Outro parceiro importante é Rollo Tookus, o amigo que chama atenção para todas as pistas que o distraído Timmy deixa passar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]AS ESTRELAS BRILHAM NA CIDADE[/COLOR][/B]</title>
+<link>$doregex[BP1]ASESTRLSBRLHMNCDAD.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/As%20Estrelas%20Brilham%20na%20Cidade.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/As%20Estrelas%20Brilham%20na%20Cidade.jpg</fanart>
+<info>No início dos anos 1920, uma mulher do Kansas descobre que sua vida mudou para sempre quando acompanha uma jovem dançarina em sua jornada em busca da fama em Nova York.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]AVENTURAS DE BETTY[/COLOR][/B]</title>
+<link>$doregex[BP1]AVNTRSDBETY.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aventuras%20de%20Betty.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aventuras%20de%20Betty.jpg</fanart>
+<info>Com o sucesso de Toy Story 4, a Pixar criou um spinoff para o serviço de streaming Disney +, com Bo Peep: Lamp Life. Ela finalmente responde às perguntas sobre onde Bo estava desde a última vez que a vimos em Toy Story 2.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BIG KILL: A CIDADE DO MEDO[/COLOR][/B]</title>
+<link>$doregex[BP1]BIGKILACDADMDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Big%20Kill%20-%20A%20Cidade%20do%20Medo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Big%20Kill%20-%20A%20Cidade%20do%20Medo.jpg</fanart>
+<info>O destino leva um almofadinha da Filadélfia, dois jogadores desajustados em fuga e um religioso assassino a uma cidade em franca expansão chamada Big Kill. A. O que eles encontram no Oeste é uma jornada selvagem e uma luta pela sobrevivência.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BLACK 47[/COLOR][/B]</title>
+<link>$doregex[BP1]BLCK47.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Black%2047.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Black%2047.jpg</fanart>
+<info>Na Irlanda do século XIX, no período da Grande Fome, um guarda irlandês, que tem lutado pelo exército britânico no exterior, decide abandonar seu posto para se reunir com a família. Mesmo tendo experimentado os horrores da guerra, ele fica chocado com a destruição que a fome causou no seu país, gerando certa brutalização das pessoas e até da própria família.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BONS MENINOS[/COLOR][/B]</title>
+<link>$doregex[BP1]BNSMNOS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Bons%20Meninos.jpg</fanart>
+<info>Três meninos ainda inocentes, mas que estão prestes a atingirem a adolescência, matam aula em San Fernando Valley, na Califórinia, para conseguir consertar um drone quebrado antes que seus pais cheguem em casa. O que prometia ser um dia comum transforma-se em uma grande aventura repleta de perigos cômicos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CAÇADORES DAS ALMAS PERDIDAS[/COLOR][/B]</title>
+<link>$doregex[BP1]CACDRSDALMSPRDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ca%C3%A7adores%20das%20Almas%20Perdidas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Ca%C3%A7adores%20das%20Almas%20Perdidas.jpg</fanart>
+<info>Uma equipe de investigadores paranormais de um reality show vai à casa mais assombrada do México em busca de melhorar a audiência do programa. No entanto, quando os verdadeiros segredos da mansão começam a se revelar, os apresentadores descobrem rapidamente que esta casa não é uma farsa. Com nenhuma habilidade de caça aos fantasmas (ou outras habilidades), a equipe precisa descobrir como prender os fantasmas e escapar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CAPITÃO DENTES DE SABRE E O DIAMANTE MÁGICO[/COLOR][/B]</title>
+<link>$doregex[BP1]CPTAODNTSDSBREODMNTMGCO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Capit%C3%A3o%20Dentes%20de%20Sabre%20e%20o%20Diamante%20M%C3%A1gico.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Capit%C3%A3o%20Dentes%20de%20Sabre%20e%20o%20Diamante%20M%C3%A1gico.jpg</fanart>
+<info>Dois jovens piratas em busca de um irmão perdido, um vampiro com fortes queimaduras solares, uma rainha que muda de forma e um exército de macacos em fúria. O capitão Sabertooth enfrentará muitos desafios quando sair para encontrar um diamante mágico perdido.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]COM A COR E A CORAGEM 2[/COLOR][/B]</title>
+<link>$doregex[BP1]COMACREACRGM2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Com%20a%20Cor%20e%20a%20Coragem%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Com%20a%20Cor%20e%20a%20Coragem%202.jpg</fanart>
+<info>Dezesseis anos depois de ficarem presos em uma avalanche, o irmão do herói disfarçado, Lionel, enfrenta uma ameaça para a comunidade negra e o mundo: a extrema lucidez.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CORES DA JUSTIÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]CRSDJSTCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Cores%20da%20Justi%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Cores%20da%20Justi%C3%A7a.jpg</fanart>
+<info>Após presenciar e filmar o assassinato de um jovem traficante por policiais corruptos, a oficial novata Alicia West (Naomie Harris) se une a Mouse (Tyrese Gibson), que está disposto a ajudá-la a escapar dos criminosos que querem vingança e da polícia que deseja destruir a gravação incriminadora.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DE QUEM É A CULPA?[/COLOR][/B]</title>
+<link>$doregex[BP1]DQMEACLPA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/De%20Quem%20%C3%89%20a%20Culpa.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/De%20Quem%20%C3%89%20a%20Culpa.jpg</fanart>
+<info>Um bonitão da faculdade é acusado de estupro por uma aluna nada popular. A namorada dele procura a verdade em várias versões da história</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DELOREAN: DO MOTOR AO CRIME[/COLOR][/B]</title>
+<link>$doregex[BP1]DLRNDMTRAOCRME.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/DeLorean%20-%20Do%20Motor%20ao%20Crime.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/DeLorean%20-%20Do%20Motor%20ao%20Crime.jpg</fanart>
+<info>O filme segue Jim Hoffman (Jason Sudeikis), um artista que se tornou informante para o FBI na guerra contra as drogas.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ENTRE REALIDADES[/COLOR][/B]</title>
+<link>$doregex[BP1]ENTRRALDS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Entre%20Realidades.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Entre%20Realidades.jpg</fanart>
+<info>Sarah (Alison Brie) é uma mulher sonhadora e socialmente desajeitada. Apaixonada por artes e artesanato, cavalos e crimes sobrenaturais, ela percebe que seus sonhos estão cada vez mais lúcidos e se materializando em sua vida real.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ERA UMA VEZ: ANASTASIA[/COLOR][/B]</title>
+<link>$doregex[BP1]ERUMVZANSTSIA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Era%20Uma%20Vez%20-%20Anastasia.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Era%20Uma%20Vez%20-%20Anastasia.jpg</fanart>
+<info>O filme conta a história de Anastasia Romanov e começa em 1917, quando a filha mais nova de Tsar Nicholas II foge das tropas de Lênin através de um portal de tempo, emergindo em 1988, quando ela faz amizade com uma jovem americana.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]FROZEN 2[/COLOR][/B]</title>
+<link>$doregex[BP1]FRZN2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]FROZEN 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]FRZN2LEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Frozen%202.jpg</fanart>
+<info>De volta à infância de Elsa e Anna, as duas garotas descobrem uma história do pai, quando ainda era príncipe de Arendelle. Ele conta às meninas a história de uma visita à floresta dos elementos, onde um acontecimento inesperado teria provocado a separação dos habitantes da cidade com os quatro elementos fundamentais: ar, fogo, terra e água. Esta revelação ajudará Elsa a compreender a origem de seus poderes.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]INTO THE DARK: CRUSH[/COLOR][/B]</title>
+<link>$doregex[BP1]ITDCRSH.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Crush.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Crush.jpg</fanart>
+<info>Uma estrela do pop tem suas músicas e identidade artística roubada por seu ex-namorado/empresário e descaradamente investidas em sua nova namorada e pupila. Quando o destino reúne os três em uma pequena casa de show, o trio precisam confrontar os abusos emocionais de seus passados... até que as coisas tomam um rumo violento.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ISI E OSSI[/COLOR][/B]</title>
+<link>$doregex[BP1]ISIEOSI.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Isi%20e%20Ossi.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Isi%20e%20Ossi.jpg</fanart>
+<info>Para convencer os pais a deixá-la realizar seu sonho de estudar culinária em Nova York, a filha de um bilionário finge estar namorando um boxeador pobre.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]JOIAS BRUTAS[/COLOR][/B]</title>
+<link>$doregex[BP1]JOSBRTS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Joias%20Brutas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Joias%20Brutas.jpg</fanart>
+<info>Nova York, primavera de 2012. Howard Ratner (Adam Sandler) é o dono de uma loja de joias, que está repleto de dívidas. Sua grande chance em quitar a situação é através da venda de uma pedra não lapidada enviada diretamente da Etiópia, cheia de minerais preciosos. Inicialmente Howard a oferece ao astro da NBA Kevin Garnett, um de seus clientes assíduos, mas depois resolve que conseguirá faturar mais caso ela vá a leilão. Para tanto, precisa driblar seus cobradores e a própria confusão que cria a partir de suas constantes mudanças.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]JOJO RABBIT [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]JOJRBTLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jojo%20Rabbit.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jojo%20Rabbit.jpg</fanart>
+<info>Alemanha, durante a Segunda Guerra Mundial. Jojo (Roman Griffin Davis) é um jovem nazista de 10 anos, que trata Adolf Hitler (Taika Waititi) como um amigo próximo, em sua imaginação. Seu maior sonho é participar da Juventude Hitlerista, um grupo pró-nazista composto por outras pessoas que concordam com os seus ideais. Um dia, Jojo descobre que sua mãe (Scarlett Johansson) está escondendo uma judia (Thomasin McKenzie) no sótão de casa. Depois de várias tentativas frustradas para expulsá-la, o jovem rebelde começa a desenvolver empatia pela nova hóspede.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]LUCCAS NETO EM ACAMPAMENTO DE FÉRIAS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]LCSNTOEMACMPMTDFRS2.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Luccas%20Neto%20em%20Acampamento%20de%20F%C3%A9rias%202.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Luccas%20Neto%20em%20Acampamento%20de%20F%C3%A9rias%202.jpg</fanart>
+<info>Nestas férias, Luccas Neto e seus amigos viajam para um novo acampamento! Desta vez, enfrentarão uma equipe de rivais muito habilidosos e uma chefe rigorosíssima. Surpresas e músicas divertidas aguardam você nesta nova aventura!</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MODO AVIÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MDOAVIAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Modo%20Avi%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Modo%20Avi%C3%A3o.jpg</fanart>
+<info>Como a grande maioria das estudantes de moda, Ana (Larissa Manoela) tinha o sonho de se tornar uma estilista de muito sucesso. Porém, ao receber uma proposta de ser influenciadora digital de uma marca renomada, ela larga a faculdade para investir todo o seu tempo na página digital criando publicações. O trabalho que a princípio seria incrível, foi ficando cada vez mais nocivo para ela mesma: certo dia, de tanto ter os olhos somente na tela do celular, a jovem sofre um sério acidente de carro, o que a leva a deixar sua função de influenciadora de lado e passar um tempo na casa de seu avô Germano (Erasmo Carlos), no interior da cidade. Nessa volta às origens, Ana entra em um profundo processo de autoconhecimento e estabelece mais proximidade e afeto pela sua família e por ela própria.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O CASO DE RICHARD JEWELL[/COLOR][/B]</title>
+<link>$doregex[BP1]OCSODRCHRDJWEL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Caso%20de%20Richard%20Jewell.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Caso%20de%20Richard%20Jewell.jpg</fanart>
+<info>A história real de Richard Jewell (Paul Walter Hauser), segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, no ano de 1996. Na realidade, ele foi o responsável por ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O ESTRANHO NOIVO DE MAYA[/COLOR][/B]</title>
+<link>$doregex[BP1]OESTNHNVODMYA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Estranho%20Noivo%20de%20Maya.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Estranho%20Noivo%20de%20Maya.jpg</fanart>
+<info>Maya, tem ambições artísticas - seu pai Ed quer: uma filha obediente para dirigir a loja da família. Levando sua independência um passo adiante, Maya decide viajar para a África para a inspiração e retorna com um noivo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O HERDEIRO DAS DROGAS[/COLOR][/B]</title>
+<link>$doregex[BP1]OHRDRDSDRGS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Herdeiro%20das%20Drogas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Herdeiro%20das%20Drogas.jpg</fanart>
+<info>Os irmãos Kip (Josh Hartnett), Josie (Margarita Levieva) e Boots tentam escapar de uma espiral de violência que os mantém cativos desde a morte do pai, morando em uma região prejudicada pela economia, onde a venda de drogas tornou-se o seu meio de sobrevivência.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O LIMITE DA TRAIÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]OLMTDTRCAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Limite%20da%20Trai%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Limite%20da%20Trai%C3%A7%C3%A3o.jpg</fanart>
+<info>Uma cidadã exemplar é acusada de assassinar o marido, e sua advogada logo desconfia de uma conspiração.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O SILÊNCIO DA CIDADE BRANCA[/COLOR][/B]</title>
+<link>$doregex[BP1]OSLNCDCDABRNCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Sil%C3%AAncio%20da%20Cidade%20Branca.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Sil%C3%AAncio%20da%20Cidade%20Branca.jpg</fanart>
+<info>Um detetive volta à ativa para investigar dois assassinatos que imitam crimes cujo suposto autor que está prestes a sair da prisão.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PÁGINAS DA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]PGNSDMRTE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/P%C3%A1ginas%20da%20Morte.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/P%C3%A1ginas%20da%20Morte.jpg</fanart>
+<info>No meio da noite, uma jovem desperta e subitamente, sem esboçar qualquer sentimento, mata cada membro de sua família, inclusive o cachorro dela. O psiquiatra encarregado do caso descobre que a garota mantinha um diário e resolve investigar. Depois de encontrar o objeto e a ler seu conteúdo, o médico passa a entender a razão de sua primeira página conter um aviso - quem ler este diário será amaldiçoado.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PAIS MUITO LOUCOS[/COLOR][/B]</title>
+<link>$doregex[BP1]PAISMTLCS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pais%20Muito%20Loucos.jpg</fanart>
+<info>Na história, o casal acaba de se despedir da filha que foi para a universidade, e sai para beber e comemorar a liberdade após 18 anos. O resultado é uma sequência de decisões ruins, incluindo um sequestro e um caso de identidade trocada.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PARA TODOS OS GAROTOS: P.S. AINDA AMO VOCÊ[/COLOR][/B]</title>
+<link>$doregex[BP1]PRTDSOSGRTSPSANDAMOVC.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Para%20Todos%20os%20Garotos%20-%20P.S.%20Ainda%20Amo%20Voc%C3%AA.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Para%20Todos%20os%20Garotos%20-%20P.S.%20Ainda%20Amo%20Voc%C3%AA.jpg</fanart>
+<info>Lara Jean (Lana Condor) não esperava se apaixonar por Peter Kavinsky (Noah Centineo) quando eles fingiam namorar, mas a relação entre os dois rapidamente deixou de ser artificial. Só que, ao se reconectar com uma paixão do passado, John (Jordan Fisher), tudo fica ainda mais complicado para a jovem, que precisa entender o que se passa internamente para tomar uma grande decisão.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PARTIDA FRIA[/COLOR][/B]</title>
+<link>$doregex[BP1]PARTDFRA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Partida%20Fria.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Partida%20Fria.jpg</fanart>
+<info></info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]POKÉMON: MEWTWO CONTRA-ATACA: EVOLUÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]PKMONFLM22.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca!%20Evolu%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca!%20Evolu%C3%A7%C3%A3o.jpg</fanart>
+<info>Remake de Pokémon - O filme, o longa começa quando um grupo de cientistas decide criar o pokémon mais poderoso de todos os tempos. Mas a criatura chamada de Mewtwo se rebela e convoca grandes treinadores, escondendo um plano mirabolante.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]POR LUGARES INCRÍVEIS[/COLOR][/B]</title>
+<link>$doregex[BP1]PRLGRSINCRVS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Por%20Lugares%20Incr%C3%ADveis.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Por%20Lugares%20Incr%C3%ADveis.jpg</fanart>
+<info>Violet Markey (Elle Fanning) e Theodore Finch (Justice Smith) têm suas vidas transformadas para sempre quando se conhecem. Juntos, eles se apoiam para curar os estigmas emocionais e físicos que adquiriram no passado.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PRÓXIMA FASE: FUGINDO DE RANCALA[/COLOR][/B]</title>
+<link>$doregex[BP1]PRXMFSEFGNDODRNCLA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pr%C3%B3xima%20Fase%20-%20Fugindo%20de%20Rancala.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pr%C3%B3xima%20Fase%20-%20Fugindo%20de%20Rancala.jpg</fanart>
+<info>Quando um gerente de arcade percebe que seu irmão foi transportado para um videogame perigoso, ela e seus dois melhores amigos o seguem para o mundo virtual, lutando contra criaturas perigosas e um senhor da guerra que não pára por nada para mantê-los no jogo e fazê-los parte do seu exército.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]QUATRO HISTÓRIAS DE FANTASMAS[/COLOR][/B]</title>
+<link>$doregex[BP1]QTROHSTRDFNTSMS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Quatro%20Hist%C3%B3rias%20de%20Fantasmas.jpg</fanart>
+<info>Quatro histórias de terror dirigidas por Karan Johar, Dibakar Banerjee, Zoya Akhtar e Anurag Kashyap. Os mesmos diretores de Quatro Histórias de Desejo, indicado ao Emmy.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]QUEM COM FERRO FERE[/COLOR][/B]</title>
+<link>$doregex[BP1]QMCMFERFRE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Quem%20com%20Ferro%20Fere.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Quem%20com%20Ferro%20Fere.jpg</fanart>
+<info>Após a morte de seu irmão Sergio, o enfermeiro de asilo Mario (Luis Tosar) se prepara para um novo capítulo da sua vida com a chegada de seu primeiro filho. Mas, quando um chefe de cartel é enviado ao asilo para os cuidados de Mario, ele começa a questionar se seu dever é mais importante que as vidas que este homem destruiu.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SALYUT-7: MISSÃO ESPACIAL[/COLOR][/B]</title>
+<link>$doregex[BP1]SLYT7MSAOESPCL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Salyut%207%20-%20Miss%C3%A3o%20Espacial.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Salyut%207%20-%20Miss%C3%A3o%20Espacial.jpg</fanart>
+<info>URSS, junho de 1985. Com base em eventos reais. Depois que o contato com a estação espacial Salyut 7 é perdido, os cosmonautas Vladimir Dzhanibekov e Viktor Savinykh aportam com a nave vazia e congelada e voltam à vida.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SONIC: O FILME [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]SONCOFLMLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sonic%20-%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sonic%20-%20O%20Filme.jpg</fanart>
+<info>Sonic, o porco-espinho azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs. A sinopse oficial ainda não foi divulgada.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SURDO[/COLOR][/B]</title>
+<link>$doregex[BP1]SRDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Surdo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Surdo.jpg</fanart>
+<info>Um revolucionário rebelde contra a ditadura de Franquist, fica surdo após uma sabotagem fracassada, e tenta escapar das forças militares que o processam.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TOGO[/COLOR][/B]</title>
+<link>$doregex[BP1]TGO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Togo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Togo.jpg</fanart>
+<info>A história de um homem (Willem Dafoe) e sua equipe de cães puxadores de trenó que transportaram remédios para a população do Alasca, a fim de combater uma epidemia, durante a década de 20.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TROCO EM DOBRO[/COLOR][/B]</title>
+<link>$doregex[BP1]TRCOEMDBRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Troco%20em%20Dobro.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Troco%20em%20Dobro.jpg</fanart>
+<info></info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TROPA ZERO[/COLOR][/B]</title>
+<link>$doregex[BP1]TRPAZRO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Tropa%20Zero.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Tropa%20Zero.jpg</fanart>
+<info>Na Geórgia rural de 1977, uma menina fora dos padrões sonha com a vida no espaço. Quando uma competição nacional oferece a ela a chance de realizar seu sonho e gravar sua voz no Golden Record da NASA, ela recruta uma tropa improvisada de Escoteiras Birdie, construindo amizades para a vida inteira.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UM AMOR DE FILHOTE[/COLOR][/B]</title>
+<link>$doregex[BP1]UMAMRDFLHT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Amor%20de%20Filhote.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Amor%20de%20Filhote.jpg</fanart>
+<info>Um cão ferido encontra o caminho para o coração de uma família depois de escapar de um ringue de luta de cães underground.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UM LINDO DIA NA VIZINHANÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]UMLNDDINVZNHCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Lindo%20Dia%20na%20Vizinhan%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Lindo%20Dia%20na%20Vizinhan%C3%A7a.jpg</fanart>
+<info>Fred Rogers (Tom Hanks) foi o criador do Mister Rogers' Neighborhood, um programa infantil de TV muito popular na década de 1960, nos Estados Unidos. Em 1998, Tom Junod (Matthew Rhys), até então um cínico jornalista investigativo, aceitou escrever o perfil de Rogers para a revista Esquire. Durante as entrevistas para a materia, Junod mudou não só sua visão em relação ao seu entrevistado como também sua visão de mundo, iniciando uma inspiradora amizade com o apresentador.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UM ROMANCE NAS ENTRELINHAS[/COLOR][/B]</title>
+<link>$doregex[BP1]UMRMNCNSENTRLNHS.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Romance%20Nas%20Entrelinhas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Romance%20Nas%20Entrelinhas.jpg</fanart>
+<info>Adaptação da peça inglesa Vita & Virginia, o filme conta a história do famoso relacionamento das escritoras Virginia Woolf e Vita Sackville-West.Com base nas cartas trocadas pelas duas, o roteiro é escrito por Eileen Atkins, autora da peça e roteirista de A Última Festa (adaptação do livro Mrs Dalloway de Woolf.)</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]VINGANÇA FM[/COLOR][/B]</title>
+<link>$doregex[BP1]VNGNCFM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Vingan%C3%A7a%20FM.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Vingan%C3%A7a%20FM.jpg</fanart>
+<info>Jarvis Dolan (Eddie Marsan) comanda um programa de rádio de sucesso em Londres. No início de um de seus programas, dois mascarados armados invadem o estúdio e começam a controlar Jarvis, na intenção de revelar um escândalo que pode acabar com a vida do radialista.</info>
+<date>2020</date>
+</item>
