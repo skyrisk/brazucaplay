@@ -4,103 +4,43 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>29/03/2020</date>
+<date>02/04/2020</date>
 </item>
 
 <item>
-<title>[B][COLOR white]ALTERED CARBON: NOVA CAPA[/COLOR][/B]</title>
-<link>$doregex[BP1]ALTRDCRBNNVCPA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A MARCA DO DEMÔNIO[/COLOR][/B]</title>
+<link>$doregex[BP1]AMRCDEMO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Altered%20Carbon%20-%20Nova%20Capa.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Altered%20Carbon%20-%20Nova%20Capa.jpg</fanart>
-<info></info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Marca%20do%20Dem%C3%B4nio.jpg</fanart>
+<info>Duas jovens irmãs abrem um livro antigo que traz ao mundo uma criatura diabólica. Sua única salvação é um padre possuído que luta contra seus próprios demônios.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSALEG.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]BLOODSHOT[/COLOR][/B]</title>
+<link>$doregex[BP1]BLODHT.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aves%20de%20Rapina%20-%20Arlequina%20e%20sua%20Emancipa%C3%A7%C3%A3o%20Fantabulosa.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Aves%20de%20Rapina%20-%20Arlequina%20e%20sua%20Emancipa%C3%A7%C3%A3o%20Fantabulosa.jpg</fanart>
-<info>Em Aves de Rapina - Arlequina e sua Emancipação Fantabulosa, Arlequina (Margot Robbie), Canário Negro (Jurnee Smollett-Bell), Caçadora (Mary Elizabeth Winstead), Cassandra Cain e a policial Renée Montoya (Rosie Perez) formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Bloodshot.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Bloodshot.jpg</fanart>
+<info>Bloodshot é um ex-soldado com poderes especiais: o de regeneração e a capacidade de se metamorfosear. Assassinado ao lado da esposa, ele é ressuscitado e aprimorado com nanotecnologia, desenvolvendo tais habilidades. Ao apagarem sua memória várias vezes, ele finalmente descobre quem realmente é e parte em um busca de vingança daqueles que mataram sua família.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]AVES DE RAPINA: ARLEQUINA E SUA EMANCIPAÇÃO FANTABULOSA[/COLOR][/B]</title>
-<link>$doregex[BP1]AVSDRPNARLQNESEMPCFBLSA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]JUMANJI: PRÓXIMA FASE[/COLOR][/B]</title>
+<link>$doregex[BP1]JMNJPRXMFASE.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aves%20de%20Rapina%20-%20Arlequina%20e%20sua%20Emancipa%C3%A7%C3%A3o%20Fantabulosa.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Aves%20de%20Rapina%20-%20Arlequina%20e%20sua%20Emancipa%C3%A7%C3%A3o%20Fantabulosa.jpg</fanart>
-<info>Em Aves de Rapina - Arlequina e sua Emancipação Fantabulosa, Arlequina (Margot Robbie), Canário Negro (Jurnee Smollett-Bell), Caçadora (Mary Elizabeth Winstead), Cassandra Cain e a policial Renée Montoya (Rosie Perez) formam um grupo inusitado de heroínas. Quando um perigoso criminoso começa a causar destruição em Gotham, as cinco mulheres precisam se unir para defender a cidade.</info>
-<date>2020</date>
-</item>
-<item>
-<title>[B][COLOR white]LUTA POR JUSTIÇA[/COLOR][/B]</title>
-<link>$doregex[BP1]LTAPRJSTCA.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Luta%20por%20Justi%C3%A7a.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Luta%20por%20Justi%C3%A7a.jpg</fanart>
-<info>Em Luta por Justiça, Bryan Stevenson (Michael B. Jordan) é um advogado recém-formado em Harvard que abre mão de uma carreira lucrativa em escritórios renomados da costa leste americana para se mudar para o Alabama e se dedicar a prisioneiros condenados à morte que jamais receberam assistência legal justa. Ao chegar lá, Bryan se depara com o caso de Walter McMillian (Jamie Foxx), um homem negro falsamente acusado de um assassinato, mas que nunca teve uma defesa apropriada por conta do preconceito racial na região. </info>
-<date>2020</date>
-</item>
-<item>
-<title>[B][COLOR white]O BANQUEIRO[/COLOR][/B]</title>
-<link>$doregex[BP1]OBNQRO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Banqueiro.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Banqueiro.jpg</fanart>
-<info>Texas, década de 1950. Joe Morris e Bernard Garrett são dois empresários afro-americanos que resolvem contratar Matt Steiner, um homem branco da classe trabalhadora, para se passar por chefe deles. Assim, eles conseguem contornar as limitações raciais da época e se tornar dois dos proprietários de imóveis mais ricos e bem-sucedidos do país.</info>
-<date>2020</date>
-</item>
-<item>
-<title>[B][COLOR white]O FAROL[/COLOR][/B]</title>
-<link>$doregex[BP1]OFRL.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Farol.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Farol.jpg</fanart>
-<info>Início do século XX. Thomas Wake (Willem Dafoe), responsável pelo farol de uma ilha isolada, contrata o jovem Ephraim Winslow (Robert Pattinson) para substituir o ajudante anterior e colaborar nas tarefas diárias. No entanto, o acesso ao farol é mantido fechado ao novato, que se torna cada vez mais curioso com este espaço privado. Enquanto os dois homens se conhecem e se provocam, Ephraim fica obcecado em descobrir o que acontece naquele espaço fechado, ao mesmo tempo em que fenômenos estranhos começam a acontecer ao seu redor.</info>
-<date>2020</date>
-</item>
-<item>
-<title>[B][COLOR white]O POÇO[/COLOR][/B]</title>
-<link>$doregex[BP1]OPCO.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Po%C3%A7o.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Po%C3%A7o.jpg</fanart>
-<info>Exibido pela Netflix, O Poço conta a história de um lugar misterioso, uma prisão indescritível, um buraco profundo. Dois reclusos que vivem em cada nível. Um número desconhecido de níveis. Uma plataforma descendente contendo comida para todos eles. Uma luta desumana pela sobrevivência, mas também uma oportunidade de solidariedade.</info>
-<date>2020</date>
-</item>
-<item>
-<title>[B][COLOR white]ULTRAS[/COLOR][/B]</title>
-<link>$doregex[BP1]ULTRS.mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ultras.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Ultras.jpg</fanart>
-<info>A paixão pelo futebol é o pano de fundo dessa história sobre uma amizade entre dois torcedores de gerações diferentes durante as rodadas finais do campeonato.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jumanji%20-%20Pr%C3%B3xima%20Fase.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jumanji%20-%20Pr%C3%B3xima%20Fase.jpg</fanart>
+<info>Em Jumanji: Próxima Fase, tentado em revisitar o mundo de Jumanji, Spencer (Alex Wolff) decide consertar o jogo de videogame que permite que os jogadores sejam transportados ao local. Logo o quarteto formado por Smolder Bravestone (Dwayne Johnson), Moose Finbar (Kevin Hart), Shelly Oberon (Jack Black) e Ruby Roundhouse (Karen Gillan) ressurge, agora comandado por outras pessoas: os avôs de Spencer e Fridge assumem as personas de Bravestone e Finbar, enquanto o próprio Fridge (Ser'Darius Blain) agora está sob a pele de Oberon.</info>
 <date>2020</date>
 </item>
 
@@ -110,7 +50,7 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>TODOS OS FILMES DE 2020.<info>
-<date>29/03/2020</date>
+<date>31/03/2020</date>
 </item>
 
 <item>
