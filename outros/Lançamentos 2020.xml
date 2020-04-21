@@ -4,103 +4,199 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>11/04/2020</date>
+<date>21/04/2020</date>
 </item>
 
 <item>
-<title>[B][COLOR white]A GRANDE LUTA[/COLOR][/B]</title>
-<link>$doregex[BP1]AGNDLTA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]A TERRA E O SANGUE[/COLOR][/B]</title>
+<link>$doregex[BP1]ATRAEOSNG.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Grande%20Luta.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Grande%20Luta.jpg</fanart>
-<info>Em A Grande Luta, quando Leo Thompson (Seth Carr), de 11 anos, descobre uma máscara mágica de luta livre que lhe confere super força, ele a usa para entrar em uma competição da WWE. Com o apoio de sua avó, Leo fará o que for preciso para alcançar seu sonho de se tornar um Superstar da WWE.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Terra%20e%20o%20Sangue.jpg</fanart>
+<info>O dono de uma serraria e sua filha adolescente se envolvem em uma disputa perigosa quando um traficante esconde cocaína roubada em sua propriedade.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]CAMINHOS DE SANGUE[/COLOR][/B]</title>
-<link>$doregex[BP1]CMNHSDSNGE.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]ALTOS NEGÓCIOS[/COLOR][/B]</title>
+<link>$doregex[BP1]ALTSNGCS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Caminhos%20De%20Sangue.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Caminhos%20De%20Sangue.jpg</fanart>
-<info>A trama de Caminhos de Sangue acompanha um motorista de aplicativo chamado Cam (Jim Gaffigan), que se envolve por acaso em um esquema de tráfico de drogas depois de servir de chofer para o criminoso Mazz. Por estar afundado em dívidas, ele decide sequestrar o filho do traficante e lucrar com o resgate.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Altos%20Neg%C3%B3cios.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Altos%20Neg%C3%B3cios.jpg</fanart>
+<info>Disposto a fazer qualquer coisa para ficar rico, um jovem e seu amigo viram o mercado imobiliário de cabeça para baixo, mas nem tudo sai como o esperado.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]DOIS IRMÃOS: UMA JORNADA FANTÁSTICA[/COLOR][/B]</title>
-<link>$doregex[BP1]DOSIRMSUMJRNDFNTSCA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]AMEAÇA PROFUNDA[/COLOR][/B]</title>
+<link>$doregex[BP1]AMCAPRFNDA.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Dois%20Irm%C3%A3os%20-%20Uma%20Jornada%20Fant%C3%A1stica.jpg</fanart>
-<info></info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Amea%C3%A7a%20Profunda.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Amea%C3%A7a%20Profunda.jpg</fanart>
+<info>Um grupo de pesquisadores se encontra num laboratório subaquático a onze mil metros de profundidade, quando um terremoto causa a destruição do veículo e expõe a equipe ao risco de morte. Eles são obrigados a caminhar nas profundezas marítimas, com quantidade insuficiente de oxigênio, para tentarem sobreviver. No entanto, conforme se deslocam pelo fundo do mar, descobrem a presença de uma criatura mortal de origem desconhecida.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]JOJO RABBIT[/COLOR][/B]</title>
-<link>$doregex[BP1]JOJRBT.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]AQUI ESTAMOS NÓS: NOTAS SOBRE COMO VIVER NO PLANETA TERRA[/COLOR][/B]</title>
+<link>$doregex[BP1]AQESTMNSNSCVNPT.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jojo%20Rabbit.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Jojo%20Rabbit.jpg</fanart>
-<info>Alemanha, durante a Segunda Guerra Mundial. Jojo (Roman Griffin Davis) é um jovem nazista de 10 anos, que trata Adolf Hitler (Taika Waititi) como um amigo próximo, em sua imaginação. Seu maior sonho é participar da Juventude Hitlerista, um grupo pró-nazista composto por outras pessoas que concordam com os seus ideais. Um dia, Jojo descobre que sua mãe (Scarlett Johansson) está escondendo uma judia (Thomasin McKenzie) no sótão de casa. Depois de várias tentativas frustradas para expulsá-la, o jovem rebelde começa a desenvolver empatia pela nova hóspede.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aqui%20Estamos%20Nos%20-%20Notas%20Sobre%20Como%20Viver%20no%20Planeta%20Terra.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aqui%20Estamos%20Nos%20-%20Notas%20Sobre%20Como%20Viver%20no%20Planeta%20Terra.jpg</fanart>
+<info>Na véspera do Dia da Terra, um menino precoce de sete anos aprende sobre as maravilhas do planeta com seus pais – e com uma misteriosa exibição num lugar chamado Museu de Tudo. O curta-metragem de animação nos convida a refletir sobre o imenso planeta que nos acolhe e, principalmente, sobre a vida que levamos nele. Apresenta o planeta sob diversos pontos de vista. Como uma gota no oceano, somos apenas um entre os bilhões de seres vivos que vivem sobre a Terra. Assim, fica fácil compreender por que partilhar, tolerar e respeitar são verbos fundamentais para o nosso manual de sobrevivência. Baseado no livro infantil best-seller de Oliver Jeffers.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]O ESCÂNDALO[/COLOR][/B]</title>
-<link>$doregex[BP1]OESCDLO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]EFEITO PIGMALEÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]EFTOPGMLAO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Esc%C3%A2ndalo.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Esc%C3%A2ndalo.jpg</fanart>
-<info>Um gigante do telejornalismo e antigo CEO da Fox News, Roger Ailes (John Lithgow) tem seu poder questionado e sua carreira derrubada quando um grupo de mulheres o acusam de assédio sexual no ambiente de trabalho.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Efeito%20Pigmale%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Efeito%20Pigmale%C3%A3o.jpg</fanart>
+<info>Um ano no coração de uma escola. Samia chega em sua terra natal, Ardèche, em um colégio considerado difícil na cidade de Saint-Denis. Ela descobre os problemas recorrentes de disciplina, a realidade social que pesa no bairro, mas também a incrível vitalidade e humor dos estudantes e supervisores. Samia se adapta e logo tem prazer em canalizar a paixão dos mais disruptivos. Sua complicada situação pessoal naturalmente a aproxima de Yanis, uma adolescente inteligente, de muito potencial. Mesmo que Yanis pareça desistir de toda a ambição, se escondendo atrás de sua insolência, Samia investirá toda a sua energia para um futuro melhor.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]SOCIAS EM GUERRA[/COLOR][/B]</title>
-<link>$doregex[BP1]SOCSEMGURA.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]LEGADO NOS OSSOS[/COLOR][/B]</title>
+<link>$doregex[BP1]LGDONSOSOS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Socias%20em%20Guerra.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Socias%20em%20Guerra.jpg</fanart>
-<info>Duas melhores amigas abrem uma empresa bem-sucedida e tem a relação testada quando uma proposta irrecusável chega a suas mesas.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Legado%20nos%20Ossos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Legado%20nos%20Ossos.jpg</fanart>
+<info>Um ano depois de solucionar uma série de assassinatos, a inspetora Amaia se vê diante de um novo mistério relacionado ao caso.</info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]TORTURADO POR CRISTO[/COLOR][/B]</title>
-<link>$doregex[BP1]TRTRDOPRCSTO.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]MAURÍCIO MEIRELLES: LEVANDO O CAOS[/COLOR][/B]</title>
+<link>$doregex[BP1]MRCMRLSLVNDOCAOS.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Torturado%20por%20Cristo.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Torturado%20por%20Cristo.jpg</fanart>
-<info>Uma recontagem cinematográfica do testemunho do fundador da 'Voz dos Mártires', Pastor Richard Wurmbrand, conforme escrito em seu best-seller internacional homônimo.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Maur%C3%ADcio%20Meirelles%20-%20Levando%20o%20Caos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Maur%C3%ADcio%20Meirelles%20-%20Levando%20o%20Caos.jpg</fanart>
+<info>Em Maurício Meirelles: Levando o Caos, o humorista abre sua mente caótica para o público ao fazer divertidos comentários sobre visões a respeito de paternidade, casamento, sociedade e tartarugas neste stand-up. </info>
 <date>2020</date>
 </item>
 <item>
-<title>[B][COLOR white]UM AMOR, MIL CASAMENTOS[/COLOR][/B]</title>
-<link>$doregex[BP1]UMAMRMLCSMNTS.mp4$doregex[BP2]</link>
+<title>[B][COLOR white]MEIO IRMÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]MEIOIRMAO.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Amor,%20Mil%20Casamentos.jpg</thumbnail>
-<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Amor,%20Mil%20Casamentos.jpg</fanart>
-<info>Um Amor, Mil Casamentos apresenta diferentes versões de um mesmo dia que se repetem para Jack (Sam Claflin). Ele terá de lidar com diversas confusões com uma ex-namorada, seu melhor amigo, um convidado com um segredo e um romance em potencial na festa de casamento de sua irmã.</info>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Meio%20Irm%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Meio%20Irm%C3%A3o.jpg</fanart>
+<info>Sandra, uma adolescente de 16 anos, passa por um momento difícil. Sua mãe está desaparecida há dias e, por isso, a garota passa as tardes varando a cidade de bicicleta, procurando seu paradeiro. Quando a jovem começa a perder as esperanças, ela decide pedir ajuda para seu meio irmão, com quem cultiva uma relação distante. Ele, que também se encontra em uma situação pessoal delicada, não sabe como pode colaborar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MORTAL KOMBAT LEGENDS: A VINGANÇA DE SCORPION [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]MRTLKMBTLGNSAVNGCDSCRPN.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion.jpg</fanart>
+<info>Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MORTAL KOMBAT LEGENDS: A VINGANÇA DE SCORPION[/COLOR][/B]</title>
+<link>$doregex[BP1]MRTLKMBTLGNSAVNGCDSCRPNDUB.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Mortal%20Kombat%20Legends%20-%20A%20Vingan%C3%A7a%20de%20Scorpion.jpg</fanart>
+<info>Após o massacre cruel de sua família pelo mercenário Sub-Zero, Hanzo Hasashi é exilado no tortuoso Netherrealm, lá, em troca de sua servidão ao sinistro Quan Chi, ele tem a chance de vingar sua família - e ressuscita como Scorpion, uma alma perdida e vingativa. De volta ao Earthrealm, Lord Raiden reúne uma equipe de guerreiros de elite - o monge Shaolin Liu Kang, a oficial das Forças Especiais Sonya Blade e o ator de ação Johnny Cage - um grupo improvável de heróis com uma chance de salvar a humanidade. Para fazer isso, eles devem derrotar a horda de gladiadores do Outworld de Shang Tsung e vencer o torneio Mortal Kombat.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]NATAL SANGRENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]NTLSNGRTO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Natal%20Sangrento.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Natal%20Sangrento.jpg</fanart>
+<info>Enquanto o Natal se aproxima, o campus de uma universidade fica cada vez mais vazio, com muitos estudantes voltando para as suas famílias. No entanto, algumas garotas de uma irmandade começam a ser assassinadas, uma a uma, por uma figura misteriosa. Mas o matador não suspeitava da capacidade destas alunas em se unirem em busca de vingança.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]O OFICIAL E O ESPIÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]OOFCLEOESPIAO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Oficial%20e%20o%20Espi%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Oficial%20e%20o%20Espi%C3%A3o.jpg</fanart>
+<info>Oficial e o Espião se passa em Paris, final do século 19. O capitão francês Alfred Dreyfus é um dos poucos judeus que faz parte do exército. No dia 22 de dezembro de 1884, seus inimigos alcançam seu objetivo: conseguem fazer com que Dreyfus seja acusado de alta traição. Pelo crime, julgado à portas fechadas, o capitão é sentenciado à prisão perpétua no exílio. Intrigado com a evolução do caso, o investigador Picquart decide seguir as pistas para desvendar o mistério por trás da condenação de Dreyfus.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O RITMO DA VINGANÇA[/COLOR][/B]</title>
+<link>$doregex[BP1]ORTMDVNGCA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Ritmo%20da%20Vingan%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Ritmo%20da%20Vingan%C3%A7a.jpg</fanart>
+<info>Stephanie Patrick é uma agente secreta treinada para ser uma assassina brutal por uma agência, mas na verdade ela busca vingança pela morte suspeita de sua família.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PINGUINS: VIDA AO EXTREMO[/COLOR][/B]</title>
+<link>$doregex[BP1]PNGNSVDAOEXTRM.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pinguins%20-%20Vida%20ao%20Extremo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pinguins%20-%20Vida%20ao%20Extremo.jpg</fanart>
+<info>A equipe espirituosa e perseverante de cineastas enfrentam a Antártica para filmar os Penguins da Disneynature, uma história de amadurecimento sobre um pinguim de Adélie chamado Steve</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SERGIO[/COLOR][/B]</title>
+<link>$doregex[BP1]SRGIO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sergio.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sergio.jpg</fanart>
+<info>Durante o período caótico após a invasão dos EUA ao Iraque, o diplomata da ONU Sergio Vieira de Mello assume a missão mais complexa e perigosa de sua carreira.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UMA NOITE INFERNAL[/COLOR][/B]</title>
+<link>$doregex[BP1]UMANTINFRNL.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Uma%20Noite%20Infernal.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Uma%20Noite%20Infernal.jpg</fanart>
+<info>Melinda é solitária e instável, que está cansada de ser ofuscada por Sheila, sua colega de trabalho mais confiante e extrovertida. Quando o posto de gasolina é mantido sob a mira de uma arma por Billy, um homem desesperado que precisa de dinheiro rápido, Melinda encontra uma oportunidade de fazer uma conexão com o ladrão, independentemente de quem se machuque.</info>
 <date>2020</date>
 </item>
 
