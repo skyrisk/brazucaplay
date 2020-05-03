@@ -1,10 +1,95 @@
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
-<link></link>
+<link>here</link>
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>29/04/2020</date>
+<date>03/05/2020</date>
+</item>
+
+<item>
+<title>[B][COLOR white]1917[/COLOR][/B]</title>
+<link>$doregex[BP1]1917.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/1917.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/1917.jpg</fanart>
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]1918: A BATALHA DE KRUTY[/COLOR][/B]</title>
+<link>$doregex[BP1]1918ABTLHDKRT.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/1918%20-%20A%20Batalha%20de%20Kruty.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/1918%20-%20A%20Batalha%20de%20Kruty.jpg</fanart>
+<info>Enquanto um exército bolchevique de cerca de 4.000 homens, comandado pelo general Muravyov, avança em direção a Kiev, com o objetivo de capturar a cidade, uma pequena unidade ucraniana de 400 soldados está resistindo perto da estação ferroviária de Kruty. O conflito entre as forças opostas, e desiguais, fica cada vez mais violento, com uma brutalidade terrível. Os jovens, como soldados espartanos, se sacrificam na luta contra os agressores.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ALIEN OUTBREAK [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]ALIENOUTBRKLEG.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Alien%20Outbreak.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Alien%20Outbreak.jpg</fanart>
+<info>Na América do Norte pós-apocalíptica, uma família luta pela sobrevivência nessa viagem científica de proporções épicas em um mundo de pesadelo sem gasolina, eletricidade ou humanidade.Uma pequena comunidade rural fica em quarentena por uma presença alienígena. Os policiais locais Zoe e Patrick lutam a noite toda para assumir o controle, à medida que são afastados do mundo exterior. Os moradores começam a se comportar de maneira estranha e o pânico em massa se espalha por toda parte. Com a ajuda de outros, Zoe e Patrick começam a desvendar o mistério e logo descobrem que não é tudo o que parece. Eles podem salvar sua comunidade antes que seja tarde demais?</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]AS AVENTURAS DO DR. DOLITTLE[/COLOR][/B]</title>
+<link>$doregex[BP1]ASAVNTRSDODRDLTLE.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/As%20Aventuras%20do%20Dr.%20Dolittle.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/As%20Aventuras%20do%20Dr.%20Dolittle.jpg</fanart>
+<info>Depois de perder sua mulher sete anos atrás, o excêntrico Dr. John Dolittle (Downey), famoso veterinário da Inglaterra da Rainha Victória, se isola nas paredes da mansão Dolittle, com apenas sua coleção de animais como companhia. Mas quando a jovem rainha (Jessie Buckley, Chernobyl) adoece gravemente, um relutante Dolittle é forçado a embarcar em uma aventura para uma ilha mística à procura de uma cura, reconquistando sua esperteza e coragem, encontrando velhos adversários e descobrindo incríveis criaturas.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SECRETO E PROIBIDO[/COLOR][/B]</title>
+<link>$doregex[BP1]SCRTEPRBDO.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Secreto%20e%20Proibido.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Secreto%20e%20Proibido.jpg</fanart>
+<info>Elas viveram um amor secreto em tempos difíceis. Mas sair do armário mesmo depois de tantos anos também tem seus próprios desafios.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UMA VIDA OCULTA[/COLOR][/B]</title>
+<link>$doregex[BP1]UMAVDOCLTA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Uma%20Vida%20Oculta.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Uma%20Vida%20Oculta.jpg</fanart>
+<info>Em Uma Vida Oculta, Franz Jägerstätter (August Diehl) é um fazendeiro austríaco que se torna herói em circunstâncias um tanto quanto inusitadas. Quando ele é convocado a lutar junto ao exército alemão durante a Segunda Guerra Mundial, ele se recusa e acaba, com apenas 36 anos de idade, condenado à pena de morte por traição à pátria.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]VOCÊ NEM IMAGINA[/COLOR][/B]</title>
+<link>$doregex[BP1]VCNEMIMGNA.mp4$doregex[BP2]</link>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP1</name><expres>rcf5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Voc%C3%AA%20Nem%20Imagina.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Voc%C3%AA%20Nem%20Imagina.jpg</fanart>
+<info>Em Você Nem Imagina, Ellie Chu (Leah Lewis) é a típica aluna deslocada que possui o hábito de fazer a lição de casa de seus colegas por dinheiro para contribuir com as contas em casa. Secretamente, ela possui uma paixão pela bela Aster Flores (Alexxis Lemire). Quando Paul, um jogador de futebol, se aproxima de Ellie para pedir ajuda para escrever uma carta de amor para sua amada, ela entra em conflito. </info>
+<date>2020</date>
 </item>
 
 <item>
