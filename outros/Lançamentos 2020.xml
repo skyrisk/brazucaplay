@@ -4,7 +4,120 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>25/05/2020</date>
+<date>28/05/2020</date>
+</item>
+
+<item>
+<title>[B][COLOR white]FRAÇÃO DE SEGUNDOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]FCAODSGNDS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Fra%C3%A7%C3%A3o%20de%20Segundos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Fra%C3%A7%C3%A3o%20de%20Segundos.jpg</fanart>
+<info>Um homem perde dez minutos de sua memória devido a ser atingido por uma bala perdida, durante um assalto a um banco que deu errado. Ele deve juntar os pedaços de sua memória para descobrir quem sabotou o trabalho e pegou o dinheiro, tudo ao mesmo tempo em que é perseguido por um poderoso chefe do crime, que quer recuperar o dinheiro.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]HERÓIS DE UMA GUERRA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]HRSDUMGURA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Her%C3%B3is%20de%20uma%20Guerra.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Her%C3%B3is%20de%20uma%20Guerra.jpg</fanart>
+<info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]LEGO DC: SHAZAM: MAGIA E MONSTROS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]LGODCSHZMMGEMNSTRO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/LEGO%20DC%20-%20Shazam%20-%20Magia%20e%20Monstros.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/LEGO%20DC%20-%20Shazam%20-%20Magia%20e%20Monstros.jpg</fanart>
+<info>Quando o garoto herói Shazam é ​​oferecido para se juntar à Liga da Justiça, ele reluta, mas quando seus rivais, a Monster Society, colocam a Liga em perigo, ele é o único que pode salvá-los.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MEU NÃO TÃO PERFEITO MARIDO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]MEUNTAOPRFTOMRDO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Meu%20N%C3%A3o%20T%C3%A3o%20Perfeito%20Marido.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Meu%20N%C3%A3o%20T%C3%A3o%20Perfeito%20Marido.jpg</fanart>
+<info>Karen Miller tem tudo isso. O casamento perfeito, o marido perfeito, a vida perfeita. Mas quando o marido desaparece em uma viagem de negócios e é considerado morto, a vida perfeita de Karen se desfaz. Ela começa a perceber que seu marido perfeito não era tudo o que parecia.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]NA PONTA DA BALA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NPRTDBLA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Na%20Ponta%20da%20Bala.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Na%20Ponta%20da%20Bala.jpg</fanart>
+<info>Quando sua esposa e filha são assassinadas sem sentido, um homem se vê envolvido em uma guerra entre um grupo de vigilantes e o crime que infesta sua cidade.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SOBREVIVER A NOITE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SBRVRANTE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sobreviver%20a%20Noite.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sobreviver%20a%20Noite.jpg</fanart>
+<info>Dois criminosos implacáveis ​​entram na casa de um médico em decadência, para receber atendimento médico depois que um deles é baleado durante um assalto que deu errado. Sabendo que ele não tem o conhecimento necessário para consertar o invasor ferido, o médico deve proteger sua família a todo custo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]TERREMOTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TERMTO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Terremoto%202020.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Terremoto%202020.jpg</fanart>
+<info>No ano de 1904, um terremoto de magnitude 5,4 na escala Richter sacudiu Oslo. Seu epicentro foi no "Oslo Graben", uma fenda que atravessa diretamente a cidade. Desde então, segundo geólogos, a população da capital norueguesa pode esperar futuros terremotos nessa área. E se justamente agora um deles estivesse se aproximando?</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UM CRIME PARA DOIS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]UMCRMPRDOS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Um%20Crime%20para%20Dois.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Um%20Crime%20para%20Dois.jpg</fanart>
+<info>Em Um Crime para Dois, um casal (Issa Rae e Kumail Nanjiani) está passando por uma crise em seu relacionamento. Quando eles se veem de repente envolvidos em um misterioso assassinato, eles precisam tentar resolver o crime para limpar seus nomes enquanto tentam salvar a relação.</info>
+<date>2020</date>
 </item>
 
 <item>
