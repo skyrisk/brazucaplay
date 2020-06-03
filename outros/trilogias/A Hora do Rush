@@ -1,10 +1,12 @@
 <item>
 <title>[COLOR white][B]A HORA DO RUSH[/B][/COLOR]</title>
-<link>$doregex[BP1]AHRDRSH01.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDRSH01</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/92/75/28/20215618.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nYsLFXMkTcBQXbfb8wN5Jg8pMBq.jpg</fanart>
 <info>Quando a filha de um diplomata chinês é sequestrada em Los Angeles, o cônsul chama o inspector Lee em Hong Kong para ajudar o FBI com o caso. O FBI não se importa com Lee e o deixa de lado no Departamento de Polícia de Los Angeles, pedindo ao detetive James Carter que o vigie. Apesar de Lee e Carter não se suportarem, eles resolvem trabalhar juntos para resolver o caso por conta própria ao descobrirem que foram abandonados tanto pelo FBI quanto pela polícia.</info>
@@ -13,11 +15,13 @@
 
 <item>
 <title>[COLOR white][B]A HORA DO RUSH 2[/B][/COLOR]</title>
-<link>$doregex[BP1]AHRDRSH02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDRSH02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/93/43/90/20256977.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nYsLFXMkTcBQXbfb8wN5Jg8pMBq.jpg</fanart>
 <info>Depois que um atentado a bomba na Embaixada dos Estados Unidos em Hong Kong mata dois agentes que investigavam contrabando de dinheiro, os inspetores Lee e James Carter caçam o autor intelectual do ataque. Mas o criminoso Ricky Tan quer assegurar que os dois não resolvam o caso.</info>
@@ -26,11 +30,13 @@
 
 <item>
 <title>[COLOR white][B]A HORA DO RUSH 3[/B][/COLOR]</title>
-<link>$doregex[BP1]AHRDRSH03.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDRSH03</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/medias/nmedia/18/90/18/92/20085043.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/nYsLFXMkTcBQXbfb8wN5Jg8pMBq.jpg</fanart>
 <info>O leste encontra o oeste novamente. Depois de um atentado contra o Embaixador Han, Lee e Carter vão para Paris para proteger uma francesa que sabe demais sobre os secretos líderes do Triad. Enquanto isso, eles também precisam lutar contra a máfia chinesa de Paris e um amigo de infância de Lee conforme eles procuram por um envelope que contem a identidade de um poderoso chefão do crime.</info>
