@@ -6,83 +6,97 @@
 </item>
 <item>
 <title>[B][COLOR white]50 TONS DE EROTISMO[/COLOR][/B]</title>
-<link>$doregex[BP1]50TNSDERTSMO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/50%20Tons%20de%20Erotismo.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/50%20Tons%20de%20Erotismo.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]50TNSDERTSMO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/50%20Tons%20de%20Erotismo.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/50%20Tons%20de%20Erotismo.jpg</fanart>
 <info>Com mais de 60 milhões de cópias vendidas no mundo, Cinquenta Tons de Cinza gerou um fervor. O livro chamou a atenção de todos para um estilo de vida que não costuma ser muito popular. Mas o livro só mostrou a superfície de um mundo muito complexo que demoramos até compreender de verdade. Neste documentário, você viajará conosco pelo verdadeiro mundo do BDSM (bondage, disciplina, dominação, submissão, sadismo e masoquismo). Talvez algumas coisas pareçam até engraçadas, outras podem chocá-lo e até perturbá-lo. Mas hoje, o nosso objetivo é revelar por que algumas pessoas são tão atraídas pelo BDSM, e descobrir o que mais isso pode nos mostrar sobre as variadas formas de desejo dos norte americanos.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]A HISTÓRIA DO SEXO: O SÉCULO XX[/COLOR][/B]</title>
-<link>$doregex[BP1]AHSTRDSXSCLXX.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHSTRDSXSCLXX</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/A%20Hist%C3%B3ria%20do%20Sexo%20-%20O%20S%C3%A9culo%20XX.jpg</fanart>
 <info>O século XX foi testemunha de mudanças revolucionárias no terreno sexual. Veremos neste programa desde o primeiro preservativo de látex, em 1920, passando pelo nascimento da pílula nos anos 60, e chegando ao Viagra no final dos anos 90. E embora em matéria de sexo nada mais possa nos chocar, o novo milênio parece trazer também uma visão inovadora do mais básico dos instintos.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ÁGUA E PODER: O ROUBO À CALIFORNIA[/COLOR][/B]</title>
-<link>$doregex[BP1]AGUEPDR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/%C3%81gua%20e%20Poder%20-%20O%20Roubo%20%C3%A0%20California.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/%C3%81gua%20e%20Poder%20-%20O%20Roubo%20%C3%A0%20California.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGUEPDR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/%C3%81gua%20e%20Poder%20-%20O%20Roubo%20%C3%A0%20California.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/%C3%81gua%20e%20Poder%20-%20O%20Roubo%20%C3%A0%20California.jpg</fanart>
 <info>Este especial explora a rica história da água e do poder no estado da Califórnia. Por meio de diversas investigações, descobrimos como alguns barões da água manipulam e exploram o recurso mais precioso do estado, enquanto a seca e a crise da água subterrânea deixam os Estados Unidos desesperados por soluções melhores. Enquanto a Califórnia passa por cada vez mais problemas com a água, o futuro de sua agricultura &ndash; que representa quase metade das frutas, das nozes e dos legumes do país &ndash; fica cada vez menos garantido. Os californianos e o mundo estão acordando para uma perigosa realidade: a água que é básica está se tornando cada vez mais valiosa. Como um morador de Porterville nos avisa: Vocês serão os próximos. Acompanhem, vocês serão os próximos..</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]AMIGOS DA CLÍNICA[/COLOR][/B]</title>
-<link>$doregex[BP1]AMGSDCLNC.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Amigos%20da%20Cl%C3%ADnica.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Amigos%20da%20Cl%C3%ADnica.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMGSDCLNC</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Amigos%20da%20Cl%C3%ADnica.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Amigos%20da%20Cl%C3%ADnica.jpg</fanart>
 <info>Quatro homens tentam reinventar suas vidas e se reintegrar na sociedade depois de anos de abuso de substâncias químicas. O documentário é um olhar íntimo na força, coragem e irmandade que é precido para superar o vício e manter a sobriedade.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]AVALANCHE NO EVEREST[/COLOR][/B]</title>
-<link>$doregex[BP1]AVLNCHNEVRST.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Avalanche%20No%20Everest.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Avalanche%20No%20Everest.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AVLNCHNEVRST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Avalanche%20No%20Everest.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Avalanche%20No%20Everest.jpg</fanart>
 <info>Em 18 de abril de 2014 ocorreu a pior tragédia na história do Monte Everest, uma avalanche que tirou a vida de 13 pessoas. documentário mostrará filmagens bastante emotivas e em tempo real, captando os esforços de mobilização do resgate das vítimas e de seus socorristas enquanto lutam pela sobrevivência. Por meio de depoimentos de testemunhas, os telespectadores ouvirão daqueles que presenciaram essa horrível tragédia e suas consequências. Todas as vítimas eram guias Sherpas que ajudavam os alpinistas durante a escada quando a neve rolou abaixo cruzando em seu caminho.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]AVENTURAS NO NOVO ÁRTICO[/COLOR][/B]</title>
-<link>$doregex[BP1]AVENTNVARTIC.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Aventuras%20no%20Novo%20%C3%81rtico.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Aventuras%20no%20Novo%20%C3%81rtico.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AVENTNVARTIC</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Aventuras%20no%20Novo%20%C3%81rtico.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Aventuras%20no%20Novo%20%C3%81rtico.jpg</fanart>
 <info>Um aventura real sobre o ciclo da vida entre duas criaturas polares muito diferentes, Nanu, um filhote de urso polar e Seela, um pequeno leão-marinho, ambos em suas lutas por comida, abrigo e sobrevivência. Seus instintos naturais os ajudam a passar pelos desafios da vida, além da proteção de suas mães e a ameaça que sofrem com seu mundo gelado derretendo a sua volta.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]CAÇADA[/COLOR][/B]</title>
-<link>$doregex[BP1]CACDA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CACDA</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Ca%C3%A7ada.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Ca%C3%A7ada.jpg</fanart>
 <info>A HBO estreia o documentário original "Caçada" ("Manhunt: The Search for Bin Laden"). Participante da programação oficial do Sundance Film Festival em 2013, a produção conta a real história das duas décadas de caça ao terrorista mais famoso do mundo: Osama Bin Laden. O documentário traz informações e depoimentos de agentes da CIA que trabalharam para destruir a organização terrorista de Bin Laden e, possivelmente, matá-lo. Esse suspense de espionagem real inclui os bastidores do trabalho de analistas, observadores e agentes que testemunharam as desavenças, frustrações, tragédias e vitórias que marcaram este capítulo da história dos Estados Unidos.</info>
@@ -90,11 +104,13 @@
 </item>
 <item>
 <title>[B][COLOR white]CITY OF JOY: ONDE VIVE A ESPERANÇA[/COLOR][/B]</title>
-<link>$doregex[BP1]CTYOFJOYONDVIVEAESPCA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CTYOFJOYONDVIVEAESPCA</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/City%20Of%20Joy%20-%20Onde%20Vive%20a%20Esperan%C3%A7a.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/City%20Of%20Joy%20-%20Onde%20Vive%20a%20Esperan%C3%A7a.jpg</fanart>
 <info>As mulheres que foram sexualmente brutalizadas no Congo devastado pela guerra começam a se curar na Cidade da Alegria, um centro que as ajuda a recuperar um senso de autonomia e poder.</info>
@@ -102,95 +118,111 @@
 </item>
 <item>
 <title>[B][COLOR white]CONTRAGOLPE[/COLOR][/B]</title>
-<link>$doregex[BP1]CONTRPNCH.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Contragolpe.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Contragolpe.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CONTRPNCH</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Contragolpe.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Contragolpe.jpg</fanart>
 <info>Disciplina, suor, emoção e triunfo. O documentário de Jay Bulger sobre o mundo do boxe tem tudo isso. Jovens lutadores desafiam as probabilidades, determinados a colocar seus nomes ao lado dos mais célebres e adorados campeões do passado. Com um olhar arrojado sobre a dor e o orgulho indispensáveis no caminho da grandeza, Contragolpe tem o efeito de um nocaute.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]COUNTDOWN TO DEATH: PABLO ESCOBAR[/COLOR][/B]</title>
-<link>$doregex[BP1]CONTDWMTDTHPBLESCBR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Countdown%20to%20Death%20-%20Pablo%20Escobar.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Countdown%20to%20Death%20-%20Pablo%20Escobar.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CONTDWMTDTHPBLESCBR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Countdown%20to%20Death%20-%20Pablo%20Escobar.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Countdown%20to%20Death%20-%20Pablo%20Escobar.jpg</fanart>
 <info>Com entrevistas raras, imagens e escutas clandestinas, documentário reconstrói os últimos nove anos de Pablo Escobar, o chefão do narcotráfico da Colômbia.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]CRISE NA SÍRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]CRSNSRI.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Crise%20na%20S%C3%ADria.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Crise%20na%20S%C3%ADria.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CRSNSRI</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Crise%20na%20S%C3%ADria.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Crise%20na%20S%C3%ADria.jpg</fanart>
 <info>O documentário foca em manifestantes, ícones da revolução, ativistas e seus parentes, e generais do exército de alto escalão que desertaram para se juntar à luta do povo. Ele conta a história do povo sírio que nunca perdeu a esperança. Este filme vai levar o espectador a uma viagem única no tempo, da Síria à Turquia, através da Jordânia, Líbano e Europa. Veremos a situação de dentro para fora e através dos gritos da Síria.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]CUBA E O CAMERAMAN[/COLOR][/B]</title>
-<link>$doregex[BP1]CBAEOCMRAMN.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Cuba%20e%20o%20Cameraman.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Cuba%20e%20o%20Cameraman.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CBAEOCMRAMN</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Cuba%20e%20o%20Cameraman.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Cuba%20e%20o%20Cameraman.jpg</fanart>
 <info>Documentário que acompanha o líder revolucionário de Cuba, Fidel Castro, e também três famílias afetadas pela sua política através do olhar atento do fotógrafo Jon Alpert, que com uma uma câmera portátil realizou um retrato detalhado do país comunista em trés décadas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]DRAGÃO DE KOMODO: MORDIDA FATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]DRGDKMDOMRDAFTL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Drag%C3%A3o%20de%20Komodo%20Mordida%20Fatal.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Drag%C3%A3o%20de%20Komodo%20Mordida%20Fatal.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DRGDKMDOMRDAFTL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Drag%C3%A3o%20de%20Komodo%20Mordida%20Fatal.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Drag%C3%A3o%20de%20Komodo%20Mordida%20Fatal.jpg</fanart>
 <info>Robusto e com aparência de dinossauro, pode medir até 3,5 m de comprimento e pesar até 125 kg. A cor de sua pele é cinzenta e marrom. Sua dieta baseia-se em porcos selvagens (javalis), cabras, veados, búfalos, cavalos, macacos, dragões-de-komodo menores, insectos e até seres humanos. Também se alimenta de carniça de animais e, com o seu faro, pode localizar uma carcaça de animal a quilômetros de distância, sendo capaz de devorá-la por completo. Cada uma das quatro patas do dragão-de-komodo possui cinco garras. No interior de sua mandíbula habitam bactérias letais, sendo que os animais que conseguem escapar de suas garras acabam morrendo por infecções. Para se alimentar de animais vivos, o dragão derruba a sua vítima com a sua cauda e depois corta-o em pedaços com os dentes. Quando trata-se de animal grande, como um búfalo, o dragão ataca-o sorrateiramente com uma mordida e espera o animal morrer pela infecção produzida pelas bactérias. O lagarto segue a vítima durante algum tempo até que a infecção se encarrega de prostrá-la, quando é então calmamente devorada. Costuma comer primeiro a língua e as entranhas, suas partes preferidas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ELVIS É ASSIM[/COLOR][/B]</title>
-<link>$doregex[BP1]ELVSEASSM.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Elvis%20%C3%A9%20Assim.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Elvis%20%C3%A9%20Assim.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ELVSEASSM</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Elvis%20%C3%A9%20Assim.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Elvis%20%C3%A9%20Assim.jpg</fanart>
 <info>É noite de estréia. Elvis Presley vestindo sua radiante jaqueta nova, aguarda com ansiedade sua entrada no palco. Se as músicas não funcionarem, ironiza, a gente pode fazer um desfile de moda. As músicas funcionam demais. Nesta Edição Especial do lendário Show filmado no verão de 1970 em Las Vegas. Rick Schmidlin, montador e restaurador , conseguiu recuperar mais de 30 minutos das músicas originais do filme, que permaneciam guardado nos cofres do estúdio à espera de sua renovação. As cenas adicionais mostram entre outras, performances das músicas Get Back, One Night e Suspicius Mind, em diferentes versões ao show original.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ENTRE A SÍRIA E O ESTADO ISLÂMICO[/COLOR][/B]</title>
-<link>$doregex[BP1]ENTRASRAEOESTDESLMNC.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Entre%20a%20S%C3%ADria%20e%20o%20Estado%20Isl%C3%A2mico.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Entre%20a%20S%C3%ADria%20e%20o%20Estado%20Isl%C3%A2mico.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ENTRASRAEOESTDESLMNC</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Entre%20a%20S%C3%ADria%20e%20o%20Estado%20Isl%C3%A2mico.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Entre%20a%20S%C3%ADria%20e%20o%20Estado%20Isl%C3%A2mico.jpg</fanart>
 <info>O filme documenta o declínio da Síria até o caos que permitiu a ascensão do Estado Islâmico na região. A partir de mais de mil horas de imagens, Sebastian Junger e Nick Quested conseguem abordar o contexto político, as consequências sociais e o drama humano vivido diariamente pela população do país. Além disso, o documentário ainda expõe o papel de outros países na criação e mantimento do grupo terrorista ISIS.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ERAM OS DEUSES ASTRONAUTAS?[/COLOR][/B]</title>
-<link>$doregex[BP1]ERMOSDESASTRNTS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ERMOSDESASTRNTS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Eram%20os%20Deuses%20Astronautas.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Eram%20os%20Deuses%20Astronautas.jpg</fanart>
 <info>
@@ -203,83 +235,91 @@ Por seu incrível poder de persuasão, unido à época lançada - um ano antes d
 </item>
 <item>
 <title>[B][COLOR white]ESCRAVAS SEXUAIS DO SECULO 21[/COLOR][/B]</title>
-<link>$doregex[BP1]ESCVRSDSXSDSLC21.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Escravas%20Sexuais%20do%20Seculo%2021.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Escravas%20Sexuais%20do%20Seculo%2021.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ESCVRSDSXSDSLC21</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Escravas%20Sexuais%20do%20Seculo%2021.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Escravas%20Sexuais%20do%20Seculo%2021.jpg</fanart>
 <info></info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]FIGHTING ISIS: O TERROR DO ESTADO ISLÂMICO[/COLOR][/B]</title>
-<link>$doregex[BP1]FGHTISIS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Fighting%20ISIS.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Fighting%20ISIS.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]FGHTISIS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Fighting%20ISIS.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Fighting%20ISIS.jpg</fanart>
 <info>Neil Shea embarca em uma viagem ao coração do Curdistão, numa aventura que o leva de cafés universitários para as linhas de frente da batalha. Lá, ele se junta aos americanos que vieram ao Curdistão por acreditarem que esta luta também é deles. Se esses soldados e os curdos falharem, a ascensão do terror do Estado Islâmico pode se tornar imbatível.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]GERAÇÃO MARTE[/COLOR][/B]</title>
-<link>$doregex[BP1]GRCOMRT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Gera%C3%A7%C3%A3o%20Marte.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Gera%C3%A7%C3%A3o%20Marte.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]GRCOMRT</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Gera%C3%A7%C3%A3o%20Marte.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Gera%C3%A7%C3%A3o%20Marte.jpg</fanart>
 <info>Astronautas adolescentes aspirantes revelam que uma viagem a Marte está mais perto do que você pensa.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]GLEE 3D - O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1].mp4$doregex[BP2]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP3</name><expres>(.*?).</expres><page>https://bit.ly/rcfhd</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</fanart>
+<link>here</link>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Glee%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Glee%20O%20Filme.jpg</fanart>
 <info>A cultura do loser está entranhada no american way of life. Eles estão em toda escola e faculdade, sem conseguirem atingir o ideal de beleza e popularidade esperado &ndash; e, em certos casos, cobiçado &ndash;, o que faz com que às vezes sejam vítimas de bullying. Glee, a série, explora exatamente este tipo de pessoa, usando a música como válvula de escape e elo de união entre seus personagens. Deu certo, não apenas nos índices de audiência como na criação de um verdadeiro culto em torno da série. Os até então excluídos se reconheceram nos personagens e passaram a idolatrá-los, transformando o famoso L, símbolo característico do loser, em motivo de orgulho. Glee 3D &ndash; O Filme consegue capturar este espírito ao dar voz aos fãs e até mesmo dramatizar situações da vida de alguns deles, onde o preconceito poderia falar mais alto. O problema é que o elenco, por incrível que pareça, aparenta não se importar com nada disto.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ÍCARO[/COLOR][/B]</title>
-<link>$doregex[BP1]ICRO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/%C3%8Dcaro.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/%C3%8Dcaro.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ICRO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/%C3%8Dcaro.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/%C3%8Dcaro.jpg</fanart>
 <info>Quando o ciclista amador Bryan Fogel começa a descobrir a verdade sobre o doping nos esportes, decide entrar de cabeça num experimento ousado para comprovar a incompetência do método de controle dos atletas. Sua investida, no entanto, transforma-se em algo muito maior quando o médico russo que o orienta no processo se vê no centro de um enorme escândalo que compromete os resultados das últimas Olimpíadas de verão e inverno e envolve até a temida agência russa de segurança.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]IMAX: FUNDO DO MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]FNDOMAR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Fundo%20do%20Mar.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Fundo%20do%20Mar.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]FNDOMAR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Fundo%20do%20Mar.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Fundo%20do%20Mar.jpg</fanart>
 <info>O biodocumentário em 3D, dirigido pelo oceanógrafo Howard Hall, mostra tomadas bem longas de regiões do meio Pacífico e da costa africana.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]JANE: A MÃE DOS CHIMPANZÉS[/COLOR][/B]</title>
-<link>$doregex[BP1]JANAMARDSCHMZS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JANAMARDSCHMZS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Jane%20-%20A%20M%C3%A3e%20dos%20Chimpanz%C3%A9s.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Jane%20-%20A%20M%C3%A3e%20dos%20Chimpanz%C3%A9s.jpg</fanart>
 <info>O documentário retrata o estudo pioneiro de Jane Goodall com chimpanzés no Parque Nacional de Gombe, na Tanzânia, usando principalmente mais de cem horas de gravações inéditas feitas pelo cinegrafista Hugo Van Lawick, a serviço da National Geographic Society, nos anos 1960. Considerada a maior especialista do mundo na espécie, Jane teve seu primeiro contato com os animais sem qualquer experiência anterior em trabalho de campo e dedicou sua vida inteira às pesquisas.</info>
@@ -287,276 +327,322 @@ Por seu incrível poder de persuasão, unido à época lançada - um ano antes d
 </item>
 <item>
 <title>[B][COLOR white]LONG SHOT[/COLOR][/B]</title>
-<link>$doregex[BP1]LNGSHT.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Long%20Shot.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Long%20Shot.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]LNGSHT</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Long%20Shot.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Long%20Shot.jpg</fanart>
 <info>Ao ser preso por um assassinato que não cometeu, Juan Catalan tenta provar sua inocência usando as cenas cortadas de um programa de TV.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]MISTÉRIOS DO TRIÂNGULO DAS BERMUDAS[/COLOR][/B]</title>
-<link>$doregex[BP1]MESTSDTRNGDSBRMDAS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Mist%C3%A9rios%20do%20Tri%C3%A2ngulo%20das%20Bermudas.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Mist%C3%A9rios%20do%20Tri%C3%A2ngulo%20das%20Bermudas.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]MESTSDTRNGDSBRMDAS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Mist%C3%A9rios%20do%20Tri%C3%A2ngulo%20das%20Bermudas.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Mist%C3%A9rios%20do%20Tri%C3%A2ngulo%20das%20Bermudas.jpg</fanart>
 <info>Já existiram muitas histórias sobre o Triângulo das Bermudas, mas nenhuma delas foi tão a fundo. Para verdadeiramente analisar e investigar esta estranha parte do oceano, vamos literalmente &lsquo;drenar&rsquo; a água e ver pela primeira vez o que existe debaixo da superfície deste misterioso triângulo.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]NASCIDO PARA REINAR[/COLOR][/B]</title>
-<link>$doregex[BP1]NSCDOPRRNR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Nascido%20Para%20Reinar.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Nascido%20Para%20Reinar.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NSCDOPRRNR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Nascido%20Para%20Reinar.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Nascido%20Para%20Reinar.jpg</fanart>
 <info>Gravado por 16 anos na reserva de Sabi Sand, na África do Sul, o documentário mostra a evolução do clã dos Mapogos a partir de uma ninhada de cinco filhotes machos, cujo destino muda completamente, com a chegada de Makhuluo, forasteiro que se envolve com a mãe dos filhotes e os encoraja a construir seus próprios caminhos.Juntos, os seis leões iniciam uma era de terror, matando quaisquer machos que encontrem pela frente, e acasalando com fêmeas de outros clãs.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]NOSSO REINO[/COLOR][/B]</title>
-<link>$doregex[BP1]NOSRNO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Nosso%20Reino.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Nosso%20Reino.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NOSRNO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Nosso%20Reino.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Nosso%20Reino.jpg</fanart>
 <info>O documentário retrata as lutas da família West Midlands, que atravessa uma tragédia com a morte do pai, Paul Shanks.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]O INVASOR AMERICANO[/COLOR][/B]</title>
-<link>$doregex[BP1]OINVSRAMRCNO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/O%20Invasor%20Americano.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/O%20Invasor%20Americano.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OINVSRAMRCNO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Invasor%20Americano.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Invasor%20Americano.jpg</fanart>
 <info>Documentário satírico em que o diretor Michael Moore se responsabiliza com o Pentágono de ser o invasor para a América a partir de agora. Ele manterá a guerra infinita que é usada para suportar o complexo militar industrial americano.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]ONE OF US[/COLOR][/B]</title>
-<link>$doregex[BP1]ONOFUS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/One%20Of%20Us.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/One%20Of%20Us.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONOFUS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/One%20Of%20Us.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/One%20Of%20Us.jpg</fanart>
 <info>Penetrando o segregado mundo da comunidade judia chassídica de Nova York, com foco em três indivíduos levados a deixar esse modo de vida apesar das ameaças de retaliação.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]OPERAÇÃO ENGANOSA[/COLOR][/B]</title>
-<link>$doregex[BP1]OPRCENGNSA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Opera%C3%A7%C3%A3o%20Enganosa.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer07/imgs-videos/Opera%C3%A7%C3%A3o%20Enganosa.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OPRCENGNSA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Opera%C3%A7%C3%A3o%20Enganosa.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Opera%C3%A7%C3%A3o%20Enganosa.jpg</fanart>
 <info>De membros biônicos à invenção do marcapasso, o avanço crescente da tecnologia é responsável por feitos incríveis da medicina moderna, porém há um lado negro em toda essa inovação. Kirby Dick traz nesse documentário as histórias de vítimas da tecnologia usada inadequadamente na medicina e expõe assustadoras más práticas corporativas e as complexas brechas legais que permitem que essas empresas saiam impunes.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]OPERAÇÕES ESPECIAIS: FUGITIVOS[/COLOR][/B]</title>
-<link>$doregex[BP1]OPESPFGTIVS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Opera%C3%A7%C3%B5es%20Especiais%20Fugitivos.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Opera%C3%A7%C3%B5es%20Especiais%20Fugitivos.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OPESPFGTIVS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Opera%C3%A7%C3%B5es%20Especiais%20Fugitivos.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Opera%C3%A7%C3%B5es%20Especiais%20Fugitivos.jpg</fanart>
 <info>Oficiais da lei procuram por gângsters, barões das drogas e implacáveis traficantes de armas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]OS ENIGMAS DA BÍBLIA[/COLOR][/B]</title>
-<link>$doregex[BP1]OSENGMSDBLBL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Os%20Enigmas%20da%20B%C3%ADblia.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Os%20Enigmas%20da%20B%C3%ADblia.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OSENGMSDBLBL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Os%20Enigmas%20da%20B%C3%ADblia.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Os%20Enigmas%20da%20B%C3%ADblia.jpg</fanart>
 <info>A Bíblia e o entendimento de sua palavra profética têm sido assuntos debatidos, contestados e lutado por milhares de anos. Mesmo nos tempos modernos, os enigmas da Bíblia permanecem. Por que a história de Caim e Abel é tão poderosa e qual é o mistério obscuro que a cerca? Existe uma maneira científica de confirmar a história de Noé e a Arca, ou foi apenas isso? Uma história? Como Davi e, posteriormente, seu filho Salomão, impulsionaram uma nação? Arqueólogos reconhecidos, estudiosos bíblicos, historiadores, entre outros, se reúnem para explorar esses enigmas e buscar as respostas sempre elusivas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]PRISIONEIROS DO HOLOCAUSTO[/COLOR][/B]</title>
-<link>$doregex[BP1]PRSNRSDHLCST.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Prisioneiros%20do%20Holocausto.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Prisioneiros%20do%20Holocausto.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSNRSDHLCST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Prisioneiros%20do%20Holocausto.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Prisioneiros%20do%20Holocausto.jpg</fanart>
 <info>Quando norte americanos pensam em seu exército e no Holocausto, eles visualizam jovens soldados conquistando campos de concentração. Nunca pensam nos soldados como vítimas do nazismo. Mas em um lugar chamado Berga, prisioneiros de guerra americanos tornaram-se exatamente isso, trabalhando e morrendo como trabalhadores escravos em um dos mais secretos campos de concentração de Hitler. Esta é a história deles.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]QUE RAIO DE SAÚDE: WHAT THE HEALTH[/COLOR][/B]</title>
-<link>$doregex[BP1]QRAIODSAUD.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Que%20Raio%20de%20Sa%C3%BAde.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Que%20Raio%20de%20Sa%C3%BAde.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]QRAIODSAUD</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Que%20Raio%20de%20Sa%C3%BAde.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Que%20Raio%20de%20Sa%C3%BAde.jpg</fanart>
 <info>Anunciado como "O filme de saúde que as organizações de saúde não querem que você veja", o filme explora as preocupações com a saúde relacionadas com as indústrias de carne e lácteos, a indústria farmacêutica e várias organizações de saúde. Os problemas são conseq&uuml;ências do consumo de produtos lácteos e de carne. Reconhecendo os bilhões de dólares em jogo nas indústrias de saúde e relacionadas, O documentário tem como objetivo educar as pessoas sobre o impacto dos alimentos transgênicos sobre a saúde pessoal.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SAFÁRI NA ÁFRICA[/COLOR][/B]</title>
-<link>$doregex[BP1]SFRNAFRIC.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Saf%C3%A1ri%20na%20%C3%81frica.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Saf%C3%A1ri%20na%20%C3%81frica.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SFRNAFRIC</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Saf%C3%A1ri%20na%20%C3%81frica.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Saf%C3%A1ri%20na%20%C3%81frica.jpg</fanart>
 <info></info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SALVANDO O CAPITALISMO[/COLOR][/B]</title>
-<link>$doregex[BP1]SLVNDOCAPTSMO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Salvando%20o%20Capitalismo.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Salvando%20o%20Capitalismo.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SLVNDOCAPTSMO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Salvando%20o%20Capitalismo.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Salvando%20o%20Capitalismo.jpg</fanart>
 <info>O documentário segue a jornada do ex-secretário do governo americano e professor Robert Reich, enquanto ele compartilha, no coração da América conservadora, suas ideias sobre os novos rumos que a economia do país deveria tomar.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SEA REX: JORNADA A UM MUNDO PRÉ-HISTÓRICO[/COLOR][/B]</title>
-<link>$doregex[BP1]SEARX3D.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Sea%20Rex%20-%20Jornada%20a%20Um%20Mundo%20Pr%C3%A9-Hist%C3%B3rico.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Sea%20Rex%20-%20Jornada%20a%20Um%20Mundo%20Pr%C3%A9-Hist%C3%B3rico.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SEARX3D</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Sea%20Rex%20-%20Jornada%20a%20Um%20Mundo%20Pr%C3%A9-Hist%C3%B3rico.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Sea%20Rex%20-%20Jornada%20a%20Um%20Mundo%20Pr%C3%A9-Hist%C3%B3rico.jpg</fanart>
 <info>Junte-se a Julie, uma imaginosa jovem, que viaja de um aquário dos dias de hoje até o período Triássico, Jurássico e Cretáceo. Explore um incrível universo submarino habitado por criaturas enormes, incluindo o poderoso liopleurodonte, o elasmossauro de pescoço comprido e o gigantesco xonissauro, que governam os mares, antes dos dinossauros conquistarem a terra. Graças à ultrarrealista geração de imagens, veja a ciência ganhar vida de maneira única e impressionante. Mergulhe em uma era perdida, voltando 200 milhões no tempo, e prepare-se para ficar frente a frente com o T-Rex dos mares!</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SEGUNDOS FATAIS: BLACK HAWK DOWN[/COLOR][/B]</title>
-<link>$doregex[BP1]SGNDSFTAIS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf1"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Segundos%20Fatais.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Segundos%20Fatais.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SGNDSFTAIS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Segundos%20Fatais.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Segundos%20Fatais.jpg</fanart>
 <info>Em 3 de outubro de 1993, os soldados americanos das unidades de elite dos Rangers do Exército e da Força Delta invadiram um edifício perto de Mogadishu, Somália, para capturar tenentes do clã de Mohamed Farrah Aidid.O que deveria ter sido uma simples operação com menos de uma hora de duração, acabou tornando-se uma batalha de dia e noite que resultou na morte de 18 Rangers. Os civis somalianos ficaram estimados em 500 a 1000 mortos.O exército americano sofreu sua maior perda desde a guerra do Vietnã. Este episódio examina as razões táticas e estratégicas por trás da catástrofe, com foco nos testemunhos dos Rangers envolvidos na batalha, do ex-embaixador americano na Somália, Robert Oakley, e militares somalianos envolvidos na luta contra as tropas americanas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SEM MEDO DAS ONDAS[/COLOR][/B]</title>
-<link>$doregex[BP1]SEMDODSONDS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Sem%20Medo%20das%20Ondas.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Sem%20Medo%20das%20Ondas.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SEMDODSONDS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Sem%20Medo%20das%20Ondas.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Sem%20Medo%20das%20Ondas.jpg</fanart>
 <info>Esta é a história notável de um ícone americano que mudou o esporte da grande onda surfando para sempre. Transcendendo o gênero do surfe, esse retrato aprofundado de um atleta, explora o medo, coragem e ambição que empurram um homem para a grandeza &ndash; e o custo que vem com ele. Laird Hamilton é talvez o maior surfista de grande onda de todos os tempos, uma lenda viva que domesticou algumas das mais poderosas ondas do mundo. Entre a comunidade de surfe, ele também é uma das figuras mais controversas, um inovador que revolucionou o esporte muitas vezes até a consternação dos puristas. Este retrato emocionante e fechado retrata a notável jornada de Hamilton, desde a sua infância rebelde no Havaí até suas incansáveis incursões em surfar até sua busca implacável de ondas cada vez maiores.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SEREMOS HISTORIA?[/COLOR][/B]</title>
-<link>$doregex[BP1]SRMSHSTR.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Seremos%20Historia.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Seremos%20Historia.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SRMSHSTR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Seremos%20Historia.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Seremos%20Historia.jpg</fanart>
 <info>Um problema de longas datas está se mostrando cada vez mais grave. Mudanças de temperatura, inundações, e outros fenômenos semelhantes têm se tornado cada vez mais comum, e o que tem sido feito na tentativa de amenizar essa situação? É na busca por respostas para essas questões que Leonardo DiCaprio abraça a missão de testemunhar as mudanças climáticas em diversos países, e de uma forma nunca vista antes.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]SEXO NO MUNDO ANTIGO: PROSTITUIÇÃO EM POMPÉIA[/COLOR][/B]</title>
-<link>$doregex[BP1]SEXNMNDOANTGPRSTIIIPMPEIA.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Sexo%20no%20Mundo%20Antigo%20-%20Prostitui%C3%A7%C3%A3o%20em%20Pomp%C3%A9ia.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Sexo%20no%20Mundo%20Antigo%20-%20Prostitui%C3%A7%C3%A3o%20em%20Pomp%C3%A9ia.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SEXNMNDOANTGPRSTIIIPMPEIA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Sexo%20no%20Mundo%20Antigo%20-%20Prostitui%C3%A7%C3%A3o%20em%20Pomp%C3%A9ia.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Sexo%20no%20Mundo%20Antigo%20-%20Prostitui%C3%A7%C3%A3o%20em%20Pomp%C3%A9ia.jpg</fanart>
 <info>Pompéia era uma típica cidade romana, situada próxima ao vulcão Vesúvio (arredores de Nápoles, sul da Itália). No ano de 79, este vulcão entrou em erupção violenta, provocando um forte terremoto e expelindo grandes quantidades de pedras incandescentes, lava vulcânica, poeira e fumaça tóxica.A cidade de Pompeia foi totalmente coberta e quase toda população morreu soterrada. As cidades vizinhas de Herculano e Stabia também foram atingidas.Nas ruas de Pompeia há uma visão extraordinária: os restos de uma mulher de classe alta cheia de joias e abraçada ao tronco retorcido de um gladiador romano. Congelados no tempo, seu romance apaixonado e condenado abre uma janela através da qual podemos começar a compreender a sexualidade clássica. Esta era uma época na qual os homens desfrutavam de uma incrível liberdade sexual. Por outro lado, as mulheres eram classificadas como objetos ou para o casamento ou para o prazer. As evidências desta divisão existem em todas as partes, como nas perfeitamente preservadas sandálias de prostitutas, desenhadas para deixar marcadas as palavras "por aqui" nas ruas empoeiradas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]TITANIC: 20 ANOS DEPOIS[/COLOR][/B]</title>
-<link>$doregex[BP1]TITNC20ANSDPS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Titanic%20-%2020%20Anos%20Depois.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Titanic%20-%2020%20Anos%20Depois.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TITNC20ANSDPS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Titanic%20-%2020%20Anos%20Depois.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Titanic%20-%2020%20Anos%20Depois.jpg</fanart>
 <info>James Cameron lançou o filme Titanic 20 anos atrás prometendo uma "história viva", dizendo que ele devia a verdade àquelas almas perdidas em 1912. Agora, neste especial de 1 hora, Cameron junta especialistas para reabrir o arquivo do caso, perguntando: "Nós acertamos?" Com 33 mergulhos nos escombros do navio e anos de análise forense, ele explora os mitos e mistérios do Titanic, testando o desastre, na esperança de responder perguntas que o perseguiram por anos.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]TITANIC: INCÊNDIO FATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]TITNCINCDFTL.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Titanic%20-%20Inc%C3%AAndio%20Fatal.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Titanic%20-%20Inc%C3%AAndio%20Fatal.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TITNCINCDFTL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Titanic%20-%20Inc%C3%AAndio%20Fatal.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Titanic%20-%20Inc%C3%AAndio%20Fatal.jpg</fanart>
 <info>Foi o maior navio alguma vez construído. Considerado impossível de afundar, o Titanic afundou na sua viagem de inauguração, levando 1500 pessoas consigo para o fundo. Levantou então ondas de choque pelo mundo inteiro, criando um debate que continua até hoje.
 Porque é que, quando o Titanic recebeu vários avisos de icebergs em frente, o capitão avançou a toda a velocidade em vez de mudar o curso? Duas horas depois da colisão, o Titanic está a flutuar antes de, inexplicavelmente, se afundar e levar centenas de passageiros consigo. O que aconteceu para que afundasse tão rapidamente? Pela primeira vez, o jornalista de investigação e especialista no Titanic, Senan Molony poderá revelar a verdadeira história.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]TOME SUAS PÍLULAS[/COLOR][/B]</title>
-<link>$doregex[BP1]TAKEYORPLS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Take%20Your%20Pills.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Take%20Your%20Pills.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TAKEYORPLS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Take%20Your%20Pills.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Take%20Your%20Pills.jpg</fanart>
 <info>Caracterizada como uma epidemia ou um caso de amor, receitas de estimulantes como Adderall, Vyvanse e Ritalin se tornaram uma indústria de mais de 13 bilhões de dólares na América. Através de vários estilos de animação, gráficos e arquivos, Take Your Pills levanta questões vitais sobre a nossa sociedade hoje e para onde estamos indo.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]UMA VERDADE MAIS INCONVENIENTE[/COLOR][/B]</title>
-<link>$doregex[BP1]UMAVRDADMASINCVNTE.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Uma%20Verdade%20Mais%20Inconveniente.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Uma%20Verdade%20Mais%20Inconveniente.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]UMAVRDADMASINCVNTE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Uma%20Verdade%20Mais%20Inconveniente.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Uma%20Verdade%20Mais%20Inconveniente.jpg</fanart>
 <info>Dez anos após "Uma Verdade Inconveniente" ter alertado sobre a necessidade da união entre países para tratar a crise iminente envolvendo o aquecimento global, Al Gore retorna ao tema para mostrar não apenas as consequências práticas da crise climática, mas também os avanços obtidos na obtenção de energia através de fontes limpas.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]URSOS POLARES[/COLOR][/B]</title>
-<link>$doregex[BP1]URSPOLRS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]URSPOLRS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Ursos%20Polares.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Ursos%20Polares.jpg</fanart>
 <info>Filmado ao longo de doze meses, este documentário da vida selvagem blue chip conta a história épica migração de um jovem urso polar através das águas geladas do Hudson Bay e suas aventuras posteriores sobre a terra, onde ele deve passar a temporada sem gelo. É o seu primeiro verão sozinho, sem sua mãe para orientar e alimentá-lo. Sua luta para sobreviver é definido contra a maior história ambiental de nosso tempo: a mudança climática. Quando pensamos em ursos polares pensamos em neve e gelo, mas há milhares de anos, os ursos polares da Baía de Hudson ocidental passaram seus verões em terra. Como o gelo derreter eles são forçados a migrar ao longo de centenas de quilômetros usando as estrelas.</info>
@@ -564,37 +650,43 @@ Porque é que, quando o Titanic recebeu vários avisos de icebergs em frente, o 
 </item>
 <item>
 <title>[B][COLOR white]VIRUNGA[/COLOR][/B]</title>
-<link>$doregex[BP1]VRNG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Virunga.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/Virunga.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]VRNG</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Virunga.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Virunga.jpg</fanart>
 <info>Na República Democrática do Congo fica o Parque Nacional de Virunga, espaço que abriga o restante dos gorilas da montanha existente no mundo. Uma pequena equipe de guardas florestais protege o parque contra milícias, das empresas interessadas em petróleo e de desastres naturais.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]VOYEUR[/COLOR][/B]</title>
-<link>$doregex[BP1]VYER.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Voyeur.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer06/imgs-videos/Voyeur.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]VYER</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Voyeur.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Voyeur.jpg</fanart>
 <info>Ícone de jornalismo, Gay Talese perfila Gerald Foos, o dono de um motel no Colorado que supostamente observou secretamente seus convidados com a ajuda de lâminas de teto especialmente projetadas, espiando de uma "plataforma de observação" que ele construiu no sótão do motel.</info>
 <date></date>
 </item>
 <item>
 <title>[B][COLOR white]GLEE 3D: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]GLEEFILME.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer04/imgs-videos/Glee%20O%20Filme.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]GLEEFILME</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Glee%20O%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Glee%20O%20Filme.jpg</fanart>
 <info>A cultura do loser está entranhada no american way of life. Eles estão em toda escola e faculdade, sem conseguirem atingir o ideal de beleza e popularidade esperado – e, em certos casos, cobiçado –, o que faz com que às vezes sejam vítimas de bullying. Glee, a série, explora exatamente este tipo de pessoa, usando a música como válvula de escape e elo de união entre seus personagens. Deu certo, não apenas nos índices de audiência como na criação de um verdadeiro culto em torno da série. Os até então excluídos se reconheceram nos personagens e passaram a idolatrá-los, transformando o famoso L, símbolo característico do loser, em motivo de orgulho. Glee 3D – O Filme consegue capturar este espírito ao dar voz aos fãs e até mesmo dramatizar situações da vida de alguns deles, onde o preconceito poderia falar mais alto. O problema é que o elenco, por incrível que pareça, aparenta não se importar com nada disto.</info>
 <date></date>
 </item>
