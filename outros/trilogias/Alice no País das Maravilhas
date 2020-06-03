@@ -1,10 +1,12 @@
 <item>
 <title>[COLOR white][B]ALICE NO PAÍS DAS MARAVILHAS[/B][/COLOR]</title>
-<link>$doregex[BP1]ALCNPSDSMRVLHS1951.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ALCNPSDSMRVLHS1951</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/14/02/27/19/01/345052.jpg</thumbnail>
 <fanart>https://images.alphacoders.com/274/274173.jpg</fanart>
 <info>Depois de seguir um misterioso coelho, Alice embarca em uma aventura fantástica em um mundo mágico repleto de figuras inusitadas. Tentando se encontrar no País das Maravilhas, ela acaba conhecendo personagens esquisitos, e se metendo em grandes confusões.</info>
@@ -13,11 +15,13 @@
 
 <item>
 <title>[COLOR white][B]ALICE NO PAÍS DAS MARAVILHAS[/B][/COLOR]</title>
-<link>$doregex[BP1]ALCNPSDSMRVLHS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ALCNPSDSMRVLHS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://1.bp.blogspot.com/-9uWTHrDTeSQ/Ui4UnDqixSI/AAAAAAAABT8/1Qqk63Ei4kE/s1600/Alice+no+Pais+das+Maravilhas+2010.jpg</thumbnail>
 <fanart>https://images.alphacoders.com/274/274173.jpg</fanart>
 <info>Ainda garotinha, Alice Kingsleigh visitou um lugar mágico pela primeira vez e não tinha mais lembranças sobre o local a não ser em seus sonhos. Em uma festa da nobreza, a jovem vê um coelho branco. Alice o segue e cai em um buraco, indo parar em um mundo estranho: o País das Maravilhas. Lá, ela reencontra personagens que estavam guardados em sua memória através dos sonhos.</info>
@@ -26,11 +30,13 @@
 
 <item>
 <title>[COLOR white][B]ALICE ATRAVÉS DO ESPELHO[/B][/COLOR]</title>
-<link>$doregex[BP1]ALCATRVSDESLHO.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ALCATRVSDESLHO</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTQ-kszBSTY3-w1T47imc0rjxWj3gQCpKwK-sKKW_SgRkQ2G-y2</thumbnail>
 <fanart>https://images.alphacoders.com/274/274173.jpg</fanart>
 <info>Alice encontra um espelho mágico em uma festa dada em um casarão. Ela atravessa o objeto, retorna ao País das Maravilhas e viaja no tempo para ajudar o Chapeleiro Maluco.</info>
