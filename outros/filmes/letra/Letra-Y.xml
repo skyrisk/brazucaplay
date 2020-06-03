@@ -8,11 +8,13 @@
 </item>
 <item>
 <title>[B][COLOR white]YONLU[/COLOR][/B]</title>
-<link>$doregex[BP1]YNLU.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]YNLU</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yonlu.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yonlu.jpg</fanart>
 <info>Vinícius Gageiro (Thalles Cabral), mais conhecido como Yonlu, é um jovem poeta, músico e desenhista, fluente em quatro idiomas. Apesar de talentoso, ele decidiu dar fim à sua vida depois de ingressar em uma comunidade virtual de assistência para potenciais suicidas.</info>
@@ -20,23 +22,27 @@
 </item>
 <item>
 <title>[B][COLOR white]YOU CAN'T FIGHT CHRISTMAS[/COLOR][/B]</title>
-<link>$doregex[BP1]YOUCNTFGHTCHRSMS.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/You%20Can't%20Fight%20Christmas.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer03/imgs-videos/You%20Can't%20Fight%20Christmas.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]YOUCNTFGHTCHRSMS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/You%20Can't%20Fight%20Christmas.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/You%20Can't%20Fight%20Christmas.jpg</fanart>
 <info></info>
 <date>2017</date>
 </item>
 <item>
 <title>[B][COLOR white]YOU MIGHT BE THE KILLER [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]YOMGHTBTKLRLEG.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]YOMGHTBTKLRLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/You%20Might%20Be%20the%20Killer.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/You%20Might%20Be%20the%20Killer.jpg</fanart>
 <info>Enquanto foge de um assassino mascarado, o monitor de acampamento Sam (Fran Kranz) experiencia blackouts de memória e para ajudá-lo, liga para sua amiga Chuck (Alyson Hannigan), uma expert em filmes de terror que pode aconselhá-lo como sobreviver. Juntos, eles tentam remontar um esquema para saber como ele está se saindo até chegarem a dúvida de que Sam pode ser o próprio assassino.</info>
@@ -44,19 +50,19 @@
 </item>
 <item>
 <title>[B][COLOR white]YU YU HAKUSHO - FILME -  BATALHA MORTAL DE MEIKAI[/COLOR][/B]</title>
-<link>$doregex[BP1]/server9.php?gid=0B265dpk7MD54X0pILTR2el9XaXM&vid=YUYUHKSFILME.mp4$doregex[BP2]</link>
+/server9.php?gid=0B265dpk7MD54X0pILTR2el9XaXM&vid=YUYUHKSFILME.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP1</name><expres>"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
-<thumbnail>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Yu%20Yu%20Hakusho%20Filme.jpg</thumbnail>
-<fanart>https://redecanais.vip/imgs-videos/RCServer08/imgs-videos/Yu%20Yu%20Hakusho%20Filme.jpg</fanart>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/Yu%20Yu%20Hakusho%20Filme.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/Yu%20Yu%20Hakusho%20Filme.jpg</fanart>
 <info>O enredo trata sobre Yakumo, "o rei do inferno", que ordena o dilúvio no Mundo Espiritual e planeja dominar o mundo humano. Na verdade ele planeja usar uma esfera de energia infernal que estava escondida no mundo espiritual para recriar seu mundo no mundo dos humanos</info>
 <date>1994</date>
 </item>
 <item>
 <title>[B][COLOR white]YU YU HAKUSHO - FILME -  BATALHA MORTAL DE MEIKAI [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]/server1http.php?vid=cba9c3c2.mp4$doregex[BP2]</link>
+/server1http.php?vid=cba9c3c2.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -68,7 +74,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YU-GI-OH!: DUEL MONSTERS - FILME - PIRAMIDE DA LUZ[/COLOR][/B]</title>
-<link>$doregex[BP1]/server1http.php?vid=539c897b.mp4$doregex[BP2]</link>
+/server1http.php?vid=539c897b.mp4$doregex[BP2]</link>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
@@ -80,11 +86,13 @@
 </item>
 <item>
 <title>[B][COLOR white]YU-GI-OH!: O LADO NEGRO DAS DIMENSÕES[/COLOR][/B]</title>
-<link>$doregex[BP1]YUGIOHOLDONGRDSDMSOES.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf3"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]YUGIOHOLDONGRDSDMSOES</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yu-Gi-Oh!%20-%20O%20Lado%20Negro%20das%20Dimens%C3%B5es.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yu-Gi-Oh!%20-%20O%20Lado%20Negro%20das%20Dimens%C3%B5es.jpg</fanart>
 <info>No passado, Yami Yugi e Seto Kaiba se enfrentaram em inúmeras ocasiões!! Yami Yugi, que habita dentro do corpo de Yugi Muto, e Kaiba vão duelar novamente, e esta será uma batalha onde os dois terão seu orgulho e experiência colocados à prova.</info>
@@ -92,11 +100,13 @@
 </item>
 <item>
 <title>[B][COLOR white]YUCATÁN[/COLOR][/B]</title>
-<link>$doregex[BP1]YCTN.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]YCTN</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yucatan.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yucatan.jpg</fanart>
 <info>Lucas (Luis Tosar) e Clayderman (Rodrigo De la Serna) são dois ladrões de colarinho branco que costumavam trabalhar juntos roubando cruzeiros de luxo. Eles têm um pacto de nunca embarcarem no mesmo barco. Quando Lucas quebra esse combinado, os dois passam a competir intensamente para roubar um ex padeiro que ganhou milhões na loteria.</info>
