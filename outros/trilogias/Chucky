@@ -1,10 +1,12 @@
 <item>
 <title>[COLOR white][B]BRINQUEDO ASSASSINO[/B][/COLOR]</title>
-<link>$doregex[BP1]BRNQDASASN1.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BRNQDASASN1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/14/10/10/18/18/494547.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Uma mulher compra para seu filho um boneco amaldiçoado por um assassino em série morto dentro uma loja de brinquedos. Pouco antes, ele faz um ritual de vodu com o boneco, que ganha vida e se torna um perigoso psicopata.</info>
@@ -13,11 +15,13 @@
 
 <item>
 <title>[COLOR white][B]BRINQUEDO ASSASSINO 2[/B][/COLOR]</title>
-<link>$doregex[BP1]BRNQDASASN2.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BRNQDASASN2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://101horrormovies.files.wordpress.com/2015/01/poster1.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Após o último surto letal de Chucky, o fabricante do boneco assassino tenta salvar sua reputação remodelando-o. Mas ao fazê-lo, ressuscita a alma do homicida Charles Lee Ray, que retoma imediatamente sua índole psicótica.</info>
@@ -26,11 +30,13 @@
 
 <item>
 <title>[COLOR white][B]BRINQUEDO ASSASSINO 3[/B][/COLOR]</title>
-<link>$doregex[BP1]BRNQDASASN3.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BRNQDASASN3</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://3.bp.blogspot.com/-zzJOLEdkNr0/UjD03t9fHYI/AAAAAAAABcQ/hJSUBxTHzls/s1600/Brinquedo+Assassino+3.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Chucky, o boneco possuído por um assassino em série, infiltra-se na academia militar onde Andy está matriculado. Com sede de vingança, mesmo passados oito anos, o boneco provoca diversas mortes com o intuito de destruir de vez aquele que o derrotou.</info>
@@ -39,11 +45,13 @@
 
 <item>
 <title>[COLOR white][B]A NOIVA DE CHUCKY[/B][/COLOR]</title>
-<link>$doregex[BP1]ANVDCHCKY.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ANVDCHCKY</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://101horrormovies.files.wordpress.com/2015/07/poster3.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Tiffany consegue resgatar os restos de Chucky que estavam sendo guardados como evidência policial, e com agulha, linha e uma caixa cheia de pedaços de bonecas velhas consegue refazê-lo. Através de um ritual vudu, ela faz com que a alma do seu ex-namorado volte para o boneco. Porém, o casal se desentende e Chucky acaba trancado em uma pequena jaula com uma boneca vestida de noiva.</info>
@@ -52,11 +60,13 @@
 
 <item>
 <title>[COLOR white][B]O FILHO DE CHUCKY[/B][/COLOR]</title>
-<link>$doregex[BP1]OFLHDCHCKY.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OFLHDCHCKY</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://i.imgur.com/OMnKSZi.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Glen, um boneco de ventríloquo, filho do malvado Chucky e sua noiva, ressuscita seus pais na tentativa de entendê-los. Horrorizado ao constatar como eles são maus, tenta impedi-los de matar.</info>
@@ -65,11 +75,13 @@
 
 <item>
 <title>[COLOR white][B]A MALDIÇÃO DE CHUCKY[/B][/COLOR]</title>
-<link>$doregex[BP1]AMLDCAODCHCKY.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf2"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMLDCAODCHCKY</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/91LHbi+CgjL._RI_.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Depois do suicídio de sua mãe, Nica recebe a visita de sua autoritária irmã Barb, que pretende ajudar nos arranjos do funeral. Sua filha traz um boneco ruivo que chegou curiosamente pelos correios. Quando uma série de assassinatos aterrorizam a vizinhança, Nica começa a suspeitar que o brinquedo tenha alguma relação com estes fatos, mas não sabe que Chucky está de volta para resolver casos pessoais de mais de vinte anos atrás.</info>
@@ -78,11 +90,13 @@
 
 <item>
 <title>[COLOR white][B]O CULTO DE CHUCKY[/B][/COLOR]</title>
-<link>$doregex[BP1]OCLTDCHCK.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rcf4"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCLTDCHCK</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://www.dvdsreleasedates.com/posters/800/C/Cult-of-Chucky-2017-movie-poster.jpg</thumbnail>
 <fanart>http://wallpapercave.com/wp/HRAVL67.jpg</fanart>
 <info>Confinada em um hospício para criminosos insanos pelos últimos quatro anos, Nica Pierce (Fiona Dourif) é erroneamente convencida de que ela, e não Chucky, matou sua família inteira. Porém, quando seu terapeuta começa a usar um boneco Good Guy para as sessões, uma série de assassinatos começa a acontecer e Nica percebe que ela pode não ser tão louca assim.</info>
