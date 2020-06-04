@@ -6,11 +6,13 @@
 </item>
 <item>
 <title>[COLOR white][B]BEN 10: O SEGREDO DO OMNITRIX[/B][/COLOR]</title>
-<link>$doregex[BP1]BEN10FILME01.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BEN10FILME01</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/film1.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/fanart.jpg</fanart>
 <info>Ben estava lutando contra o Dr. Animal e o derrota, destruindo uma bomba de DNA, emitindo ondas que deixam o Omnitrix em modo MAD (modo de autodestruição). Agora, Tetrax vem à Terra dizer a Ben sobre isso. Tetrax, Gluto, Ben e Gwen devem, então, que encontrar Azmuth, o criador do Omnitrix, para controlar impedir que este se autodestrua, levando consigo Ben e todos os planetas, inclusive a Terra, onde vô Max está. Eles encontram Myaxx, assistente de Azmuth. Mas Vilgax planeja recuperar o Omnitrix e Azmuth é encontrado, então eles se preparam para uma grande batalha contra Vilgax.</info>
@@ -18,11 +20,13 @@
 </item>
 <item>
 <title>[COLOR white][B]BEN 10: CORRIDA CONTRA O TEMPO[/B][/COLOR]</title>
-<link>$doregex[BP1]BEN10FILME02.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BEN10FILME02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/film2.png</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/fanart.jpg</fanart>
 <info>Após Ben voltar das férias de verão, um vilão, Eon, invade e aterroriza Bellwood. Após saber que Eon precisa do omnitrix para libertar os Chronians (os restantes da espécie dele), Ben tem que derrotar Eon e impedi-lo de liderar uma invasão ao planeta Terra.</info>
@@ -30,11 +34,13 @@
 </item>
 <item>
 <title>[COLOR white][B]BEN 10: DESTRUIÇÃO ALIENÍGENA[/B][/COLOR]</title>
-<link>$doregex[BP1]BEN10FILME03.mp4$doregex[BP2]</link>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>rc5"(.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BEN10FILME03</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/film3.png</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Ben%2010/fanart.jpg</fanart>
 <info>Um tanque de uma alta tecnologia está invadindo Belwood, e a polícia tenta combatê-lo, em vão. Enquanto isto, Ben, Gwen e Max o perseguem na Lata Velha, com Gwen e Ben a discutirem como sempre. Finalmente, eles conseguem enganar o tanque e fazê-lo bater em um prédio, mas não é o suficiente: o tanque se volta contra a Lata Velha e persegue o trio. Dois mísseis furam os pneus do veículo, e ele para embaixo de um viaduto. Com o tanque lançando um laser que está para atingir a Lata Velha, Max utiliza uma arma de encanador para lutar com o tanque, proibindo Ben e Gwen de lutarem. Ben ignora a ordem, e se transforma em Ultra T. No entanto, ele é parado por Gwen, que usa sua magia para prendê-lo. Ultra T a engana e escapa, se fundindo ao robô no momento em que Max iria ser atingido. O robô é controlado por Ultra T, mas Gwen o destrói com um poderoso feitiço. A mana afeta o Omnitrix.</info>
