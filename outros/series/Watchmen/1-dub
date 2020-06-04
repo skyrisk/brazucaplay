@@ -89,14 +89,26 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Watchmen/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 8 [COLOR gold](INDISPONÍVEL)[/COLOR][/COLOR][/B]</title>
-<link>here</link>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rc8</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]WTCHMNT01EP08</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Watchmen/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Watchmen/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 9 [COLOR gold](INDISPONÍVEL)[/COLOR][/COLOR][/B]</title>
-<link>here</link>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rc8</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]WTCHMNT01EP09</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Watchmen/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Watchmen/fanart.jpg</fanart>
 </item>
