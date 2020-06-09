@@ -4,9 +4,107 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>28/05/2020</date>
+<date>09/06/2020</date>
 </item>
 
+<item>
+<title>[B][COLOR white]A DESPEDIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ADSPDA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Despedida.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Despedida.jpg</fanart>
+<info>Quando a família de uma doce senhora descobre que ela possui apenas mais algumas semanas de vida, eles decidem não informá-la a respeito do diagnóstico. Em vez disso, seus filhos e netos tentam arranjar um casamento de última hora para que todos os parentes mais distantes possam vê-la por uma última vez sem que ninguém saiba o que está acontecendo de verdade.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ARKANSAS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ARKNSAS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Arkansas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Arkansas.jpg</fanart>
+<info>Kyle e Swin recebem ordens do chefe do cartel, Frog, que nunca conheceram pessoalmente. Porém, um dia, uma negociação dá errado e eles tem que enfrentar consequências fatais.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ATÉ O LIMITE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ATOLMTE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/At%C3%A9%20o%20Limite.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/At%C3%A9%20o%20Limite.jpg</fanart>
+<info>Dez anos depois de servir no Afeganistão e voltar para casa ferido, o ex-fuzileiro Paul Landing precisa lidar com suas limitações e com o abrigo de cães que ele mantém, agora ameaçado por uma ordem para reduzir seu espaço. Não bastasse isso, ele tem que encarar o preconceito e a discriminação por sua condição. Quando um incêndio criminoso provocado por arruaceiros destrói o canil, o homem perde o controle e suas ações terão graves consequências para todos. A batalha agora é no tribunal, com Paul, sua família e seus amigos enfrentando toda uma sociedade intolerante e corrupta contra eles.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BANHO DE SANGUE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BNHDSNGE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Banho%20de%20Sangue.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Banho%20de%20Sangue.jpg</fanart>
+<info>Quando o filho de um bem sucedido juiz é morto por dois policiais e o sistema os liberta, um veterano detetive encontra alguns arquivos incriminadores sobre os oficiais e as equipes de juízes com outro pai de luto para tomar a lei em suas próprias mãos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BOUDICA: A ASCENSÃO DA RAINHA GUERREIRA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BODCAASCNSDRNHGRERA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Boudica%20-%20A%20Ascens%C3%A3o%20da%20Rainha%20Guerreira.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Boudica%20-%20A%20Ascens%C3%A3o%20da%20Rainha%20Guerreira.jpg</fanart>
+<info>Boudica é uma garota inocente de 16 anos, que é forçada a um casamento arranjado pelo seu pai, o líder de uma tribo celta. Porém, a mãe dela, incerta com o casamento, vai fazer o que for possível para proteger a filha.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CORAÇÃO DE DRAGÃO: VINGANÇA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]CRCDRGVNCLEG</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Cora%C3%A7%C3%A3o%20de%20Drag%C3%A3o%20-%20Vingan%C3%A7a.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Cora%C3%A7%C3%A3o%20de%20Drag%C3%A3o%20-%20Vingan%C3%A7a.jpg</fanart>
+<info>Lukas, a young farmer whose family is killed by savage raiders in the countryside, sets out on an epic quest for revenge, forming an unlikely trio with a majestic dragon and a swashbuckling, sword-fighting mercenary, Darius.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DESEJOS OCULTOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DSJCOLTS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Desejos%20Ocultos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Desejos%20Ocultos.jpg</fanart>
+<info>Um casal jovem atraente e idealista adquire um robô impressionante, realístico, para uma ajuda sem culpa, mas à medida que os três se aproximam, a percepção da humanidade será alterada para sempre.</info>
+<date>2020</date>
+</item>
 <item>
 <title>[B][COLOR white]FRAÇÃO DE SEGUNDOS[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
@@ -50,6 +148,20 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]LUPIN III: O PRIMEIRO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]LPN3OPRMRO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Lupin%20III%20-%20O%20Primeiro.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Lupin%20III%20-%20O%20Primeiro.jpg</fanart>
+<info>Lupin the Third: THE FIRST é o primeiro longa-metragem em CG da franquia. A história do filme centra-se em Lupin unindo-se a uma mulher chamada Leticia para roubar o Diário de Bresson, um tesouro que nem mesmo a primeira geração Arsène Lupin poderia roubar.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]MEU NÃO TÃO PERFEITO MARIDO[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
@@ -78,6 +190,90 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]NO LIMITE DO PERIGO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NOLMTDPRGO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/No%20Limite%20do%20Perigo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/No%20Limite%20do%20Perigo.jpg</fanart>
+<info>Quatro jovens de Moscou viajam para Altai para fazer rafting em um rio que corta a montanha. Isolados da civilização, frente a frente com a natureza, nossos heróis não são querem saber de relaxar, mas acabam forçados a lutar pela sobrevivência quando algo dá errado. Eles pedem a ajuda de um grupo que encontram no rio. O que eles não sabiam era que os colegas são criminosos e agora os jovens são reféns de criminosos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O PÚBLICO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OPBLCO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20P%C3%BAblico.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20P%C3%BAblico.jpg</fanart>
+<info>A história se passa no interior da biblioteca pública de Cincinnati e gira em torno de seus frequentadores, muitos dos quais estão desabrigados e são mentalmente doentes que procuram abrigo e calor no seu interior durante dois dos dias mais frios na memória recente da cidade.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PACIENTE 11[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PACNTE11</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Paciente%2011.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Paciente%2011.jpg</fanart>
+<info>Um adolescente enfrenta momentos de terror ao ser induzido às lembranças do sequestro que o deixou em estado de coma. Em seu inconsciente, pouco a pouco ele se recorda dos eventos apavorantes que sofreu quando estava preso em um lugar remoto e sombrio. Para acordar, ele precisará encarar seus medos e reviver horrores inexplicáveis.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PERSEGUINDO O ASSASSINO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSNDOASASNO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Perseguindo%20o%20Assassino.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Perseguindo%20o%20Assassino.jpg</fanart>
+<info>Um jovem detetive é dilacerado depois que sua esposa acaba em coma enquanto caçava um serial killer ao mesmo tempo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PRESSÁGIO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSGIO2020</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Press%C3%A1gio%202020.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Press%C3%A1gio%202020.jpg</fanart>
+<info>Em Presságio, a detetive iniciante Manuela "Pipa" Pelari (Luisana Lopilato) trabalha ao lado do seu mentor Francisco Juánez (Joaquín Furriel). Eles tentam desvendar o mistério do violento homicídio de uma jovem de 19 anos. Ao mesmo tempo, e em segredo, Pipa trabalha em outro caso: um homícidio onde Juánez é suspeito.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SINDROME DE ESTOCOLMO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SNDRMDESTCLMP</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sindrome%20de%20Estocolmo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sindrome%20de%20Estocolmo.jpg</fanart>
+<info>Baseado na real crise de assaltos a bancos e de reféns que aconteceu na cidade de Estocolmo em 1973. A sinopse oficial ainda não foi divulgada.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]SOBREVIVER A NOITE[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
@@ -92,6 +288,20 @@
 <date>2020</date>
 </item>
 <item>
+<title>[B][COLOR white]SUPERMAN: ENTRE A FOICE E O MARTELO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SPRMNENTRFCEOMRTLO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Superman%20-%20Entre%20a%20Foice%20e%20o%20Martelo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Superman%20-%20Entre%20a%20Foice%20e%20o%20Martelo.jpg</fanart>
+<info>Nessa surpreendente releitura de um conto mais que familiar, uma certa nave kryptoniana cai na Terra, trazendo um infante que um dia se tornará o ser mais poderoso do planeta. Mas seu veículo não caiu nos Estados Unidos. Ele não foi criado em Smallville, Kansas. Em vez disso, encontrou um novo lar em uma fazenda coletiva na União Soviética! Da mente de Mark Millar, elogiado roteirista de Authority e O Procurado, chega esta estranha e genial reinterpretação do mito do Superman.</info>
+<date>2020</date>
+</item>
+<item>
 <title>[B][COLOR white]TERREMOTO[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
@@ -103,6 +313,20 @@
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Terremoto%202020.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Terremoto%202020.jpg</fanart>
 <info>No ano de 1904, um terremoto de magnitude 5,4 na escala Richter sacudiu Oslo. Seu epicentro foi no "Oslo Graben", uma fenda que atravessa diretamente a cidade. Desde então, segundo geólogos, a população da capital norueguesa pode esperar futuros terremotos nessa área. E se justamente agora um deles estivesse se aproximando?</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]THE LAST DAYS OF AMERICAN CRIME[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]THELASTDYSOFAMRCNCRME</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/The%20Last%20Days%20of%20American%20Crime.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/The%20Last%20Days%20of%20American%20Crime.jpg</fanart>
+<info>Em The Last Days of American Crime, num futuro não muito distante da realidade, o governo dos EUA inventa a transmissão de um sinal que impossibilita a prática de atos ilegais. Um ladrão de bancos participa de um plano para cometer um grande último assalto antes do governo ativar um sinal mental para acabar com todas as atividades criminosas.</info>
 <date>2020</date>
 </item>
 <item>
