@@ -1,20 +1,20 @@
 <item>
-<title>[B][COLOR gold]3ª TEMPORADA: COVEN[/COLOR][/B]</title>
+<title>[B][COLOR gold]6ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP01</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDT06EP01</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 2 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -23,10 +23,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP02</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP02</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 3 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -35,10 +35,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP03</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP03</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -47,10 +47,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP04</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP04</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 5 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -59,10 +59,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP05</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP05</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -71,10 +71,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP06</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP06</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -83,10 +83,10 @@
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP07</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP07</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 8 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -96,9 +96,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP08</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP08</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 9 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -108,9 +108,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP09</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP09</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 10 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -120,9 +120,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP10</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP10</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 11 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -132,9 +132,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP11</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP11</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 12 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -144,9 +144,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP12</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP12</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 13 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
@@ -156,7 +156,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMRCHORS03EP13</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/thumb3.jpg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/American%20Horror%20Story/fanart3.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AGTOSHLDS06EP13</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Agentes%20da%20S.H.I.E.L.D./fanart.jpg</fanart>
 </item>
