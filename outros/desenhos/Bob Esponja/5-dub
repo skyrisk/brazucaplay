@@ -5,494 +5,494 @@
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 156[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP156</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP01</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 157[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP157</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 158[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP158</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP03</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 159[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP159</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP04</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 160[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP160</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP05</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 161[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP161</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP06</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 162[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP162</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP07</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 163[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP163</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP08</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 164[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP164</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP09</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 165[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP165</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP10</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 166[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 11[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP166</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP11</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 167[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 12[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP167</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP12</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 168[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 13[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP168</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP13</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 169[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 14[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP169</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP14</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 170[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 15[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP170</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP15</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 171[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 16[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP171</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP16</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 172[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 17[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP172</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP17</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 173[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 18[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP173</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP18</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 174[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 19[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP174</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP19</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 175[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 20[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP175</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP20</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 176[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 21[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP176</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP21</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 177[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 22[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP177</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP21</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 178[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 23[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP178</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP23</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 179[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 24[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP179</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP24</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 180[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 25[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP180</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP25</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 181[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 26[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP181</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP26</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 182[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 27[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP182</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP27</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 183[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 28[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP183</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP28</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 184[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 29[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP184</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP29</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 185[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 30[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP185</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP30</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 186[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 31[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP186</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP31</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 187[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 32[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP187</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP32</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 188[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 33[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP188</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP33</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 189[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 34[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP189</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP34</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 190[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 35[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP190</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP35</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 191[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 36[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP191</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP36</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 192[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 37[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP192</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP37</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 193[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 38[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP193</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP38</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 194[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 39[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP194</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP39</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 195[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 40[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP195</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP40</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
 <item>
-<title>[B][COLOR white]EPISÓDIO - 196[/COLOR][/B]</title>
+<title>[B][COLOR white]EPISÓDIO - 41[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJEP196</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BOBESPJT05EP41</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Bob%20Esponja/fanart.jpg</fanart>
 </item>
