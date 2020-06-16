@@ -1,44 +1,84 @@
 <item>
-<title>[COLOR white][B]O ATAQUE DOS VERMES MALDITOS 1[/B][/COLOR]</title>
-<link>http://bit.ly/2pF1N3u</link>
-<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/ee/72/f1/ee72f1f74760da77d3e7c931aa56bd18.jpg</thumbnail>
-<info>Um casal habitante de uma pequena cidade esquecida no deserto luta pela sua sobrevivência e para salvar o mundo do ataque de minhocas gigantes e carnívoras que vivem debaixo do solo.</info>
-<fanart>http://4.bp.blogspot.com/-ZAD6G_bq1kk/TgfQlPT0QzI/AAAAAAAAAB0/bpghM98od-I/s1600/Tremors-2-tremors-666173_800_600.jpg</fanart>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS1</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos.jpg</fanart>
+<info>Perfection é uma pequena vila isolada no meio do estado de Nevada onde, indo de encontro à calmaria costumeira, passa a sofrer uma série de abalos sísmicos estranhos. Para investigar as vibrações a estudande de sismologia Rhonda (Finn Carter) instala aparelhos no deserto. É quando dois trapaceiros, Val (Kevin Bacon) e Earl (Fred Ward), descobrem que embaixo da cidade está uma ninhada de vermes gigantes e fedorentos, com tentáculos na boca e que se movem sob a terra em alta velocidade. Acuada pelas criaturas, os habitantes da cidade se unem para encontrar uma solução e eliminá-los.</info>
 <date>1990</date>
 </item>
-
 <item>
-<title>[COLOR white][B]O ATAQUE DOS VERMES MALDITOS 2[/B][/COLOR]</title>
-<link>http://bit.ly/2ne6oo9</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51T063EZP8L.jpg</thumbnail>
-<info>Depois de gastar todo o dinheiro da recompensa do seu primeiro encontro com os vermes gigantes e comedores de humanos, os Graboids, Earl Bassett concorda em caçar mais criaturas mortais em uma refinaria de petróleo do México por 50 mil dólares cada. Sabendo que ele não pode enfrentar os monstros sozinho, Earl recruta Burt Gummer, outro veterano do incidente em Nevada, para fornecer as armas. Porém, os Graboids já evoluíram para atacar acima do solo.</info>
-<fanart>http://4.bp.blogspot.com/-ZAD6G_bq1kk/TgfQlPT0QzI/AAAAAAAAAB0/bpghM98od-I/s1600/Tremors-2-tremors-666173_800_600.jpg</fanart>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 2[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS2</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%202.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%202.jpg</fanart>
+<info>Os vermes reaparecem num campo petrolífero do México. Mas o sobrevivente do primeiro ataque Earl Bassett, não está disposto a virar comida de larvas e junta-se a uma sexy cientista e um estranho rapaz para deter o avanço dos monstros.</info>
 <date>1996</date>
 </item>
-
 <item>
-<title>[COLOR white][B]O ATAQUE DOS VERMES MALDITOS 3[/B][/COLOR]</title>
-<link>http://bit.ly/2m3qzEj</link>
-<thumbnail>http://images3.static-bluray.com/movies/covers/74547_front.jpg</thumbnail>
-<info>Depois de 11 anos, os graboides voltam a aterrorizar a população de Perfection, no deserto de Nevada, e Burt Gummer terá que dar um jeito nos monstros nojentos antes que eles se transformem nos perigosos seres hermafroditas conhecidos como shriekes.</info>
-<fanart>http://4.bp.blogspot.com/-ZAD6G_bq1kk/TgfQlPT0QzI/AAAAAAAAAB0/bpghM98od-I/s1600/Tremors-2-tremors-666173_800_600.jpg</fanart>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 3: DE VOLTA A PERFEIÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS3</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%203%20-%20De%20Volta%20a%20Perfei%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%203%20-%20De%20Volta%20a%20Perfei%C3%A7%C3%A3o.jpg</fanart>
+<info>Burt Gummer esteve muito tempo longe de casa (cerca de 10 anos). Ao retornar a cidade de Perfeição, Nevada, ele descobre que o lugar se transformou num chamariz turístico que explora a reputação da cidade como a casa dos gigantescos vermes malditos. Quando um ataque simulado se torna um perigo real, Gummer se veste novamente com roupas militares e inicia uma guerra contra as criaturas que o afugentaram. Mas ele não terá que enfrentar somente os terríveis graboids, como também irá se defrontar com uma nova raça de criaturas aparentemente indestrutíveis.</info>
 <date>2001</date>
 </item>
-
 <item>
-<title>[COLOR white][B]O ATAQUE DOS VERMES MALDITOS 4[/B][/COLOR]</title>
-<link>http://bit.ly/2lBlqay</link>
-<thumbnail>https://image.tmdb.org/t/p/original/gHyIHWdPkO7Sh06fjxcmT9q6HLm.jpg</thumbnail>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 4: O COMEÇO DA LENDA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS4</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%204%20-%20O%20Come%C3%A7o%20da%20Lenda.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%204%20-%20O%20Come%C3%A7o%20da%20Lenda.jpg</fanart>
 <info>Depois dos três primeiros aterrorizantes ataques dos vermes malditos, finalmente saberemos agora como tudo começou. A ação começa no século 19, quando 17 trabalhadores morrem misteriosamente em uma mina. Apavorados, os habitantes de Rejection abandonam a cidade. Com a mina fechada, quem perdeu tudo e não tem para onde ir discute o futuro de suas vidas. É neste cenário de medo e desolação que Juan Perrila (Brent Roam), um dos sobreviventes, negocia com Hiram Gummer (Michael Gross), o proprietário da mina. Ele aceita voltar ao trabalho, desde que o seu salário seja dobrado. Porém, Juan não sabe que pode estar negociando a própria vida: os vermes malditos continuam à solta, esperando para devorar mais e mais mineiros.</info>
-<fanart>http://4.bp.blogspot.com/-ZAD6G_bq1kk/TgfQlPT0QzI/AAAAAAAAAB0/bpghM98od-I/s1600/Tremors-2-tremors-666173_800_600.jpg</fanart>
 <date>2004</date>
 </item>
-
 <item>
-<title>[COLOR white][B]O ATAQUE DOS VERMES MALDITOS 5[/B][/COLOR]</title>
-<link>http://bit.ly/2mBWAqx</link>
-<thumbnail>http://www.intoleravel.com.br/wp-content/uploads/2015/07/tremors5trailer-poster02.jpg</thumbnail>
-<info>Burt Gummer, agora a estrela de um programa de sobrevivência, e seu cameraman, Travis Welker, são contratados para caçar terríveis monstros que estão aterrorizando a África do Sul. Ao investigar a morte de dois paleontólogos que foram atacados e devorados, Burt analisa fósseis de vermes e percebe que está lidando com algo completamente novo. Após a constatação de que as criaturas são muito mais perigosas do que imaginavam, Burt e Travis precisam fazer tudo para acabar com esta ameaça.</info>
-<fanart>http://4.bp.blogspot.com/-ZAD6G_bq1kk/TgfQlPT0QzI/AAAAAAAAAB0/bpghM98od-I/s1600/Tremors-2-tremors-666173_800_600.jpg</fanart>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 5: LINHAS DE SANGUE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS5</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%205%20-%20Linhas%20de%20Sangue.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%205%20-%20Linhas%20de%20Sangue.jpg</fanart>
+<info>Um dos maiores especialistas em criaturas subterrâneas, Burt Gummer, finalmente retorna para uma de suas grandes aventuras. Ao lado de seu novo parceiro, o expert em tecnologia Travis, ele terá de suar a camisa para defender a África do Sul dos temidos ass-blasters e Graboids, após um pedido de socorro do ministro da vida selvagem no país.</info>
 <date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 6: UM DIA FRIO NO INFERNO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OATQDSVRMSMLDTS6</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.vip/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</thumbnail>
+<fanart>https://redecanais.vip/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</fanart>
+<info>Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>
+<date>2018</date>
 </item>
