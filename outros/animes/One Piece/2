@@ -1,464 +1,464 @@
 <item>
-<title>[COLOR gold][B]SAGA BAROQUE WORKS[/B][/COLOR]</title>
+<title>[B][COLOR gold]SAGA BAROQUE WORKS[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 62 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 62 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP62</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP062</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 63 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 63 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP63</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP063</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 64 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 64 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP64</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP064</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 65 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 65 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP65</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP065</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 66 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 66 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP66</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP066</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 67 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 67 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP67</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP067</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 68 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 68 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP68</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP068</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 69 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 69 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP69</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP069</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 70 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 70 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP70</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP070</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 71 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 71 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP71</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP071</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 72 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 72 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP72</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP072</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 73 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 73 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP73</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP073</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 74 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 74 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP74</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP074</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 75 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 75 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP75</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP075</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 76 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 76 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP76</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP076</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 77 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 77 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP77</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP077</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 78 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 78 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP78</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP078</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 79 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 79 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP79</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP079</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 80 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 80 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP80</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP080</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 81 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 81 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP81</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP081</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 82 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 82 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP82</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP082</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 83 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 83 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP83</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP083</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 84 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 84 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP84</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP084</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 85 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 85 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP85</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP085</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 86 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 86 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP86</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP086</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 87 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 87 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP87</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP087</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 88 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 88 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP88</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP088</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 89 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 89 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP89</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP089</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 90 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 90 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP90</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP090</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 91 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 91 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP91</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP091</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 92 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 92 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP92</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP092</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 93 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 93 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP93</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP093</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 94 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 94 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP94</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP094</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 95 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 95 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP95</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP095</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 96 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 96 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP96</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP096</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 97 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 97 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP97</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP097</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 98 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 98 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP98</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP098</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 99 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 99 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP99</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/thumb.jpeg</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Piece/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ONPCEP099</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/One%20Punch%20Man/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 100 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
