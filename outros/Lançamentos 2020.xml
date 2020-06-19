@@ -4,7 +4,232 @@
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>15/06/2020</date>
+<date>19/06/2020</date>
+</item>
+
+<item>
+<title>[B][COLOR white]10 COISAS QUE DEVERÍAMOS FAZER ANTES DE NOS SEPARAR[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]10COSQDVRMSFZRANTSDNSPR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/10%20Coisas%20que%20Dever%C3%ADamos%20Fazer%20Antes%20de%20nos%20Separar.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/10%20Coisas%20que%20Dever%C3%ADamos%20Fazer%20Antes%20de%20nos%20Separar.jpg</fanart>
+<info>Em 10 Coisas que Deveríamos Fazer Antes de Nos Separar, Abigail (Christina Ricci) conhece Benjamin (Hamish Linklater) no bar e iniciam uma conversa cômica sobre o que fariam antes de se separar - caso fossem casados. O que era uma brincadeira, acaba se tornando realidade quando os dois passam a noite juntos e Abigail fica grávida.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]2 MINUTOS DE FAMA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]2MNTSDFMA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/2%20Minutos%20de%20Fama.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/2%20Minutos%20de%20Fama.jpg</fanart>
+<info>Uma nova sensação da mídia (Jay Pharoah) vai para Los Angeles com o sonho de se tornar um grande comediante de stand-up depois que sua imitação de um astro do cinema e da comédia ao estilo de Eddie Murphy viraliza..</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]365 DIAS [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]365DIASLEG</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/365%20Dias.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/365%20Dias.jpg</fanart>
+<info>Em 365 Days (365 DNI, no original), Laura Biel é uma diretora de vendas que tem sua vida virada do avesso quando, em uma viagem a Sicília, Massimo Torricelli, um membro da família da máfia siciliana, a sequestra lhe dando 365 dias para se apaixonar por ele. 365 Days é um filme polonês e está disponível na Netflix.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]A VASTIDÃO DA NOITE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AVSTDAODNTE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Vastid%C3%A3o%20da%20Noite.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Vastid%C3%A3o%20da%20Noite.jpg</fanart>
+<info>No período da Guerra Fria, enquanto acontece a corrida espacial entre os Estados Unidos e a União Soviética, dois adolescentes de uma cidadezinha americana são obcecados pelo rádio. Quando eles descobrem uma estranha frequência de ondas aéreas, suas vidas e o mundo inteiro podem estar prestes a mudar drasticamente.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ABDUÇÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ABDCAO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Abdu%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Abdu%C3%A7%C3%A3o.jpg</fanart>
+<info>Quinn é um agente americano que acorda no Vietnã mais de uma década à frente do ano em que pensava estar. Ele então inicia uma investigação e acaba tendo flashes do sequestro de sua filha. É quando ele conhece o ex-agente Connor que está à procura de sua esposa. Os dois logo se unem para solucionar o mistério, mas acabam encontrando uma força extraterrestre com planos maiores para a Terra.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ABERRAÇÕES[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ABRCOES</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aberra%C3%A7%C3%B5es.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aberra%C3%A7%C3%B5es.jpg</fanart>
+<info>Um pai perturbado (Emile Hirsch) tranca sua filha de 7 anos em uma casa, alertando-a sobre graves perigos externos. Mas o misterioso Sr. Snowcone (Bruce Dern) tenta convencer a garota a escapar e se juntar a ele em uma jornada misteriosa.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DESTACAMENTO BLOOD[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DSTCMNTBLND</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Destacamento%20Blood.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Destacamento%20Blood.jpg</fanart>
+<info>Destacamento Blood acompanha um grupo de quatro veteranos de guerra afro-americanos que retornam ao Vietnã buscando os restos mortais do líder de seu antigo esquadrão e de um tesouro enterrado, tentando encontrar suas inocentes perdidas pelo caminho.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]JUDY: MUITO ALÉM DO ARCO-ÍRIS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JDYPRTRSDARCIRS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Judy%20-%20Muito%20Al%C3%A9m%20do%20Arco-%C3%8Dris.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Judy%20-%20Muito%20Al%C3%A9m%20do%20Arco-%C3%8Dris.jpg</fanart>
+<info>Inverno de 1968. Com a carreira em baixa, Judy Garland (Renée Zellweger) aceita estrelar uma turnê em Londres, por mais que tal trabalho a mantenha afastada dos filhos menores. Ao chegar ela enfrenta a solidão e os conhecidos problemas com álcool e remédios, compensando o que deu errado em sua vida pessoal com a dedicação no palco.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O ACERTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OACRTO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Acerto.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Acerto.jpg</fanart>
+<info>Ryan Black retorna à cidade natal após o funeral do pai e se reúne com um antigo colega. Os dois se envolvem em um golpe de extorsão e caem nas mãos de criminosos desesperados. Ryan é forçado a recorrer a medidas extremas e rever um passado obscuro.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O ASSASSINATO DE NICOLE BROWN SIMPSON[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OASASNTODNCLEBRWNSMPSNS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Assassinato%20de%20Nicole%20Brown%20Simpson.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Assassinato%20de%20Nicole%20Brown%20Simpson.jpg</fanart>
+<info>Inspirada em fatos reais, segue a ex-mulher de OJ Simpson, Nicole Brown Simpson, nos últimos dias que antecederam sua trágica morte em 12 de junho de 1994, como é visto do ponto de vista dela.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O HOMEM INVISÍVEL[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OHMEMINVSVL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Homem%20Invis%C3%ADvel.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Homem%20Invis%C3%ADvel.jpg</fanart>
+<info>Em O Homem Invisível, quando o ex abusivo de Cecilia (Elisabeth Moss) tira a própria vida e deixa sua fortuna, ela suspeita que a morte dele tenha sido uma farsa. Como uma série de coincidências se torna letal, Cecilia trabalha para provar que está sendo caçada por alguém que ninguém pode ver.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O PREÇO DA VERDADE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OPRCDVRDAD</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Pre%C3%A7o%20da%20Verdade.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Pre%C3%A7o%20da%20Verdade.jpg</fanart>
+<info>Robert Bilott (Mark Ruffalo) é um advogado de defesa corporativo que ganhou prestígio trabalhando em casos de grandes empresas de químicos. Quando um fazendeiro chama sua atenção para mortes de gado que podem estar ligadas ao lixo tóxico de uma grande corporação, ele embarca em uma luta pela verdade, em um processo judicial que dura anos e põe em risco sua carreira, sua família e seu futuro.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PACIENTE ZERO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PCNTEZERP</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Paciente%20Zero.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Paciente%20Zero.jpg</fanart>
+<info>O filme segue um grupo de médicos, guardas e prisioneiros violentos na ilha de St Leonards, no Atlântico Norte, que devem se unir quando uma doença galopante ameaça as unidades de alta segurança.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]PENSE COMO UM CÃO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PNSECMOUMCAO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Pense%20Como%20um%20C%C3%A3o.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Pense%20Como%20um%20C%C3%A3o.jpg</fanart>
+<info>Um garoto prodígio da tecnologia de 12 anos de idade, cujo experimento científico dá errado, forja uma conexão telepática com seu melhor amigo, o seu cão. A dupla une forças e utiliza as suas perspectivas únicas sobre a vida para superar comicamente as complicações da família e da escola.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]SEDUÇÃO PERIGOSA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SDCAOPRGSA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Sedu%C3%A7%C3%A3o%20Perigosa.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Sedu%C3%A7%C3%A3o%20Perigosa.jpg</fanart>
+<info>Hank, um homem solitário numa vida monótona na sonolenta cidade de Sebring, na Flórida, fica surpreso ao desenvolver uma relação questionável com Josie, uma estudante do ensino médio recentemente transferida.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]VIVEIRO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]VIVRO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Viveiro.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Viveiro.jpg</fanart>
+<info>Quando o casal de noivos Tom (Jesse Eisenberg) e Gemma (Imogen Poots), à procura da casa perfeita para começar a vida juntos, conhecem um estranho corretor imobiliário, eles não pensam duas vezes quando são apresentados à Yonder, uma misteriosa vizinhança suburbana de casas idênticas. No entanto, logo eles vão perceber que estão presos em um pesadelo - tendo que criar uma criança de outro mundo.</info>
+<date>2020</date>
 </item>
 
 <item>
