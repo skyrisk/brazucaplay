@@ -1,0 +1,300 @@
+<item>
+<title>[B][COLOR white]CATEGORIA: [COLOR gold]RELIGIOSO[/COLOR][/COLOR][/B]</title>
+<link>here</link>
+<thumbnail>https://i.imgur.com/PSNBCv4.png</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cxt4qxSVWGXFtOPbYFmsNJ32BU5.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]A ESTRELA DE BELÉM[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AESTRLDBLM</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Estrela%20de%20Bel%C3%A9m.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Estrela%20de%20Bel%C3%A9m.jpg</fanart>
+<info>Bo é um jovem asno que está cansado de ficar aprisionado em um estábulo, onde sempre anda em círculos para fazer com que o moinho funcione. Incentivado pelo pássaro Davi, seu melhor amigo, ele consegue escapar e, na fuga, se esconde em meio a uma festa de casamento. Ao término do evento, ele é encontrado pela recém-casada Maria, que carrega no ventre aquele que será conhecido como o filho de Deus.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]A PAIXÃO DE CRISTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]APAXAODCRST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Paix%C3%A3o%20de%20Cristo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Paix%C3%A3o%20de%20Cristo.jpg</fanart>
+<info>As últimas 12 horas da vida de Jesus de Nazaré (James Caviezel). No meio da noite, Jesus é traído por Judas (Luca Lionello) e é preso por soldados no Monte das Oliveiras, sob o comando de religiosos hebreus, que eram liderados por Caifás (Matti Sbraglia). Após ser severamente espancado pelos seus captores, Jesus é entregue para o governador romano na Judéia, Poncio Pilatos (Hristo Shopov), pois só ele poderia ordenar a pena de morte para Jesus. Pilatos não entende o que aquele homem possa ter feito de tão horrível para pedirem a pena máxima e eram os hebreus que pediam isto. Pilatos tenta passar a decisão para Herodes (Luca de Domenicis), governador da Galiléia, pois Jesus era de lá. Herodes também não encontra nada que incrimine Jesus e o assunto volta para Pilatos, que vai perdendo o controle da situação enquanto boa parte da população pede que Jesus seja crucificado. Tentando acalmar o povo e a província, que detesta, Pilatos vai cedendo sob os olhares incriminadores de Claudia (Claudia Gerini), sua mulher, que considera Jesus um santo.</info>
+<date>2004</date>
+</item>
+<item>
+<title>[B][COLOR white]A ÚLTIMA TENTAÇÃO DE CRISTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AULTMTNTCDCRST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20%C3%9Altima%20Tenta%C3%A7%C3%A3o%20de%20Cristo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20%C3%9Altima%20Tenta%C3%A7%C3%A3o%20de%20Cristo.jpg</fanart>
+<info>Jesus (Willem Dafoe) é um carpinteiro que vive um grande dilema, pois é quem faz as cruzes com as quais os romanos crucificam seus oponentes. Resumindo, Jesus se sente como um judeu que mata judeus. Vivendo um terrível conflito interior ele decide ir para o deserto, mas antes pede perdão a Maria Madalena (Barbara Hershey), que se irrita com Jesus, pois não se comporta como uma prostituta e sim como uma mulher que quer sentir um homem ao seu lado. Ao retornar, Jesus volta convencido de que é o filho de Deus e logo salva Maria Madalena de ser apedrejada e morta. Então reúne doze discípulos à sua volta e prega o amor, mas seus ensinamentos são encarados como algo ameaçador, então é preso e condenado a morrer na cruz. Já crucificado, é tentado a imaginar como teria sido sua vida se fosse uma pessoa comum.</info>
+<date>1988</date>
+</item>
+<item>
+<title>[B][COLOR white]BARRABÁS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BARBS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Barrab%C3%A1s.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Barrab%C3%A1s.jpg</fanart>
+<info>Adaptada da obra de Par Lagerkvist, publicada na década de 1950, a história apresenta a vida do homem que teve sua vida poupada quando Jesus Cristo foi escolhido para ser crucificado. A minissérie narra sua trajetória após a morte de Cristo.</info>
+<date>2013</date>
+</item>
+<item>
+<title>[B][COLOR white]BARRABÁS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BARABS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Barrab%C3%A1s%202019.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Barrab%C3%A1s%202019.jpg</fanart>
+<info>A história de Jesus Cristo de Nazaré, o conhecido filho de Deus, sua crucificação, morte e ressureição é contada pelo ponto de vista de Barrabás. Um bandido preso e condenado a morte na mesma época que Cristo, Barrabás é solto por conta da tradição da soltura de um preso na Festa da Libertação e acaba escapando da cruz.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]EM DEFESA DE CRISTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]EMDEFDCRST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Em%20Defesa%20de%20Cristo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Em%20Defesa%20de%20Cristo.jpg</fanart>
+<info>Lee Strobel é um jornalista durão que está exatamente onde queria na sua carreira: no topo. Após ganhar um prêmio por um relatório investigativo, ele foi promovido no Chicago Tribune. Em casa, a situação é diferente. Leslie, sua esposa, começou a ter fé em Cristo, indo contra suas crenças, já que é um ateu declarado. Para salvar seu casamento, Lee utiliza sua experiência jornalística e legal para iniciar uma busca a fim de contestar as reivindicações do Cristianismo. Perseguindo a maior história da sua carreira, ele se defronta com resultados inesperados que podem mudar o que ele acreditar ser a verdade.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]EMBLEMA DE FÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]EMBLMDFE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Emblema%20de%20F%C3%A9.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Emblema%20de%20F%C3%A9.jpg</fanart>
+<info>Bryan Lawrence é um policial que dedica sua carreira ao conceito de "proteger e servir". Porém, um encontro casual com dois fugitivos termina com um chute no rosto de Bryan, o qual o paralisa do pescoço para baixo. Bryan ama o Senhor, a sua família e, também, ajudar os outros.Antes desse infortúnio, atuava em operações antidrogas, encorajava crianças, incentivando-as a conquistar o sucesso, e trabalhava apoiando causas dignas na comunidade. Ele faz uma promessa de levar sua futura nora ao altar, porque o pai dela era ausente e não poderia levá-la.No entanto, depois da agressão sofrida, Bryan encontra-se em um mundo totalmente novo e sente- se totalmente desamparado. Os médicos o desenganam, dizendo que nunca mais voltará a andar, mas ele se recusa a desistir da promessa feita.</info>
+<date>2015</date>
+</item>
+<item>
+<title>[B][COLOR white]GANDHI[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]GNDHI</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Gandhi.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Gandhi.jpg</fanart>
+<info>África do Sul, 1893. Após ser expulso da 1ª classe de um trem, o jovem e idealista advogado indiano Mohandas Karamchand Gandhi (Ben Kingsley) inicia um processo de auto-avaliação da condição da Índia, que na época era uma colônia britânica, e seus súditos ao redor do planeta. Já na Índia, através de manifestações enérgicas, mas não-violentas, atraiu para si a atenção do mundo ao se colocar como líder espiritual de hindus e muçulmanos.</info>
+<date>1982</date>
+</item>
+<item>
+<title>[B][COLOR white]JACOB: O PROTEGIDO DE DEUS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JACO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jacob%20-%20O%20Protegido%20De%20Deus.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jacob%20-%20O%20Protegido%20De%20Deus.jpg</fanart>
+<info>A história dos irmãos Esau e Jacó.Na terra de Canaan vive Isac,filho de Abraão,ele e Rebeca tem dois filhos:Esau e Jacó.Esau é corajoso e forte caçador,enquanto que Jacó é mais gentil e humilde,além de ser o favorito da sua mãe para ser o herdeiro de Isac e Abraão,apesar de não ser o mais velho.</info>
+<date>1994</date>
+</item>
+<item>
+<title>[B][COLOR white]JESUS: A HISTÓRIA DO NASCIMENTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JSUSAHSTRDNSCMNTO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jesus%20-%20A%20Hist%C3%B3ria%20do%20Nascimento.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jesus%20-%20A%20Hist%C3%B3ria%20do%20Nascimento.jpg</fanart>
+<info>Maria (Keisha Castle-Hughes) é uma jovem camponesa que mora na cidade de Nazaré. Um dia ela recebe a visita do anjo Gabriel (Alexander Siddig), que anuncia que Deus a escolheu para ser mãe de seu filho. Casada com o carpinteiro José (Oscar Isaac), Maria segue os conselhos do anjo e viaja para a casa de Zacarias (Stanley Townsend) e Isabel, seus parentes, para escapar dos guardas do rei Herodes (Ciarán Hinds). Ao retornar a Nazaré, já com a gravidez avançada, Maria é rejeitada por sua família e por José. Porém, após ter um sonho com o anjo Gabriel, José aceita a situação da esposa. Obrigados a viajar devido ao censo, José e Maria partem para Belém. Eles enfrentam o risco de serem descobertos pelos guardas de Herodes e ainda são procurados pelos 3 reis magos, que buscam nos céus indícios do local de nascimento de Jesus Cristo.</info>
+<date>2006</date>
+</item>
+<item>
+<title>[B][COLOR white]JOSÉ E MARIA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JSEMRA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jos%C3%A9%20e%20Maria.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jos%C3%A9%20e%20Maria.jpg</fanart>
+<info>Elias, um devoto rabino, durante um tempo de inquietação quando a matança de inocentes do Rei Herodes, o Grande, reivindica a vida de dois meninos que ele havia jurado proteger. Elias faz a missão de sua vida vingar as mortes de acordo com as leis da terra. Complicações começam a acontecer quando Elias passa um tempo com José, Maria e seu jovem filho, que desafia suas crenças. Ele começa a questionar a verdadeira identidade desse jovem garoto. Jesus poderia ser o Filho de Deus? Elias estava testemunhando uma profecia de dois mil anos?</info>
+<date>2016</date>
+</item>
+<item>
+<title>[B][COLOR white]JOSÉ: O REI DOS SONHOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]JOSORIDSNHS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Jos%C3%A9%20-%20O%20Rei%20dos%20Sonhos.jpg</fanart>
+<info>José: O Rei dos Sonhos. Um dos filmes mais elogiados pela crítica, esta inspiradora aventura musical reconta a clássica história de um garoto com um dom extraordinário de prever o futuro através de seus sonhos. Vencedor do Film Advisory Board Award of Excellence, José: O Rei dos Sonhos é um tesouro atemporal para todas as gerações, com cinco inesquecíveis novas canções, animação estupenda!</info>
+<date>2000</date>
+</item>
+<item>
+<title>[B][COLOR white]MARIA MADALENA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]MARMDLNA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Maria%20Madalena.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Maria%20Madalena.jpg</fanart>
+<info>A história de uma das figuras mais enigmáticas e incompreendidas da história bíblica: Maria Madalena (Rooney Mara). Em busca de uma nova maneira de viver, contrariando as pressões da sociedade, sua família e o machismo de alguns apóstolos, a jovem pescadora junta-se a Jesus de Nazaré (Joaquin Phoenix) em sua incansável missão de propagar a fé.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]NOÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NOE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/No%C3%A9.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/No%C3%A9.jpg</fanart>
+<info>Noé (Russell Crowe) vive com a esposa Naameh (Jennifer Connelly) e os filhos Sem (Douglas Booth), Cam (Logan Lerman) e Jafé (Leo McHugh Carroll) em uma terra desolada, onde os homens perseguem e matam uns aos outros. Um dia, Noé recebe uma mensagem do Criador de que deve encontrar Matusalém (Anthony Hopkins). Durante o percurso ele acaba salvando a vida da jovem Ila (Emma Watson), que tem um ferimento grave na barriga. Ao encontrar Matusalém, Noé descobre que ele tem a tarefa de construir uma imensa arca, que abrigará os animais durante um dilúvio que acabará com a vida na Terra, de forma a que a visão do Criador possa ser, enfim, resgatada.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]O FILHO DE DEUS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OFLHDEUS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Filho%20de%20Deus.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Filho%20de%20Deus.jpg</fanart>
+<info>Vindo de uma pescaria fracassada, Pedro (Darwin Shaw) encontra Jesus Cristo (Diogo Morgado), que o convence a segui-lo. Logo Cristo reunirá 12 apóstolos que têm por missão espalhar seus ideais pela Terra. Entretanto, por mais que pregue o amor ao próximo e a compaixão, sua crescente popularidade desperta a ira de pessoas importantes de Jerusalém, que não desejam que o status quo seja alterado. A traição de um de seus apóstolos, Judas (Joe Wredden), faz com que Cristo seja capturado e levado a julgamento.</info>
+<date>2014</date>
+</item>
+<item>
+<title>[B][COLOR white]OS DEZ MANDAMENTOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OSDZMNDMTOS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Dez%20Mandamentos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Dez%20Mandamentos.jpg</fanart>
+<info>A épica vida de Moisés (Charlton Heston), desde recém-nascido, quando foi colocado nas águas em um cesto e acabou sendo adotado por uma princesa egípcia, até quando descobre sua real condição e decide liderar seu povo que, escravizado pelos egípcios, anseia pela liberdade.</info>
+<date>1957</date>
+</item>
+<item>
+<title>[B][COLOR white]OS ENIGMAS DA BÍBLIA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OSENGMSDBLBL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Enigmas%20da%20B%C3%ADblia.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Enigmas%20da%20B%C3%ADblia.jpg</fanart>
+<info>A Bíblia e o entendimento de sua palavra profética têm sido assuntos debatidos, contestados e lutado por milhares de anos. Mesmo nos tempos modernos, os enigmas da Bíblia permanecem. Por que a história de Caim e Abel é tão poderosa e qual é o mistério obscuro que a cerca? Existe uma maneira científica de confirmar a história de Noé e a Arca, ou foi apenas isso? Uma história? Como Davi e, posteriormente, seu filho Salomão, impulsionaram uma nação? Arqueólogos reconhecidos, estudiosos bíblicos, historiadores, entre outros, se reúnem para explorar esses enigmas e buscar as respostas sempre elusivas.</info>
+<date>2017</date>
+</item>
+<item>
+<title>[B][COLOR white]PAPA FRANCISCO: UM HOMEM DE PALAVRA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PAPFRNSCUMHMNDPLVRA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Papa%20Francisco%20-%20Um%20Homem%20de%20Palavra.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Papa%20Francisco%20-%20Um%20Homem%20de%20Palavra.jpg</fanart>
+<info>Em uma era de profunda descrença dos políticos e pessoas no poder, Papa Francisco é representado pelas suas muitas visitas espirituais pelo mundo e suas respostas às questões globais atuais sobre morte, justiça social, imigração, ecologia, desigualdade econômica, materialismo e o papel da família.</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]PAULO DE TARSO E A HISTÓRIA DO CRISTIANISMO PRIMITIVO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PALDTRSOEAHSTRDCRSTNMSPRMTVO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Paulo%20de%20Tarso%20e%20a%20Hist%C3%B3ria%20do%20Cristianismo%20Primitivo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Paulo%20de%20Tarso%20e%20a%20Hist%C3%B3ria%20do%20Cristianismo%20Primitivo.jpg</fanart>
+<info>Paulo de Tarso e a História do Cristianismo Primitivo é um filme que apresenta a vida e obra do Apóstolo dos Gentios através da interpretação espírita dos fatos e contextos históricos que envolveram esse grande personagem. Trata-se da primeira obra cinematográfica, produzida com o entendimento que a doutrina dos espíritos pode emprestar sobre ex-doutor da lei judaica, que fundou comunidades cristãs em grande parte da Ásia Menor e da Europa durante o primeiro século da era Cristã.</info>
+<date>2019</date>
+</item>
+<item>
+<title>[B][COLOR white]TORTURADO POR CRISTO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TRTRDOPRCSTO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Torturado%20por%20Cristo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Torturado%20por%20Cristo.jpg</fanart>
+<info>Uma recontagem cinematográfica do testemunho do fundador da ‘Voz dos Mártires’, Pastor Richard Wurmbrand, conforme escrito em seu best-seller internacional homônimo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]UMA BATALHA DE FÉ[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]UMABTLHDFE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Uma%20Batalha%20de%20F%C3%A9.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Uma%20Batalha%20de%20F%C3%A9.jpg</fanart>
+<info>Sem sinopse disponível.</info>
+<date>2019</date>
+</item>
