@@ -1,323 +1,11 @@
 <item>
-<title>[COLOR gold][B]SAGA DE POSEIDON[/B][/COLOR]</title>
+<title>[B][COLOR gold]SAGA DE POSEIDON[/COLOR][/B]</title>
 <link>here</link>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 74[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP74</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 75[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP75</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 76[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP76</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 77[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP77</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 78[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP78</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 79[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP79</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 80[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP80</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 81[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP81</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 82[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP82</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 83[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP83</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 84[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP84</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 85[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP85</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 86[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP86</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 87[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP87</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 88[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP88</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 89[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP89</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 90[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP90</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 91[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP91</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 92[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP92</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 93[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP93</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 94[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP94</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 95[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP95</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 96[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP96</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 97[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP97</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 98[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP98</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 99[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP99</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 100[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 100[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -325,11 +13,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP100</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 101[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 101[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -337,11 +25,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP101</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 102[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 102[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -349,11 +37,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP102</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 103[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 103[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -361,11 +49,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP103</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 104[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 104[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -373,11 +61,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP104</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 105[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 105[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -385,11 +73,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP105</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 106[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 106[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -397,11 +85,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP106</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 107[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 107[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -409,11 +97,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP107</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 108[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 108[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -421,11 +109,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP108</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 109[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 109[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -433,11 +121,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP109</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 110[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 110[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -445,11 +133,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP110</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 111[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 111[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -457,11 +145,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP111</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 112[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 112[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -469,11 +157,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP112</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 113[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 113[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -481,11 +169,11 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP113</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 114[/B][/COLOR]</title>
+<title>[B][COLOR white]EPISÓDIO - 114[/COLOR][/B]</title>
 <link>$doregex[BP1]$doregex[BP2]</link>
 <regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
 <regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
@@ -493,6 +181,6 @@
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
 <regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OCDZEP114</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.png</thumbnail>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.png</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Os%20Cavaleiros%20do%20Zodiaco/fanart.jpg</fanart>
 </item>
