@@ -1,8 +1,8 @@
 <item>
 <title>[COLOR gold][B]1ª TEMPORADA[/B][/COLOR]</title>
 <link>here</link>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 1+2 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -12,9 +12,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP001-002</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP001-002</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 3 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -24,9 +24,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP003</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP003</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 4 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -36,9 +36,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP004</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP004</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 5 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -48,9 +48,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP005</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP005</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -60,9 +60,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP006</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP006</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 7 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -72,9 +72,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP007</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP007</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 8 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -84,9 +84,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP008</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP008</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 9 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -96,9 +96,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP009</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP009</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 10 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -108,9 +108,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP010</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP010</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 11 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -120,9 +120,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP011</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP011</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 12 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -132,9 +132,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP012</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP012</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 13 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -144,9 +144,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP013</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP013</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 14 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -156,9 +156,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP014</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP014</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 15 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -168,9 +168,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP015</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP015</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 16 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -180,9 +180,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP016</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP016</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 17 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -192,9 +192,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP017</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP017</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 18 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -204,9 +204,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP018</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP018</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 19 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -216,9 +216,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP019</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP019</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 20 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -228,9 +228,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP020</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP020</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 21 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -240,9 +240,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP021</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP021</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 22 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -252,9 +252,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP022</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP022</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 23 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -264,9 +264,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP023</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP023</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 24 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -276,9 +276,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP024</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP024</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 25 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -288,9 +288,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP025</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP025</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 26 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -300,9 +300,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP026</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP026</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 27 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -312,9 +312,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP027</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP027</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 28 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -324,9 +324,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP028</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP028</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 29 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -336,9 +336,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP029</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP029</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 30 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -348,9 +348,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP030</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP030</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 31 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -360,9 +360,9 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP031</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP031</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
 <item>
 <title>[COLOR white][B]EPISÓDIO - 32 [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
@@ -372,7 +372,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPEP032</page><referer>$doregex[BPL]</referer></regex>
-<thumbnail>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
-<fanart>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPEP032</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Naruto%20Shippuden/fanart.jpg</fanart>
 </item>
