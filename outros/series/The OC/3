@@ -12,7 +12,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]71138d6a</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]71138d6a</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -24,7 +24,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]cd8d0893</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]cd8d0893</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]9d29d63e</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]9d29d63e</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -48,7 +48,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]1ec8c9fd</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]1ec8c9fd</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -60,7 +60,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]9c84b5a0</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]9c84b5a0</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -72,7 +72,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]8d1a2880</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]8d1a2880</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -84,7 +84,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]0ef99f72</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]0ef99f72</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -96,7 +96,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]b3716345</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]b3716345</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -108,7 +108,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]486496f7</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]486496f7</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -120,7 +120,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]01a1c0af</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]01a1c0af</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -132,7 +132,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]65ac5b5c</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]65ac5b5c</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -144,7 +144,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]07d8cfcb</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]07d8cfcb</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -156,7 +156,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]4a2f0700</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]4a2f0700</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -168,7 +168,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]fa175ff1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]fa175ff1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -180,7 +180,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]b32a0fbf</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]b32a0fbf</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -192,7 +192,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]41a534dc</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]41a534dc</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -204,7 +204,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]d36e2c5e</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]d36e2c5e</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -216,7 +216,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]52542f96</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]52542f96</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -228,7 +228,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]f424cd62</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]f424cd62</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -240,7 +240,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]66e664c7</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]66e664c7</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -252,7 +252,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]78c02678</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]78c02678</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -264,7 +264,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]9c016c22</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]9c016c22</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -276,7 +276,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]3184aacf</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]3184aacf</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -288,7 +288,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]326b6607</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]326b6607</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
@@ -300,7 +300,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]af808a3b</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]af808a3b</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/The%20OC/fanart.jpg</fanart>
 </item>
