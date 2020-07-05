@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TRQDMSTR</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TRQDMSTR</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRrBOuSm7oyIe_011NtkMuNHwxtZNFQIeqZLtMHjM3K33dEOgOe</thumbnail>
 <fanart>https://1.bp.blogspot.com/-JfdlXMk3RYo/V08yh8EaIfI/AAAAAAACcUo/kUWD-j079tAnTwaNgA7G2QsljoXi2Ub-wCLcB/s1600/Truque-deMestre-2-cartazes.jpg</fanart>
 <info>Um grupo de ilusionistas encanta o público com suas mágicas e também rouba bancos em outro continente, distribuindo a quantia roubada para os próprios espectadores. O agente do FBI Dylan Hobbs está determinado a capturá-los e conta com a ajuda de Alma Vargas, uma detetive da Interpol, e também de Thaddeus Bradley, um veterano desmistificador de mágicos que insiste que os assaltos são realizados a partir de disfarces e jogos envolvendo vídeos.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TRQDMSTR2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TRQDMSTR2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.embrulha.com.br/wp-content/uploads/2016/06/Truque-de-mestre-segundo-ato-galeria11-blog-embrulha.jpg</thumbnail>
 <fanart>https://1.bp.blogspot.com/-JfdlXMk3RYo/V08yh8EaIfI/AAAAAAACcUo/kUWD-j079tAnTwaNgA7G2QsljoXi2Ub-wCLcB/s1600/Truque-deMestre-2-cartazes.jpg</fanart>
 <info>Os ilusionistas conhecidos como os "Quatro Cavaleiros" precisam executar um truque inédito, para limpar seus nomes e demonstrar as práticas antiéticas de um magnata da tecnologia.</info>

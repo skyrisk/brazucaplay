@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]HOTLTRNSVLNA1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HOTLTRNSVLNA1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcTj_6W7BGdEQ-Jd6Kj5slvZi1z0iNLmvKG62nojsPD8f4Wb6tt1</thumbnail>
 <fanart>https://velhaonda.files.wordpress.com/2013/10/hotel-transylvania-51ba6128a4d0c.jpg</fanart>
 <info>O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula, que resolve convidar os amigos para comemorar o 118o. aniversário de sua filha, Mavis. O que ele não esperava era que Jonathan, um humano sem noção, fosse aparecer no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixonasse por Mavis.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]HOTLTRNSVLNA2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HOTLTRNSVLNA2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img2.acsta.net/pictures/15/07/22/10/12/387604.jpg</thumbnail>
 <fanart>https://velhaonda.files.wordpress.com/2013/10/hotel-transylvania-51ba6128a4d0c.jpg</fanart>
 <info>Drácula percebe que seu neto, que é metade humano, não está mostrando seu lado vampiro. O avô preocupado, ao lado de seus amigos, decide colocar o menino em um treinamento especial enquanto Mavis e Johnny estão fora. Para piorar, o pai de Drácula aparece para uma visita.</info>

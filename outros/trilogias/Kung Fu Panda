@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]KUNGFUPND1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]KUNGFUPND1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/kung-fu-panda-2008/large_kShWOYf66HOuHTuCdIULgW4D60S.jpg</thumbnail>
 <info>Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado.</info>
 <fanart>https://images4.alphacoders.com/219/thumb-1920-219896.jpg</fanart>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]KUNGFUPND2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]KUNGFUPND2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://static.rogerebert.com/uploads/movie/movie_poster/kung-fu-panda-2-2011/large_fTztLcGmOe7BzPbJzRaHXdEI2WG.jpg</thumbnail>
 <info>Um vilão planeja usar uma arma secreta para conquistar a China e eliminar as artes marciais. Para evitar que isso aconteça, Po terá que descobrir a misteriosa origem do novo inimigo e reunir as forças necessárias para vencê-lo.</info>
 <fanart>https://images4.alphacoders.com/219/thumb-1920-219896.jpg</fanart>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]KUNGFUPND3</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]KUNGFUPND3</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcRMY1tYLNs70JhJVd8k2eSRfkRZN8ZxYtXkn3do2GC1MCRfqeEs</thumbnail>
 <info>Depois de reencontrar o pai, Po precisa treinar os moradores de um vilarejo repleto de pandas atrapalhados e ajudá-los a derrotar um perigoso e malvado vilão.</info>
 <fanart>https://images4.alphacoders.com/219/thumb-1920-219896.jpg</fanart>
@@ -51,7 +51,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]KUNGFUPNDSGRDDPRGMH</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]KUNGFUPNDSGRDDPRGMH</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://3.bp.blogspot.com/-4ucMI25hmf8/VvkzM7ApObI/AAAAAAAAD0E/HRb4aSTzbMIh9t3wOUdUsl0E3w_JtiuUA/s1600/Kung%2BFu%2BPanda%2BSegredos%2Bdo%2BPergaminho.jpg</thumbnail>
 <info>O acaso obriga cinco animais totalmente diferentes a formarem uma equipe e usar suas habilidades de kung fu para proteger os inocentes das garras do mal.</info>
 <fanart>https://images4.alphacoders.com/219/thumb-1920-219896.jpg</fanart>

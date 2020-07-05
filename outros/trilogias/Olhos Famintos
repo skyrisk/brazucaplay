@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OLHSFAMTS1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OLHSFAMTS1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://bocadoinferno.com.br/wp-content/uploads/2015/03/Olhos-Famintos-2001-5.jpg</thumbnail>
 <fanart>http://i.imgur.com/RqKl2fw.jpg</fanart>
 <info>Ao voltarem para casa por uma estrada sem movimento, os irmãos Trish e Darry veem um vulto atirando o que parece ser um corpo embrulhado. Parando para investigar, eles descobrem centenas de corpos mutilados, pendurados embaixo de uma antiga igreja.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OLHSFAMTS2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OLHSFAMTS2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://bocadoinferno.com.br/wp-content/uploads/2015/03/Olhos-Famintos-2-2003-7.jpg</thumbnail>
 <fanart>http://i.imgur.com/RqKl2fw.jpg</fanart>
 <info>Um ônibus escolar com uma equipe de basquete fica parado no meio de uma estrada deserta. Lá, eles precisam confrontar um perigoso monstro, procurado também por um fazendeiro e seu filho, que pretendem destruí-lo de uma vez por todas.</info>

@@ -12,7 +12,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]HCKTRLOGY</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HCKTRLOGY</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/hack%20GU%20Trilogy.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/hack%20GU%20Trilogy.jpg</fanart>
 <info>.hack//G.U. Trilogy é uma compilação e edição dos acontecimentos na série G.U., do Playstation 2. Fora feito totalmente em CG e mostra o protagonista, Haseo, um Adept Rogue (classe que pode usar armas e habilidades de outras classes) que, ao perder uma pessoa importante, vira o mais famoso PKKer (Player Killer Killer - Assassino de Assassino de Jogadores), o Terror da Morte e, posteriormente, sua evolução, tanto mental quanto 'física' (alteração de formas e adquirindo armas novas) em prol de derrotar o misterioso jogador denominado de Tri-Edge.</info>
@@ -26,7 +26,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]HCKOMOVIE</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HCKOMOVIE</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/hack%20-%20The%20Movie.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/hack%20-%20The%20Movie.jpg</fanart>
 <info>Em 2024, as crianças vivem desde o nascimento em um mundo conectado por redes. Uma alegre criança de 14 anos do ginasial chamada Yuuki Sora não têm interesse em jogos, mas seus amigos a fazem entrar no popular mmorpg "The World". Entretanto, devido a um certo acontecimento no "The World", anomalias começam a ocorrer no mundo real.</info>
@@ -40,7 +40,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]009RCBRG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]009RCBRG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/009%20Re-Cyborg.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/009%20Re-Cyborg.jpg</fanart>
 <info>Nove seres humanos normais de diferentes partes do mundo são sequestrados e transformados em ciborgues com poderes surpreendentes, criados com o propósito de serem usados como armas. Os nove ciborgues rebeldes começam a lutar contra os seus criadores, em nome da justiça e da paz no mundo. Décadas mais tarde, os nove ciborgues aparecem sem alterações pelo tempo, mas eles vivem em um mundo onde a "justiça" tem tantas nuances quanto o número de pessoas que vivem no planeta. Qual será o lugar deles no mundo agora?</info>
@@ -54,7 +54,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ADIEUGLXYEXPR999</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ADIEUGLXYEXPR999</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Adieu%20Galaxy%20Express%20999.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Adieu%20Galaxy%20Express%20999.jpg</fanart>
 <info>Dois anos após os acontecimentos no Galaxy Express 999,a terra tornou-se um campo de batalha. Tetsuro, mais velho e lutando contra o povo máquina, reingressa Maetel a bordo do GE999.</info>
@@ -68,7 +68,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AFRSMRIRSRCTION</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AFRSMRIRSRCTION</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Afro%20Samurai%20Resurrection.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Afro%20Samurai%20Resurrection.jpg</fanart>
 <info>Quando o corpo do seu pai foi roubado do túmulo, Afro retoma a sua espada novamente para destruir um exército de inimigos mortais liderados por um sádico líder.</info>
@@ -82,7 +82,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMYGDNSMOVIE</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AMYGDNSMOVIE</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Ah!%20My%20Goddess%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Ah!%20My%20Goddess%20Filme.jpg</fanart>
 <info>As vidas de Keiichi e de Belldandy estavam prosseguindo de forma agradável até que Celestine - velho mentor de Belldandy - aparece em cena. Tendo escapado de sua prisão, Celestine deseja acabar com o corrupto sistema criado por deus e criar uma nova ordem baseada em sua própria concepção... mas para isso necessita da ajuda de Belldandy. A resposta para tudo encontra-se escondido e esquecido dentro de suas memórias. Após iniciar seus planos contra o paraiso, Skuld e Urd tentarão para-lo, tanto para conservar o paraiso quanto o amor entre Keiichi e Belldandy.</info>
@@ -96,7 +96,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AIKTSUSTRSOFLM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AIKTSUSTRSOFLM</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Aikatsu%20Stars!%20The%20Movie.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Aikatsu%20Stars!%20The%20Movie.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -110,7 +110,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AIKTSUOFLM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AIKTSUOFLM</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Aikatsu!%20The%20Movie.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Aikatsu!%20The%20Movie.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -124,7 +124,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server13.php?vid=AKRALEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server13.php?vid=AKRALEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Akira.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Akira.jpg</fanart>
 <info>Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar foi construída Neo Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda (Mitsuo Iwata) e Tetsuo (Nozomu Sasaki) são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia Tetsuo encontra Takashi (Tatsuhiko Nakamura), uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e antes de receber a ajuda dos amigos é levado por integrantes do exército, liderados pelo coronel Shikishima (Tarô Ishida). A partir de então Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei (Mami Koyama), uma garota envolvida com espiões que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</info>
@@ -138,7 +138,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ANHMTHFLWESWTHDAYFILME</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ANHMTHFLWESWTHDAYFILME</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Anohana%20-%20The%20Flower%20We%20Saw%20That%20Day%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Anohana%20-%20The%20Flower%20We%20Saw%20That%20Day%20Filme.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -152,7 +152,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]APLSDLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]APLSDLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Appleseed.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Appleseed.jpg</fanart>
 <info>Appleseed se passa num mundo que acabou de sofrer uma guerra não-nuclear, porém esta guerra foi tão longa, que ainda existem soldados pelo mundo que não sabem do fim dela. Um desses soldados é Deunan Knute, a protagonista do filme.No inicio do filme, ela está se defendendo de outros soldados quando um terceiro grupo entra e a captura. Esse grupo pertence a cidade, chamada Olympus que sobreviveu a guerra. A cidade é controlada por um super-computador, Gaia, regido por sete anciões, The Seven Wisest Men. Metade da população da cidade é Bioroid, um tipo de clone, criados para que a sociedade fique mais estável.</info>
@@ -166,7 +166,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]APLSDALPHLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]APLSDALPHLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Appleseed%20Alpha.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Appleseed%20Alpha.jpg</fanart>
 <info>Appleseed Alpha será um reboot da história, mostrando os primeiros dias de Deunan e Briarios a procura da lendária cidade de Olympus.</info>
@@ -180,7 +180,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]APLSDEXMCHN</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]APLSDEXMCHN</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Appleseed%20Ex%20Machina.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Appleseed%20Ex%20Machina.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -194,7 +194,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AQUAFILME0B265dpk7MD54Y1UyRmlhVi02cWs</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AQUAFILME0B265dpk7MD54Y1UyRmlhVi02cWs</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Aquarion%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Aquarion%20Filme.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -208,7 +208,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]c488b3c9</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]c488b3c9</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme1.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme1.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -222,7 +222,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]1a93ac83</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]1a93ac83</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -236,7 +236,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]7ddb11c4</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]7ddb11c4</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -250,7 +250,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]c2d7cdbe</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]c2d7cdbe</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme3.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Bleach%20Filme3.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -264,7 +264,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BLEXRCSTFLM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLEXRCSTFLM</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Blue%20Exorcist%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Blue%20Exorcist%20O%20Filme.jpg</fanart>
 <info>A atmosfera no Colégio Vera Cruz está animada nos dias antes do grande festival celebrado a cada onze anos. Durante esse tempo, Okumura Rin é confiado com a responsabilidade de cuidar do descontrolado Trem Fantasma. No meio de sua missão, ele encontra um demônio cuja aparência é a de um jovem garoto</info>
@@ -278,7 +278,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPFILME08</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPFILME08</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Boruto%20-%20Naruto%20the%20Movie.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Boruto%20-%20Naruto%20the%20Movie.jpg</fanart>
 <info>Depois de treinar durante dois anos e meio com Jiraya, Naruto Uzumaki retorna a Vila Oculta da Folha, onde se reúne com seus velhos amigos para voltar a formar o Time 7, agora chamado de Time Kakashi. Na ausência de Sasuke, Sai ocupa o lugar vago na equipe. Nesta fase, os companheiros de Naruto estão mais experientes em relação ao anime anterior. Durante seu treinamento, Naruto aprendeu a controlar parte do chakra da Raposa de Nove Caudas. Ao contrario da antiga série, em que apenas desempenhava um papel secundário, a organização criminosa Akatsuki assume o papel de antagonista principal em Shippuden, tendo como objetivo capturar todas as Bijuus para seus propósitos. Com o decorrer da história, Naruto aprende a controlar totalmente o chakra da Kyuubi e a organização criminosa quase conclui sua ambição, culminando na Quarta Grande Guerra Ninja.</info>
@@ -292,7 +292,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]BRTHRHDOFNLFNTSYXVLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BRTHRHDOFNLFNTSYXVLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Brotherhood%20-%20Final%20Fantasy%20XV.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Brotherhood%20-%20Final%20Fantasy%20XV.jpg</fanart>
 <info>O anime é um prelúdio à história do jogo Final Fantasy XV que foi lançado em setembro de 2016.</info>
@@ -306,7 +306,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DBGTLEGFILME10B265dpk7MD54M2kyTmRXLXo5aG8</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBGTLEGFILME10B265dpk7MD54M2kyTmRXLXo5aG8</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Dragon%20Ball%20GT%20-%20O%20Legado%20de%20um%20Heroi.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Dragon%20Ball%20GT%20-%20O%20Legado%20de%20um%20Heroi.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -320,7 +320,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DBSPRBRLYLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBSPRBRLYLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</fanart>
 <info>Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente - ele quer estar pronto para quando uma nova ameaça surgir. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente.</info>
@@ -334,7 +334,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server6http2.php?vid=DBZLEGMOVIEBOG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server6http2.php?vid=DBZLEGMOVIEBOG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20A%20Batalha%20Dos%20Deuses.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20A%20Batalha%20Dos%20Deuses.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -348,7 +348,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]DBZLEGFILME15</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBZLEGFILME15</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20O%20Renascimento%20de%20Freeza.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20O%20Renascimento%20de%20Freeza.jpg</fanart>
 <info>Sorbet e Tagoma, dois remanescentes do exército de Freeza, chegam à Terra em busca das Esferas do Dragão. A ideia é reuni-las para ressuscitar seu antigo líder, que faleceu após uma batalha contra Goku. O plano é bem-sucedido e, com isso, Freeza retorna disposto a se vingar. Para tanto ele se prepara durante meses, de forma que possa reencontrar Goku no auge do seu poder.</info>
@@ -362,7 +362,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server4http.php?vid=FATLFILME010B265dpk7MD54eEZtT25ndnZrdk0</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server4http.php?vid=FATLFILME010B265dpk7MD54eEZtT25ndnZrdk0</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Fairy%20Tail%20Filme1.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Fairy%20Tail%20Filme1.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -376,7 +376,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server2http.php?vid=FSNUBS</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server2http.php?vid=FSNUBS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Fate%20Stay%20Night.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Fate%20Stay%20Night.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -390,7 +390,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server2http.php?vid=HJMNIPTFHTMCR</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server2http.php?vid=HJMNIPTFHTMCR</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Hajime%20no%20Ippo%20-%20The%20Fighting%20Champion%20Road.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Hajime%20no%20Ippo%20-%20The%20Fighting%20Champion%20Road.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -404,7 +404,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server5http2.php?vid=HXHRMKMOVIE010B265dpk7MD54UVM1anpibUtsaGM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server5http2.php?vid=HXHRMKMOVIE010B265dpk7MD54UVM1anpibUtsaGM</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Hunter%20X%20Hunter%20Phantom%20Rouge.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Hunter%20X%20Hunter%20Phantom%20Rouge.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -418,7 +418,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server9.php?gid=0B265dpk7MD54cEdLbDJ5OUVhTEE&vid=HXHRMKMOVIE02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server9.php?gid=0B265dpk7MD54cEdLbDJ5OUVhTEE&vid=HXHRMKMOVIE02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Hunter%20X%20Hunter%20Remake%20Filme2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Hunter%20X%20Hunter%20Remake%20Filme2.jpg</fanart>
 <info>Os Hunters mais poderosos que já existiram na Associação Hunter foram separados em "luz" e "trevas", e cada um seguiu para seus respectivos caminhos. O lado das "trevas" começou a se mover para eliminar todos os Hunters! O que Gon irá fazer quando os vários crimes de Netero e da Associação Hunter forem revelados&hellip;!?A produção do segundo filme foi anunciada no fim do filme Phantom Rougue quando estreou em Janeiro. O filme conseguiu o primeiro lugar nas bilheterias.</info>
@@ -432,7 +432,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server3http.php?id=YIXPJJSLVa&vid=INZMELVMOMFDEOA</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server3http.php?id=YIXPJJSLVa&vid=INZMELVMOMFDEOA</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Inazuma%20Eleven%20Filme%20O%20Mais%20Forte%20do%20Exercito%20Ogro%20Ataca.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Inazuma%20Eleven%20Filme%20O%20Mais%20Forte%20do%20Exercito%20Ogro%20Ataca.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -446,7 +446,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server3http.php?id=eSNBRCHYUY&vid=INZMELVGOMVOVPDG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server3http.php?id=eSNBRCHYUY&vid=INZMELVGOMVOVPDG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Inazuma%20Eleven%20GO%20Filme%20O%20V%C3%ADnculo%20Perfeito%20do%20Grifo.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Inazuma%20Eleven%20GO%20Filme%20O%20V%C3%ADnculo%20Perfeito%20do%20Grifo.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -460,7 +460,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server5http2.php?vid=INTLDMOVIE010B265dpk7MD54YWhFLTE2V3F1Q3M</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server5http2.php?vid=INTLDMOVIE010B265dpk7MD54YWhFLTE2V3F1Q3M</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Initial%20D%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Initial%20D%20Filme.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -474,7 +474,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]LOVLVTSCHLIDLMV</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]LOVLVTSCHLIDLMV</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Love%20Live!%20School%20Idol%20Project%20Movie.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Love%20Live!%20School%20Idol%20Project%20Movie.jpg</fanart>
 <info>A história do filme começa depois dos acontecimentos da segunda temporada, na cerimônia de formatura do terceiro ano. Sabendo que a formatura do terceiro ano significa o fim da &mu;'s, as nove meninas andam pela escola cheia de memórias. Mesmo assim, quando as estudantes tentam sair pelo portão da escola, um email chega para cada uma delas, e a cortina de uma nova história para a &mu;'s se inicia.</info>
@@ -488,7 +488,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]MGNMNXODIADSGMALEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MGNMNXODIADSGMALEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Megaman%20X%20-%20O%20Dia%20de%20Sigma.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Megaman%20X%20-%20O%20Dia%20de%20Sigma.jpg</fanart>
 <info>O ano é 21XX. Os répteis são comuns agora, depois que o Dr. Cain redescobriu o antigo laboratório do Dr. Light e baseou vários projetos fora do original do Dr.Light, chamado "Megaman X". Enquanto isso, X se juntou aos Caçadores de Maverick e trabalha com o líder da unidade Zero, sob o comando do General Sigma. O trabalho deles é acabar com os reploides desonestos, aqueles que se tornaram violentos.</info>
@@ -502,7 +502,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=c45a807a</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=c45a807a</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/NarutoFilme01.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/NarutoFilme01.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -516,7 +516,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=393736fb</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=393736fb</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme02.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme02.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -530,7 +530,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=d63109a8</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=d63109a8</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme03.png</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme03.png</fanart>
 <info>Sem sinopse disponível.</info>
@@ -544,7 +544,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=971d2140</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=971d2140</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2001.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2001.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -558,7 +558,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=4c194536</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=4c194536</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2002.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2002.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -572,7 +572,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=972d3e5f</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=972d3e5f</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuuden%20Filme%2003.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuuden%20Filme%2003.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -586,7 +586,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=935d8edf</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=935d8edf</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2004.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2004.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -600,7 +600,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=dbccaf0f</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=dbccaf0f</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2005.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme%2005.jpg</fanart>
 <info>Depois de sua captura para tentativa de assassinato do Raikage, líder do Kumogakure, bem como matando Jonin de Kirigakure e Iwagakure, Naruto é preso em H?zukijou: A instalação de confinamento criminoso conhecido como a Prisão de Sangue. Mui, o mestre do castelo, utiliza a técnica de prisão definitiva para roubar o poder dos prisioneiros, que é quando Naruto percebe sua vida tem sido alvo. Assim começa a batalha para descobrir a verdade por trás dos assassinatos misteriosos e provar a inocência de Naruto.</info>
@@ -614,7 +614,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NRTOSHPFILME06</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOSHPFILME06</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naurto%20Shippuden%20Filme6.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naurto%20Shippuden%20Filme6.jpg</fanart>
 <info>Dezesseis anos atrás, um ninja mascarado desencadeou uma poderosa criatura conhecida como a Raposa de Nove Caudas na Aldeia da Folha, matando muitas pessoas. Em resposta, o líder da Aldeia da Folha, o quarto Hokage Minato Namikaze, e sua esposa Kushina Uzumaki, Minato sela a Raposa em seu filho recém-nascido. Com o Bijuu selado, as coisas continuaram como normal, exceto as personalidades dos personagens que são diferentes: Uma Hinata mais "assanhada" e um Sasuke apaixonado pela Sakura. No entanto, nos dias de hoje, a paz termina quando um grupo de ninjas se auto-intitulando Akatsuki liderados por Pain atacam a aldeia, que tem a intenção de executar seu plano para governar o mundo, encobrindo-o em ilusões. Este filme faz as pessoas acreditarem que os pais de Naruto estão vivos e os de Sakura estão mortos. Sasuke tem uma personalidade diferente também, e acaba estando apaixonado por Sakura. Hinata tem um aspecto mais extravagante nesse filme também.</info>
@@ -628,7 +628,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]NSPDNFILME07</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NSPDNFILME07</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme07.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Shippuden%20Filme07.jpg</fanart>
 <info>A Lua está em rota de colisão com a Terra, e pode se chocar com o planeta na forma de um meteoro. Enquanto isso, Hanabi é sequestrada por um estranho homem. Cabe a Naruto, Shikamaru, Hinata, Sakura e Sai salvar Hanabi e consertar a situação.</info>
@@ -642,7 +642,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=10edf4c9</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=10edf4c9</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -656,7 +656,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=13b9e84a</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=13b9e84a</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -670,7 +670,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=0201cb41</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=0201cb41</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -684,7 +684,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=3c4a3a73</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=3c4a3a73</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -698,7 +698,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=6daf7723</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=6daf7723</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -712,7 +712,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=aa82c889</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=aa82c889</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -726,7 +726,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=337534a9</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=337534a9</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -740,7 +740,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=6594dad9</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=6594dad9</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -754,7 +754,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=54142594</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=54142594</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -768,7 +768,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=60573c1e</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=60573c1e</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -782,7 +782,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server1http.php?vid=8a1a8e87</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=8a1a8e87</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/onepiece2.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -796,7 +796,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]/player3/server9.php?gid=0B265dpk7MD54YzgzNEJfYkRmRk0&vid=ONPCFILME12</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server9.php?gid=0B265dpk7MD54YzgzNEJfYkRmRk0&vid=ONPCFILME12</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/One%20Piece%20Filme12.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/One%20Piece%20Filme12.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -810,7 +810,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PLTNARVTNGDNRLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PLTNARVTNGDNRLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Palutenas%20Revolting%20Dinner.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Palutenas%20Revolting%20Dinner.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -824,7 +824,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSN3FLM3FLNGDWN</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PRSN3FLM3FLNGDWN</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%203%20-%20Falling%20Down.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%203%20-%20Falling%20Down.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -838,7 +838,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSN3FLM4WNTROFRBTH</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PRSN3FLM4WNTROFRBTH</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%204%20-%20Winter%20Of%20Rebirth.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%204%20-%20Winter%20Of%20Rebirth.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -852,7 +852,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSN3FLM2MDSMRKNGTS</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PRSN3FLM2MDSMRKNGTS</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%202%20-%20Midsummer%20Knights%20Dream.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%202%20-%20Midsummer%20Knights%20Dream.jpg</fanart>
 <info>Segunda parte da trilogia, Persona 3: Chapter 2, Midsummer Knight's Dream segue a tragetória de Makoto Yuki e o esquadrão SEES. As estações mudam da Primavera para o Verão, os laços entre o protagonista e seus amigos são fortalecidos enquanto ganha novos aliados conhecidos como Personas e descobrem mais sobre a bizarra origem da Dark Hour, ao mesmo tempo que eles encontram novos poderosos inimigos.</info>
@@ -866,7 +866,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]PRSN3FLM1SPRNGOFBRTH</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PRSN3FLM1SPRNGOFBRTH</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%201%20-%20Spring%20of%20Birth.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Persona%203%20-%20Filme%201%20-%20Spring%20of%20Birth.jpg</fanart>
 <info>Persona 3 The Movie é uma próxima série de filmes de animação baseado no jogo Shin Megami Tensei: Persona 3(PS2/PSP). O filme é o primeiro de uma série de intitulado Persona 3 The Movie # 1: Primavera do Nascimento. O filme está programado para lançamento em 23 de novembro de 2013 no Japão.</info>
@@ -880,7 +880,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SPRMROBRSAGAPRAPPLEG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SPRMROBRSAGAPRAPPLEG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Super%20Mario%20-%20A%20Grande%20Aventura%20Para%20Resgatar%20a%20Princesa%20Peach.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Super%20Mario%20-%20A%20Grande%20Aventura%20Para%20Resgatar%20a%20Princesa%20Peach.jpg</fanart>
 <info>Quando a Princesa Peach é raptada pelo King Koopa, Mario e seu irmão Luigi saem em uma jornada para Reino dos Cogumelos para resgatá-la.</info>
@@ -894,7 +894,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SAONEXTEDITN</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SAONEXTEDITN</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Sword%20Art%20Online%20-%20Extra%20Edition.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Sword%20Art%20Online%20-%20Extra%20Edition.jpg</fanart>
 <info>A pequena Yui quer ver uma baleia, pelo que Kirito e o resto do grupo decidem fazer uma quest subaquática em Alfheim Online. No entanto para choque de todos, Leafa não sabe nadar! Asuna e o resto das garotas decidem levá-la para uma piscina no mundo real para ajudá-la a aprender a nadar.</info>
@@ -908,7 +908,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]SAONORDSCLE</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SAONORDSCLE</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Sword%20Art%20Online%20-%20Ordinal%20Scale.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Sword%20Art%20Online%20-%20Ordinal%20Scale.jpg</fanart>
 <info>Em um futuro próximo, uma batalha de máquinas altamente desenvolvidas está se delineando. O ano é 2026 e Augma, um novo dispositivo, acaba de ser criado para competir com o NerveGear e o Amusphere, seu sucessor. Usando uma espécie de realidade aumentada, a tecnologia logo vira febre pelo curioso jogo Ordinal Scale, o mais popular do sistema. O jovem Kirito, que logo se interessa e começa a jogá-lo, mas logo vai perceber que o jogo não é feito só de diversão.</info>
@@ -922,7 +922,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]cba9c3c2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]cba9c3c2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Yu-Gi-Oh%20Filme%2010%20Anos.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Yu-Gi-Oh%20Filme%2010%20Anos.jpg</fanart>
 <info>Sem sinopse disponível.</info>

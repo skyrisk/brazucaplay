@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ASGCRSPCLO02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ASGCRSPCLO02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/87/89/73/19962668.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/921/92109.jpg</fanart>
 <info>Depois da partida de Edward, Jacob se transforma no melhor amigo de Bella. Mas o que ela não imagina é que Jacob também tem um segredo que mudará suas vidas repentinamente.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ASGCRSPCLO03</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ASGCRSPCLO03</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.megacinefilmes.com/wp-content/uploads/2017/08/capa-5-5.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/921/92109.jpg</fanart>
 <info>O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizando Seattle e um vampiro malicioso em busca de vingança. Em meio ao tumulto, Bella precisa escolher entre seu amor por Edward e sua amizade com Jacob, sabendo que sua decisão pode desencadear uma batalha entre vampiro e lobisomem.</info>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ASGCRSPCLO04</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ASGCRSPCLO04</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://static.omelete.uol.com.br/media/extras/capas/filme_4632.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/921/92109.jpg</fanart>
 <info>O casamento de Edward e Bella, sua lua de mel e o nascimento do filho desencadeiam uma série de acontecimentos que trará desdobramentos chocantes para Jacob.</info>
@@ -51,7 +51,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]ASGCRSPCLO05</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ASGCRSPCLO05</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://static.omelete.uol.com.br/legacy/images/galerias/A-Saga-Crepusculo-Amanhecer-Parte-2/Amanhecer-cartaz-nacional.jpg</thumbnail>
 <fanart>https://images3.alphacoders.com/921/92109.jpg</fanart>
 <info>Depois do nascimento da filha de Bella e Edward, Renesmee, os Cullen reúnem lobisomens, clãs de vampiros e outros aliados de todo o mundo para protegê-la, já que uma falsa alegação faz com que os Volturi queiram matá-la.</info>

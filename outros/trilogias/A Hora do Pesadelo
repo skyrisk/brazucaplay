@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL01</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL01</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/6mIUwk4vVy75UNzwSIWV4srlI0n.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Freddy Krueger foi queimado vivo e agora está de volta com desejo de vingança. O homem deformado com garras de aço ataca um grupo de adolescentes em seus pesadelos e, para escapar, suas vítimas precisam acordar.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL02</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/nRhVP2UGsfb6uOl3byDV2LrHi7W.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Uma nova família se muda para a casa em Elm Street, e logo os garotos estão tendo pesadelos com Freddy Krueger, o falecido assassino de crianças. Desta vez, ele tenta tomar o corpo de um adolescente para continuar matando no mundo real.</info>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL03</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL03</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/jXHwsRr9GRV2WtHm8zzB2cpGHZU.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Adolescentes internados em clínica psiquiátrica, atormentados por pesadelos parecidos, passam por tratamento com uma nova droga e juntam suas forças para tentar se livrar da influência nefasta de Freddy Krueger, o assassino que assombra suas noites.</info>
@@ -51,7 +51,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL04</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL04</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/oPvDjpZ5xIINxggRJpXwJtf40SW.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Freddy Krueger retorna em busca de mais vítimas. Depois de matar todos os sobreviventes da rua Elm, ele usa o poder de Alice para atrair outras pessoas em seus sonhos.</info>
@@ -66,7 +66,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL05</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL05</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/mJ8MtX6YL7QDGRwZohzYZ4X5f0x.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Alice pensa que Freddy Krueger foi eliminado para sempre e espera iniciar sua vida ao lado de Dan. Porém, os pesadelos recomeçam e ela descobre que está grávida. Agora, Alice luta para salvar o seu bebê das mãos do monstro.</info>
@@ -81,7 +81,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL06</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL06</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/hOQ4loTGi1IsmmP6ALhrYNkBSY8.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Na sexta e última parte do pesadelo Freddy Krueger continua matando crianças. Ele segue para uma nova cidade em busca de novas vítimas. Atrás dele estão a própria filha, que é psicóloga infantil, e uma equipe de jovens decididos a matá-lo de vez.</info>
@@ -96,7 +96,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL07</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL07</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/8egEnmimj2jWM8BqD57k38clUvR.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>O filme "A Hora do Pesadelo" está perto de completar 10 anos. Uma das estrelas, Heather Langenkamp (Nancy Thompson), fica assustada ao ouvir por telefone uma voz bastante parecida com a de Freddy Krueger (Robert Englund), o vilão do filme. Pouco tempo depois o marido dela morre em um acidente de carro, sendo encontrado com as famosas marcas provocadas pela garra metálica de Freddy. Heather descobre que Wes Craven, diretor do filme original, está escrevendo o roteiro de uma sequência. É quando percebe que, para enfrentar Freddy, precisará voltar a interpretar Nancy Thomson, sua personagem no filme.</info>
@@ -111,7 +111,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AHRDPSDL08</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AHRDPSDL08</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://image.tmdb.org/t/p/original/fdBnQyq3e0VE7jsZ4o4hDLgGeSJ.jpg</thumbnail>
 <fanart>https://images6.alphacoders.com/431/431340.jpg</fanart>
 <info>Os adolescentes Nancy, Quentin, Kris, Jesse e Dean são amigos que começam a ter o mesmo pesadelo com um homem desfigurado que usa uma luva feita de facas. O homem, Freddy Krueger (Jackie Earle Haley), os aterroriza em sonhos. A única saída é acordar, mas quando um deles morre de forma violenta, os amigos percebem que o sonho é real. A saída, na verdade, é ficar acordado.</info>

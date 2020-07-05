@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TDMNDEMPNC1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TDMNDEMPNC1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://1.bp.blogspot.com/-29RNlotZQjc/VIrQ-sY7qtI/AAAAAAAAPDw/n8H72iV_Sec/s1600/Todo%2BMundo%2Bem%2BPanico.jpg</thumbnail>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/setembro/personagens-do-todo-mundo-em-panico-3-wallpaper-24263.jpg</fanart>
 <info>Depois do assassinato de uma bela colega de classe, um grupo de adolescentes desorientados descobre que há um assassino entre eles. A heroína Cindy Campbell e a sua turma de amigos mauricinhos e patricinhas, tentam se proteger do perigo, mas uma repórter irritante, Gail Hailstorm, simplesmente não os deixa em paz.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TDMNDEMPNC2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TDMNDEMPNC2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://2.bp.blogspot.com/-sgt_g0uxb4E/VIrUdShGTNI/AAAAAAAAPD8/pV0jDR72yQQ/s1600/Todo%2BMundo%2Bem%2BPanico%2B2.jpg</thumbnail>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/setembro/personagens-do-todo-mundo-em-panico-3-wallpaper-24263.jpg</fanart>
 <info>Megan Voorhess (Natasha Lyonne) é uma jovem garota que está possuída pelo demônio. Os padres McFeely (James Woods) e Harris (Andy Richter) partem em seu socorro, a fim de exorcizá-la, mas falham miseravelmente em sua missão, quando as línguas de Megan e do padre McFeely ficam presas e todos acabam vomitando sopa de ervilha uns nos outros. Um ano depois, Cindy Campbell (Anna Farris), Ray Maker (Shawn Wayans), Shorty Meeks (Marlon Wayans) e Brenda (Regina Hall) estão tentando esquecer os incidentes que ocorreram com o grupo no último Halloween. Neste contexto Cindy está apaixonada por Buddy (Christopher Masterson) e Ray continua indeciso sobre sua sexualidade, até que o Professor Oldman (Tim Curry) e seu assistente deficiente Dwight (David Cross) encomendam aos alunos um estudo sobre a Casa do Inferno, um lugar onde uma sessão frustrada de exorcismo ocorreu no passado. Mas o caos tem início quando Cindy encontra Hanson (Chris Elliott), o vigia louco da Casa do Inferno que possui uma mão deformada, fazendo com que o grupo desvende os vários mistérios que cercam o local.</info>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TDMNDEMPNC3</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TDMNDEMPNC3</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.megatubehd.com/gold-app/gold-uploads/media/todo-mundo-em-panico-3.jpg</thumbnail>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/setembro/personagens-do-todo-mundo-em-panico-3-wallpaper-24263.jpg</fanart>
 <info>Depois de a repórter de jornal Cindy assistir acidentalmente uma estranha fita de vídeo que faz com que o espectador morra dentro de uma semana, ela descobre que a fita é apenas um dos muitos acontecimentos estranhos recentes. Os agricultores locais Tom e George relataram círculos enormes que aparecem durante a noite em seus campos. Cindy encontra uma ligação entre a fita e os círculos nas plantações com a ajuda do presidente dos Estados Unidos e uma tia gentil.</info>
@@ -51,7 +51,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TDMNDEMPNC4</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TDMNDEMPNC4</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://produto.ewmix.com/2191/fotos/cx173385.jpg</thumbnail>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/setembro/personagens-do-todo-mundo-em-panico-3-wallpaper-24263.jpg</fanart>
 <info>Cindy Campbell (Anna Faris) agora trabalha como enfermeira, precisando cuidar de uma senhora que mora em uma casa onde fatos estranhos acontecem. Ela é vizinha de Tom Ryan (Craig Bierko), um homem divorciado que está cuidando de seus dois filhos. Quando uma invasão alienígena tem início eles precisam fugir, em busca de salvação. No caminho Cindy ainda reencontra Brenda (Regina Hall), sua amiga interesseira e ninfomaníaca, que agora trabalha como repórter.</info>
@@ -66,7 +66,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]TDMNDEMPNC5</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TDMNDEMPNC5</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://br.web.img3.acsta.net/pictures/210/061/21006150_20130515172540045.jpg</thumbnail>
 <fanart>http://www.downloadswallpapers.com/wallpapers/2012/setembro/personagens-do-todo-mundo-em-panico-3-wallpaper-24263.jpg</fanart>
 <info>Após noite juntos, Charlie é morto por Lindsay, que foi possuída por um demônio, com isso, os três filhos dele desaparecem, sendo encontrados por dois amigos em uma cabana abandonada. Lá duas das crianças passaram a agir de forma estranha, obedecendo as ordens de um ser invisível quem chamam de Mama. Após serem levados para orfanato, os três passam a viver com os tios Dan e Jody. Entretanto, é lá que estranhos eventos acontecem tendo Mama como responsável.</info>

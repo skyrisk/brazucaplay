@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OGRNDMSTR1</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OGRNDMSTR1</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://2.bp.blogspot.com/-9HKwCDFYObs/VTId_1TMzEI/AAAAAAAAOaI/mae-1kcUx1A/s1600/ipman.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w1560/lcRGF2RpurdvBiSQVocfzRrxV9u.jpg</fanart>
 <info>Yip Man, um grande mestre da arte marcial Wing Chun, vive em Foshan, na província de Guangdong, no sul da China. Foshan é um famoso centro de aprendizagem para várias disciplinas marciais, mas Man é o mais respeitado dos professores da cidade. Sua vida é complicada pela desaprovação de sua esposa, bem como a presença em Foshan de Jin Shan Zhao, um mestre do norte, que está determinado a desafiar a supremacia de Man.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OGRNDMSTR2</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OGRNDMSTR2</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.filmesonlinegratis.com/wp-content/uploads/2015/04/O-Grande-Mestre-2.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w1560/lcRGF2RpurdvBiSQVocfzRrxV9u.jpg</fanart>
 <info>China, 1949. Após o conflito com os japoneses, o mestre Ip Man (Donnie Yen) migra para Hong Kong. Nesta nova aventura, ele tenta divulgar sua disciplina de artes marciais para o mundo, mas enfrenta o ciúme e a oposição dos rivais, como o mestre local de Hung Ga. Para piorar a situação, ele vai sofrer a opressão imposta pelos britânicos, que estão governando a cidade.</info>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]OGRNDMSTR3</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OGRNDMSTR3</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://1.bp.blogspot.com/-OPTMlQqehU0/Vud6NRofsrI/AAAAAAAAWlc/9md68pLd9VU-v0mFzzTSPJqSOoj2c6GHg/s400/O-Grande-Mestre-3-ip-man-3-yp-man-3-dublado-legendado-filme-online-hd-2016-2015.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w1560/lcRGF2RpurdvBiSQVocfzRrxV9u.jpg</fanart>
 <info>O mestre Yip (Donnie Yen) reencontra seu pupilo Bruce Lee (Danny Chan) e precisa mais uma vez proteger os moradores de sua cidade. O lugar está sendo ameaçado pelo gângster Frank (Mike Tyson), que desafia Yip para um grande embate.</info>

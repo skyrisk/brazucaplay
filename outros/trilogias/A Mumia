@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMUMIA</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AMUMIA</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://i.imgur.com/TICczvn.jpg</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>Em 1923, um grupo de arqueólogos liderados por Rick, O'Connel, Evelyn e seu irmão Jonathan exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando Evelyn lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Imhotep primeiramente não passa de um esqueleto, mas absorve órgãos humanos daqueles que abriram a arca e se transforma em um ser humano.</info>
@@ -21,7 +21,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMUMIATMBDIMPRDDRG</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AMUMIATMBDIMPRDDRG</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://http2.mlstatic.com/a-mumia-tumba-do-imperador-drago-dvd-original-D_NQ_NP_616901-MLB20442972969_102015-F.jpg</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército.</info>
@@ -36,7 +36,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]AMUM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AMUM</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQzZCY8q-I_IhEtX6I9HfufmKugC7UFjr8e86QO3-ekuWEGX4WA</thumbnail>
 <fanart>https://i.imgur.com/zUE8sO3.jpg</fanart>
 <info>Na Mesopotâmia, séculos atrás, Ahmanet (Sofia Boutella) tem seus planos interrompidos justamente quando está prestes a invocar Set, o deus da morte, de forma que juntos possam governar o mundo.  Mumificada, ela é aprisionada dentro de uma tumba. Nos dias atuais, o local é descoberto por acidente por Nick Morton (Tom Cruise) e Chris Vail (Jake Johnson), saqueadores de artefatos antigos que estavam na região em busca de raridades. Ao lado da pesquisadora Jenny Halsey (Annabelle Wallis), eles investigam a tumba recém-descoberta e, acidentalmente, despertam Ahmanet. Ela logo elege Nick como seu escolhido e, a partir de então, busca a adaga de Set para que possa invocá-lo no corpo do saqueador.</info>

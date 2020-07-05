@@ -6,7 +6,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]INDNAJNSEOSCACDRSDARC</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEOSCACDRSDARC</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2013/07/OS-CACADORES-DA-ARCA-PERDIDA1.jpg</thumbnail>
 <fanart>https://occ-0-428-185.1.nflxso.net/art/def73/be663cf96044915fdc8a5e512c21eb80442def73.jpg</fanart>
 <info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
@@ -20,7 +20,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]INDNAJNSTMPDPRDCAO</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSTMPDPRDCAO</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRHXG73hdYatxwUdSDtTrOPc7k0EmZvmrOz4xNjzUNsBwBJO-Gk</thumbnail>
 <fanart>https://occ-0-428-185.1.nflxso.net/art/f7e3c/7a92f19c5c5568fc56c65571d966c8c6d50f7e3c.jpg</fanart>
 <info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones (Harrison Ford) tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
@@ -34,7 +34,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]INDNAJNSEAULTMCRZDA</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEAULTMCRZDA</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2013/09/INDIANA-JONES-E-A-ULTIMA-CRUZADA.jpg</thumbnail>
 <fanart>https://occ-0-428-185.1.nflxso.net/art/908fd/0f57e0ede1b0c7a2b237cb658dcedb004a9908fd.jpg</fanart>
 <info>O arqueólogo Indiana Jones (Harrisson Ford) tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones (Sean Connery), é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
@@ -48,7 +48,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.*?)\n</expres><page>$doregex[BPL]INDNAJNSEOREIDCVNADCRSTL</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEOREIDCVNADCRSTL</page><referer>$doregex[BPL]</referer></regex>
 <thumbnail>https://3.bp.blogspot.com/-d-27W5nbLQk/Ueu0dqWRnPI/AAAAAAAAA7s/iMU_ZKtrZLI/s1600/Indiana+Jones+and+the+Kingdom+of+the+Crystal+Skull.jpg</thumbnail>
 <fanart>https://occ-0-428-185.1.nflxso.net/art/6cdbe/da894a587e2c981632b7e3a439efc42fe196cdbe.jpg</fanart>
 <info>1957. Indiana Jones (Harrison Ford) e seu ajudante Mac (Ray Winstone) escapam por pouco de um encontro com agentes soviéticos, em um campo de pouso remoto. Agora Indiana está de volta à sua casa na Universidade Marshall, mas seu amigo e reitor da escola, Dean Stanforth (Jim Broadbent), explica que suas ações recentes o tornaram alvo de suspeita e que o governo está pressionando para que o demita. Ao deixar a cidade Indiana conhece o rebelde jovem Mutt Williams (Shia LaBeouf), que tem uma proposta: caso o ajude em uma missão Indiana pode deparar-se com a caveira de cristal de Akator. Agentes soviéticos também estão em busca do artefato, entre eles a fria e bela Irina Spalko (Cate Blanchett), cujo esquadrão de elite está cruzando o globo atrás da Caveira de Cristal.</info>
