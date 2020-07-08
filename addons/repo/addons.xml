@@ -1,5 +1,6 @@
 <addons>
-<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.1.0" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.1.1" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.t0mm0.common"/>
@@ -18,10 +19,11 @@
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
-<description>[B][COLOR blue]●[/COLOR][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</description>
+<description>[B][COLOR blue]●[/COLOR] [COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</description>
 <disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON [COLOR gold]S2[/COLOR][/COLOR][/B]</disclaimer>
-<news>[B][COLOR gold]v2.1.0 - MELHORIAS.[/COLOR][CR][COLOR gold]v2.0.9 - CORRIGIDO INFORMAÇÕES.[/COLOR][CR][COLOR gold]v2.0.8 - ATUALIZAÇÃO DE CONFIGS.[/COLOR][/B][CR][B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]</news>
+<news>[B][COLOR gold]v2.1.1 - MELHORIAS.[/COLOR][CR][COLOR gold]v2.1.0 - MELHORIAS.[/COLOR][CR][COLOR gold]v2.0.9 - CORRIGIDO INFORMAÇÕES.[/COLOR][CR][COLOR gold]v2.0.8 - ATUALIZAÇÃO DE CONFIGS.[/COLOR][/B][CR][B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]</news>
 <platform>all</platform>
+<reuselanguageinvoker>true</reuselanguageinvoker>
 <assets>
 <icon>icon.png</icon>
 <fanart>fanart.jpg</fanart>
