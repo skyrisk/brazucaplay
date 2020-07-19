@@ -1,13 +1,320 @@
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]ÚLTIMOS ADICIONADOS[/COLOR][/B]</title>
-<link></link>
+<link>here</link>
 <thumbnail>https://i.imgur.com/WETopHh.jpg</thumbnail>
 <fanart>http://nerdfield.com.br/wp-content/uploads/2018/05/908315.jpg</fanart>
 <info>LANÇAMENTOS DE 2020 ADICIONADOS RECENTEMENTE.<info>
-<date>05/07/2020</date>
+<date>19/07/2020</date>
 </item>
 
-
+<item>
+<title>[B][COLOR white]A MALDIÇÃO DA SEREIA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AMLDCAODSREIA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Sereia.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/A%20Maldi%C3%A7%C3%A3o%20da%20Sereia.jpg</fanart>
+<info>Uma sereia capturada no Pacifico, tem sua calda arrancada e é presa em um manicômio onde ninguém acredita que ela seja uma sereia.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]AGORA ESTAMOS SOZINHOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AGORSTMSZNHO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Agora%20Estamos%20Sozinhos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Agora%20Estamos%20Sozinhos.jpg</fanart>
+<info>Del (Peter Dinklage) está vivendo no seu maior sonho quando todo o resto da humanidade simplesmente desaparece após um misterioso acidente e ele é o único que sobra na face da Terra. Até que ele encontra uma segunda sobrevivente, Grace (Elle Fanning), que vai ameaçar toda a sua recém-encontrada ordem.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ALUGUEL DE PESADELO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALGLDPSDLO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aluguel%20de%20Pesadelo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aluguel%20de%20Pesadelo.jpg</fanart>
+<info>Lydia se muda para um novo apartamento depois de terminar com seu namorado de longa data. A mulher fica cada vez mais isolada quando conhece o proprietário do local, Drew. Logo, o homem se torna secretamente obcecado por ela.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ATERRO MALDITO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ATROMLDTO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Aterro%20Maldito.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Aterro%20Maldito.jpg</fanart>
+<info>Um grupo de adolescentes é atormentado pelo Ceifador e seu animal de estimação depois de passar por um experimento que lhes permite revisitar os mortos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]BAILE DA MORTE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NOSSOID</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Baile%20da%20Morte.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Baile%20da%20Morte.jpg</fanart>
+<info>Depois de perder a mãe em um acidente, uma adolescente e seu pai recebem um primo distante em casa. Na esperança de reivindicar a família como sua, o psicopata traça um plano desonesto para recriar o baile que nunca teve.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CORONAVÍRUS: A ORIGEM[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]CRNVRSAORGM</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Coronav%C3%ADrus%20-%20A%20Origem.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Coronav%C3%ADrus%20-%20A%20Origem.jpg</fanart>
+<info>Este documentário oferece uma explicação científica relacionada com o surto global do coronavírus. A ciência é complexa e dividida por testemunhos de especialistas e gráficos reveladores, que proporcionam uma ideia clara sobre os perigos do COVID-19 e suas implicações para a sobrevivência.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]CRIMES CIBERNÉTICOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]CRMSCBRNTCS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Crimes%20Cibern%C3%A9ticos.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Crimes%20Cibern%C3%A9ticos.jpg</fanart>
+<info>Um homem acorda após um atentado contra sua vida, sem memória de quem ele é. De repente, ele se vê foragido com seu pretenso assassino. Sua esposa, uma policial de cabeça dura, começa uma busca desesperada para encontrá-lo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DESPERADOS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DSPRDS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Desperados.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Desperados.jpg</fanart>
+<info>Em Desperados, uma jovem embarca com suas amigas até o México para tentar apagar um e-mail enviado acidentalmente que poderá estragar sua relação com um novo namorado que está internado no país. No entanto, o trio acaba se metendo em grandes confusões.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DIABLO: A ÚLTIMA CORRIDA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DIBLOAULTMCRDA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Diablo%20-%20A%20%C3%9Altima%20Corrida.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Diablo%20-%20A%20%C3%9Altima%20Corrida.jpg</fanart>
+<info>Kuba é um garoto que, com sua sua irmã gravemente doente, está precisando de grana e decide ganhar dinheiro rapidamente participando de corridas ilegais de carro . No caminho, ele encontra não apenas muitas dificuldades, mas também uma garota, Ewa, com quem se juntará, não apenas pelo amor pelas corridas, mas por um futuro melhor.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]DISFORIA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DSFNRIA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Disforia.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Disforia.jpg</fanart>
+<info>Depois de um tempo longe de sua profissão por conta de um trauma pessoal, o psicólogo Dário (Rafael Sieg) volta a atender seus pacientes. A primeira pessoa que entra em sua agenda é Sofia (Isabella Lima), uma misteriosa criança de 9 anos de idade que desperta sentimentos curiosos e um tanto conflitantes em todos que a circundam. Ao longo do tratamento da menina, Dário volta a ter as sensações de agonia e aflição que ele não esperava que voltassem à tona. </info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]ENCONTRO FATAL[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ENCTRFTL</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Encontro%20Fatal.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Encontro%20Fatal.jpg</fanart>
+<info>Em Encontro Fatal, Ellie (Nia Long) tenta consertar seu casamento com o marido, Marcus (Stephen Bishop), depois de um breve encontro com David (Omar Epps), um antigo amigo. O que Ellie não contava é que David é mais perigoso e instável que ela imaginava, colocando em perigo sua família e amigos.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]GREYHOUND: NA MIRA DO INIMIGO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]GRYHNDNMRDINMGO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Greyhound%20-%20Na%20Mira%20do%20Inimigo.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Greyhound%20-%20Na%20Mira%20do%20Inimigo.jpg</fanart>
+<info>Após décadas de carreira, um dedicado oficial da Marinha finalmente ganha o comando de um navio militar. Lutando contra inimigos, mas também contra suas próprias dúvidas, o capitão busca provar que aquele é mesmo seu lugar.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]LIGUE DJÁ: O LENDÁRIO WALTER MERCADO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]LGUDJOLNDROWLTRMRCDO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ligue%20Dj%C3%A1%20-%20O%20Lend%C3%A1rio%20Walter%20Mercado.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Ligue%20Dj%C3%A1%20-%20O%20Lend%C3%A1rio%20Walter%20Mercado.jpg</fanart>
+<info>Em Ligue Djá: O Lendário Walter Mercado, o extravagante astrólogo porto-riquenho, lenda psíquica e não-conformista de gênero Walter Mercado encantou o mundo por mais de 30 anos com seus horóscopos televisionados. Partes iguais de Oprah, Liberace e Rogers, Walter era uma parte diária da cultura latina, até que um dia em 2007 ele desapareceu misteriosamente. Mais de uma década depois, os cineastas encontram Walter e nos convidam para seu mundo interior e doméstico, enquanto ele se prepara para restaurar seu legado aos olhos do público.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]MILF[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MILF</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/MILF.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/MILF.jpg</fanart>
+<info>Três amigas de infância partem ao sul para esvaziar uma casa de uma delas, para vendê-la. Durante esses poucos dias, elas se tornam alvo de três garotos, para quem três mulheres solteiras, que se aproximam dos quarenta anos, são muito mais atraentes do que as meninas da sua idade. Relações sexuais ou sensuais são criadas com esses três meninos, que quase podem ser seus filhos! Cécile, Sonia e Elise então descobrem que são MILFs...</info>
+<date>2018</date>
+</item>
+<item>
+<title>[B][COLOR white]NINGUÉM SABE QUE ESTOU AQUI[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NGMSBRQESTOAQI</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/Ningu%C3%A9m%20Sabe%20que%20Estou%20Aqui.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/Ningu%C3%A9m%20Sabe%20que%20Estou%20Aqui.jpg</fanart>
+<info>Ninguém Sabe que Estou Aqui é a história de Memo (Jorge Garcia), morador de uma remota fazenda de ovelhas no Chile e que esconde sua linda voz do mundo. Traumatizado por acontecimentos do passado, ele vive de maneira solitária, até que uma mulher lhe oferece a chance de encontrar a paz que tanto procura.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]NO BALANÇO DAS COISAS[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NBLNCDSCOSAS</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/No%20Balan%C3%A7o%20das%20Coisas.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/No%20Balan%C3%A7o%20das%20Coisas.jpg</fanart>
+<info>Um noivo acidentalmente registra seu casamento e lua de mel em um resort de swingers na Jamaica.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O BOM SAMARITANO[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OBMSMRTNO</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Bom%20Samaritano.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Bom%20Samaritano.jpg</fanart>
+<info>Karen é atacada durante uma noite enquanto voltava para casa, mas é salva por Daniel, um belo desconhecido. O rapaz se machuca no ataque e ela cuida de suas feridas. Porém, com o passar do tempo, Karen descobre que Daniel não é o herói que aparenta.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O MELHOR ESTÁ POR VIR[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OMLHRESTPRVIR</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Melhor%20Est%C3%A1%20Por%20Vir.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Melhor%20Est%C3%A1%20Por%20Vir.jpg</fanart>
+<info>Em O Melhor Está por Vir, Arthur (Fabrice Luchini) e César (Patrick Bruel) são dois homens que nutrem uma forte amizade desde a infância. Quando, em meio a uma grande confusão, César é informado de que Arthur está com câncer, ele decide buscar o amigo para recuperar o tempo perdido e ajudá-lo a conseguir fazer tudo que deseja antes de morrer.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O SEGREDO DA FLORESTA[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OSGRDODFLRSTA</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Segredo%20na%20Floresta.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Segredo%20na%20Floresta.jpg</fanart>
+<info>Em O Segredo da Floresta, um casal de namorados, Jay (Sahil Shroff) e Amy (Vanessa Curry), decide fugir de sua rotina da cidade grande para um retiro no campo, buscando momentos de tranquilidade e intimidade. No entanto, seus planos românticos vão por água abaixo quando eles testemunham um estranho ritual de exorcismo em uma menina amordaçada. Inconformada, Amy resgata a menina, não suspeitando que sua vida estaria prestes a mudar para sempre.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]O SOL DE RICCIONE[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OSLDRCNE</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/O%20Sol%20de%20Riccione.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/O%20Sol%20de%20Riccione.jpg</fanart>
+<info>Em O Sol de Riccione, o que parecia um verão como qualquer outro qualquer, acaba mudando tudo para este grupo de amigos que compartilham a coragem de arriscar e de aproveitar a vida.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]THE F**K-IT LIST[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]THEFKITLST</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/The%20Fuck-It%20List.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/The%20Fuck-It%20List.jpg</fanart>
+<info>Quando uma brincadeira dá errado e abala a vida de um aluno aplicado, ele cria uma lista de coisas que teria feito diferente. Talvez ainda dê tempo.</info>
+<date>2020</date>
+</item>
+<item>
+<title>[B][COLOR white]THE OLD GUARD[/COLOR][/B]</title>
+<link>$doregex[BP1]$doregex[BP2]</link>
+<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
+<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
+<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
+<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]THOLDGRD</page><referer>$doregex[BPL]</referer></regex>
+<thumbnail>https://redecanais.top/imgs-videos/Filmes/The%20Old%20Guard.jpg</thumbnail>
+<fanart>https://redecanais.top/imgs-videos/Filmes/The%20Old%20Guard.jpg</fanart>
+<info>Em The Old Guard, Andy (Charlize Theron) e seus companheiros formam um grupo de soldados que possuem a inestimável virtude da vida eterna. Eles vivem através dos anos oferecendo seus serviços como mercenários para aqueles que podem pagar, se passando como seres humanos comuns dentre os demais. No entanto, tudo muda com a descoberta de que existe uma outra imortal que atua como fuzileira naval.</info>
+<date>2020</date>
+</item>
 
 <item>
 <title>[B][COLOR dodgerblue]|||[/COLOR][COLOR white]|||[/COLOR][COLOR dodgerblue]|||[/COLOR] [COLOR white]TODOS OS FILMES[/COLOR][/B]</title>
