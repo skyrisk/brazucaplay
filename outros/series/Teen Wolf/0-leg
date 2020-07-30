@@ -6,13 +6,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 1 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TNWLFS02EP00</page><referer>$doregex[BPL]</referer></regex>
+<link>rc5=TNWLFS02EP00.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Teen%20Wolf/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Teen%20Wolf/fanart.jpg</fanart>
 </item>
@@ -42,13 +36,7 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 6 [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]TNWLFS03REVASHW</page><referer>$doregex[BPL]</referer></regex>
+<link>rc5=TNWLFS03REVASHW.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Teen%20Wolf/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Teen%20Wolf/fanart.jpg</fanart>
 </item>
