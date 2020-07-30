@@ -6,13 +6,7 @@
 </item>
 <item>
 <title>[COLOR white][B]FAIRY TAIL: A SACERDOTISA DA FÊNÍX [COLOR gold](LEG)[/COLOR][/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FATLFILME01</page><referer>$doregex[BPL]</referer></regex>
+<link>rc4=FATLFILME01.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/animes/Fairy%20Tail/thumb3.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/animes/Fairy%20Tail/fanart3.jpg</fanart>
 <info>“A Sacerdotisa da Fênix” gira em torno de uma misteriosa garota, uma linda jovem chamada “Eclair”, que possui uma misteriosa pedra conhecida como a Pedra da Fênix. A pedra é uma chave para os mistérios dentro da história de sua vila, e Eclair e os membros originais da Fairy Tail são arrastados para uma trama densa, no qual o destino do mundo entra em Jogo.</info>

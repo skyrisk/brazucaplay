@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR white][B]ALVIN E OS ESQUILOS[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALVNEOSESQULS1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ALVNEOSESQULS1.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/95/28/62/20394609.jpg</thumbnail>
 <fanart>http://www.fundoswiki.com/Uploads/fundoswiki.com/ImagensGrandes/esquilos-jangada.jpg</fanart>
 <info>Quando a árvore em que moram é derrubada e enviada para Los Angeles, os esquilos falantes Alvin, Simon e Theodore encontram um novo lar na casa do compositor Dave Seville (Antti Jaakola). Apesar de um início conturbado com a nova situação doméstica, Dave descobre que as criaturas travessas sabem cantar muito bem. Os esquilos assinam um contrato com uma gravadora e logo descobrem o preço da fama.</info>
@@ -15,13 +9,7 @@
 
 <item>
 <title>[COLOR white][B]ALVIN E OS ESQUILOS 2[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALVNEOSESQULS2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ALVNEOSESQULS2.mp4</link>
 <thumbnail>http://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/31/33/19874208.jpg</thumbnail>
 <fanart>http://www.fundoswiki.com/Uploads/fundoswiki.com/ImagensGrandes/esquilos-jangada.jpg</fanart>
 <info>Agora sob os cuidados do sobrinho de Dave, Toby e os esquilos Alvin, Simon e Theodore tiram um intervalo da música pop e voltam para a escola. Quase que imediatamente, os esquilinhos recebem a tarefa de ganhar um concurso de bandas e salvar o programa musical da escola. Pensando ser fácil ganhar, faíscas musicais românticas começam a voar quando eles conhecem Brittany, Eleanor e Jeannette, as conhecidas como esquiletes.</info>
@@ -30,13 +18,7 @@
 
 <item>
 <title>[COLOR white][B]ALVIN E OS ESQUILOS 3[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALVNEOSESQULS3</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ALVNEOSESQULS3.mp4</link>
 <thumbnail>http://t3.gstatic.com/images?q=tbn:ANd9GcQ4t2hp5oN9e7Kg_6lAFKJ5i2C5tWO-8Qzh1Xsoome9XXcepE6m</thumbnail>
 <fanart>http://www.fundoswiki.com/Uploads/fundoswiki.com/ImagensGrandes/esquilos-jangada.jpg</fanart>
 <info>Dave leva Alvin, Simon, Theodore e as Esquiletes em um cruzeiro. Os esquilos só querem se divertir e as coisas acabam ficando fora de controle. Todos acabam isolados em uma ilha deserta e passam por muitas confusões.</info>
@@ -45,13 +27,7 @@
 
 <item>
 <title>[COLOR white][B]ALVIN E OS ESQUILOS: NA ESTRADA[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALVNEOSESQULSNESTRD</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ALVNEOSESQULSNESTRD.mp4</link>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcTfuGdM9mvwVd1wz1xAlQOYVRa1_FIxWZkpWg4eGXSYUbrh7ofa</thumbnail>
 <fanart>http://www.fundoswiki.com/Uploads/fundoswiki.com/ImagensGrandes/esquilos-jangada.jpg</fanart>
 <info>Alvin, Simon e Theodore acham que Dave vai pedir a namorada em casamento e abandoná-los. Os três embarcam em uma jornada para impedir que isso aconteça.</info>

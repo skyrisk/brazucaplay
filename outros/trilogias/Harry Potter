@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR white][B]HARRY POTTER E A PEDRA FILOSOFAL[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR01</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR01.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/95/59/60/20417256.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>Conheça Harry Potter, um menino que soube em seu aniversário de onze anos que é filho órfão de dois bruxos e possui poderes mágicos únicos. De filho indesejado, passa a ser um estudante de Hogwarts, uma escola inglesa para bruxos. Lá ele conhece vários amigos que o ajudam a descobrir a verdade sobre as mortes misteriosas de seus pais.</info>
@@ -15,13 +9,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E A CÂMARA SECRETA[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR02</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR02.mp4</link>
 <thumbnail>http://1.bp.blogspot.com/-ml0YqtL1Dm8/UhvSNm8NvCI/AAAAAAAAArw/O1voKduylfA/s1600/Harry+Potter+e+a+C%C3%A2mara+Secreta.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.</info>
@@ -30,13 +18,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E O PRISIONEIRO DE AZKABAN[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR03</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR03.mp4</link>
 <thumbnail>http://www.ccine10.com.br/wp-content/uploads/2013/03/harry-potter-3-e-o-prisioneiro-de-azkaban.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>O terceiro ano de Harry Potter em Hogwarts começa mal quando ele descobre que o assassino Sirius Black escapou da prisão de Azkaban e está empenhado em matá-lo. Enquanto o gato de Hermione atormenta o rato doente de Ron, um bando de dementadores são enviados para proteger a escola de Sirius Black. Um professor misterioso ajuda Harry a aprender a se defender.</info>
@@ -45,13 +27,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E O CÁLICE DE FOGO[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR04</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR04.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/93/87/95/20282862.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, junto com os seus amigos Rony e Hermione. Desta vez, acontece um torneio entre as três maiores escola de magia, com um participante selecionado de cada escola pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir.</info>
@@ -60,13 +36,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E A ORDEM DA FÊNIX[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR05</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR05.mp4</link>
 <thumbnail>http://2.bp.blogspot.com/-PWlwjZzndBQ/TeVpUIcS07I/AAAAAAAAAaY/gvrUKhQU3hk/s400/Harry%2BPotter%2Be%2Ba%2BOrdem%2Bda%2BF%25C3%25AAnix.jpg</thumbnail>
 <info>Harry está em seu quinto ano em Hogwarts. Ele acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldermort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa contra as Artes Negras, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados; Harry, então, se reúne com um grupo de alunos para defender sua escola.</info>
 <date>2007</date>
@@ -74,13 +44,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E O ENIGMA DO PRÍNCIPE[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR06</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR06.mp4</link>
 <thumbnail>http://lwonderland.yolasite.com/resources/Harry%20Potter%20e%20o%20Enigma%20do%20Pr%C3%ADncipe%20%202009%20-%20www.tiodosfilmes.com-.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>Os Comensais da Morte estão empolgados com a volta do Voldemort e atacam o mundo dos trouxas e dos bruxos. Dumbledore chama seu amigo Horácio Slughorn para ajudá-lo na preparação de Harry Potter. Harry se vê cada vez mais interessado em Gina e Hermonie morre de ciúmes de Ron, mas prefere não dizer nada.</info>
@@ -89,13 +53,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 1[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR07</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR07.mp4</link>
 <thumbnail>http://1.bp.blogspot.com/-Cr2u-HyD0kk/TeqHZZFGCbI/AAAAAAAADUM/gjCqvd2rZnk/s1600/POSTEROFICIAL_HP7.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>Sem a orientação e a proteção de seus professores, Harry, Rony e Hermione começam uma missão para destruir as Horcruxes, que são fontes da imortalidade de Voldemort. Mais do que nunca, eles dependem uns dos outros, mas forças obscuras ameaçam separá-los.</info>
@@ -104,13 +62,7 @@
 
 <item>
 <title>[COLOR white][B]HARRY POTTER E AS RELÍQUIAS DA MORTE - PARTE 2[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]HRYPTR08</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=HRYPTR08.mp4</link>
 <thumbnail>http://poseseneuroses.com.br/wordpress/wp-content/uploads/2016/03/Harry-Potter-e-as-Rel%C3%ADquias-da-Morte-Parte-2-Poster.jpg</thumbnail>
 <fanart>http://hdwallpaper20.com/wp-content/uploads/2016/07/harry-potter-wallpaper3.jpg</fanart>
 <info>No desfecho épico, a batalha entre as forças do bem e do mal da magia alcançam o mundo dos trouxas. O risco nunca foi tão grande e ninguém está seguro. Harry Potter fará um sacrifício final conforme o confronto com Lord Voldermort se aproxima.</info>

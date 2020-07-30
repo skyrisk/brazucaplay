@@ -8,13 +8,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YONLU[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YNLU</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=YNLU.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yonlu.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yonlu.jpg</fanart>
 <info>Vinícius Gageiro (Thalles Cabral), mais conhecido como Yonlu, é um jovem poeta, músico e desenhista, fluente em quatro idiomas. Apesar de talentoso, ele decidiu dar fim à sua vida depois de ingressar em uma comunidade virtual de assistência para potenciais suicidas.</info>
@@ -22,13 +16,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YOU CAN'T FIGHT CHRISTMAS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YOUCNTFGHTCHRSMS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=YOUCNTFGHTCHRSMS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/You%20Can't%20Fight%20Christmas.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/You%20Can't%20Fight%20Christmas.jpg</fanart>
 <info></info>
@@ -36,13 +24,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YOU MIGHT BE THE KILLER [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YOMGHTBTKLRLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=YOMGHTBTKLRLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/You%20Might%20Be%20the%20Killer.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/You%20Might%20Be%20the%20Killer.jpg</fanart>
 <info>Enquanto foge de um assassino mascarado, o monitor de acampamento Sam (Fran Kranz) experiencia blackouts de memória e para ajudá-lo, liga para sua amiga Chuck (Alyson Hannigan), uma expert em filmes de terror que pode aconselhá-lo como sobreviver. Juntos, eles tentam remontar um esquema para saber como ele está se saindo até chegarem a dúvida de que Sam pode ser o próprio assassino.</info>
@@ -86,13 +68,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YU-GI-OH!: O LADO NEGRO DAS DIMENSÕES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YUGIOHOLDONGRDSDMSOES</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=YUGIOHOLDONGRDSDMSOES.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yu-Gi-Oh!%20-%20O%20Lado%20Negro%20das%20Dimens%C3%B5es.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yu-Gi-Oh!%20-%20O%20Lado%20Negro%20das%20Dimens%C3%B5es.jpg</fanart>
 <info>No passado, Yami Yugi e Seto Kaiba se enfrentaram em inúmeras ocasiões!! Yami Yugi, que habita dentro do corpo de Yugi Muto, e Kaiba vão duelar novamente, e esta será uma batalha onde os dois terão seu orgulho e experiência colocados à prova.</info>
@@ -100,13 +76,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YUCATÁN[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YCTN</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=YCTN.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Yucatan.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Yucatan.jpg</fanart>
 <info>Lucas (Luis Tosar) e Clayderman (Rodrigo De la Serna) são dois ladrões de colarinho branco que costumavam trabalhar juntos roubando cruzeiros de luxo. Eles têm um pacto de nunca embarcarem no mesmo barco. Quando Lucas quebra esse combinado, os dois passam a competir intensamente para roubar um ex padeiro que ganhou milhões na loteria.</info>

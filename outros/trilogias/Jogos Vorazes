@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR white][B]JOGOS VORAZES[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]JGSVRZS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=JGSVRZS.mp4</link>
 <thumbnail>http://t2.gstatic.com/images?q=tbn:ANd9GcQLwURCI0Kd6XbibMlXByNwq3LTF0ta5o0KMLJFgjt2vM-I9HrR</thumbnail>
 <info>Num futuro distante, a população da América do Norte se divide em 12 distritos. Todos os anos, cada distrito é forçado a enviar um menino e uma menina para competir em um jogo mortal, e lutar entre si até restar apenas um sobrevivente.</info>
 <fanart>http://i.imgur.com/DPHu6Ke.jpg</fanart>
@@ -15,13 +9,7 @@
 
 <item>
 <title>[COLOR white][B]JOGOS VORAZES - EM CHAMAS[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]JGSVRZSEMCHMS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=JGSVRZSEMCHMS.mp4</link>
 <thumbnail>http://br.web.img2.acsta.net/pictures/210/473/21047331_201310071632457.jpg</thumbnail>
 <info>Enquanto uma rebelião contra a opressiva Capital é iniciada, Katniss e Peeta são obrigados a participar de uma edição especial dos Jogos Vorazes, o Massacre Quaternário, que acontece a cada 25 anos.</info>
 <fanart>http://i.imgur.com/DPHu6Ke.jpg</fanart>
@@ -30,13 +18,7 @@
 
 <item>
 <title>[COLOR white][B]JOGOS VORAZES: A ESPERANÇA - PARTE 1[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]JGSVRZSAESPRPT1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=JGSVRZSAESPRPT1.mp4</link>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcSbv91r42zRaMK3JNwESrmevfVD481XjTzfroBR2a2crNA4cO1e</thumbnail>
 <info>Após sobreviver à temível arena dos Jogos Vorazes, Katniss Everdeen está desanimada. Depois que a Capital destruiu o Distrito 12, ela se refugiou no Distrito 13. Agora, a presidência quer que ela lidere uma "resistência" e mobilize a população para salvar o povo do jogo da grande Capital.</info>
 <fanart>http://i.imgur.com/DPHu6Ke.jpg</fanart>
@@ -45,13 +27,7 @@
 
 <item>
 <title>[COLOR white][B]JOGOS VORAZES: A ESPERANÇA - O FINAL[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]JGSVRZSAESPRPT2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=JGSVRZSAESPRPT2.mp4</link>
 <thumbnail>http://www.megatorrentshd.com/wp-content/uploads/2015/12/Jogos-Vorazes-A-Esperanca-O-Final.jpg</thumbnail>
 <info>Katniss e seus amigos Peeta, Gale e Finnick embarcam em sua última missão: organizar uma resistência contra o presidente e libertar o povo de Panem. A coragem de Katniss faz renascer a esperança em um país disposto a se livrar da opressão.</info>
 <fanart>http://i.imgur.com/DPHu6Ke.jpg</fanart>

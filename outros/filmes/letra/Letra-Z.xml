@@ -8,13 +8,7 @@
 </item>
 <item>
 <title>[B][COLOR white]Z-O-M-B-I-E-S[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZMBS2018</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZMBS2018.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Z-O-M-B-I-E-S.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Z-O-M-B-I-E-S.jpg</fanart>
 <info>50 anos depois de passar por um apocalipse zumbi, Seabrook é uma cidade alegre e cheia de conformismo. Os zumbis não são mais uma ameaça, mas são obrigados a viver em Zombietown, uma parte isolada da cidade. Quando os alunos de Zombietown são transferidos para a escola secundária de Seabrook, o zumbi Zed (Milo Manheim) está determinado a jogar Futebol americano, enquanto a humana Addison (Meg Donnelly), sonha em ser líder de torcida. Os dois decidem trabalhar juntos para mostrar a o que podem ganhar aceitando suas diferenças.</info>
@@ -22,13 +16,7 @@
 </item>
 <item>
 <title>[B][COLOR white]Z: A CIDADE PERDIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZCDSPRDA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZCDSPRDA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Z%20-%20A%20Cidade%20Perdida.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Z%20-%20A%20Cidade%20Perdida.jpg</fanart>
 <info>A incrível história real do explorador britânico Percy Fawcett (Charlie Hunnam), que viaja para a Amazônia no século XX e descobre evidências de uma civilização avançada desconhecida que pode ter habitado a região. Depois de ter sido ridicularizado pelo corpo científico que considera as populações indígenas como "selvagens", Fawcett está determinado a retornar à sua amada selva e provar seu caso.</info>
@@ -44,13 +32,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZAPPED[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZPED</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZPED.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zapped.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zapped.jpg</fanart>
 <info>Zoey Stevens (Zendaya Coleman) não está conseguindo adaptar-se a sua nova vida em uma nova escola, com uma nova equipe de dança, um novo padrasto, três novos irmãos e um novo cachorro. Mas, após o celular de Zoey realizar o download de um aplicativo para treinamento de cães, o aparelho começa a adestrar não apenas os animais, mas todos os homens a seu redor.</info>
@@ -58,13 +40,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZENON: A GAROTA DO SÉCULO 21[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZNONAGRTSCLO21</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZNONAGRTSCLO21.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zenon%20-%20A%20Garota%20do%20S%C3%A9culo%2021.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zenon%20-%20A%20Garota%20do%20S%C3%A9culo%2021.jpg</fanart>
 <info>Aventura futurista em que uma garota muito esperta descobre como salvar uma estação espacial da destruição.</info>
@@ -72,13 +48,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZION[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZION</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZION.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zion.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zion.jpg</fanart>
 <info>Sem as pernas e condenado a viver em lares adotivos por muitos anos, o adolescente Zion Clark descobre sua vocação ao se tornar lutador.Documentário em curta-metragem.</info>
@@ -86,13 +56,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOANDO NA ESCOLA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZANDAESCLA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZANDAESCLA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zoando%20na%20Escola.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zoando%20na%20Escola.jpg</fanart>
 <info>A família Forrester acaba de se mudar para uma nova cidade. O pai Mitch e o filho pré-adolescente Billy (Luke Benward) estão preocupados com a nova vida, enquanto o caçula Woody está achando tudo bom. No primeiro dia de aula, Billy enfrenta um valentão do colégio e aceita um desafio, de comer dez vermes sem vomitar, para mudar a organização da turma.</info>
@@ -100,13 +64,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZODÍACO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZDCO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZDCO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zod%C3%ADacO.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zod%C3%ADacO.jpg</fanart>
 <info>1º de agosto de 1969. Três cartas diferentes chegam aos jornais San Francisco Chronicle, San Francisco Examiner e Vallejo Times-Herald, enviadas pelo mesmo remetente. A carta enviada ao Chronicle trazia a confissão de um assassino e as três juntas formavam um código que supostamente revelaria a identidade do criminoso. O assassino exigia que as cartas fossem publicadas, caso contrário mais pessoas morreriam. Um casal de Salinas consegue decodificar a mensagem, mas é Robert Graysmith (Jake Gyllenhaal), um tímido cartunista, quem descobre sua intenção oculta: uma referência ao filme "Zaroff, o Caçador de Vidas" (1932). Os assassinatos e as cartas se sucedem, provocando pânico na população de San Francisco.</info>
@@ -114,13 +72,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOE E RAVEN: OS DOZE PRESENTES DE NATAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOERVNOSDZEPRSNTSDNTL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=ZOERVNOSDZEPRSNTSDNTL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zoe%20e%20Raven%20-%20Os%20Doze%20Presentes%20de%20Natal.jpg</fanart>
 <info>O Campo Brilhante se prepara para a comemoração de Natal. Zoe descobre um segredo de família. Gaby está nas mãos da nova chefe Mia.</info>
@@ -128,13 +80,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZONA DESMILITARIZADA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZNADMLTZADA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=ZNADMLTZADA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zona%20Desmilitarizada.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zona%20Desmilitarizada.jpg</fanart>
 <info>No dia da eleição presidencial dos EUA em 2024, Ahab e sua equipe de mercenários de elite embarcam em uma missão secreta da CIA para sequestrar o ministro das Forças Armadas da Coreia do Norte, em um bunker subterrâneo abaixo da zona desmilitarizada coreana. No entanto, eles são pegos no fogo cruzado, o que faz com que as tensões subam à beira da Terceira Guerra Mundial.</info>
@@ -142,13 +88,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZONA FRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZNFRIA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZNFRIA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zona%20Fria.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zona%20Fria.jpg</fanart>
 <info>Uma tempestade gelada está chegando. Ninguém podia prever. Uma família deve lutar pela sobrevivência nessa zona gelada.</info>
@@ -156,13 +96,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOO: UMA AMIZADE MAIOR QUE A VIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOOUMZDMRQAVDA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=ZOOUMZDMRQAVDA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zoo%20-%20Uma%20Amizade%20Maior%20que%20a%20Vida.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zoo%20-%20Uma%20Amizade%20Maior%20que%20a%20Vida.jpg</fanart>
 <info>Durante um estratégico bombardeio alemão em Belfast, no ano de 1941, um grupo de amigos se esforça para salvar a vida de Buster, um indefeso filhote de elefante que foi abandonado e agora corre risco de vida.</info>
@@ -170,13 +104,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOOLANDER[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOLNDR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZOLNDR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zoolander.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zoolander.jpg</fanart>
 <info>Derek Zoolander (Ben Stiller) é um supermodelo egocêntrico em crise, já que perdeu recentemente o posto de número 1 na classificação dos modelos para seu rival Hansel (Owen Wilson). Deprimido, ele busca auxílio com Jacobim Mugatu (Will Ferrell), seu "papa" no mundo da moda, que tem outros planos para Zoolander. Juntamente com uma falsa agente da CIA, Mugatu realiza uma lavagem cerebral em Zoolander, a fim de transformá-lo em um assassino frio e burro ao seu dispor. O plano de Mugatu é enviar Zoolander para assassinar o Presidente da Malásia quando este estiver em sua visita a Nova York, pois com ele morto Mugaru poderá explorar o trabalho infantil no país, o que resultará em custos mais baixos para sua confecção de roupas. Até que Matilda Jeffries (Christine Taylor), uma jornalista da Time Magazine, desconfia dos planos de Mugaru e decide por evitar que Zoolander complete sua missão.</info>
@@ -184,13 +112,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOOLANDER 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOLNDR2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZOLNDR2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zoolander%202.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zoolander%202.jpg</fanart>
 <info>Depois que uma série de celebridades é assassinada, a agente policial e ex-modelo de biquíni Valentina Valencia (Penélope Cruz) busca o ex-supermodelo Derek Zoolander (Ben Stiller) para ajudá-la a solucionar os casos. Porém, aposentado, assim como o ex-companheiro de passarela Hansel (Owen Wilson), ele está desaparecido – e se ressente por não ter mais contato com o filho, agora adolescente. Até que a convite de Alexanya Atoz (Kristen Wiig) dona da marca mais badalada da atualidade, eles acabam topando fazer um novo desfile. Mal sabem os desmiolados, no entanto, que tudo não passa de um plano maquiavélico comandado por Mugatu (Will Ferrell).</info>
@@ -198,13 +120,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOOM: ACADEMIA DE SUPER-HERÓIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOMACDMDSPRHRS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ZOMACDMDSPRHRS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zoom%20-%20Academia%20de%20Super-Her%C3%B3is.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zoom%20-%20Academia%20de%20Super-Her%C3%B3is.jpg</fanart>
 <info>Com o planeta Terra correndo o risco de ser destruído, um super herói aposentado e fora de forma, o Capitão Zoom (Tim Allen), foi chamado pelo General Larraby (Rip Torn) e o Dr. Grant (Chevy Chase) para comandar um grupo de adolescentes cheios de super poderes. Só que a missão não é das mais fáceis porque a turma apronta demais e então ele vai contar com a ajuda da genial Marsha Holloway (Courteney Cox) na condução do treinamento dos novos salvadores da humanidade.</info>
@@ -212,13 +128,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOOTOPIA: ESSA CIDADE É O BICHO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOTPIA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ZOTPIA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zootopia%20-%20Essa%20Cidade%20%C3%A9%20o%20Bicho.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zootopia%20-%20Essa%20Cidade%20%C3%A9%20o%20Bicho.jpg</fanart>
 <info>Judy Hopps é a pequena coelha de uma fazenda isolada, filha de agricultores que plantam cenouras há décadas. Mas ela tem sonhos maiores: pretende se mudar para a cidade grande, Zootopia, onde todas as espécies de animais convivem em harmonia, na intenção de se tornar a primeira coelha policial. Judy enfrenta o preconceito e as manipulações dos outros animais, mas conta com a ajuda inesperada da raposa Nick Wilde, conhecida por sua malícia e suas infrações. A inesperada dupla se dedica à busca de um animal desaparecido, descobrindo uma conspiração que afeta toda a cidade.</info>
@@ -226,13 +136,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZOOTOPIA: ESSA CIDADE É O BICHO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZOTPIALEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ZOTPIALEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zootopia%20-%20Essa%20Cidade%20%C3%A9%20o%20Bicho.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zootopia%20-%20Essa%20Cidade%20%C3%A9%20o%20Bicho.jpg</fanart>
 <info>Judy Hopps é a pequena coelha de uma fazenda isolada, filha de agricultores que plantam cenouras há décadas. Mas ela tem sonhos maiores: pretende se mudar para a cidade grande, Zootopia, onde todas as espécies de animais convivem em harmonia, na intenção de se tornar a primeira coelha policial. Judy enfrenta o preconceito e as manipulações dos outros animais, mas conta com a ajuda inesperada da raposa Nick Wilde, conhecida por sua malícia e suas infrações. A inesperada dupla se dedica à busca de um animal desaparecido, descobrindo uma conspiração que afeta toda a cidade.</info>
@@ -240,13 +144,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZUMBILÂNDIA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZMBLND</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=ZMBLND.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Zumbil%C3%A2ndia.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Zumbil%C3%A2ndia.jpg</fanart>
 <info>A população mundial foi dizimada devido a um vírus, variante do mal da vaca louca, que faz com que as pessoas se transformem em zumbis. Poucos são os humanos não infectados, entre eles Columbus (Jesse Eisenberg). Ele é um estudante da Univeridade do Texas, que deseja voltar para sua cidade natal na esperança de encontrar seus pais ainda vivos. Cheio de fobias, o maior medo de Columbus não são os zumbis, mas os palhaços. No caminho ele encontra Tallahassee (Woody Harrelson), que está indo para a Flórida com o objetivo de aniquilar o maior número possível de zumbis. Columbus pega uma carona com ele. Ao parar em uma mercearia, a dupla enfrenta três zumbis e encontra duas garotas, Wichita (Emma Stone) e sua irmã caçula Little Rock (Abigail Breslin). Só que Little Rock aparenta ter sido mordida por um zumbi, o que divide o grupo sobre o que fazer.</info>
@@ -254,13 +152,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ZUMBILÊNIO: O PARQUE DOS MONSTROS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ZMBLNIOPRQDSMNSTRS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ZMBLNIOPRQDSMNSTRS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Zumbil%C3%AAnio%20-%20O%20Parque%20dos%20Monstros.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Zumbil%C3%AAnio%20-%20O%20Parque%20dos%20Monstros.jpg</fanart>
 <info>No parque de diversões Zombillénium, as principais atrações estão extramamente insatisfeitas. Os vampiros, lobisomens, zumbis e outros demônios, mesmo com as almas entregues ao Diabo, estão cansados de seu trabalho e não querem mais ser uma mero objeto para a satisfação de uma sociedade consumista. E é com a chegada de Hector, um humano que pretende fechar o estabelecimento, que a vida de todos mudará.</info>

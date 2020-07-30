@@ -12,13 +12,7 @@
 </item>
 <item>
 <title>[B][COLOR white]AKIRA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]AKIRA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=AKIRA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Akira.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Akira.jpg</fanart>
 <info>Uma grande explosão fez com que Tóquio fosse destruída em 1988. Em seu lugar foi construída Neo Tóquio, que, em 2019, sofre com atentados terroristas por toda a cidade. Kaneda (Mitsuo Iwata) e Tetsuo (Nozomu Sasaki) são amigos que integram uma gangue de motoqueiros. Eles disputam rachas violentos com uma gangue rival, os Palhaços, até que um dia Tetsuo encontra Takashi (Tatsuhiko Nakamura), uma estranha criança com poderes que fugiu do hospital onde era mantido como cobaia. Tetsuo é ferido no encontro e antes de receber a ajuda dos amigos é levado por integrantes do exército, liderados pelo coronel Shikishima (Tarô Ishida). A partir de então Tetsuo passa a desenvolver poderes inimagináveis, o que faz com que seja comparado ao lendário Akira, responsável pela explosão de 1988. Paralelamente, Kaneda se interessa por Kei (Mami Koyama), uma garota envolvida com espiões que tenta decifrar o enigma por trás das cobaias controladas pelo exército.</info>
@@ -26,13 +20,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ALTERED CARBON: NOVA CAPA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ALTRDCRBNNVCPA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ALTRDCRBNNVCPA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Altered%20Carbon%20-%20Nova%20Capa.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Altered%20Carbon%20-%20Nova%20Capa.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -40,13 +28,7 @@
 </item>
 <item>
 <title>[B][COLOR white]APPLESEED ALPHA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]APLSDALPHDUB</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=APLSDALPHDUB.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Appleseed%20Alpha.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Appleseed%20Alpha.jpg</fanart>
 <info>Appleseed Alpha será um reboot da história, mostrando os primeiros dias de Deunan e Briarios a procura da lendária cidade de Olympus.</info>
@@ -54,13 +36,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ART OF FIGHTING[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ARTOFGTR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=ARTOFGTR.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Art%20of%20Fighting.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Art%20of%20Fighting.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -68,13 +44,7 @@
 </item>
 <item>
 <title>[B][COLOR white]BAYONETTA: DESTINO SANGRENTO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BAYONTA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=BAYONTA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Bayonetta%20Destino%20Sangrento.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Bayonetta%20Destino%20Sangrento.jpg</fanart>
 <info>Há 500 anos, havia dois clãs encarregados de manter o equilíbrio entre as forças da luz e das trevas: as Bruxas de Umbra e os Sábios de Lumen. Mas a guerra entre os clãs acabou levando ambos à ruína. Agora, na época moderna, a bruxa Bayonetta despertou para retomar a caça aos anjos, mas ela não tem memória do seu passado. Porém, o último sobrevivente dos sábios, Balder, pode guardar a chave de todos os mistérios. </info>
@@ -82,13 +52,7 @@
 </item>
 <item>
 <title>[B][COLOR white]BLAME![/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BLME</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=BLME.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Blame.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Blame.jpg</fanart>
 <info>Num futuro distante, onde os seres humanos vivem dentro de um perigoso e gigantesco labirinto, que está sem controle. E Killy (Takahiro Sakurai), um homem misterioso e de poucas palavras, está determinado a salvar a humanidade do esquecimento.</info>
@@ -96,13 +60,7 @@
 </item>
 <item>
 <title>[B][COLOR white]COWBOY BEBOP: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]CWBYBBOPOFLM</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=CWBYBBOPOFLM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Cowboy%20Bebop%20-%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Cowboy%20Bebop%20-%20O%20Filme.jpg</fanart>
 <info>Em pleno ano de 2071 Spike e seus companheiros ciganos do Esquadrão Bebop estão passeando pela cidade de Tóquio, até que Faye presencia um ataque bioterrorista, que mata cerca de 500 pessoas. Em busca de maiores informações sobre os responsáveis pelo ataque, o governo local oferece uma alta recompensa a qualquer informação entregue. O Esquadrão Bebop se interessa pela oferta e passa a usar suas táticas para encontrar o culpado pelo ataque.</info>
@@ -110,13 +68,7 @@
 </item>
 <item>
 <title>[B][COLOR white]CRIANÇAS LOBO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]CRANCLBS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=CRANCLBS.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Crian%C3%A7as%20Lobo.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Crian%C3%A7as%20Lobo.jpg</fanart>
 <info>A história cobre 13 anos e começa com Hana, uma estudante de faculdade de 19 anos, que se encontra e se apaixona, daquela forma intensa vista nos contos de fadas, por um "lobisomem". Depois de se casar com ele, Hana dá a luz e cria duas crianças lobo, a mais velha Yuki e o mais novo Ame. Os quatro viviam tranquilamente em um canto da cidade, para esconder a existência das "crianças lobo", mas quando o lobisomem morre de repente, Hana decide se mudar para uma cidade rural, distante da modernidade.</info>
@@ -124,13 +76,7 @@
 </item>
 <item>
 <title>[B][COLOR white]CYBORG 009: CONTRA O MONSTRO DO MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]C009CNTROMNTROMR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=C009CNTROMNTROMR.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Cyborg%20009%20-%20Contra%20o%20Monstro%20do%20Mar.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Cyborg%20009%20-%20Contra%20o%20Monstro%20do%20Mar.jpg</fanart>
 <info>Nesse segundo longa mostra as aventuras de um grupo de ciborgues – humanos com partes mecânicas – em sua luta contra o mal, especialmente a organização Fantasma Negro. São nove heróis, sendo o principal deles Joe Shimamura, o 009. Há também uma garota e um bebê (que é o líder) no grupo de humanos que passou por dolorosas operações cibernéticas.</info>
@@ -138,13 +84,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DIGIMON: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DGMNOFLM</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=DGMNOFLM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Digimon%20-%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Digimon%20-%20O%20Filme.jpg</fanart>
 <info>Um grupo de crianças transportado para o DigiMundo, onde conhece um grupo de monstros digitais chamado Digimon, com os quais se unem para combater o mal. Entretanto, Diabormon, um Digimon maligno, cria um vírus de internet que destrói dados do sistema de defesa dos Estados Unidos, no intuito de causar o envio de um míssil para o território japonês. Para evitar o desastre, todos os habitantes do DigiMundo se unem para salvar o mundo real e também seu próprio mundo.</info>
@@ -152,13 +92,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DRAGON BALL - FILME 01 - A LENDA DE SHENLONG[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBFILME01</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=DBFILME01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2001%20-%20A%20Lenda%20De%20Shenlong.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2001%20-%20A%20Lenda%20De%20Shenlong.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -172,7 +106,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME02.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2002%20-%20A%20Bela%20Adormecida%20do%20Castelo%20Amaldi%C3%A7oado.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2002%20-%20A%20Bela%20Adormecida%20do%20Castelo%20Amaldi%C3%A7oado.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -186,7 +120,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME03</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME03.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2003%20-%20A%20Aventura%20M%C3%ADstica.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2003%20-%20A%20Aventura%20M%C3%ADstica.jpg</fanart>
 <info>A esposa do imperador Chaos desapareceu, e o Mestre Shen lhe diz que se ele recolher as sete esferas do dragão, ele pode chamar o dragão eterno e desejar o seu retorno. Enquanto isso, Goku e Kuririn participam do Torneio Mundial de Artes Marciais , que é hospedado pelo imperador; Bora e seu filho Upa tentam esconder a esfera do dragão que eles encontraram das forças do imperador, que estão sob o controle do mal do Mestre Shen e do General Tao Pai Pai; Bulma e realiza sua própria busca das esferas do dragão, com a ajuda de Yamcha, Pual e Oolong.</info>
@@ -200,7 +134,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME040B265dpk7MD54UXFlNHJsQ0FXX1k</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBFILME040B265dpk7MD54UXFlNHJsQ0FXX1k.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2004%20-%20Em%20Busca%20do%20Poder.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20-%20Filme%2004%20-%20Em%20Busca%20do%20Poder.jpg</fanart>
 <info>Este especial lançado em 1996, comemora os 10 anos de Dragon Ball. Nesse especial é feito um remake do inicio da história de Son Goku e Bulma que vão a procura das Esferas do Dragão, a aparição de Oolong, Yamcha, Pual, Mestre Kame e a força Red Ribbon, alguns personagens como o Comandante White, Sargento Metálico, General Blue, Comandante Black e Red foram desenhados diferentes da série principal.</info>
@@ -208,13 +142,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DRAGON BALL SUPER: BROLY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBSPRBRLY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=DBSPRBRLY.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Super%20-%20Broly.jpg</fanart>
 <info>Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente - ele quer estar pronto para quando uma nova ameaça surgir. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente.</info>
@@ -228,7 +156,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME01</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2001%20-%20Devolva-me%20Gohan.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2001%20-%20Devolva-me%20Gohan.jpg</fanart>
 <info>O filme começa com Piccolo sendo brutalmente atacado e supostamente morto por três lutadores. Momentos depois, Chi-Chi, Rei Cutelo e Gohan são atacados por um grupo de guerreiros desconhecidos. Goku estava pescando, mas após sentir o Ki dos inimigos ele retorna à sua casa e descobre que seu filho foi raptado. Os guerreiros que atacaram Piccolo e raptaram Gohan se chamam Ginger, Nicky e Sansho. Eles são os capangas de um demônio Makyiosei-jin chamado Garlick Jr. e depois é revelado que eles não se importam com Gohan, mas querem a esfera de quatro estrelas que está em seu chapéu. Após todas as Esferas do Dragão terem sido reunidas, Garlick Jr. invoca Shenlong e deseja ser imortal. Goku furiosamente aparece em busca de seu filho mas logo descobre o novo poder do seu inimigo. Kami-Sama então aparece para ajudar Goku, o que surpreende Garlick Jr. por que ele pensava que Piccolo estava morto e consequentemente, Kami-Sama também. Kami-Sama conta à Goku que antes de ser eleito o deus da Terra, existia outro competidor, Garlick. Após Kami-Sama ter sido eleito, Garlick montou um exército de demônios para destruí-lo. Contudo, Garlick perdeu a batalha e foi mandado para uma dimensão das trevas. Garlick Jr. confirma a história e diz que pretende vingar seu pai. Goku então começa a procurar Gohan enquanto Garlick Jr. enfrenta Kami-Sama.  Ginger, Nicky e Sansho entram no caminho de Goku, mas Kuririn e Piccolo aparecem para ajudá-lo. Piccolo tem sua vingança ao matar Sansho enquanto Goku destrói Ginger e Nicky. Enquanto isso, Kami-Sama é fortemente atacado até que Goku e Piccolo aparecem para ajudá-lo. Entretanto, Garlick Jr. vai para a sua segunda forma onde ele consegue derrotar os guerreiros, mas quando Goku e Piccolo resolvem trabalhar juntos, eles conseguem derrotá-lo. Apesar disso, Piccolo resolve acertar as contas de vez com Goku e ambos começam a lutar, até que Garlick Jr. aparece novamente. Irritado, ele abre um grande buraco dimensional chamado Zona da Morte, pretendendo sugar seus inimigos para mandá-los direto para o inferno. Goku, Piccolo e Kuririn fazem o possível para resistirem, até que Gohan aparece. Enfurecido por ver os outros em perigo, Gohan manda toda a sua energia em direção de Garlick Jr. e o prende na Zona da Morte e desmaia. Enquanto os guerreiros retornavam para casa, Gohan notavelmente não se lembrava de nada e pensava que seu pai havia derrotado Garlick Jr. Espantado, Goku percebe que seu filho não é um garoto normal, mas possui um grande poder oculto. Piccolo os observa do alto dizendo que um dia derrotará Goku.</info>
@@ -242,7 +170,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME02.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2002%20-%20O%20Homem%20Mais%20Forte%20do%20Mundo.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2002%20-%20O%20Homem%20Mais%20Forte%20do%20Mundo.jpg</fanart>
 <info>Após Oolong roubar o radar do Dragão, ele percebe que as esferas andam se reunindo sozinhas rapidamente, quem esta reunindo-as é o Dr. Koutchin, que quer reviver o Dr. Whellow, o homem mais inteligente do mundo, que anda soterrado no gelo das montanhas mais frias do mundo. A ambição de Whellow é colocar seu cérebro dentro do homem mais forte do mundo, para isso ele rapta Bulma e o Mestre Kame, os guerreiros vão tentar impedi-lo, mas o Piccolo foi possuído pelos dois cientistas.</info>
@@ -256,7 +184,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME030B265dpk7MD54SzhSOEtldmQ0Mnc</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME030B265dpk7MD54SzhSOEtldmQ0Mnc.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2003%20-%20A%20%C3%81rvore%20do%20Poder.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2003%20-%20A%20%C3%81rvore%20do%20Poder.jpg</fanart>
 <info>A semente de uma árvore maligna é jogada na Terra por Turles, um poderoso guerreiro Saiyajin e irá criar raízes e drenar toda a vida e energia do planeta. Dela nascerão frutos que tornarâo quem os comer quase invencível. Eis que Goku e seus amigos são avisados pelo Sr. Kaio da presença da árvore do mal e vão ao encontro de Turles e seu bando, onde travam batalhas incríveis. Goku terá que se superar para vencer o inimigo e salvar a Terra e seus amigos da destruição. Os guerreiros Z enfrentam seu exército, mas eles acabam sendo derrotados; Goku os derrota sem precisar do uso do Kaio-Ken. Turles questiona Goku pelo fato de ter levado uma pancada na cabeça. Gohan também faz uma aparição, mas acaba sendo transformado em Oozaru (macaco-gigante). Piccolo fala que para salvar Gohan seria cortar seu rabo, mas acaba sendo derrotado por Turles. Goku é quase morto por Gohan, mas o Grande Dragão aparece que faz despertar os sentidos de Gohan. Gohan chega a correr perigo nas mãos de Turles, mas Goku corta o rabo e salva Gohan. Goku enfrenta Turles usando o Kaio-Ken, mas Turles come o fruto da árvore do poder que vence o KaioKen de Goku. Goku tenta aumentar em 10x o Kaio-Ken, mas era impossível vencer Turles. Yamcha, Tenchinham, Chaos, Piccolo e Kuririn que mesmo estando fracos, ajudam Goku para ele fazer a Genki Dama. Embora Turles os houvesse vencido, Goku conclui a Genki Dama, mas é rebatido pela força de seu oponente. Goku tenta um último recurso e usa a força da árvore do poder que soterra Turles acabando com a árvore do poder de forma definitiva.</info>
@@ -270,7 +198,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME040B265dpk7MD54Z1VCWEF0U2hoNDA</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME040B265dpk7MD54Z1VCWEF0U2hoNDA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2004%20-%20Goku,%20o%20Super%20Sayajin.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2004%20-%20Goku,%20o%20Super%20Sayajin.jpg</fanart>
 <info>Um disco voador lotado de extraterrestres chega ao planeta Terra. Eles ordenam que os humanos abandonem o planeta em três dias e enviam um satélite para tampar o Sol e o planeta Terra começa a congelar. O comandante da nave é um Super namekuseijin chamado Slug, ele reconhece as esferas do dragão e decide encontra-las para fazer seu maior desejo: voltar a ser jovem. Goku e Piccolo unem-se mais uma vez para enfrentar uma batalha. Somente um Genki Dama será capaz de salvar a Terra.</info>
@@ -284,7 +212,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME050B265dpk7MD54UmxLZTM0STB5RnM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME050B265dpk7MD54UmxLZTM0STB5RnM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2005%20-%20Uma%20Vingan%C3%A7a%20para%20Freeza.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2005%20-%20Uma%20Vingan%C3%A7a%20para%20Freeza.jpg</fanart>
 <info>O vilão Cooler ( Koraa no japão), irmão mais velho de Freeza, deseja matar Goku para exterminar todos os Saiyajins e vingar a morte de seu irmão. Ele fere Goku gravemente, contudo, Gohan vai em busca das Senzus (semente dos deuses) com o mestre Karin, mas é descoberto por Salza e seus companheiros. Piccolo defende o garoto, que consegue voltar para ajudar seu pai, mas é derrotado por Cooler pensando que fosse Freeza. Goku luta contra Cooler e se transforma em Super Saiyajin, atacando Cooler com todas suas forças e o arremessando no sol. Será o fim de Cooler?</info>
@@ -298,7 +226,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME060B265dpk7MD54RzMtS2FtejhEWWs</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME060B265dpk7MD54RzMtS2FtejhEWWs.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2006%20-%20O%20Retorno%20de%20Coola.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2006%20-%20O%20Retorno%20de%20Coola.jpg</fanart>
 <info>Goku e sua turma estão no planeta Namek para vencer Cooler, este que escapou da morte em uma batalha contra Goku na Terra. Agora os guerreiros Z enfrentarão bilhões de cópias do inimigo.</info>
@@ -312,7 +240,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME070B265dpk7MD54WnktdzM4SGNjRTg</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME070B265dpk7MD54WnktdzM4SGNjRTg.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2007%20-%20O%20Retorno%20dos%20Androides.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2007%20-%20O%20Retorno%20dos%20Androides.jpg</fanart>
 <info>Esse filme relembra a destruição do Dr. Gero pelas mãos dos andróides nº 17 e 18 e como o misterioso computador despertou três novos andróides malignos. Os andróides foram programados para destruir Goku. Para encontrar os guerreiros Z, dois deles começam a destruir a cidade. Goku está no Shopping Center com a família quando percebe a bagunça e propõe aos andróides uma batalha em um lugar despovoado. Para ajudar, Trunks, Vegeta, Piccolo, Kuririn e Gohan seguem para o campo de batalha. Depois de muita luta, as peças de dois andróides unem-se a um terceiro, que fica mais poderoso, e só Goku é capaz de eliminá-lo e acabar com toda a escumalha.</info>
@@ -326,7 +254,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME080B265dpk7MD54MFQ5OXJNWEUybHM</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME080B265dpk7MD54MFQ5OXJNWEUybHM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2008%20-%20O%20Poder%20Invenc%C3%ADvel.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2008%20-%20O%20Poder%20Invenc%C3%ADvel.jpg</fanart>
 <info>O Sr.Kaioh descobre na galáxia do sul a existência de um Lendário Super Saiyajin que está destruindo todos os planetas pertencentes a essa galáxia. Temendo uma nova devastação, ele chama Goku para investigar o ocorrido. Enquanto isso na Terra, surge um Saiyajin chamado Paragus, que pede ajuda a Vegeta para eliminar esse suposto Saiyajin. Então Vegeta, Trunks, Gohan, Kuririn, e o Mestre Kame partem a um planeta que Paragus construiu para que o príncipe Vegeta reinasse e lá descobrem que o Lendário Super sayajin é Broly, filho de Paragus, que armou uma emboscada para explodir o novo Planeta Vegeta com os Guerreiros Z junto e, assim dominar a Terra. Goku segue o rastro de KI até este planeta, onde trava uma luta com Broly, pois este ficou traumatizado com o choro de Goku, que ficou ao seu lado na maternidade dos sayajins. Conseguirá Goku, deter este monstro insano ?</info>
@@ -340,7 +268,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME09</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME09.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2009%20-%20A%20Batalha%20Nos%20Dois%20Mundos.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2009%20-%20A%20Batalha%20Nos%20Dois%20Mundos.jpg</fanart>
 <info>Após uma explosão. uma série de criminosos e mercenários espaciais foram libertados. O líder dos vilões, Bojack, vai então para a Terra participar de um torneio de artes marciais, organizado por um ricaço muito poderoso da Terra. Trunks, Yamcha, Gohan, Piccolo e Tenshinham participam do torneio. Yamcha é derrotado pouco antes de lutar, Tenshinham é derrotado por Trunks Super Saiyajin, Piccolo dá a vitória a Kuririn e Gohan derrota um lutador e passa para a próxima fase. Na segunda fase Kuririn enfrenta Zangya e é derrotado. Trunks enfrenta outro que o derrota, mas este é derrotado por Bojack. Vegeta aparece para ajudar seu filho, mas Vegeta e Trunks não puderam fazer muita coisa. Gohan, Yamcha e Tenshinham aparecem para ajudar, mas Yamcha e Tenshinham são derrotados sem dificuldades. Piccolo que tinha saido do torneio, aparece para ajudar Gohan, mas este acaba sendo derrotado. Gohan é emboscado por Bidu e é envolto pelos fios paralisantes de Bujin. Entretanto, Gohan ainda corria perigo e Goku que ainda estava morto depois do torneio de Cell, faz o teletransporte e salva Gohan. Gohan percebe que seu pai o ajudou, usa seus verdadeiros poderes desde a luta contra Cell e derrota Bujin e Bidu. Bojack mata sua serva Zangya e enfreta Gohan, mas Gohan perfura a boca do estômago de Bojack. Bojack não desiste, e Gohan o desintegra utilizando o Kamehameha.</info>
@@ -354,7 +282,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME10</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME10.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2010%20-%20O%20Retorno%20do%20Guerreiro%20Lend%C3%A1rio.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2010%20-%20O%20Retorno%20do%20Guerreiro%20Lend%C3%A1rio.jpg</fanart>
 <info>Videl Trunks e Goten estão atrás das esferas do dragão, o motivo? Trunks quer um parque de diversões somente para ele, e Goten quer um local onde só exista doces… Eles, sem querer, vão parar em um pequeno vilarejo, lá, eles descobrem que existe um monstro que aterroriza o vilarejo, então, Trunks, Videl e Goten resolvem se tornarem isca para ver qual tipo de monstro é, Trunks diz que está com fome e pega uma maçã das oferendas, Goten diz que vai pegar e Videl dá um tapa nele dizendo que não pode, Goten começa a chorar e esse choro faz com que Broly acorde, Broly pensa que Goten é Goku, quando o monstro chega eles descobrem que é somente um dinossauro… Goten e Trunks brincam com ele, um pouco mais para frente, aparece Broly, com um só objetivo, matar Goten, na verdade, era para ser Goku, mas ele pensa que Goten é Goku, e eles começam a brigar com Broly... Gohan e Kuririn, com o uniforme de Piccolo aparecem para ajudar, mas nada conseguem fazer. Entretanto, as esferas são ativadas e seu desejo para derrotar Broly era trazer Goku. Goku pede para seus filhos para se unirem e assim derrotam Broly com o triplo Kamehameha definitivamente.</info>
@@ -368,7 +296,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME110B265dpk7MD54WmZLRDdPZW4zN2s</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME110B265dpk7MD54WmZLRDdPZW4zN2s.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2011%20-%20O%20Combate%20Final.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2011%20-%20O%20Combate%20Final.jpg</fanart>
 <info>Mr. Satan, Androide 18, Goten e Trunks encontram um laboratório e descobrem lá um clone do Broly (os guerreiros Z não sabiam, mas o sangue de Broly fora retirado, vendido e seu DNA foi estudado), às crianças e o andróide tentam destruir o clone que está adormecido, mas o clone de Broly acorda. Goten e Trunks tem que lutar como nunca para derrotar esse perigoso inimigo. Entretanto, Kuririn aparece também para ajudar, mas seu poder era muito pior do que o original. Trunks tenta jogar o Bio-Broly no líquido derretido. Mas Broly reaparece e Mr. Satan começa a dar respingos de água que neutraliza Broly. Trunks, Kuririn e Goten usam o rio e dão um banho em Broly. Broly reaparece do rio petrificado, mas acaba sendo feito em pedaços por Goten e Trunks. Goku acaba sabendo que Broly havia retornado, mas tudo que tinha em mente era matar sua fome.</info>
@@ -382,7 +310,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME12</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME12.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2012%20-%20Uma%20Nova%20Fus%C3%A3o!%20Goku%20e%20Vegeta.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2012%20-%20Uma%20Nova%20Fus%C3%A3o!%20Goku%20e%20Vegeta.jpg</fanart>
 <info>No castelo do Sr. Emmadaioh, um funcionário descuidado esquece de trocar o tanque da Lavadora de Almas. Não aguentando a pressão, o tanque explode, e vaza um gás roxo que transforma esse funcionário num terrível monstro chamado Janemba. Este, prende o castelo do Sr. Emmadaioh em cristais coloridos, fazendo que todos os mortos ressuscitem, gerando um caos total na Terra. Enquanto Gohan, Videl, Goten, Trunks e os outros Guerreiros Z tentam conter a confusão na terra, Goku e Paikuhan (que estavam duelando no torneio do outro mundo) vão até o castelo do Sr. Emmadaioh para libertá-lo e derrotar Janemba. Goku Super Sayajin 3, quase derrota Janemba, mas este se transforma no Super Janemba e põe Goku num cristal. Nessa hora, surge Vegeta que também não consegue derrotar Janemba. Goku pede a ele para que façam a fusão, mas ele não concorda. Depois, ao se ver sem saída, Vegeta se dispõe a fazê-la, mas não dá certo e aparece o Veku (uma versão baixinha, gorducha e bem fraca) em vez de Gogeta. O Sr. Kaioh manda uma mensagem telepática, dizendo que a fusão não deu certo porque Vegeta, não alinhou corretamente os seus dedos em relação aos do Goku, mas que terão que esperar 30 minutos para que a fusão acabe e eles possam tentar novamente. Veku apanha por meia hora, quando a fusão se desfaz e eles voltam ao normal. Eles repetem os mesmos passos e desta vez, dá certo. Nesse instante, Gogeta aplica o golpe "Stardust Breaker" ou "Castigador Galáctico" em Janemba, que volta a ser o funcionário do Sr. Emmadaioh e foge correndo. Os cristais desaparecem e o equilíbrio entre o Mundo dos Mortos e o Mundo dos Vivos é reinstaurado</info>
@@ -396,7 +324,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME130B265dpk7MD54VFhfNGFpVlVQbm8</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=DBZFILME130B265dpk7MD54VFhfNGFpVlVQbm8.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2013%20-%20O%20Ataque%20do%20Drag%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20Filme%2013%20-%20O%20Ataque%20do%20Drag%C3%A3o.jpg</fanart>
 <info>O filme se inicia com um garoto em um planeta distante, empunhando uma espada enquanto parece tentar escapar de algo. De repente, um alto barulho o alerta que a coisa que ele procurava estava atrás dele. Contudo, era tarde para revidar e o garoto é esmagado pela enorme criatura. Bem distante dali, uma risada perversa pode ser ouvida.</info>
@@ -404,13 +332,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DRAGON BALL Z - FILME 14 - A BATALHA DOS DEUSES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBZFILME14</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=DBZFILME14.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20A%20Batalha%20Dos%20Deuses.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20A%20Batalha%20Dos%20Deuses.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -418,13 +340,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DRAGON BALL Z - FILME 15 - O RENASCIMENTO DE FREEZA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DBZFILME15</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=DBZFILME15.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20O%20Renascimento%20de%20Freeza.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Ball%20Z%20-%20O%20Renascimento%20de%20Freeza.jpg</fanart>
 <info>Sorbet e Tagoma, dois remanescentes do exército de Freeza, chegam à Terra em busca das Esferas do Dragão. A ideia é reuni-las para ressuscitar seu antigo líder, que faleceu após uma batalha contra Goku. O plano é bem-sucedido e, com isso, Freeza retorna disposto a se vingar. Para tanto ele se prepara durante meses, de forma que possa reencontrar Goku no auge do seu poder.</info>
@@ -432,13 +348,7 @@
 </item>
 <item>
 <title>[B][COLOR white]DRAGON QUEST: YOUR STORY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DRGNQSTYRSTRY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=DRGNQSTYRSTRY.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Dragon%20Quest%20-%20%20Your%20Story.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Dragon%20Quest%20-%20%20Your%20Story.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -446,13 +356,7 @@
 </item>
 <item>
 <title>[B][COLOR white]FATAL FURY 2: O DESAFIO DE KRAUSER[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FTLFRY2ODFSDKRSR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=FTLFRY2ODFSDKRSR.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%202%20-%20O%20Desafio%20de%20Krauser.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%202%20-%20O%20Desafio%20de%20Krauser.jpg</fanart>
 <info>Depois de derrotar Geese Howard, o lendário lutador Terry Bogard fica cara a cara com guerreiro alemão Wolfgang Krauser, e sofre uma derrota humilhante. Deprimido por sua derrota, Terry vagueia por todo o país, desperdiçando sua vida em bebedeiras. Apenas um garoto chamado Tony pode convencer Terry a voltar para as suas vitórias, conquistar seus medos, e mais uma vez enfrentar Krauser.</info>
@@ -460,13 +364,7 @@
 </item>
 <item>
 <title>[B][COLOR white]FATAL FURY 3: A FÚRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FTLFRY3</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=FTLFRY3.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%203%20-%20A%20F%C3%BAria.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%203%20-%20A%20F%C3%BAria.jpg</fanart>
 <info>O jovem milionário, Laocorn Gaudeamus, está em uma cruzada para recuperar seis peças da armadura, que dizem dar ao usuário o poder de Marte, o Deus da Guerra lendário. Temendo que seu irmão gêmeo está lentamente a perder sua sanidade, com cada peça de armadura que ele recolhe, Sulia corre para Terry, Andy, Joe e Mai para formar a sua própria cruzada global para impedir Laocorn de abrir uma caixa de Pandora potencial e liberar uma forma incontrolável de destruição.</info>
@@ -474,13 +372,7 @@
 </item>
 <item>
 <title>[B][COLOR white]FATAL FURY: REI DOS LUTADORES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FTLFRY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=FTLFRY.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%20-%20Rei%20dos%20Lutadores.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Fatal%20Fury%20-%20Rei%20dos%20Lutadores.jpg</fanart>
 <info>Dez anos após a morte de seu pai adotivo, os irmãos Terry e Andy Bogard voltam para Southtown para fazer vingança ao senhor do crime Geese Howard. Eles se unem ao campeão de muai-thai Joe Higashi e participam do torneio "The King of Fighters", na esperança de enfrentar Geese e lhe dar a sua merecida derrota.</info>
@@ -488,13 +380,7 @@
 </item>
 <item>
 <title>[B][COLOR white]FULLMETAL ALCHEMIST - FILME 01 - O CONQUISTADOR DE SHAMBALLA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FLLMTACHMFILME01</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=FLLMTACHMFILME01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Fullmetal%20Alchemist%20Filme01.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Fullmetal%20Alchemist%20Filme01.jpg</fanart>
 <info>O filme se passa dois anos após os acontecimentos do último episódio da série Fullmetal Alchemist. Edward Elric vive em Munique (Alemanha) no ano de 1923, junto com Alphonse Heiderich, onde busca uma forma de voltar ao seu mundo e reencontrar seu irmão Alphonse Elric e seus amigos, mas ele terá que enfrentar também os problemas de sua época no outro mundo, como por exemplo Adolf Hitler.</info>
@@ -502,13 +388,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INUYASHA 1: SENTIMENTOS QUE TRANSCENDEM O TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INYSHFLM1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INYSHFLM1.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/InuYasha%201%20-%20Sentimentos%20que%20Transcendem%20o%20Tempo.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/InuYasha%201%20-%20Sentimentos%20que%20Transcendem%20o%20Tempo.jpg</fanart>
 <info>200 anos atrás, o pai de InuYasha selou um poderoso demônio de uma terra estrangeira chamado Myōga. Um fragmento da Joia de Quatro Almas desperta o filho de Myōga, Menoumaru, inspirando-o a absorver os restos de poder de seu pai para tomar o controle do mundo. Cabe a InuYasha e seus amigos parar esse inimigo quase invencível!</info>
@@ -516,13 +396,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INUYASHA 2: O CASTELO DAS ILUSÕES DENTRO DO ESPELHO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INYSHFLM2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INYSHFLM2.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/InuYasha%202%20-%20O%20Castelo%20das%20Ilus%C3%B5es%20Dentro%20do%20Espelho.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/InuYasha%202%20-%20O%20Castelo%20das%20Ilus%C3%B5es%20Dentro%20do%20Espelho.jpg</fanart>
 <info>Com seu maior inimigo Naraku supostamente derrotado, InuYasha e seus amigos retornam à rotina do dia-a-dia. Mas a paz é logo abalada pela chegada de um novo adversário.</info>
@@ -530,13 +404,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INUYASHA 4: FOGO NA ILHA MÍSTICA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INYSHFLM4</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INYSHFLM4.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/InuYasha%204%20-%20Fogo%20na%20Ilha%20M%C3%ADstica.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/InuYasha%204%20-%20Fogo%20na%20Ilha%20M%C3%ADstica.jpg</fanart>
 <info>Ai, um jovem meio-yōkai que escapou da Ilha Horai para tentar ajudar seu povo, retorna com uma ajuda promissora: InuYasha, Sesshomaru e Kikyo.</info>
@@ -544,13 +412,7 @@
 </item>
 <item>
 <title>[B][COLOR white]MAZINGER Z: INFINITO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MAZNGRZ</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=MAZNGRZ.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Mazinger%20Z%20-%20Infinito.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Mazinger%20Z%20-%20Infinito.jpg</fanart>
 <info>Depois de um período de dez anos, o piloto Koji Kabuto e seu robô Mazinger Z precisam enfrentar novamente Dr. Hell. Durante uma série de escavações no Monte Fuji, a montanha mais alta do Japão, foi encontrado o Infinity, um artefato que abriga a humanóide Lisa. Dr. Hell deseja roubar o Infinity para despertar Goragon, uma poderosa arma que permite a criação de novos mundos. Koji assume o controle de Mazinger mais uma vez para impedir que o cientista consiga pôr o plano em ação.</info>
@@ -558,13 +420,7 @@
 </item>
 <item>
 <title>[B][COLOR white]MEU AMIGO TOTORO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MEUAMGTOTRO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=MEUAMGTOTRO.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Meu%20Amigo%20Totoro.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Meu%20Amigo%20Totoro.jpg</fanart>
 <info>Mei é uma jovem que encontra uma pequena passagem em seu quintal, que a leva a um lendário espírito da floresta, conhecido como Totoro. Sua mãe está no hospital e seu pai divide o tempo entre dar aulas na faculdade e cuidar de sua mulher doente. Quando Mei tenta visitar a mãe por conta própria, se perde na floresta, e só o grande e fofo Totoro pode ajudá-la a achar o caminho de volta para casa.</info>
@@ -572,13 +428,7 @@
 </item>
 <item>
 <title>[B][COLOR white]MILLENNIUM ACTRESS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MLNUMACTRS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=MLNUMACTRS.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Millennium%20Actress.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Millennium%20Actress.jpg</fanart>
 <info>Chiyoko (Miyoko Shôji) é uma atriz de sucesso que abandona sua carreira, porém decide relatar sua trajetória e os motivos de sua reclusão. De volta ao passado de Chiyoko, há uma mescla de imaginação, fantasia e realidade.  </info>
@@ -586,13 +436,7 @@
 </item>
 <item>
 <title>[B][COLOR white]MODEST HEROES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]MDSTHROS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=MDSTHROS.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Modest%20Heroes.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Modest%20Heroes.jpg</fanart>
 <info>Uma antologia de três curtas originais escrita e dirigida por Hiromasa Yonebayashi, Yoshiyuki Momose e Akihiko Yamashita.</info>
@@ -600,13 +444,7 @@
 </item>
 <item>
 <title>[B][COLOR white]NARUTO CLÁSSICO - FILME 01 - CONFRONTO NINJA NO PAÍS DA NEVE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc6</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NRTOFILME01</page><referer>$doregex[BPL]</referer></regex>
+<link>rc6=NRTOFILME01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme1.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Naruto%20Filme1.jpg</fanart>
 <info>O filme começa com Naruto, Sasuke e Sakura assistindo um filme estrelado por Yukie Fujikaze em um cinema local. Kakashi ordenou que vissem o filme como um preparação para sua próxima missão: impedir que Yukie, que interpreta a Princesa Ventania nos filmes, seja capturada durante a produção de seu último filme. Mais tarde é revelado que Yukie na verdade é Koyuki Kazahana, uma princesa de uma ilha conhecida como País da Neve. Dotou Kazahana, que é revelado como tio de Koyuki, foi responsável pelo assassinato de Sosetsu, o pai dela, em um golpe de estado. Durante a filmagem do filme, os subordinados de Dotou, vestindo armaduras de chakra, tentam capturar a princesa, porém o Time 7 os impede. Eventualmente, os guarda-costas que queriam proteger e restabelecer Koyuki como governante do País da Neve são mortos e ela é capturada. Naruto entra no navio onde ela foi aprisionada para resgatá-la, porém é capturado e forçado a usar um dispositivos de drenagem de chakra. Dotou obriga Koyuki - mas não tem sucesso - a entregar um colar de cristal dada por seu pai quando ela era jovem, pois acreditava que era a chave que abriria o tesouro escondido deixado por Sosetsu. A cantora Yuki realiza a canção de encerramento "Home Sweet Home".  O Sasuke, Sakura e Kakashi se infiltram no forte enquanto Naruto e Koyuki escapam de seu cativeiro. Eles enfrentam Dotou e ele consegue tomar o colar de cristal e escapar com Koyuki. Naruto segue Dotou enquanto o restante do Time 7 confronta seus capangas. Kakashi derrota o líder deles, Nadare Roga, enquando Sasuke e Sakura derrotam os outros dois, Fubuki Kakuyoku e Mizore Fuyukuma. Enquanto isso, Dotou descobre que o tesouro escondido é um gerador projetado para derreter a neve e, assim, trazer a primavera ao país. Naruto o enfrenta, mas é vencido novamente. Sasuke usa seu Chidori para enfraquecer a armadura de Dotou. Logo depois, Naruto libera sua energia e usa um novo Jutsu (Rasengan de Sete Cores) para finalmente derrotar Dotou e ativar o gerador no processo.  No final do filme, Koyuki decide reivindicar seu lugar de direito na realeza e menciona para o Time 7 que sua carreira de atriz não vai acabar.</info>
@@ -614,13 +452,7 @@
 </item>
 <item>
 <title>[B][COLOR white]NEON GENESIS EVANGELION: O FIM DE EVANGELION[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NGEVGLNEOFMEVLGION</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=NGEVGLNEOFMEVLGION.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Neon%20Genesis%20Evangelion%20-%20O%20Fim%20de%20Evangelion.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Neon%20Genesis%20Evangelion%20-%20O%20Fim%20de%20Evangelion.jpg</fanart>
 <info>Tanto este filme, como o anterior (Morte e Renascimento), caracterizam o "final alternativo" de Neon Genesis Evangelion. Por ser um final alternativo, os episódios 25 e 26 da série original são desconsiderados. O Fim de Evangelion, assim como Morte e Renascimento, é divido em duas partes: O primeiro é a repetição de "Renascimento" com mais cenas e renomeado para "Air" (chamado também de "Episódio 25"). A segunda parte é chamada de "Heart" (ou "Episódio 26"). O filme mostra o verdadeiro final da série. Todos os acontecimentos de Neon Genesis Evangelion culminaram para esse ponto. O Terceiro Impacto começa e cabe a Shinji Ikari decidir o futuro da humanidade. Sem deixar os momentos de ação e de filosofia de lado (e também muitas indagações), O Fim de Evangelion é um final merecido para série.</info>
@@ -628,13 +460,7 @@
 </item>
 <item>
 <title>[B][COLOR white]NI NO KUNI[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]NINOKNI</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=NINOKNI.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Ni%20no%20Kuni.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Ni%20no%20Kuni.jpg</fanart>
 <info>O filme contará com uma história original em que, através de um certo incidente, três amigos poderão viajar entre a realidade e o "outro mundo" (Ni no Kuni). Quando a vida do Kotona em ambos os mundos é simultaneamente colocada em perigo, os três amigos devem fazer "a escolha final".</info>
@@ -648,7 +474,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME01</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2001%20-%20O%20Santo%20Guerreiro.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2001%20-%20O%20Santo%20Guerreiro.jpg</fanart>
 <info>A deusa da discórdia, Éris, que ama o caos e a discórdia, foi aprisionada no passado dentro da Maçã de Ouro (É de onde vem o termo pomo da discórdia) que acaba caindo na Terra guiada pelo cometa Leparus. Ergue seu santuário e ressurge na época atual com o próposito de tramar contra a vida de Saori Kido, que é a reencarnação da deusa Atena. Éris reencarna temporariamente no corpo da jovem Eiri e sequestra Saori Kido com o objetivo de sugar todo seu cosmo. Para isso, coloca a maçã dourada no peito de Saori e começa a retirar a energia vital de Atena. Para evitar isso os cinco Cavaleiros de Atena levantam-se contra os cinco Cavaleiros Fantasmas, antigos cavaleiros de Atena, ressuscitados por Éris. Os cavaleiros de Atena têm até o pôr do sol para salvá-la e por fim às ambições da deusa do mal, que pretende ressuscitar se por completo e trazer a vida todos os guerreiros mortos no passado e condenados por Atena por cometerem atos diabólicos. Se Éris ressuscitar por completo este mundo estará perdido! Só os cavaleiros da esperança podem por fim a seus intentos malignos!</info>
@@ -662,7 +488,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME02</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME02.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2002%20-%20A%20Grande%20Batalha%20dos%20Deuses.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2002%20-%20A%20Grande%20Batalha%20dos%20Deuses.jpg</fanart>
 <info>O filme começa com Hyoga salvando um soldado de Odin, mas este morre dizendo que a batalha dos deuses iria começar. O cavaleiro de cisne desaparece e, então, os outros cavaleiros de bronze vão para Asgard tentar descobrir o seu paradeiro, porém Saori Kido é sequestrada pelo representante de Odin, Durval. Assim começa uma batalha contra os Guerreiros de Asgard.</info>
@@ -676,7 +502,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME03</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME03.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2003%20-%20A%20Lenda%20dos%20Defensores%20de%20Atena.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2003%20-%20A%20Lenda%20dos%20Defensores%20de%20Atena.jpg</fanart>
 <info>Abel, filho de Zeus e irmão de Atena, é apresentado como outro deus do sol (na mitologia grega o verdadeiro deus do sol é Apolo). Abel tenta destronar seu pai e se tornar o deus dos deuses, mas foi derrotado por Zeus e Apolo. Após a morte de Abel, os deuses apagaram todos os registros de sua existência como punição, para que as gerações vindouras jamais soubessem de sua existência.  Porém, devido às blasfêmias humanas nos dias atuais, os deuses revivem Abel, dando-lhe a missão de destruir a humanidade e devolver a Terra para o domínio do Olimpo.  Abel, então, revive três cavaleiros que o serviram, os mesmo cavaleiros da Coroa do Sol da era mitológica. Todos eles são protegidos por armaduras feitas da coroa do sol, por Abel. Os Cavaleiros de Ouro mortos na saga das doze casas também são ressuscitados para que lhe ajudem na sua missão.  Após reecontrar Atena, Abel diz que irá levá-la ao Santuário da coroa do sol com seus guerreiros, o que a leva a abandonar os Cavaleiros de Bronze. Saori no começo mente para Abel, dizendo que aceita a destruição da Terra pelos deuses, mas depois ataca Abel e acaba sendo morta por seu irmão que diz que levará sua alma até os Campos Elíseos.  Incorfomados com a morte de Atena, os cavaleiros decidem enfrentar os ressuscitados Cavaleiros de Ouro e os Cavaleiros da Coroa do Sol, mesmo que isso signifique pecar contra os deuses. Saga, Shura e Camus decidem lutar por Atena e acabam sendo mortos pelos guerreiros de Abel. Máscara da Morte e Afrodite permanecem fiéis a Abel, mas são derrotados por Shiryu e Ikki, respectivamente.  Ao contrário do que foi dito na revista "Herói" que saiu no Brasil na década de 1990, Abel não tem ligação alguma com o personagem da mitologia babilônica. Ele é um personagem inventado especialmente para o filme, inspirado em relatos de mitologia que diziam que Zeus teria um filho que o superaria se nascesse, sendo Zeus obrigado a impedir o nascimento de tal filho.  O filme antecipa acontecimentos da Saga de Poseidon (Hyoga e Shiryu vestindo armaduras de ouro), e da Saga de Hades (ressurreição dos cavaleiros de ouro).</info>
@@ -690,7 +516,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME046131360427441894609</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME046131360427441894609.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2004%20-%20Os%20Guerreiros%20do%20Armagedon.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2004%20-%20Os%20Guerreiros%20do%20Armagedon.jpg</fanart>
 <info>Lúcifer era um dos anjos mais poderosos, dotado de beleza e intelecto pelo Deus Onipresente, mas tentou ser superior a Deus e acabou sendo derrotado pelo Arcanjo Miguel (representado por Atena na mitologia grega).  Após derrotarem os deuses Poseidon, Éris e Abel, Atena e seus cavaleiros acreditaram que finalmente haveria paz sobre a Terra. Ledo engano, pois quando as almas dos três deuses se juntaram no inferno, Lúcifer foi despertado.  Durante a noite, os "Anjos da Morte", subordinados de Lúcifer, atacam os Cavaleiros de Ouro no Santuário e Lúcifer invade o templo de Atena, impiedosamente degolando a estátua da deusa, que significa a paz sobre a Terra.  A partir daí começam uma série de desastres naturais, todas orquestradas pelos três deuses malévolos ressuscitados pelo Senhor dos Demônios: Poseidon devasta cidades litorâneas inteiras com seus maremotos gigantes, Abel desperta todos os vulcões para dissolver o mundo em lagos de fogo e cinzas, e Éris cria pestes mortais para dizimar todos os seres vivos existentes.  Mais tarde, Atena percebe que o ocorrido só poderia ter sido feito por alguém terrivelmente maligno. Nessa hora Lúcifer em pessoa aparece com seus subordinados, os quatro Anjos da Morte, e diz que chorar não adiantará nada. Seiya, Shun e Hyoga decidem lutar, mas são facilmente derrotados, pois estavam sem suas armaduras. Lúcifer vai embora e diz que estará esperando por Atena no Pandemônio.</info>
@@ -704,7 +530,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME05</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server1http.php?vid=OCDZFILME05.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2005%20-%20Pr%C3%B3logo%20do%20C%C3%A9u.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2005%20-%20Pr%C3%B3logo%20do%20C%C3%A9u.jpg</fanart>
 <info>Depois de uma década, os Cavaleiros do Zodíaco voltaram aos cinemas do Brasil - e em uma superprodução com animação de altíssima qualidade! Após a terrível batalha contra Hades, os defensores da deusa Atena ainda estão se recuperando quando se deparam com um novo inimigo: a poderosa deusa Artemis ( cuja pronúncia correta seria Ártemis ) que, liderando os impressionantes cavaleiros celestiais, quer tomar o controle do Santuário...e também de todo o planeta Terra!</info>
@@ -712,13 +538,7 @@
 </item>
 <item>
 <title>[B][COLOR white]OS CAVALEIROS DO ZODÍACO: A LENDA DO SANTUÁRIO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OCDZFILME06</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=OCDZFILME06.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2006%20-%20A%20Lenda%20Do%20Santu%C3%A1rio.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20-%20Filme%2006%20-%20A%20Lenda%20Do%20Santu%C3%A1rio.jpg</fanart>
 <info>Na luta para defender Atena e colocá-la em seu lugar de direito, os Cavaleiros de Bronze lutam para superar o Mestre do Santuário e os poderosos Cavaleiros de Ouro, guardiões das 12 casas. Inicialmente chamado de "Saint Seiya - Knights of the Zodiac", o filme é uma adaptação para os cinemas da saga "Cavaleiros do Zodíaco".</info>
@@ -726,13 +546,7 @@
 </item>
 <item>
 <title>[B][COLOR white]OS SETE PECADOS CAPITAIS: PRISIONEIROS DOS CÉUS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OSTSPCDSCPTPRSNTSDCEU</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=OSTSPCDSCPTPRSNTSDCEU.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Os%20Sete%20Pecados%20Capitais%20-%20Prisioneiros%20dos%20C%C3%A9us.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Os%20Sete%20Pecados%20Capitais%20-%20Prisioneiros%20dos%20C%C3%A9us.jpg</fanart>
 <info>Os Sete Pecados viajam para uma terra remota em busca do ingrediente conhecido como peixe celestial; Meliodas e Hawk acabam no Palácio dos Céus que existe acima das nuvens, e é habitado por seres alados. Após sua chegada, o capitão dos Pecados é confundido com um menino que cometeu um crime e acaba sendo preso.Enquanto isso, os moradores estão preparando uma cerimônia de defesa contra um besta feroz que desperta a cada 3000 anos. No entanto, os Seis Cavaleiros de Preto, um exército do clã demoníaco, remove o selo da besta para ameaçar a vida dos moradores do Palácio. Meliodas e seus aliados enfrentarão esses cavaleiros em um campo de batalha.</info>
@@ -740,13 +554,7 @@
 </item>
 <item>
 <title>[B][COLOR white]PAPURIKA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PAPRKA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf5=PAPRKA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Papurika.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Papurika.jpg</fanart>
 <info>Num futuro próximo, o Dr. Tokita (Tôru Furuya) inventa um poderoso aparelho chamado DC-Mini, que torna possível o acesso aos sonhos das pessoas. Sua colega, a Dra. Atsuko Chiba (Megumi Hayashibara), psicoterapeuta e pesquisadora de ponta, desenvolve um tratamento psiquiátrico revolucionário a partir do aparelho. Mas, antes de seu uso ser sancionado pelo governo, o DC-Mini é roubado. Quando vários dos pesquisadores do laboratório começam a enlouquecer e a sonhar em estado de vigília, Atsuko assume seu alter-ego, Paprika, a bela "detetive de sonhos", para mergulhar no mundo do inconsciente e descobrir quem está por trás da tragédia.</info>
@@ -754,13 +562,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 01 - MEWTWO CONTRA-ATACA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM01</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM01.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2001%20-%20Mewtwo%20Contra-Ataca.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2001%20-%20Mewtwo%20Contra-Ataca.jpg</fanart>
 <info>A marca Pokémon estava prestes a evoluir mais uma vez. Depois de sair dos jogos e passar para a tevê e mangá, se convertendo em diversos produtos diferentes, era a hora de Pikachu e seus amigos chegarem às telas grandes. Acontece que o primeiro filme dos monstros de bolso, Mewtwo Strikes Back, tinha um tom bem mais sombrio que a série animada e era necessário que houvesse alguma coisa para suavizar tudo isso e tornar o filme mais leve para o público-alvo infantil.2 Foi então que os produtores do filme tiveram a ideia de fazer um curta-metragem de 21 minutos que seria exibido antes do longa-metragem para fazer a alegria das crianças e seus pais antes de pular para a história mais séria. Assim nasceu As férias de Pikachu (???????????, Pikach? no Natsuyasumi?, lit. "As Férias de Verão de Pikach?"), o primeiro curta-metragem cinematográfico de Pokémon, escrito por Takeshi Shudo e dirigido por Kunihiko Yuyama.  Como tinha um tom mais leve e alegre, o filme puxou mais para o lado da comédia, trazendo os Pokémon mais fofos do anime para uma aventura só deles – algo inédito na série até então. Em As Férias de Pikachu, Ash, Misty e Brock chegam a um local onde seus Pokémon podem brincar livremente enquanto tiram um dia de descanso de sua longa jornada. E como todos os Pokémon do trio principal vão felizes curtir esse dia de férias, Pikachu, Squirtle e Bulbasaur ficam responsáveis por cuidar do pequeno Togepi de Misty sozinhos. Entretanto, a situação fica tensa para Pikachu e cia., quando surge um grupo formado por quatro metidos Pokémon, Raichu, Snubbull, Cubone e Marill, que rivalizam imediatamente com o grupo de babás do Togepi.  Agora, ao mesmo tempo em que cuida de Togepi, o rato elétrico terá que lidar com a rivalidade de seus amigos e até dele próprio com o grupo de Raichu. O resultado disso tudo é uma enorme confusão que acaba causando a fúria do Meowth da Equipe Rocket e fazendo com que não só Charizard entre pelo cano, literalmente, mas também que os Pokémon aprendam que a melhor diversão não vem da rivalidade e sim da cooperação.  Quando o primeiro filme foi negociado pela 4Kids para o ocidente, o curta-metragem também estava no pacote e foi lançado nos cinemas pela Warner Bros antes do longa-metragem de Mewtwo, contendo várias adaptações feitas pela 4Kids com o intuito de torná-lo mais aceitável para o público ocidental. Este curta-metragem também marcou a primeira vez que um Pokémon de uma nova geração foi revelado nos cinemas, apresentando aos fãs os Pokémon Snubbull e Marill, desconhecidos dos jogadores e telespectadores do anime na época.</info>
@@ -768,13 +570,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 02 - POKÉMON 2000: O PODER DE UM[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM02</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM02.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2002%20-%20Pok%C3%A9mon%202000%20-%20O%20Poder%20De%20Um.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2002%20-%20Pok%C3%A9mon%202000%20-%20O%20Poder%20De%20Um.jpg</fanart>
 <info>Enquanto Ash, Misty e Tracey viajam num barco, Giraldan, um colecionador de bichinhos pokémon, prepara seu mais novo plano: capturar o raro Lugia. Para tanto, provoca uma catástrofe climática quando ataca e retira de suas ilhas os três pássaros sagrados: Moltres, o pássaro-guardião de fogo; Zapdos, o pássaro-guardião do trovão; e Articuno, o pássaro-guardião do gelo. Para evitar o completo colapso do mundo em que vivem, os pokémons e seus treinadores resolvem se unir para enfrentar juntos Giraldan.</info>
@@ -782,13 +578,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 03 - O FEITIÇO DOS UNOWN[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM03</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM03.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2003%20-%20O%20Feiti%C3%A7o%20dos%20Unown.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2003%20-%20O%20Feiti%C3%A7o%20dos%20Unown.jpg</fanart>
 <info>O jovem treinador pokémon Ash Ketchum e seus amigos partem rumo à bela montanha de Greenfield, onde eles devem encontrar Unown, o mais misterioso de todos os pokémons. O motivo da busca é que Unown criou uma disputa mais instigante que qualquer outra batalha pokémon que Ash já tenha enfrentado. Mas, com a ajuda de Pikachu, seus amigos Misty e Brock e até mesmo da Equipe Rocket, Ash irá ainda ajudar a órfã Molly a se libertar das forças místicas que a mantém presa em um mundo de sonhos.</info>
@@ -796,13 +586,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 04 - VIAJANTES DO TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM04</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM04.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2004%20-%20Viajantes%20do%20Tempo.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2004%20-%20Viajantes%20do%20Tempo.jpg</fanart>
 <info>Há 40 anos um poderoso pokémon, Celebi, escapou por pouco de um caçador especializado em capturar e vender pokémons raros. Juntamente com Sammy, um garoto, Celebi usou seus poderes para viajar no tempo e escapar da ameaça. Já no presente Sammy encontra Ash, Pikachu e seus amigos, a quem pede ajuda já que Celebi está esgotado pelo esforço feito pela viagem. Entretanto o grupo terá que enfrentar um poderoso vilão, que possui uma pokebola capaz de transformar os pokémons capturados em criaturas malignas e poderosas.</info>
@@ -810,13 +594,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 05 - HERÓIS POKÉMON[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM05</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM05.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2005%20-%20Her%C3%B3is%20Pok%C3%A9mon.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2005%20-%20Her%C3%B3is%20Pok%C3%A9mon.jpg</fanart>
 <info>Acompanhe mais uma divertida aventura de Ash, Pikachu e seus amigos. Alto Maré é uma ilha muito diferente. O estilo, a arquitetura, a localidade e até mesmo pelo que é famosa: uma cidade construída sobre a superfície da água. A beleza e os locais de Alto Maré deram-lhe o título de "A capital das águas". Mais há algo por trás de Alto Mare...</info>
@@ -824,13 +602,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 06 - JIRACHI REALIZADOR DE DESEJOS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM06</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM06.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2006%20-%20Jirachi%20Realizador%20de%20Desejos.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2006%20-%20Jirachi%20Realizador%20de%20Desejos.jpg</fanart>
 <info>O enredo gira em torno da Equipe Rocket e sua mais nova base. Os Pokémon da Equipe Rocket, com o objetivo de proporcionar entretenimento para Giovanni, capturam três Whismur. Para forçar os Whismur a cooperar, Meowth tem um bastão que, quando um botão é pressionado, faz os Pokémon dançar incontrolavelmente.</info>
@@ -838,13 +610,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 07 - ALMA GÊMEA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM07</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM07.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2007%20-%20Alma%20G%C3%AAmea.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2007%20-%20Alma%20G%C3%AAmea.jpg</fanart>
 <info>Um meteorito misterioso é arremessado em direção à terra. Durante a sua entrada na atmosfera, quase fere Rayquaza, um guardião do céu e os mais fortes do dragão no mundo. O meteorito cai em uma zona polar, revelando dois objetos em forma de ovo. O ovo roxo regenera em um Deoxys e pega o ovo verde. Rayquaza desce da camada de ozônio para combater o invasor. Uma batalha acontece, destruindo um site de pesquisa nas proximidades e traumatizando Tory, filho do Profº Lund. Deoxys perde a luta para Rayquaza. Deoxys remonta a forma de ovo e cai no mar, enquanto alguns pesquisadores levam o ovo verde com eles. Sob o mar, o Deoxys ferido, regenera e espera.</info>
@@ -852,13 +618,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 08 - LUCARIO E O MISTÉRIO DE MEW[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM08</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM08.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2008%20-%20Lucario%20e%20o%20Mist%C3%A9rio%20de%20Mew.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2008%20-%20Lucario%20e%20o%20Mist%C3%A9rio%20de%20Mew.jpg</fanart>
 <info>A introdução mostra a todos o Mundo Pokémon e as criaturas fantásticas que nele vivem, podendo ser boas ou inimigas. Ela também mostra Ash Ketchum da cidade de Pallet, que em sua jornada Pokémon visa em ser um mestre das "criaturas de bolso". Ele já passou por quatro continentes deste mundo e agora tenta vencer os treinadores da Battle Frontier, ao lado de Brock, May e Max.</info>
@@ -866,13 +626,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 09 - POKÉMON RANGER E O LENDÁRIO TEMPLO DO MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM09</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM09.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2009%20-%20Pok%C3%A9mon%20Ranger%20e%20o%20Lend%C3%A1rio%20Templo%20Do%20Mar.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2009%20-%20Pok%C3%A9mon%20Ranger%20e%20o%20Lend%C3%A1rio%20Templo%20Do%20Mar.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -880,13 +634,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 10 - POKÉMON O PESADELO DE DARKRAI[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM10</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM10.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2010%20-%20Pok%C3%A9mon%20O%20Pesadelo%20de%20Darkrai.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2010%20-%20Pok%C3%A9mon%20O%20Pesadelo%20de%20Darkrai.jpg</fanart>
 <info>Dialga e Palkia dispertam e se encontram numa fenda entre o espaço e tempo. Lá eles começam uma batalha, mas Palkia ferido foge de Dialga. E Ash e seus amigos sentem um vento estranho causado por esses dois deuses. Em Alamos eles conhecem Alice que os guia pela cidade e Alberto um barão que culpa Darkrai por tudo e Tonio um cientista local. Ash e seus amigos vêm Darkrai um Pokémon que causa pesadelos. Ele é atacado e faz Ash ter pesadelos mostrando uma imagem. Ele acorda no centro Pokémon. Logo após Palkia luta com Dialga e tenta fugir dele indo para alamos onde tenta se recuperar. Darkrai tenta impedir Palkia, mas a cidade e levada a outra dimensão por Palkia. Eis que Dialga aparece e os tres começam uma luta que começa a destruir a cidade. Dialga e Palkia vão dar um ataque que destruia Alamos Town e Darkrai cria uma esfera que se mistura aos ataques. A esfera some e Dialga e Palkia derrotam Darkrai que some em uma nuvem de pó. Na torre Tempo-Espaço Ash e Dawn ativam a maquina que começa a tocar uma canção chamada oracion,essa cancão foi ensinada a Alice por sua vó, quando Dialga e Palkia escutam a canção se acalmão e percebem que sua luta e errada.Então Dialga e Palkia retornam a cidade para sua verdadeira posição. Numa pequena cena depois do fime Ash,Dawn,Brock,Alice e Tonio conversam sobre Darkrai, Ate verem uma sombra na parede de uma montanha, ao olharem pra torre tempo-espaço, veem Darkai Parado ali, Ash fica feliz ao ver Darkrai e o filme entra em créditos finais.</info>
@@ -894,13 +642,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 11 - GIRATINA E O CAVALEIRO DO CÉU[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM11</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM11.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2011%20-%20Giratina%20e%20o%20Cavaleiro%20do%20C%C3%A9u.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2011%20-%20Giratina%20e%20o%20Cavaleiro%20do%20C%C3%A9u.jpg</fanart>
 <info>Giratina é o único morador do Mundo Reverso, um mundo pouco conhecido em paralelo com o nosso em que vivemos. Furioso quando Palkia e Dialga distorcem o tempo e o espaço, Giratina leva Dialga até o Mundo Reverso para iniciar uma batalha - mas o confronto é paralisado por um pequeno Shaymin, um Pokémon Gratidão.</info>
@@ -908,13 +650,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 12 - POKÉMON ARCEUS E A JÓIA DA VIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM12</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM12.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2012%20-%20Pok%C3%A9mon%20Arceus%20e%20a%20J%C3%B3ia%20da%20Vida.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2012%20-%20Pok%C3%A9mon%20Arceus%20e%20a%20J%C3%B3ia%20da%20Vida.jpg</fanart>
 <info>Ash e seus amigos chegam na cidade de Michina, logo encontram duas crianças que pedem para ter uma batalha em dupla, a batalha é Pikachu e Piplup vs. Heracross e Beautifly, onde Ash e Dawn são vencedores, então os garotos sugerem que eles vão visitar as ruínas. Chegando perto das ruínas, vórtices de energia saem do lago e sugam Pikachu e Piplup, logo aparece uma garota e seu parceiro. A garota revela ter o poder de conectar seu coração com o dos pokémons, e então convoca Dialga para salvar Pikachu e Piplup, logo depois eles revelam ser Sheena e Kevin os Guardiões das Ruínas, e depois de Palkia e Giratina aparecerem também, Sheena e Kevin levam Ash e os seus amigos para conhecerem as Ruínas. Nas Ruínas, os Guardiões explicam a lenda da cidade de Michina, que diz que um dia o lendário pokémon Arceus, o criador do mundo, retornará a Michina para trazer justiça aos humanos devido ter sido traído por Damos, um ancestral de Sheena que não quis devolver a Jóia da Vida para Arceus, a jóia que foi usada para tornar Michina um lugar fértil. Logo depois de contarem a história da lenda para Ash, Dawn e Brock, eles sentem uma energia forte, e então Sheena diz: "Arceus está aqui"; então Sheena vai devolver a jóia para Arceus, a jóia estava com ela pois foi guardada por sua família durante anos; Arceus então destrói a jóia revelando ser uma cópia, pois a verdadeira foi feita por 5 das 16 placas de vida, todos ficam surpresos, então Arceus começa a destruir Michina, Dialga, Palkia e Giratina aparecem e tentam deter Arceus, logo depois Dialga manda Ash, Sheena, Dawn e Brock para o passado, para eles tentarem resolver o problema, fazendo Damos devolver a Jóia da Vida para Arceus. Chegando no passado Ash e seus amigos são presos, exceto Sheena, que fica solta para poder conversar com o verdadeiro vilão, Marcus, e ela acaba revelando tudo sobre o futuro, sem saber que ele planeja usar tudo que ela sabe. Enquanto isso, Pikachu, Piplup, Pichu, Chikorita, Cyndaquil e Totodile ajudam Ash, Dawn, Brock e Damos a escaparem, pois Ash e Dawn descobrem que Damos planejava devolver a jóia mas foi detido por Marcus, sendo preso. Todos são libertados, Marcus engana Sheena e ataca Arceus no dia de devolver a jóia, fazendo Arceus quase morrer, Ash e Dawn batalham contra o Heatran e o Bronzong de Marcus com a ajuda de Chikorita, Cyndaquil e Totodile e Ash recupera a Jóia da Vida e tenta devolver para Arceus mas ele não escuta Ash, pois está muito ferido, inconsciente e tomado pelo ódio achando que Damos o traiu, mas então Damos o salva do ódio e salva sua vida fazendo o acordar e pegar a jóia da vida de Ash, então Arceus agradece a todos. Ash e os seus amigos se despedem de Damos e voltam para o futuro. Lá eles percebem que Arceus ainda está destruindo Michina, mas quando Arceus vê Ash ele se lembra de tudo que aconteceu no passado e reconstrói tudo que destruiu e também recupera Dialga, Palkia e Giratina que estavam feridos da luta. Depois Ash e Sheena veem algo diferente nas Ruínas, uma escrição deixada por Damos para que eles pudessem ver no futuro. Arceus então chama Ash e diz a ele: " Ash, esse mundo no qual vocês vivem é maravilhoso... ... e agora eu entendo que eu faço parte dele", e vai embora. Ash, Dawn e Brock se despedem de Sheena e Kevin e seguem sua jornada, nos créditos finais é mostrado o que aconteceu aos personagens dos filmes: "O Pesadelo de Darkrai" e "Giratina e o Cavaleiro do céu".</info>
@@ -922,13 +658,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 13 - ZOROARK O MESTRE DAS ILUSÕES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFM13</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFM13.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2013%20-%20Zoroark%20o%20Mestre%20das%20Ilus%C3%B5es.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2013%20-%20Zoroark%20o%20Mestre%20das%20Ilus%C3%B5es.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -936,13 +666,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 14 - BRANCO: VICTINI E ZEKROM[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM14B</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM14B.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2014%20-%20Branco%20-%20Victini%20e%20Zekrom.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2014%20-%20Branco%20-%20Victini%20e%20Zekrom.jpg</fanart>
 <info>Durante suas viagens pela região de Unova, Ash e seus amigos Iris e Cilan chegam na Cidade de Eindoak, construída ao redor de um castelo chamado a Espada do Vale. Os três Treinadores vieram para competir na competição de batalhas anual da cidade, e Ash consegue vencer com um pouco da ajuda inesperada do Pokémon Mítico Victini! Acontece que Victini tem um laço especial com este lugar… Há muito tempo atrás, o castelo observava o Reino do Vale, e a parceria entre Victini e o rei protegia o povo que vivia lá. Mas esse reino já desapareceu da memória, deixando para trás poderosas reliquias e antigos Pokémon. Damon, um descendente do Povo do Vale, está tentando restaurar o reino perdido com a ajuda de seu Reuniclus. Sua busca o levou a lugares distantes do deserto árido, e ele convenceu o Pokémon Lendário Reshiram (Victini e Zekrom) e Zekrom (Victini e Reshiram) a se juntar a ele! Damon planeja prender Victini e retirar seu poder, e quando o plano começa a andar, a cidade inteira de Eindoak encara o desastre! O poder dos ideais de Ash convencerá o Pokémon Lendário Zekrom (Victini e Zekrom) e Reshiram (Victini e Reshiram) a ajudar a parar Damon? Eles podem resgatar Victini? A maior aventura na história Pokémon se aproxima!</info>
@@ -950,13 +674,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 14 - PRETO: VICTINI E RESHIRAM[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM14P</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM14P.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2014%20-%20Preto%20-%20Victini%20e%20Reshiram.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2014%20-%20Preto%20-%20Victini%20e%20Reshiram.jpg</fanart>
 <info>Quando o Ash e os seus amigos entram numa competição de combates na Aldeia de Eindoak, acontece quando Damon, um viajante pouco esclarecido, tem os seus próprios planos e captura Victini. Será Ash capaz de provar que é merecedor da ajuda do Lendário Reshiram, ou do Zekrom, para salvar Victini e a Aldeia de Eindoak? Duas lendas… e duas versões da mesma história!</info>
@@ -964,13 +682,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 15 - KYUREM CONTRA A ESPADA DA JUSTIÇA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM15</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM15.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2015%20-%20Kyurem%20contra%20a%20Espada%20da%20Justi%C3%A7a.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2015%20-%20Kyurem%20contra%20a%20Espada%20da%20Justi%C3%A7a.jpg</fanart>
 <info>Ash e Co. se dirijem a Rooshan/Roushan. Enquanto em um trem passando pelas montanhas, Ash encontra um Pokémon ferido que nunca havia visto antes, desmaiado. Esta é uma ilusão do Pokémon Keldeo, que diz ser o sucessor de Cobalion e Co., os mestres da Espada Sagrada que protegem o mundo. Nesse momento, Kyurem aparece e começa a atacar, mudando para Kyurem Preto e Kyurem Branco fazendo isso. Isto bloqueia o caminho de Ash e Co. até Keldeo. Ash e Co. conseguem escapar da perseguição de Kyurem, por um triz. A batalha se enfurece entre Kyurem, caçando Keldeo, e o trem e o balão de ar quente no céu. Podem Keldeo, Ash e Co. superar esse perigo?</info>
@@ -978,13 +690,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 16 - GENESECT E A LENDA REVELADA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM16</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM16.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2016%20-%20Genesect%20e%20a%20Lenda%20Revelada.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2016%20-%20Genesect%20e%20a%20Lenda%20Revelada.jpg</fanart>
 <info>A história começa quando o Exército de Genesect escaparam das instalações da Equipe Plasma com a intenção de chegar a sua casa, no entanto, devido à falta de visão e confusão sobre a sua localização, eles são incapazes de distinguir estruturas altas e objetos dos pilares pedra do seu país, o que leva a estes desencadear o caos. Sem nenhum detalhe, o exército de Genesect chega à cidade de Nova Tork e desencadear batalha contra Ash, Pikachu, Iris, Axew e Cilan. Depois de tentar Ash e companhia defender Pokémon Hills, o ataque Genesect para derrubá-los quando inesperadamente surge Mewtwo para detê-lo. Mewtwo diz que quer proteger os pokémon, e transformado em sua nova forma.</info>
@@ -992,13 +698,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 17 - DIANCIE E O CASULO DA DESTRUIÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM17</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM17.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2017%20-%20Diancie%20e%20o%20Casulo%20da%20Destrui%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2017%20-%20Diancie%20e%20o%20Casulo%20da%20Destrui%C3%A7%C3%A3o.jpg</fanart>
 <info>Em um mundo chamado Diamond Domain (ダイヤモンド鉱国, Daiyamondo Kōkoku?) encontra-se a poderosa Heart Diamond (聖なるダイヤ, Seinaru Daiya?, "Holy Diamond"), em que serviu como fonte de energia ao reino e mantém o País Ore por séculos. Vários Carbink todos vivem no país referenciado, incluindo a sua princesa, a Pokémon da Joia Diancie que criou o diamante poderoso. No entanto, ela não tem mais o poder de controlar o Heart Diamond e seu país está a cair no caos como a vida do diamante está caindo aos pedaços.  Um dia, ela encontra-se com Satoshi e seus amigos e pede a eles para ir em uma jornada para encontrar o Pokémon da Vida Xerneas, a fim de restaurar o Heart Diamond de volta à vida. Mas que está em seu caminho é o Pokémon da Destruição, Yveltal, que uma vez roubou toda a vida na Região Kalos. Durante sua jornada, eles também são atacados pela Equipe Rocket, assim como ladrões de jóias Marilyn Flame e o Ninja Riot. Eles são auxiliados por Millis Steel e seu pai Argus, os viajantes que também enfrentam o Casulo da Destruição.</info>
@@ -1006,13 +706,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 18 - HOOPA E O DUELO LENDÁRIO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM18</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM18.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2018%20-%20Hoopa%20e%20o%20Duelo%20Lend%C3%A1rio.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2018%20-%20Hoopa%20e%20o%20Duelo%20Lend%C3%A1rio.jpg</fanart>
 <info>Durante a batalha entre Groudon, Kyogre e Rayquaza, Ash e seus amigos são atraídos por um som de um anel que começa a sugar tudo à sua volta, enviando para outro local. Eles não conseguem se segurar e acabam sendo sugados para o portal e chegam a um local desconhecido. Enquanto Ash e Pikachu estão comendo rosquilhas, eles encontram o mítico Pokémon Hoopa que concorda em viajar com eles.</info>
@@ -1026,7 +720,7 @@
 <regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
 <regex><name>BPD</name><expres>"(.*?).</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server9.php?vid=PKMONFLM19</page><referer>$doregex[BPL]</referer></regex>
+<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]/player3/server9.php?vid=PKMONFLM19.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2019%20-%20Volcanion%20e%20a%20Maravilha%20Mec%C3%A2nica.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2019%20-%20Volcanion%20e%20a%20Maravilha%20Mec%C3%A2nica.jpg</fanart>
 <info>Ash encontra o mítico Pokémon Volcanion quando ele cai do céu, criando uma nuvem de poeira e uma força misteriosa une os dois. Volcanion despreza os seres humanos e tentativa, mas é forçado a levar Ash junto enquanto continua sua missão de resgate. Eles chegam a uma cidade de engrenagens, onde um oficial corrupto roubou uma maior invenção: o Pokémon artificial Magearna, criado há 500 anos. Ele planeja usar seu misterioso poder para controlar esse reino mecânico. Ash e Volcanion para o trabalho para o resgatar Magearna? Uma das maiores batalhas na história Pokémon está prestes a se desenrolar.</info>
@@ -1034,13 +728,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON - FILME 19 - VOLCANION E A MARAVILHA MECÂNICA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM20</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=PKMONFLM20.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2020%20-%20Eu%20Escolho%20Voc%C3%AA!.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Filme%2020%20-%20Eu%20Escolho%20Voc%C3%AA!.jpg</fanart>
 <info>Ash Ketchum (Sarah Natochenny) acaba de completar 10 anos de idade. Isso significa que ele está pronto para se tornar um treinador de Pokémon. Agora, ele espera receber seu primeiro Pokémon, o Pikachu (Ikue Ôtani), que também será seu melhor amigo. Juntos, eles embarcam em uma jornada repleta de aventuras em busca do lendário Pokémon Ho-Oh.</info>
@@ -1048,13 +736,7 @@
 </item>
 <item>
 <title>[B][COLOR white]POKÉMON: MEWTWO CONTRA-ATACA: EVOLUÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]PKMONFLM22</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=PKMONFLM22.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca!%20Evolu%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Pok%C3%A9mon%20-%20Mewtwo%20Contra-Ataca!%20Evolu%C3%A7%C3%A3o.jpg</fanart>
 <info>Remake de Pokémon - O filme, o longa começa quando um grupo de cientistas decide criar o pokémon mais poderoso de todos os tempos. Mas a criatura chamada de Mewtwo se rebela e convoca grandes treinadores, escondendo um plano mirabolante.</info>
@@ -1062,13 +744,7 @@
 </item>
 <item>
 <title>[B][COLOR white]SAMURAI SHODOWN: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SMRASHDWNTHMTNO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=SMRASHDWNTHMTNO.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Samurai%20Shodown%20-%20The%20Motion%20Picture.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Samurai%20Shodown%20-%20The%20Motion%20Picture.jpg</fanart>
 <info>No meio de uma guerra, Amakusa Shirou Tokusawa, que deveria proteger o selo de Ankokushin Ambroja, uma força demoníaca que poderia trazer caos ao mundo, trai seus amigos, (os seis guerreiros sagrados) em troca de uma nova vida e os mata sem piedade. Cem anos depois, os guerreiros reincarnaram e juntos devem derrotá-lo, porém, para vencer, será preciso domar o gênio impetuoso de Haohmaru, o único dos samurais sagrados que perdeu sua memória.</info>
@@ -1076,13 +752,7 @@
 </item>
 <item>
 <title>[B][COLOR white]SEU NOME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YORNAME</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=YORNAME.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Your%20Name.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Your%20Name.jpg</fanart>
 <info>Mitsuha Miyamizu (Mone Kamishiraishi) é uma jovem que mora no interior do Japão e que deseja deixar sua pequena cidade para trás para tentar a sorte em Tóquio. Enquanto isso, Taki Tachibana (Ryûnosuke Kamiki), um jovem que trabalha em um restaurante italiano em Tóquio, deseja largar o seu emprego para tentar se tornar um arquiteto. Os dois não se conhecem, mas estão direta e misteriosamente conectados pelas imagens de seus sonhos.</info>
@@ -1090,13 +760,7 @@
 </item>
 <item>
 <title>[B][COLOR white]SHIKI ORIORI: O SABOR DA JUVENTUDE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SHKORIOSBRDJVNTD</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=SHKORIOSBRDJVNTD.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Shiki%20Oriori%20-%20O%20Sabor%20da%20Juventude.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Shiki%20Oriori%20-%20O%20Sabor%20da%20Juventude.jpg</fanart>
 <info>A história de três vidas em diferentes cidades da China que se cruzam para criar um só fim.</info>
@@ -1104,13 +768,7 @@
 </item>
 <item>
 <title>[B][COLOR white]STEAMBOY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]STMBOY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=STMBOY.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Steamboy.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Steamboy.jpg</fanart>
 <info>Ray Steam é um jovem inventor que recebe de seu avô, pelos Correios, uma estranha bola de metal conhecida como Steam Ball. Esta incrível invenção comporta uma nova espécie de energia, que tem a capacidade de suprir uma nação inteira. Ao tentar proteger a esfera da inescrupulosa Fundação O'Hara, Ray descobre aos poucos os fantásticos poderes que a bola possui.</info>
@@ -1118,13 +776,7 @@
 </item>
 <item>
 <title>[B][COLOR white]SUPER ONZE O FILME: A FORÇA FINAL, A EQUIPE OGRO ATACA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]SPRONZOFLM</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=SPRONZOFLM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Super%20Onze%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Super%20Onze%20O%20Filme.jpg</fanart>
 <info>O enredo ocorre em torno da 1ª temporada. Desta vez, os adversários vêm do futuro e a Escola Raimon terá de proteger o presente! O adversário do futuro tem como objetivo acabar com o futebol da maneira como o conhecemos. Para impedir que o mal prevaleça nos gramados, o time do colégio Raimon também contará com uma ajudinha especial.</info>
@@ -1132,13 +784,7 @@
 </item>
 <item>
 <title>[B][COLOR white]VIOLET EVERGARDEN GAIDEN: ETERNIDADE E A BONECA DE AUTOMEMÓRIA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf5</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]VIOLTEVRGRDNGEABDA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf5=VIOLTEVRGRDNGEABDA.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Violet%20Evergarden%20Gaiden%20-%20Eternidade%20e%20a%20Boneca%20de%20Automem%C3%B3ria.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Violet%20Evergarden%20Gaiden%20-%20Eternidade%20e%20a%20Boneca%20de%20Automem%C3%B3ria.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -1146,13 +792,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YO-KAI WATCH: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YOKWTCHOFLM</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=YOKWTCHOFLM.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Yo-Kai%20Watch%20-%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Yo-Kai%20Watch%20-%20O%20Filme.jpg</fanart>
 <info>Nate e seus amigos voltam ao passado para ajudar seu avô, Nathaniel, a enfrentar um perigoso Yo-Kai e inventar o primeiro relógio. Nesta aventura está Hovernyan (Fuyunyan), um gato azul, o companheiro de Nathaniel.</info>
@@ -1160,13 +800,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YO-KAI WATCH: O GRANDE REI ENMA E AS 5 AVENTURAS![/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YOKWTCHOGREEA5A</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=YOKWTCHOGREEA5A.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Filmes/Yo-Kai%20Watch%20-%20O%20Grande%20Rei%20Enma%20e%20as%205%20Aventuras!.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Filmes/Yo-Kai%20Watch%20-%20O%20Grande%20Rei%20Enma%20e%20as%205%20Aventuras!.jpg</fanart>
 <info>Sem sinopse disponível.</info>
@@ -1174,13 +808,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YU YU HAKUSHO - FILME - BATALHA MORTAL DE MEIKAI[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]YUYUHKSFILME</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=YUYUHKSFILME.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Yu%20Yu%20Hakusho%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Yu%20Yu%20Hakusho%20Filme.jpg</fanart>
 <info>O enredo trata sobre Yakumo, "o rei do inferno", que ordena o dilúvio no Mundo Espiritual e planeja dominar o mundo humano. Na verdade ele planeja usar uma esfera de energia infernal que estava escondida no mundo espiritual para recriar seu mundo no mundo dos humanos</info>
@@ -1188,13 +816,7 @@
 </item>
 <item>
 <title>[B][COLOR white]YU-GI-OH!: DUEL MONSTERS - FILME - PIRAMIDE DA LUZ[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]539c897b</page><referer>$doregex[BPL]</referer></regex>
+<link>rc1=539c897b.mp4</link>
 <thumbnail>https://redecanais.top/imgs-videos/Legado/Yu-Gi-Oh%20Filme01.jpg</thumbnail>
 <fanart>https://redecanais.top/imgs-videos/Legado/Yu-Gi-Oh%20Filme01.jpg</fanart>
 <info>Os eventos de Battle City se concluíram e Yugi agora tem as 3 cartas de Deuses Egípcios. Seto Kaiba quer derrotá-lo, e ele tem um plano para isso. Ele desconfia que Maximilian Pegasus criou um jeito de derrotar os Deuses Egípcios já que ele os criou.  Kaiba vai para o castelo de Pegasus e o desafia a um duelo. Se Pegasus vencer, fica com os três Dragões Brancos de Olhos Azuis. Se Kaiba vencer, Pegasus lhe dá a carta que derrota os Deuses Egípcios. Kaiba vence, e Pegasus cumpre a promessa: Kaiba pega duas cartas dos baralhos de Pegasus. Entretanto, Pegasus criou apenas uma carta para derrotar os Deuses, então de onde veio a outra?  Enquanto isso, Yugi e Téa, procurando refúgio de duelistas que queriam os deuses de Yugi, acabam no museu de Domino City, e se deparam com a nova atração do museu: a Pirâmide de Luz, que se parece muito com o Enigma do Milênio. O avô de Yugi, que visitava o museu no mesmo instante, lê a inscição no sarcófago, fazendo com que Yugi tenha uma visão: dele completando o Enigma do Milênio, a Pirâmide de Luz, Anúbis e Kaiba. Quando ele acorda, a Pirâmide foi roubada, o sarcófago vazio e encontra Mokuba o esperando. Mokuba diz que Kaiba quer que Yugi dê o Disco de Duelo dele na Kaiba Corp imediatamente. Yugi o faz, transformando-se em Yami Yugi no caminho, encontrando Kaiba pronto para duelar. Seto manda Mokuba fechar todas as saídas forçando Yugi a duelar com ele, mas não antes de Tristan e Joey encontrarem um locar para assistir o duelo.  O duelo parece durar uma eternidade e Yugi suspeita que forças das trevas agem no local - especialmente quando Kaiba ativa uma armadilha chamada Pirâmide de Luz, que faz com que Yugi não possa utilizar nenhum dos três Deuses Egípcios. Mais a frente, Kaiba possui o Dragão Supremo de Olhos Azuis e para surpresa de Yugi, ele o sacrifica para colocar um monstro muito mais poderoso: o Dragão Luminoso de Olhos Azuis!  A Pirâmide de Luz suga as almas de Joey, Tristan e Yugi para o Enigma do Milênio, onde eles encontram um exército de múmias controladas por uma força desconhecida.  Kaiba quer a vitória perfeita, e planeja usar os Deuses Egípcios de Yugi contra ele e, para isso, ele planeja retornar os Deuses com a carta Return from the Different Dimmension, mas antes ele precisa destruir a Pirâmide de Luz, que faz com que os deuses sejam removidos. Para isso ele utiliza o efeito Supernova do Dragão Luminoso de Olhos Azuis( se sacrifica para destruir qualquer carta no campo ) para destruir a Pirâmide de Luz. Então, uma voz fantasmagórica diz:" A pirâmide de luz fica, porque assim eu desejo, porque grande é o meu poder." Então um homem surge por trás de Kaiba, o joga para o lado e assume o duelo.  Ele é Anúbis, o Deus Egípcio dos mortos, que o faraó destruiu 5000 anos atrás. Mas agora ele voltou com a Pirâmide de Luz e sua arma secreta: Theinen the Great Sphinx!! Enquanto isso, Téa, Tristan, Joey e Yugi estão no Enigma do Milênio, deixando o faraó sozinho. Colocando toda sua fé nas cartas, Yami Yugi pega a carta Double Spell, que o permite descartar uma carta mágica para utilizar o Monstro que Renasce do Cemitério de Kaiba, renascendo o Dragão Luminoso de Olhos Azuis e utilizando o efeito supernova para destruir a pirâmide de Luz( enfraquecida por Yugi dentro do Enigma do Milênio ). Com a pirâmide destruída, Theinen também o é logo após e Anúbis parece estar derrotado. Porém, um grande chacal, a forma egípcia de Anúbis, surge dos restos da Pirâmide. Kaiba e Yugi unem forças e focam os esforços no Dragão Luminoso de Olhos Azuis e destroem Anúbis de uma vez por todas. Pegasus, que chegou por meio de um helicóptero para ajudar, os auxilia a escapar antes da explosão.</info>

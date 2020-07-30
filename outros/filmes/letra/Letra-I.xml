@@ -8,13 +8,7 @@
 </item>
 <item>
 <title>[B][COLOR white]I'LL TAKE YOUR DEAD [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ITKEYURDEDLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ITKEYURDEDLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/I'll%20Take%20Your%20Dead.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/I'll%20Take%20Your%20Dead.jpg</fanart>
 <info>Numa fazenda isolada, William realiza o seu trabalho. Ele dá um fim nos cadáveres trazidos por gangues locais. Sua filha Gloria já está acostumada a ver gente morta mas acredita que a casa está assombrada por alguns deles. Tudo muda quando William encontra uma moça viva. Ele resolve mantê-la enquanto descobre o que fazer com ela, mas deverá ser rápido, pois as gangues deverão retornar para finalizar o trabalho.</info>
@@ -22,13 +16,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IBIZA: TUDO PELO DJ[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IBZTDPLDJ</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IBZTDPLDJ.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Ibiza%20-%20Tudo%20Pelo%20DJ.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Ibiza%20-%20Tudo%20Pelo%20DJ.jpg</fanart>
 <info>Nikki (Vanessa Bayer), Harper (Gillian Jacobs) e Leah (Phoebe Robinson) são três amigas inseparáveis que transformam uma viagem de negócios a Barcelona em uma louca aventura em Ibiza em busca de um DJ famoso.</info>
@@ -36,13 +24,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IBOY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IBOY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=IBOY.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/iBoy.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/iBoy.jpg</fanart>
 <info>Tom (Bill Milner) é baleado no momento em que tenta parar um ataque violento contra sua namorada Lucy (Maisie Williams). Depois de um tempo ele acorda do coma e descobre que fragmentos de seu smartphone foram incorporados no seu cérebro, dando a ele super poderes. Tom usa esse conhecimento e tecnologia para se vingar da gangue responsável pelo ataque.</info>
@@ -50,13 +32,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ÍCARO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ICRO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ICRO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/%C3%8Dcaro.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/%C3%8Dcaro.jpg</fanart>
 <info>Quando o ciclista amador Bryan Fogel começa a descobrir a verdade sobre o doping nos esportes, decide entrar de cabeça num experimento ousado para comprovar a incompetência do método de controle dos atletas. Sua investida, no entanto, transforma-se em algo muito maior quando o médico russo que o orienta no processo se vê no centro de um enorme escândalo que compromete os resultados das últimas Olimpíadas de verão e inverno e envolve até a temida agência russa de segurança.</info>
@@ -64,13 +40,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ICEBOX: FRIO E ESPERANÇA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ICBXFRESPCA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ICBXFRESPCA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Icebox%20-%20Frio%20e%20Esperan%C3%A7a.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Icebox%20-%20Frio%20e%20Esperan%C3%A7a.jpg</fanart>
 <info>Oscar (Anthony Gonzalez) é um menino de 12 anos que toma a difícil decisão de deixar sua família em Honduras e ir para os Estados Unidos em busca de uma vida melhor. Fugindo da violência de gangues e temendo por sua vida, ele deixa seu lar com apenas alguns pertences em sua bolsa e o número do telefone de um tio que ele só viu duas vezes na vida. Porém, sua jornada é interrompida quando ele é pego pela patrulha da fronteira e levado para uma instituição de detenção de imigrantes.</info>
@@ -78,13 +48,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ICEMAN 2: O VIAJANTE DO TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ICMAN2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=ICMAN2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Iceman%202%20-%20O%20Viajante%20do%20Tempo.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Iceman%202%20-%20O%20Viajante%20do%20Tempo.jpg</fanart>
 <info>A guarda imperial e seus três amigos de infância traidores ordenados a caçá-lo são acidentalmente enterrados e mantidos congelados no tempo. 400 anos depois passam e são descongelados continuando a batalha que deixaram para trás.</info>
@@ -92,13 +56,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ICEMAN: A RODA DO TEMPO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ICMAN</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ICMAN.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Iceman.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Iceman.jpg</fanart>
 <info>Um guarda do palácio da Dinastia Ming - acusado injustamente de assassinato - está sendo caçado por seus três irmãos jurados e todos os quatro são acidentalmente enterrados e mantidos congelados no tempo durante a batalha. 400 anos depois, eles são descongelados e continuam a batalha, enquanto se adaptam à vida moderna.</info>
@@ -106,13 +64,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ILHA DOS CACHORROS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ILHSDSCHRRS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ILHSDSCHRRS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Ilha%20dos%20Cachorros.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Ilha%20dos%20Cachorros.jpg</fanart>
 <info>Atari Kobayashi é um garoto japonês de 12 anos de idade. Ele mora na cidade de Megasaki, sob tutela do corrupto prefeito Kobayashi. O político aprova uma nova lei que proíbe os cachorros de morarem no local, fazendo com que todos os animais sejam enviados a uma ilha vizinha repleta de lixo. Como não aceita se separar do cachorro Spots, Atari convoca os amigos, rouba um jato em miniatura em parte em busca de seu fiel amigo, aventura que transforma completamente a vida da cidade.</info>
@@ -120,13 +72,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ILHA VERMELHA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ILHVRMLHA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=ILHVRMLHA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Ilha%20Vermelha.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Ilha%20Vermelha.jpg</fanart>
 <info>Um casal angustiado fica preso em uma ilha isolada e é caçado por uma força inesperada.</info>
@@ -134,13 +80,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ILLANG: A BRIGADA LOBO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ILNGABRGDALBO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=ILNGABRGDALBO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Illang%20-%20A%20Brigada%20Lobo.jpg</fanart>
 <info>Coréia, 2029. Os governos da Coréia do Sul e da Coréia do Norte anunciara que irão reunificar os dois países, e logo a instabilidade e o caos se instalam na região. Para controlar a desordem e fazer recuar um grupo terrorista anti-governo, o Presidente cria uma nova unidade policial. No fim, medida só faz aumentar a violência e os embates nas ruas, fomentando o medo na população. Mas há esperança. Correm rumores da existência uma suposta brigada, nomeada de "Brigada dos Lobos".</info>
@@ -148,13 +88,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMAGENS MORTAIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMGNSMRTS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IMGNSMRTS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Imagens%20Mortais.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Imagens%20Mortais.jpg</fanart>
 <info>Uma mulher e seu marido tornam-se cada vez mais assustados quando uma pessoa anônima começa a perseguir sua família.</info>
@@ -162,13 +96,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMAX: FUNDO DO MAR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]FNDOMAR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=FNDOMAR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/IMAX%20-%20Fundo%20do%20Mar.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/IMAX%20-%20Fundo%20do%20Mar.jpg</fanart>
 <info>O biodocumentário em 3D, dirigido pelo oceanógrafo Howard Hall, mostra tomadas bem longas de regiões do meio Pacífico e da costa africana.</info>
@@ -176,13 +104,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMITAÇÃO DA VIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMTCAODVDA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=IMTCAODVDA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Imita%C3%A7%C3%A3o%20da%20Vida.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Imita%C3%A7%C3%A3o%20da%20Vida.jpg</fanart>
 <info>O ano é 1947 e Lora Meredith (Lana Turner) é uma aspirante a atriz, viúva, que mora com sua sua única filha, Susie (Sandra Dee), e vive ignorando-a, enquanto busca construir uma carreira. Quando ela conhece Annie Johnson (Juanita Moore), uma afrodescendente também viúva e mãe solteira, convida-a a trabalhar na sua casa e criar as filhas das duas juntas. No momento em que Annie e sua filha Sarah Jane (Susan Kohner) se mudam para a casa de Lora, a menina passa a renegar as suas origens: por ter a pele bem mais clara que sua mãe, ela se declara branca para todos. Já Susie se sente rejeitada pela mãe e acaba encontrando conforto nos braços de um homem mais velho (John Gavin).</info>
@@ -190,13 +112,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMPACTO PROFUNDO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMPCTOPRFNDO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IMPCTOPRFNDO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Impacto%20Profundo.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Impacto%20Profundo.jpg</fanart>
 <info>Um astrônomo-mirim (Elijah Wood) e seu professor acidentalmente descobrem que um cometa com 11 mil metros de diâmetro vai colidir com a Terra, mas um dos descobridores morre em um desastre de automóvel. Após um ano, um repórter tentando investigar um possível escândalo sexual chega à conclusão de que a "amante" é o cometa, que está prestes a se chocar com nosso planeta. Se isto vier a acontecer os danos causados serão incalculáveis e a vida animal e vegetal em pouco tempo deixará de existir. No entanto, uma equipe formada por americanos e russos planeja colocar detonadores nucleares, para fragmentar o cometa e salvar a Terra.</info>
@@ -204,13 +120,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMPERIUM: RESISTÊNCIA SEM LÍDER[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMPRSTNCSMLDR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IMPRSTNCSMLDR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Imperium%20-%20Resist%C3%AAncia%20Sem%20L%C3%ADder.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Imperium%20-%20Resist%C3%AAncia%20Sem%20L%C3%ADder.jpg</fanart>
 <info>Um agente do FBI trabalha disfarçado durante anos para encontrar e deter um grupo estadunidense de neonazistas, que creem na supremacia branca. O plano deste perigoso grupo é alcançar o caos por meio de uma bomba, enquanto Michael mede todos os seus esforços para impedi-los.</info>
@@ -218,13 +128,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMPLACÁVEL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMPLCVL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=IMPLCVL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Implac%C3%A1vel.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Implac%C3%A1vel.jpg</fanart>
 <info>Cain Burgess (Scott Adkinss) é um criminoso que recebe uma licença para sair da prisão. Ele acaba encarando esse momento como uma oportunidade para encontrar as pessoas que o tornaram um assassino cruel e se vingar delas.</info>
@@ -232,13 +136,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IMPULSO DE VINGANÇA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IMPLSDVNG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IMPLSDVNG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Impulso%20de%20Vingan%C3%A7a.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Impulso%20de%20Vingan%C3%A7a.jpg</fanart>
 <info>Tess (Maria Bello) é uma famosa escritora de mistério que está parada em uma estrada isolada após seu pneu furar. Ela recebe a ajuda de um homem, mas logo depois descobre que ele é um serial killer. Após ser atacada e deixada à beira da morte, Tess consegue sobreviver, mas fica obcecada por vingança.</info>
@@ -246,13 +144,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INATIVIDADE PARANORMAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INATVDADPRNRML1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INATVDADPRNRML1.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inatividade%20Paranormal1.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inatividade%20Paranormal1.jpg</fanart>
 <info>Malcolm (Marlon Wayans) é um cara descolado, que mora sozinho, mas resolve chamar sua namorada Kisha (Essence Atkins) para dividir o lar de seus sonhos. Animado com a novidade, ele resolve registrar tudo com câmeras espalhadas pela casa, mas não imaginava que um hóspede fantasma começaria a aprontar, transformando a vida deles no mais louco dos pesadelos. Para se livrar do mal, eles recorrem a diversas saídas, entre elas chamar um médium (Nick Swardson), um padre exorcista (Cedric The Entertainer), uma dupla de caça-fantasmas e até uma gangue da pesada. Tudo o que eles querem é se livrar do espiríto maligno e voltar a transar em paz. Só que essa missão não será nada fácil.</info>
@@ -260,13 +152,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INATIVIDADE PARANORMAL 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INATVDADPRNRML2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INATVDADPRNRML2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inatividade%20Paranormal2.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inatividade%20Paranormal2.jpg</fanart>
 <info>Malcolm (Marlon Wayans) está tentando reiniciar a vida ao lado de outra mulher, Megan (Jaime Pressly), juntamente com os dois filhos dela, Becky (Ashley Rickards) e Wyatt (Steele Stebbins). Juntos, eles se mudam para uma nova casa. Ele, para variar, permanece com a mania de filmar tudo o que acontece à sua volta, com diversas câmeras. Entretanto, não demora muito para que Malcolm volte a ser afetado por acontecimentos sobrenaturais, especialmente quando inicia um caso com uma estranha boneca.</info>
@@ -298,13 +184,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INCIDENT AT MONTAUK [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INCTATMNTUKLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INCTATMNTUKLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Incident%20At%20Montauk.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Incident%20At%20Montauk.jpg</fanart>
 <info>Depois de testemunhar um OVNI, Jed Logan logo descobre que seu avistamento pode estar ligado a um projeto secreto do governo que o leva a um caminho perigoso para descobrir a verdade.</info>
@@ -312,13 +192,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INCONTROLÁVEL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INCTLAVL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INCTLAVL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Incontrol%C3%A1vel.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Incontrol%C3%A1vel.jpg</fanart>
 <info>Uma composição carregada de produtos altamente tóxicos está desgovernada e o perigo é iminente. Um condutor (Chris Pine) e um maquinista experiente (Denzel Washington) precisam evitar que uma pequena cidade em seu caminho seja destruída. A única saída é botar em prática uma operação muito arriscada, mas o tempo corre contra eles.</info>
@@ -326,13 +200,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDEPENDENCE DAY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDPNDAY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INDPNDAY.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Independence%20Day.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Independence%20Day.jpg</fanart>
 <info>No dia 2 de julho os sistemas de comunicação do mundo inteiro se transformam em um caos, devido à uma estranha interferência atmosférica. Logo se descobre que enormes objetos estão em curso de colisão com a Terra. Inicialmente imagina-se que se tratam de meteoros, mas logo revela-se ser na verdade uma imensa nave espacial pilotada por alienígenas. Após frustradas tentativas de se comunicar com os extra-terrestres, um técnico em comunicação descobre que os seres do espaços estão usando os satélites terrestres para se comunicarem e iniciarem em menos de um dia um ataque conjunto nas principais cidades do planeta. No dia 3 de julho o ataque alienígena começa de forma esmagadora e nem armas nucleares conseguem destruir a blindagem protetora. Mas no dia 4 de julho surge uma possibilidade de vencer o invasor e nesta hora todas as nações precisam se unir, pois está em jogo a existência da raça humana.</info>
@@ -340,13 +208,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDEPENDENCE DAY: O RESSURGIMENTO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDPNDAYORSGMNT</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INDPNDAYORSGMNT.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Independence%20Day%20-%20O%20Ressurgimento.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Independence%20Day%20-%20O%20Ressurgimento.jpg</fanart>
 <info>Após o devastador ataque alienígena ocorrido em 1996, todas as nações da Terra se uniram para combater os extra-terrestres, caso eles retornassem. Para tanto são construídas bases na Lua e também em Saturno, que servem como monitoramento. Vinte anos depois, o revide enfim acontece e uma imensa nave, bem maior que as anteriores, chega à Terra. Para enfrentá-los, uma nova geração de pilotos liderada por Jake Morrison (Liam Hemsworth) é convocada pela presidente Landford (Sela Ward). Eles ainda recebem a ajuda de veteranos da primeira batalha, como o ex-presidente Whitmore (Bill Pullman), o cientista David Levinson (Jeff Goldblum) e seu pai Julius (Judd Hirsch).</info>
@@ -354,13 +216,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDEPENDENCE DAY: O RESSURGIMENTO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDPNDAYORSGMNTLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INDPNDAYORSGMNTLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Independence%20Day%20-%20O%20Ressurgimento.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Independence%20Day%20-%20O%20Ressurgimento.jpg</fanart>
 <info>Após o devastador ataque alienígena ocorrido em 1996, todas as nações da Terra se uniram para combater os extra-terrestres, caso eles retornassem. Para tanto são construídas bases na Lua e também em Saturno, que servem como monitoramento. Vinte anos depois, o revide enfim acontece e uma imensa nave, bem maior que as anteriores, chega à Terra. Para enfrentá-los, uma nova geração de pilotos liderada por Jake Morrison (Liam Hemsworth) é convocada pela presidente Landford (Sela Ward). Eles ainda recebem a ajuda de veteranos da primeira batalha, como o ex-presidente Whitmore (Bill Pullman), o cientista David Levinson (Jeff Goldblum) e seu pai Julius (Judd Hirsch).</info>
@@ -368,13 +224,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDIANA JONES E A ÚLTIMA CRUZADA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEAULTMCRZDA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INDNAJNSEAULTMCRZDA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20a%20%C3%9Altima%20Cruzada.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20a%20%C3%9Altima%20Cruzada.jpg</fanart>
 <info>O arqueólogo Indiana Jones (Harrisson Ford) tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones (Sean Connery), é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
@@ -382,13 +232,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDIANA JONES E O REINO DA CAVEIRA DE CRISTAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEOREIDCVNADCRSTL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INDNAJNSEOREIDCVNADCRSTL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20E%20O%20Reino%20da%20Caveira%20de%20Cristal.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20E%20O%20Reino%20da%20Caveira%20de%20Cristal.jpg</fanart>
 <info>1957. Indiana Jones (Harrison Ford) e seu ajudante Mac (Ray Winstone) escapam por pouco de um encontro com agentes soviéticos, em um campo de pouso remoto. Agora Indiana está de volta à sua casa na Universidade Marshall, mas seu amigo e reitor da escola, Dean Stanforth (Jim Broadbent), explica que suas ações recentes o tornaram alvo de suspeita e que o governo está pressionando para que o demita. Ao deixar a cidade Indiana conhece o rebelde jovem Mutt Williams (Shia LaBeouf), que tem uma proposta: caso o ajude em uma missão Indiana pode deparar-se com a caveira de cristal de Akator. Agentes soviéticos também estão em busca do artefato, entre eles a fria e bela Irina Spalko (Cate Blanchett), cujo esquadrão de elite está cruzando o globo atrás da Caveira de Cristal.</info>
@@ -396,13 +240,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDIANA JONES E O TEMPLO DA PERDIÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSTMPDPRDCAO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INDNAJNSTMPDPRDCAO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20o%20Templo%20da%20Perdi%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20o%20Templo%20da%20Perdi%C3%A7%C3%A3o.jpg</fanart>
 <info>Em 1935, o professor, arqueólogo e aventureiro Indiana Jones (Harrison Ford) tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
@@ -410,13 +248,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDIANA JONES E OS CAÇADORES DA ARCA PERDIDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDNAJNSEOSCACDRSDARC</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INDNAJNSEOSCACDRSDARC.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20Os%20Ca%C3%A7adores%20da%20Arca.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Indiana%20Jones%20e%20Os%20Ca%C3%A7adores%20da%20Arca.jpg</fanart>
 <info>Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
@@ -424,13 +256,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDO PARA O OURO / GOING FOR GOLD[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]GINGFRGLD</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=GINGFRGLD.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Going%20for%20Gold.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Going%20for%20Gold.jpg</fanart>
 <info>Emma (Kelli Berglund), americana de dezessete anos, se muda para a Austrália com o pai, ex-oficial da Força Aérea. Lá ela monta uma equipe de cheerleaders com suas novas amigas, mas o time rival fará de tudo para conseguir a vitória do campeonato.</info>
@@ -438,13 +264,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INDÚSTRIA AMERICANA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INDSTRAMRCNA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=INDSTRAMRCNA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Ind%C3%BAstria%20Americana.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Ind%C3%BAstria%20Americana.jpg</fanart>
 <info>Na cidade de Ohio, durante um grande momento pós-industrial, um chinês bilionário se aproveita de um terreno abandonado da General Motors para para criar a própria empresa no local, com a intenção de realizar uma grande mudança no cenário norte-americano. Com a contratação de mais de dois mil trabalhadores para as construções, as perspectivas para Ohio se amplificam.</info>
@@ -452,13 +272,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFRNO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INFRNO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inferno.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inferno.jpg</fanart>
 <info>Florença, Itália. Robert Langdon (Tom Hanks) desperta em um hospital, com um ferimento na cabeça provocado por um tiro de raspão. Bastante grogue, ele é tratado por Sienna Brooks (Felicity Jones), uma médica que o conheceu quando ainda era criança. Langdon não se lembra de absolutamente nada que lhe aconteceu nas últimas 48 horas, nem mesmo o porquê de estar em Florença. Subitamente, ele é atacado por uma mulher misteriosa e, com a ajuda de Sienna, escapa do local. Ela o leva até sua casa, onde trata de seu ferimento. Lá Langdon percebe que em seu paletó está um frasco lacrado, que apenas pode ser aberto com sua impressão digital. Nele, há um estranho artefato que dá início a uma busca incessante através do universo de Dante Alighieri, autor de "A Divina Comédia", de forma a que possa entender não apenas o que lhe aconteceu, mas também o porquê de ser perseguido.</info>
@@ -466,13 +280,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO BRANCO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFNBRNCO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INFNBRNCO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Inferno%20Branco.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Inferno%20Branco.jpg</fanart>
 <info>Após ter lutado para se tornar o mais poderoso senhor das drogas do Harlem, Roemello Skugs decide mudar de vida. E descobre ser mais difícil sair da vida do crime do que chegar ao topo do submundo.</info>
@@ -480,13 +288,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO DE DANTE: UMA ANIMAÇÃO ÉPICA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFRNDNTUMANMEPCA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=INFRNDNTUMANMEPCA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Inferno%20de%20Dante%20Uma%20Anima%C3%A7%C3%A3o%20%C3%89pica.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Inferno%20de%20Dante%20Uma%20Anima%C3%A7%C3%A3o%20%C3%89pica.jpg</fanart>
 <info>Limbo, Luxúria, Gula, Avareza, Ira, Heresia, Violência, Fraude e Traição! Estes são os 9 Círculos do Inferno que ficaram famosos por meio da célebre obra-prima O Inferno de Dante. Sua primeira história parte da Divina Comédia. O filme é uma animação épica que vai levar você em uma viagem tortuosa pelo Inferno, à medida em que Dante enfrenta as forças do mal, matando demônios e monstros criados por uma imaginação extraordinária, tudo para salvar sua amada Beatrice das garras do mestre do Inferno: Lúcifer.</info>
@@ -494,13 +296,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO NO FAROESTE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFRNOFRSTE</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INFRNOFRSTE.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inferno%20no%20Faroeste.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inferno%20no%20Faroeste.jpg</fanart>
 <info>O Oeste americano pertence a homens cruéis. Quando a temida gangue Blackwater invade uma pequena cidade mineiradora, seu líder, Guerrero Hernandez (Danny Trejo), é assassinado a sangue frio por seus próprios companheiros. No purgatório, ele é condenado a passar a eternidade no inferno, mas o Diabo em pessoa (Mickey Rourke) lhe faz uma proposta: se ele conseguir lhe entregar as almas dos seis membros da sua antiga gangue, além de ter o gosto da vingança, Guerrero poderá escapar da maldição e voltar ao mundo dos vivos para sempre. Para isso, ele tem um prazo, e conforme o tempo vai passando, o ex-líder da gangue luta brutalmente para salvar a própria vida e vingar sua morte.</info>
@@ -508,13 +304,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO NO FAROESTE 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFRNOFRSTE2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INFRNOFRSTE2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inferno%20no%20Faroeste%202.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inferno%20no%20Faroeste%202.jpg</fanart>
 <info>Guerrero Hernandez volta dos mortos mais uma vez, para que uma relíquia roubada não caia nas mãos de um grupo de soldados, o que poderá causar o inferno na terra.</info>
@@ -522,13 +312,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFERNO VERMELHO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFRNVRMLH</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INFRNVRMLH.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Inferno%20Vermelho.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Inferno%20Vermelho.jpg</fanart>
 <info>Ivan Danko (Arnold Schwarzenegger) é um duro policial russo que é obrigado a trabalhar ao lado de um extrovertido detetive Art Ridzik (James Belushi), de Chicago. A dupla investigará um importante criminoso internacional envolvido com tráfico de drogas que fugiu da Rússia em direção dos Estados Unidos.</info>
@@ -536,13 +320,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFIELMENTE TUA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFLMNTUA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INFLMNTUA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Infielmente%20Tua.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Infielmente%20Tua.jpg</fanart>
 <info>Refilmagem do clássico ''Odeio-te Meu Amor'', escrito e dirigido por Preston Sturges em 1948. Nessa segunda versão, o roteiro assinado por Valerie Curtin, Barry Levinson e Robert Klane dá lugar à comédia mais pura e simples. Moore, melhor pianista e compositor do que atuando, é o maestro que passa a desconfiar que a mulher (Kinski) o está traindo e tenta armar um plano para matá-la.</info>
@@ -550,13 +328,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INFILTRADO NA KLAN[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INFLDONKLN</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INFLDONKLN.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Infiltrado%20na%20Klan.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Infiltrado%20na%20Klan.jpg</fanart>
 <info>Em 1978, Ron Stallworth (John David Washington), um policial negro do Colorado, conseguiu se infiltrar na Ku Klux Klan local. Ele se comunicava com os outros membros do grupo através de telefonemas e cartas, quando precisava estar fisicamente presente enviava um outro policial branco no seu lugar. Depois de meses de investigação, Ron se tornou o líder da seita, sendo responsável por sabotar uma série de linchamentos e outros crimes de ódio orquestrados pelos racistas.</info>
@@ -564,13 +336,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INGRID VAI PARA O OESTE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INGRDVPROSTE</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INGRDVPROSTE.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Ingrid%20Vai%20para%20o%20Oeste.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Ingrid%20Vai%20para%20o%20Oeste.jpg</fanart>
 <info>Ingrid (Aubrey Plaza) é uma jovem que tem como seus principais ídolos as personalidades das redes sociais. A que ela mais gosta é Taylor Sloane (Elizabeth Olsen), muito famosa e com uma vida aparentemente perfeita. Obcecada, Ingrid decide abandonar tudo e se mudar para perto de Taylor, colocando em prática o plano de se tornar sua melhor amiga. Porém, o que parecia mais um comportamento de fã, se torna aos poucos preocupante e perigoso.</info>
@@ -578,13 +344,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INIMIGO DESCONHECIDO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INMGDSCNHDO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INMGDSCNHDO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Inimigo%20Desconhecido.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Inimigo%20Desconhecido.jpg</fanart>
 <info>Julia é uma mulher com sérios problemas psicológicos, sendo seu maior sintoma a mania de perseguição. Querendo recomeçar sua vida, ela decide se mudar para Los Angeles com o namorado. Porém, Julia começa a perceber que os problemas que a fizeram recomeçar acabam a perseguindo.</info>
@@ -592,13 +352,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INIMIGO DO ESTADO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INMGSDESTDO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INMGSDESTDO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inimigo%20do%20Estado.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inimigo%20do%20Estado.jpg</fanart>
 <info>O congressista Phillip Hammersley assassinado por um órgão do governo, logo após ter se declarado radicalmente contra uma lei que, em nome da segurança nacional, permitiria que houvesse uma total invasão de privacidade, pois na prática qualquer pessoa poderia ser monitorada pelo governo. Mas, acidentalmente, o crime filmado e o dono da gravação, vendo-se ameaçado, coloca a prova do crime na sacola de compras de Robert Clayton Dean (Will Smith), um advogado que era seu conhecido. Ele ainda tenta escapar, mas na fuga morre atropelado. Sem ter a menor noção do que está acontecendo, Robert vai para casa com a gravação e deste momento em diante sua vida se transforma em um verdadeiro inferno, pois, sem que saiba, suas roupas e objetos pessoais têm escutas, logo ele perde o emprego e todos seus cartões de crédito são cancelados. Vendo-se ameaçado, ele tenta entender tudo e continuar vivo, mas suas chances são poucas, pois está envolvido em uma trama inimaginável.</info>
@@ -606,13 +360,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INIMIGO MORTAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INMGSMRTL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INMGSMRTL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Inimigo%20Mortal.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Inimigo%20Mortal.jpg</fanart>
 <info>Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.</info>
@@ -632,13 +380,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSENSÍVEIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSNSVS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=INSNSVS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Insens%C3%ADveis.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Insens%C3%ADveis.jpg</fanart>
 <info>Depois de um acidente fatal de carro, David Martel, um brilhante neurocirurgião é submetido a uma série de exames que revelam que tem câncer e precisa de um transplante de medula óssea. Ele, então, decide encontrar seus pais biológicos para a realização do transplante. A resposta dos pais irá revelar uma misteriosa história do passado. O neurocirurgião embarca numa investigação que permite descobrir que, durante a Guerra Civil Espanhola (1936-1939), um grupo de crianças é imune à dor física em um hospital, no coração dos Pireneus.</info>
@@ -646,13 +388,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSEPARÁVEIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSPRVEIS2014</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INSPRVEIS2014.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis%202014.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis%202014.jpg</fanart>
 <info>Carl é um velho que, após ser abandonado pela esposa, se machuca em uma queda. A contragosto, seu filho Conrad se muda temporariamente para a casa dele, levando o neto, e as três gerações da família precisarão conviver.</info>
@@ -660,13 +396,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSEPARÁVEIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSPRVL2015</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INSPRVL2015.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis%20-%20A%20Sunday%20Horse.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis%20-%20A%20Sunday%20Horse.jpg</fanart>
 <info>Após sofrer um acidente quase fatal e montando um cavalo que os especialistas pensavam não ter nada de especial, uma cavaleira determinada e apaixonada pelo que faz desafia todas as probavilidades para alcançar seu sonho de ganhar um campeonato nacional de salto.</info>
@@ -674,13 +404,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSEPARÁVEIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSPRVEIS2018</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INSPRVEIS2018.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Insepar%C3%A1veis.jpg</fanart>
 <info>Um rico empresário se tornou tetraplégico devido a um acidente e está procurando por um novo assistente terapêutico. Apesar de conhecer pessoas muito qualificadas, ele decide contratar o assistente de seu jardineiro, ainda que as pessoas mais próximas a ele desaprovem sua escolha. Incrivelmente, uma amizade entre os dois começa a brotar.</info>
@@ -688,13 +412,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSTINTO RADICAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSTORDCL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=INSTORDCL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Radical.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Radical.jpg</fanart>
 <info>Ex-policial se vê dividido entre suas antigas obrigações com a lei e as novas oportunidades como esportista de skydiving.</info>
@@ -702,13 +420,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSTINTO SELVAGEM[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSTOSLVGM</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INSTOSLVGM.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Selvagem.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Selvagem.jpg</fanart>
 <info>Em São Francisco, o policial Nick Curran (Michael Douglas) fica fortemente atraído por Catherine Tramell (Sharon Stone), a principal suspeita de um assassinato. Apesar de ter consciência dos riscos que corre, Curran se expõe cada vez mais, mesmo quando novas mortes ocorrem.</info>
@@ -716,13 +428,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INSTINTO SELVAGEM 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSTOSLVGM2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INSTOSLVGM2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Selvagem%202.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Instinto%20Selvagem%202.jpg</fanart>
 <info>Catherine Tramell (Sharon Stone) é uma escritora de suspenses que se mudou há pouco de São Francisco para Londres. A misteriosa morte de um astro do esporte, em que Tramell esteve envolvida, faz com que o respeitado psicanalista Michael Glass (David Morrissey) seja designado pela Scotland Yard para fazer uma avaliação psiquiátrica da escritora. Glass logo se sente fisicamente atraído por Tramell e ao mesmo tempo intrigado com ela. Contrariando os conselhos de sua mentora, a dra. Milena Gardosh (Charlotte Rampling), Glass se envolve com Tramell, dando início a um jogo de mentiras e sedução.</info>
@@ -730,13 +436,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INTERESTELAR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INTRSTLAR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INTRSTLAR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Interestelar.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Interestelar.jpg</fanart>
 <info>Após ver a Terra consumindo boa parte de suas reservas naturais, um grupo de astronautas recebe a missão de verificar possíveis planetas para receberem a população mundial, possibilitando a continuação da espécie. Cooper (Matthew McConaughey) é chamado para liderar o grupo e aceita a missão sabendo que pode nunca mais ver os filhos. Ao lado de Brand (Anne Hathaway), Jenkins (Marlon Sanders) e Doyle (Wes Bentley), ele seguirá em busca de uma nova casa. Com o passar dos anos, sua filha Murph (Mackenzie Foy e Jessica Chastain) investirá numa própria jornada para também tentar salvar a população do planeta.</info>
@@ -744,13 +444,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INTERNET: O FILME[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INTNET</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INTNET.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Internet%20O%20Filme.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Internet%20O%20Filme.jpg</fanart>
 <info>A realização de uma convenção de youtubers em um hotel atrai influenciadores de todo tipo e, é claro, seus fãs. A estrela maior do evento é Uesley (Gusta Stockler), um arrogante youtuber que destrata todos à sua volta e apenas se importa com a própria popularidade. Ao publicar em seu canal o flagra do beijo entre Mateus (Felipe Castanhari) e Natalia (Pathy dos Reis), Uesley sem querer impulsiona a popularidade da dupla, que passa a conquistar fãs como casal e, consequentemente, ofuscá-lo. Paralelamente, três amigos fazem uma aposta para que Vepê (Teddy) seduza Barbarinha (Polly Marinho), em troca de uma passagem para Los Angeles, e duas amigas, Malu (Thaynara OG) e Fabi (Gabi Lopes), chegam ao hotel sem saber que o local será palco de uma convenção de youtubers. Há ainda Cesinha Passos (Rafinha Bastos), que precisa aprender a lidar com a má fama que possui ao mesmo tempo em que convive com Adalgamir (Paulinho Serra), um fã que passa a trabalhar com ele, e também Paulinho (Rafael Cellbit), especialista em Street Fighter que se fantasia como youtuber e agora sofre a ameaça de ser desmascarado.</info>
@@ -758,13 +452,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INTIMIDADE ENTRE ESTRANHOS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INTMDSENTESTNHS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INTMDSENTESTNHS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Intimidade%20Entre%20Estranhos.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Intimidade%20Entre%20Estranhos.jpg</fanart>
 <info>Maria (Rafaela Mandelli) acaba de se mudar para o Rio de Janeiro, com o objetivo de acompanhar Pedro (Milhem Cortaz), seu namorado, que será um dos protagonistas de uma minissérie bíblica sobre Noé. Por mais que seja carioca, o retorno da cidade não a agrada devido às lembranças que tem com o pai, já falecido. O casal se muda para um prédio cujo síndico é o jovem Horácio (Gabriel Contente), que é bem rigoroso com as regras do local. De início Maria bate de frente com ele, mas aos poucos se aproxima ao vizinho.</info>
@@ -772,13 +460,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INTOCÁVEIS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INTCVS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INTCVS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Intoc%C3%A1veis.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Intoc%C3%A1veis.jpg</fanart>
 <info>Philippe (François Cluzet) é um aristocrata rico que, após sofrer um grave acidente, fica tetraplégico. Precisando de um assistente, ele decide contratar Driss (Omar Sy), um jovem problemático que não tem a menor experiência em cuidar de pessoas no seu estado. Aos poucos ele aprende a função, apesar das diversas gafes que comete. Philippe, por sua vez, se afeiçoa cada vez mais a Driss por ele não tratá-lo como um pobre coitado. Aos poucos a amizade entre eles se estabele, com cada um conhecendo melhor o mundo do outro.</info>
@@ -786,13 +468,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSAO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INVSAO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Invas%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Invas%C3%A3o.jpg</fanart>
 <info>Gabrielle Union (Shaun Russell) é uma mulher que não vai parar por nada para resgatar seus dois filhos, feitos de refém em uma casa com uma segurança impenetrável. Nenhuma armadilha, truque e especialmente, ninguém podem parar uma mãe com uma missão quando ela está determinada.</info>
@@ -800,13 +476,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]BRKNGINLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=BRKNGINLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Invas%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Invas%C3%A3o.jpg</fanart>
 <info>Gabrielle Union (Shaun Russell) é uma mulher que não vai parar por nada para resgatar seus dois filhos, feitos de refém em uma casa com uma segurança impenetrável. Nenhuma armadilha, truque e especialmente, ninguém podem parar uma mãe com uma missão quando ela está determinada.</info>
@@ -814,13 +484,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO A CASA BRANCA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSACSABRNCA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVSACSABRNCA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20a%20Casa%20Branca.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20a%20Casa%20Branca.jpg</fanart>
 <info>Mike Banning (Gerard Butler) é um dedicado funcionário do serviço secreto americano, que tem por função proteger o presidente Benjamin Asher (Aaron Eckhart) e sua família. Ao levá-los para uma festa de Natal, uma intensa nevasca faz com que o carro em que estão o presidente e sua esposa, Margaret (Ashley Judd), sofra um acidente. Mike consegue salvar Benjamin, mas a primeira-dama morre. A partir de então, Mike é deslocado para um serviço burocrático de escritório em Washington, que ele detesta. Dezoito meses depois, a Casa Branca é atacada por terroristas norte-coreanos. Percebendo o pânico na população e o perigo que o presidente corre, Mike segue para a Casa Branca para ajudar no que pode. Com toda a equipe de segurança local dizimada, ele se torna a única esperança dentro da Casa Branca para combater os terroristas e salvar o presidente.</info>
@@ -828,13 +492,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO ALIENÍGENA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSALIEN</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVSALIEN.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20Alien%C3%ADgena.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20Alien%C3%ADgena.jpg</fanart>
 <info>História sobre cinco amigos de férias em uma remota casa do lago, que não estão cientes de que a Terra está sob uma invasão alienígena e abdução em massa.</info>
@@ -842,13 +500,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO DE DOMICÍLIO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSODOMC</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVSODOMC.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20de%20Domic%C3%ADlio.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20de%20Domic%C3%ADlio.jpg</fanart>
 <info>Will (Jude Law) e Sandy (Martin Freeman) possuem uma próspera firma de arquitetura paisagística. Recentemente eles se mudaram para a região de King's Cross, o centro da mais ambiciosa regeneração urbana da Europa. Seu escritório, repleto com a tecnologia mais avançada, é alvo constante de ladrões. Cansado desta situação, um dia Will segue Miro (Rafi Gavron), um dos integrantes da quadrilha que assalta sua empresa. Will o segue até o apartamento em que Miro mora com sua mãe, Amira (Juliette Binoche), uma refugiada bósnia. Na intenção de investigar o roubo, Will torna-se amigo de Amira. Porém ela logo descobre suas verdadeiras intenções e passa a chantageá-lo para proteger seu filho.</info>
@@ -856,13 +508,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO DO MUNDO: BATALHA DE LOS ANGELES[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSDMND</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INVSDMND.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20do%20Mundo%20-%20Batalha%20de%20Los%20Angeles.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20do%20Mundo%20-%20Batalha%20de%20Los%20Angeles.jpg</fanart>
 <info>Uma chuva de meteoros repentinamente atinge a Terra. Logo se descobre que na verdade são naves alienígenas, que desejam exterminar os seres humanos a qualquer custo. A cidade de Los Angeles é alvo de uma das principais batalhas, dentre as várias que ocorrem ao redor do planeta. Nela está envolvido o sargento Michael Nantz (Aaron Eckhart), que teve sua aposentadoria cancelada devido à gravidade dos ataques e ainda sofre o trauma de ter perdido vários homens em sua última missão. Obedecendo ordens do tenente William Martinez (Ramon Rodriguez), ele tenta ajudar no que pode para eliminar o invasor extraterrestre.</info>
@@ -870,13 +516,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASÃO ZUMBI[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSZMB</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVSZMB.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20Zumbi.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invas%C3%A3o%20Zumbi.jpg</fanart>
 <info>Em um trem de alta velocidade com destino à cidade de Busan, na Coréia do Sul, um vírus misterioso que transforma as pessoas em zumbis acaba se espalhando de maneira devastadora. A cidade de destino da locomotiva conseguiu com sucesso se defender da epidemia, mas até chegar lá eles deverão lutar pelas suas sobrevivências.</info>
@@ -884,13 +524,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASOR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVSR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVSR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Invasor%202012.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Invasor%202012.jpg</fanart>
 <info>Depois de quase ter sido morto por um ataque terrorista numa missão internacional, Pablo (Alberto Ammann), um médico espanhol do exército, retorna para casa para resolver problemas familiares. Logo, Pablo começa a desconfiar que o exército está omitindo algumas informações sobre o ataque e começa a ser pressionado pelo alto comando militar a confirmar a versão oficial dos fatos. Ele se recusa a confirmar a versão do exército, mas busca pela verdade e transparência irá lhe custar caro.</info>
@@ -898,13 +532,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVASOR ZIM E O FLORPUS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INSRZMEOFLPS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=INSRZMEOFLPS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Invasor%20Zim%20e%20o%20Florpus.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Invasor%20Zim%20e%20o%20Florpus.jpg</fanart>
 <info>Ao notar que os poderosos chefes não tinham nenhuma ideia de viajar até o planeta Terra, Zim fica para baixo, descrente dele próprio e de sua vida. Esse momento é a oportunidade perfeita para o ser humano vilão, Dib, dar início aos seus planos maléficos.</info>
@@ -912,13 +540,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVENCÍVEL: O CAMINHO DA REDENÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVCVLCMNHDRDNCAO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=INVCVLCMNHDRDNCAO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Invenc%C3%ADvel%20-%20O%20Caminho%20da%20Reden%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Invenc%C3%ADvel%20-%20O%20Caminho%20da%20Reden%C3%A7%C3%A3o.jpg</fanart>
 <info>Louis Zamperini (Samuel Hunt) volta para California depois de ser prisioneiro no Japão durante a Segunda Guerra Mundial, onde ele acaba se casando com a Cynthia Applewhite (Merritt Patterson), mas ainda sofre com transtorno do estresse pós-traumático (TEPT). Batalhando pesadelos constantes, raiva e profunda depressão, sua esposa convence ele a participar da grande cruzada evangelista do Billy Graham de 1949.</info>
@@ -926,13 +548,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVERNO DE SANGUE EM VENEZA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVRNDSNGEMVENZA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVRNDSNGEMVENZA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Inverno%20de%20Sangue%20em%20Veneza.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Inverno%20de%20Sangue%20em%20Veneza.jpg</fanart>
 <info>Após a trágica morte acidental de sua filha, o casal Laura (Julie Christie) e John Baxter (Donald Sutherland) decide começar uma nova vida em Veneza, onde ele trabalhará na restauração de uma igreja. Lá os dois conhecem duas estranhas irmãs. Uma delas afirma ter contato com o espírito da criança falecida e avisa que o casal corre um sério risco em Veneza. John duvida, mas logo começa a ter misteriosas visões.</info>
@@ -940,13 +556,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVICTUS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVCT</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=INVCT.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invictus.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invictus.jpg</fanart>
 <info>Recentemente eleito presidente, Nelson Mandela (Morgan Freeman) tinha consciência que a África do Sul continuava sendo um país racista e economicamente dividido, em decorrência do apartheid. A proximidade da Copa do Mundo de Rúgbi, pela primeira vez realizada no país, fez com que Mandela resolvesse usar o esporte para unir a população. Para tanto chama para uma reunião Francois Pienaar (Matt Damon), capitão da equipe sul-africana, e o incentiva para que a selação nacional seja campeã.</info>
@@ -954,13 +564,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVOCAÇÃO DO MAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVCAODML</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INVCAODML.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invoca%C3%A7%C3%A3o%20do%20Mal.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invoca%C3%A7%C3%A3o%20do%20Mal.jpg</fanart>
 <info>Harrisville, Estados Unidos. Um casal (Ron Livinston e Lili Taylor) muda para uma casa nova ao lado de suas cinco filhas. Inexplicavelmente, estranhos acontecimentos começam a assustar as crianças, o pai e, principalmente, a mãe. Preocupada com algumas manchas que aparecem em seu corpo e com uma sequência de sustos que levou, ela decide procurar um famoso casal de investigadores paranormais (Patrick Wilson e Vera Farmiga), mas eles não aceitam o convite, acreditando ser somente mais um engano de pessoas apavoradas com canos que fazem barulhos durante a noite ou coisas do gênero. Porém, quando eles aceitam fazer uma visita ao local, descobrem que algo muito poderoso e do mal reside ali. Agora, eles precisam descobrir o que é e o porquê daquilo tudo acontecendo com os membros daquela família. É quando o passado começa a revelar uma entidade demoníaca querendo continuar sua trajetória de maldades.</info>
@@ -968,13 +572,7 @@
 </item>
 <item>
 <title>[B][COLOR white]INVOCAÇÃO DO MAL 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]INVCAODML2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=INVCAODML2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Invoca%C3%A7%C3%A3o%20do%20Mal%202.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Invoca%C3%A7%C3%A3o%20do%20Mal%202.jpg</fanart>
 <info>Sete anos após os eventos de Invocação do Mal (2013), Lorraine (Vera Farmiga) e Ed Warren (Patrick Wilson) desembarcam na Inglaterra para ajudar uma família atormentada por uma manifestação poltergeist na filha. A trama é baseada no caso Enfield Poltergeist, registrado no final da década de 1970.</info>
@@ -982,13 +580,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IO: O ÚLTIMO NA TERRA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IOULTMNTRA</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=IOULTMNTRA.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/IO%20-%20O%20%C3%9Altimo%20na%20Terra.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/IO%20-%20O%20%C3%9Altimo%20na%20Terra.jpg</fanart>
 <info>Em uma Terra pós-apocalíptica, Sam, uma adolescente, é uma das últimas pessoas no planeta, que está sendo evacuado. Com o último transporte programado para deixar o planeta, ela precisa decidir entre se juntar ao restante da humanidade ou permanecer na Terra.</info>
@@ -996,13 +588,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IP MAN: A BATALHA FINAL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IPMANABTLHFNL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=IPMANABTLHFNL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Ip%20Man%20-%20A%20Batalha%20Final.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Ip%20Man%20-%20A%20Batalha%20Final.jpg</fanart>
 <info>Na época pós-guerra de Hong Kong, um simples desafio de estilos do kung fu, leva o mestre Wing Chun Ip Man (Anthony Wong Chau-Sang) para o submundo escuro e perigoso das tríades. Para salvar sua vida e defender sua honra, ele precisa lutar bravamente.</info>
@@ -1010,13 +596,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IP MAN: NASCE UMA LENDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IPMANSCUMLND</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=IPMANSCUMLND.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Ip%20Man%20-%20Nasce%20Uma%20Lenda.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Ip%20Man%20-%20Nasce%20Uma%20Lenda.jpg</fanart>
 <info>Na sua juventude, Ip Man iniciou seu treinamento na arte Wing Chun sob a tutela do Mestre Chan Wah Shun. Após a morte de Chan, Ip Man seguiu Ng Chung So como seu novo mentor, ao lado de seu irmão e do seu melhor amigo. Em seguida, o adolescente muda-se para Hong Kong, onde conhece o seu terceiro professor: o nada ortodoxo Leung Bik. Baseado nos eventos da criação do Wing Chun, a difícil arte marcial que foi usada por Mestres como Bruce Lee.</info>
@@ -1024,13 +604,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRMÃ DULCE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRMDLCE</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IRMDLCE.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3%20Dulce.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3%20Dulce.jpg</fanart>
 <info>Cinebiografia de Irmã Dulce (Bianca Comparato/Regina Braga), que, em vida, foi chamada de "Anjo Bom da Bahia", também indicada ao Nobel da Paz e beatificada pela Igreja. Contemplando da década de 1940 aos anos 1980, o filme mostra como a religiosa católica enfrentou uma doença respiratória incurável, o machismo, a indiferença de políticos e até mesmo os dogmas da Igreja para dedicar sua vida ao cuidado dos miseráveis – personificados na figura do fictício João (Amaurih Oliveira) –, deixando um legado que perdura até hoje.</info>
@@ -1038,13 +612,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRMÃO DE ESPIÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRMADESPAO</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=IRMADESPAO.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3o%20de%20Espi%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3o%20de%20Espi%C3%A3o.jpg</fanart>
 <info>Por causa de uma operação secreta, um agente britânico é obrigado a planejar uma fuga com seu irmão, um fanático por futebol com quem ele não se encontra há muito tempo.</info>
@@ -1052,13 +620,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRMÃOS DESASTRE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRMOSDSTRE</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IRMOSDSTRE.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3os%20Desastre.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Irm%C3%A3os%20Desastre.jpg</fanart>
 <info>Afastados há dez anos, os irmãos gêmeos Maggie (Kristen Wigg) e Milo (Bill Hader) escapam da morte no mesmo dia. Ao analisarem suas vidas fracassadas e problemáticas, eles percebem que o primeiro passo para a mudança positiva pode estar na reparação do até então complicado relacionamento familiar.</info>
@@ -1066,13 +628,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRMÃOS GÊMEOS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRMSGMOS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IRMSGMOS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Irm%C3%A3os%20G%C3%AAmeos.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Irm%C3%A3os%20G%C3%AAmeos.jpg</fanart>
 <info>Por acaso, Julius (Arnold Schwarzenegger) e Vincent (Danny DeVito) descobrem que são irmãos gêmeos. O primeiro é alto, loiro, calmo, enquanto o segundo é um chalatão baixinho e moreno. Juntos, eles vão ver como a educação em famílias diferentes moldaram suas personalidades opostas.</info>
@@ -1080,13 +636,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRMÃS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRMAS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=IRMAS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Irm%C3%A3s.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Irm%C3%A3s.jpg</fanart>
 <info>As irmãs Maura Ellis (Amy Poehler) e Kate Ellis (Tina Fey) sempre foram muito diferentes: enquanto a primeira é conhecida por ser responsável e ajudar os outros, a segunda é especialista em perder empregos e namorados, o que deixa a sua filha adolescente furiosa. Quando as duas descobrem que a casa da infância será vendida pelos pais, elas decidem dar uma última festa, e aproveitar tudo que não puderam fazer no local quando eram mais novas.</info>
@@ -1094,13 +644,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRONIAS DO AMOR[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRNOSDMAR</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=IRNOSDMAR.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/Ironias%20do%20Amor.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/Ironias%20do%20Amor.jpg</fanart>
 <info>Charlie Bellow (Jesse Bradford) é uma pessoa realista, que gosta de planejar as coisas antes de realizar algo. Jordan Roark (Elisha Cuthbert) é seu oposto. Logo após se conhecerem, eles se apaixonam. Juntos, enfrentam diversas situações que deveria afastá-los, mas isto não acontece. Com o tempo eles percebem que todos os indícios de que o relacionamento deles não daria certo eram falsos.</info>
@@ -1108,13 +652,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IRREVERSÍVEL[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]IRVRSVL</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=IRVRSVL.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Irreversivel.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Irreversivel.jpg</fanart>
 <info>O filme narra, de trás para frente, a história de uma vingança. A primeira sequência mostra dois amigos desesperados, Marcus (Vincent Cassel) e Pierre (Albert Dupontel), saindo pelo submundo de Paris à procura do homem que teria estuprado e espancado Alex (Monica Bellucci), a atual namorada de Marcus e ex-namorada de Pierre. Em seguida, a narrativa volta passo a passo no tempo para mostrar como Marcus e Pierre descobriram o nome do autor do crime, recuando até o próprio estupro e os eventos que o antecederam.</info>
@@ -1122,13 +660,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IT: A COISA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ITACOS</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ITACOS.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/IT%20-%20A%20Coisa.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/IT%20-%20A%20Coisa.jpg</fanart>
 <info>Um grupo de sete adolescentes de Derry, uma cidade no Maine, formam o auto-intitulado "Losers Club" - o clube dos perdedores. A pacata rotina da cidade é abalada quando crianças começam a desaparecer e tudo o que pode ser encontrado delas são partes de seus corpos. Logo, os integrantes do "Losers Club" acabam ficando face a face com o responsável pelos crimes: o palhaço Pennywise.</info>
@@ -1136,13 +668,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IT: A COISA [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ITACOSLEG</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=ITACOSLEG.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/IT%20-%20A%20Coisa.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/IT%20-%20A%20Coisa.jpg</fanart>
 <info>Um grupo de sete adolescentes de Derry, uma cidade no Maine, formam o auto-intitulado "Losers Club" - o clube dos perdedores. A pacata rotina da cidade é abalada quando crianças começam a desaparecer e tudo o que pode ser encontrado delas são partes de seus corpos. Logo, os integrantes do "Losers Club" acabam ficando face a face com o responsável pelos crimes: o palhaço Pennywise.</info>
@@ -1150,13 +676,7 @@
 </item>
 <item>
 <title>[B][COLOR white]IT: UMA OBRA-PRIMA DO MEDO [COLOR gold](LEG)[/COLOR][/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ITUMOBRPRMDMD</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=ITUMOBRPRMDMD.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/It%20-%20Uma%20Obra-prima%20do%20Medo.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/It%20-%20Uma%20Obra-prima%20do%20Medo.jpg</fanart>
 <info></info>
@@ -1164,13 +684,7 @@
 </item>
 <item>
 <title>[B][COLOR white]ITSY BITSY[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]ITSBTSY</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=ITSBTSY.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/Itsy%20Bitsy.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/Itsy%20Bitsy.jpg</fanart>
 <info>Kara (Elizabeth Roberts) é uma mãe solteira que se muda de Nova York para o campo tranquilo com seus dois filhos por uma oportunidade de trabalho que ela não pode dar ao luxo de recusar. A família se desloca para sua humilde pousada nova, onde Kara começa seu trabalho como enfermeira privada para Walter (Bruce Davison), um homem atingido pela esclerose múltipla e um avaliador de antiguidades raras com um passado secreto. A chegada de um colega de Walter e uma misteriosa relíquia traz consigo uma criatura aterrorizante nascida das trevas: uma aranha pré-histórica que o mundo moderno nunca viu.</info>

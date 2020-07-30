@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR white][B]X-MEN: O FILME[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN01</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN01.mp4</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/0/06/X-Men_Filme.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.</info>
@@ -15,13 +9,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN 2[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN02</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN02.mp4</link>
 <thumbnail>http://assets.caixabelasartes.com.br/wp-content/uploads/2016/05/x2-x-men-united-5224830831497.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.</info>
@@ -30,13 +18,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN: O CONFRONTO FINAL[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN03</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN03.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/medias/nmedia/18/92/28/70/20190567.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.</info>
@@ -45,13 +27,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN ORIGENS: WOLVERINE[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN04</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN04.mp4</link>
 <thumbnail>http://cdn2-www.comingsoon.net/assets/uploads/2009/04/file_54243_0_frenchwolverine.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.</info>
@@ -60,13 +36,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN: PRIMEIRA CLASSE[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN05</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN05.mp4</link>
 <thumbnail>http://3.bp.blogspot.com/-U7gkSz9N-v0/TejQ8bVWTVI/AAAAAAAAAWQ/R2I_Aixk7-A/s1600/Cartaz-X-men-Primeira-Classe.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Charles Xavier conhece um mutante chamado Erik Lehnsherr. Apesar de suas origens muito diferentes - Charles cresceu em uma família rica enquanto Erik perdeu seus pais em Auschwitz -, os dois se tornam grandes amigos. Enquanto o mundo oscila à beira de uma guerra nuclear, Charles e Erik unem forças com outros mutantes para salvar a humanidade. No entanto, um acontecimento separa os dois amigos.</info>
@@ -75,13 +45,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN: DIAS DE UM FUTURO ESQUECIDO[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMEN07</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMEN07.mp4</link>
 <thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcRfGghgPTNyuSSQavmV0MS3M9oCwkyKZEu_wJMhgaG9Q1L0u03y</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar Trask desenvolve os Sentinelas, gigantescos robôs, que os perseguem impiedosamente. Os poucos sobreviventes têm que viver escondidos. Entre eles está Wolverine, que viaja no tempo, rumo aos anos 1970, a fim de impedir que este futuro trágico para os mutantes se torne realidade.</info>
@@ -90,13 +54,7 @@
 
 <item>
 <title>[COLOR white][B]X-MEN: APOCALIPSE[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]XMENAPCLPSE</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=XMENAPCLPSE.mp4</link>
 <thumbnail>http://br.web.img2.acsta.net/c_215_290/pictures/16/04/13/16/18/275648.jpg</thumbnail>
 <fanart>https://images5.alphacoders.com/525/525731.jpg</fanart>
 <info>O primeiro mutante destruidor do mundo, Apocalipse, está de volta disposto a acabar com a humanidade. Professor Xavier conta com Mística, Fera e Mercúrio, além de novos alunos, para impedir o vilão.</info>

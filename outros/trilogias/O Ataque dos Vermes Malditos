@@ -1,12 +1,6 @@
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=OATQDSVRMSMLDTS1.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos.jpg</fanart>
 <info>Perfection é uma pequena vila isolada no meio do estado de Nevada onde, indo de encontro à calmaria costumeira, passa a sofrer uma série de abalos sísmicos estranhos. Para investigar as vibrações a estudande de sismologia Rhonda (Finn Carter) instala aparelhos no deserto. É quando dois trapaceiros, Val (Kevin Bacon) e Earl (Fred Ward), descobrem que embaixo da cidade está uma ninhada de vermes gigantes e fedorentos, com tentáculos na boca e que se movem sob a terra em alta velocidade. Acuada pelas criaturas, os habitantes da cidade se unem para encontrar uma solução e eliminá-los.</info>
@@ -14,13 +8,7 @@
 </item>
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 2[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=OATQDSVRMSMLDTS2.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%202.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%202.jpg</fanart>
 <info>Os vermes reaparecem num campo petrolífero do México. Mas o sobrevivente do primeiro ataque Earl Bassett, não está disposto a virar comida de larvas e junta-se a uma sexy cientista e um estranho rapaz para deter o avanço dos monstros.</info>
@@ -28,13 +16,7 @@
 </item>
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 3: DE VOLTA A PERFEIÇÃO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS3</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=OATQDSVRMSMLDTS3.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%203%20-%20De%20Volta%20a%20Perfei%C3%A7%C3%A3o.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%203%20-%20De%20Volta%20a%20Perfei%C3%A7%C3%A3o.jpg</fanart>
 <info>Burt Gummer esteve muito tempo longe de casa (cerca de 10 anos). Ao retornar a cidade de Perfeição, Nevada, ele descobre que o lugar se transformou num chamariz turístico que explora a reputação da cidade como a casa dos gigantescos vermes malditos. Quando um ataque simulado se torna um perigo real, Gummer se veste novamente com roupas militares e inicia uma guerra contra as criaturas que o afugentaram. Mas ele não terá que enfrentar somente os terríveis graboids, como também irá se defrontar com uma nova raça de criaturas aparentemente indestrutíveis.</info>
@@ -42,13 +24,7 @@
 </item>
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 4: O COMEÇO DA LENDA[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS4</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=OATQDSVRMSMLDTS4.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%204%20-%20O%20Come%C3%A7o%20da%20Lenda.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%204%20-%20O%20Come%C3%A7o%20da%20Lenda.jpg</fanart>
 <info>Depois dos três primeiros aterrorizantes ataques dos vermes malditos, finalmente saberemos agora como tudo começou. A ação começa no século 19, quando 17 trabalhadores morrem misteriosamente em uma mina. Apavorados, os habitantes de Rejection abandonam a cidade. Com a mina fechada, quem perdeu tudo e não tem para onde ir discute o futuro de suas vidas. É neste cenário de medo e desolação que Juan Perrila (Brent Roam), um dos sobreviventes, negocia com Hiram Gummer (Michael Gross), o proprietário da mina. Ele aceita voltar ao trabalho, desde que o seu salário seja dobrado. Porém, Juan não sabe que pode estar negociando a própria vida: os vermes malditos continuam à solta, esperando para devorar mais e mais mineiros.</info>
@@ -56,13 +32,7 @@
 </item>
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 5: LINHAS DE SANGUE[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf4</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS5</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf4=OATQDSVRMSMLDTS5.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%205%20-%20Linhas%20de%20Sangue.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Legado/O%20Ataque%20dos%20Vermes%20Malditos%205%20-%20Linhas%20de%20Sangue.jpg</fanart>
 <info>Um dos maiores especialistas em criaturas subterrâneas, Burt Gummer, finalmente retorna para uma de suas grandes aventuras. Ao lado de seu novo parceiro, o expert em tecnologia Travis, ele terá de suar a camisa para defender a África do Sul dos temidos ass-blasters e Graboids, após um pedido de socorro do ministro da vida selvagem no país.</info>
@@ -70,13 +40,7 @@
 </item>
 <item>
 <title>[B][COLOR white]O ATAQUE DOS VERMES MALDITOS 6: UM DIA FRIO NO INFERNO[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf3</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OATQDSVRMSMLDTS6</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf3=OATQDSVRMSMLDTS6.mp4</link>
 <thumbnail>https://redecanais.vip/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</thumbnail>
 <fanart>https://redecanais.vip/imgs-videos/Filmes/O%20Ataque%20dos%20Vermes%20Malditos%206%20-%20Um%20Dia%20Frio%20no%20Inferno.jpg</fanart>
 <info>Burt Gummer (Michael Gross) e seu filho Travis Welker (Jamie Kennedy) se veem cercados de Graboids e Ass-Blasters ao irem até o Canadá investigar uma série de ataques dos vermes malditos e descobrirem que as criaturas estão sendo utilizadas como armas biológicas em uma remota estação de pesquisa.</info>

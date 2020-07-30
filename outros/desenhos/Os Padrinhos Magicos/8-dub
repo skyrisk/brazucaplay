@@ -6,61 +6,31 @@
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 202[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OPDRMGCEP202</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=OPDRMGCEP202.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 203[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OPDRMGCEP203</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=OPDRMGCEP203.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 204[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OPDRMGCEP204</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=OPDRMGCEP204.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 205[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OPDRMGCEP205</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=OPDRMGCEP205.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/fanart.jpg</fanart>
 </item>
 <item>
 <title>[B][COLOR white]EPISÓDIO - 206[/COLOR][/B]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rc9</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]OPDRMGCEP206</page><referer>$doregex[BPL]</referer></regex>
+<link>rc9=OPDRMGCEP206.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/desenhos/Os%20Padrinhos%20Magicos/fanart.jpg</fanart>
 </item>

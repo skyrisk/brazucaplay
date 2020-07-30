@@ -1,12 +1,6 @@
 <item>
 <title>[COLOR white][B]DOCE VINGANÇA[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DCVNGCA1</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=DCVNGCA1.mp4</link>
 <thumbnail>https://lh3.googleusercontent.com/-33UzLDHL278/UVVhTZaUH1I/AAAAAAAAHms/Nwxrfy1I208/s640/doce_vinganc%25CC%25A7a_poster05.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pA64Ov7lDpwXBu33yq0KpmAOYJL.jpg</fanart>
 <info>A escritora Jennifer aluga uma cabana isolada para escrever sua mais recente novela. A paz e o silêncio do local são quebrados por uma gangue local que a estupra e tortura, deixando-a como morta. Mas Jennifer retorna para se vingar, capturando os homens um a um e lhes causando muito mais dor do que ela sofreu.</info>
@@ -15,13 +9,7 @@
 
 <item>
 <title>[COLOR white][B]DOCE VINGANÇA 2[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf1</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DCVNGCA2</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf1=DCVNGCA2.mp4</link>
 <thumbnail>http://wapkaimage.com/1575/1575905_8b4a5554a5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pA64Ov7lDpwXBu33yq0KpmAOYJL.jpg</fanart>
 <info>Katie se mudou para Nova York para tentar a carreira de modelo. Sua sessão de fotos se transforma em um pesadelo. Estuprada, torturada e sequestrada, ela é enterrada viva e deixada para morrer. Mas Katie consegue escapar e planeja sua vingança.</info>
@@ -30,13 +18,7 @@
 
 <item>
 <title>[COLOR white][B]DOCE VINGANÇA 3: A VINGANÇA É MINHA[/B][/COLOR]</title>
-<link>$doregex[BP1]$doregex[BP2]</link>
-<regex><name>BPL</name><expres>$pyFunction:base64.b64decode("$doregex[BPD]")</expres><page></page></regex>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rcs</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcd</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BPD</name><expres>"(.*?).rcf2</expres><page>$doregex[BP4]</page></regex>
-<regex><name>BP1</name><expres>source.+?"(.+?)[\n"]</expres><page>$doregex[BPL]DCVNGCA3</page><referer>$doregex[BPL]</referer></regex>
+<link>rcf2=DCVNGCA3.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w300/dddMs71BNjmkzvmpSrMdcrKYXZR.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/pA64Ov7lDpwXBu33yq0KpmAOYJL.jpg</fanart>
 <info>Jennifer Hills ainda é atormentada pelo estupro brutal que sofrera há vários anos. Ela muda de identidade e de cidade, juntando-se a um grupo de apoio, a fim de juntar as peças de uma vida nova. Porém, quando os assassinos de sua amiga são libertados, e as histórias de estupradores em série começam a assombrá-la, Jennifer vai caçá-los e fazer justiça com as próprias mãos - e fazê-los pagar por seus crimes das piores maneiras imaginadas.</info>
