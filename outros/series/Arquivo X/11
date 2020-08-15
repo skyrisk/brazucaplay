@@ -1,106 +1,66 @@
 <item>
-<title>[COLOR gold][B]11ª TEMPORADA[/B][/COLOR]</title>
+<title>[B][COLOR gold]11ª TEMPORADA[/COLOR][/B]</title>
 <link>here</link>
-<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
-<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
-</item>
-<item>
-<title>[COLOR white][B]EPISÓDIO - 1[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP01.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 2[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP02.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 1[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP01.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 3[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP03.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 2[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP02.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 4[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP04.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 3[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP03.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 5[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP05.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 4[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP04.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 6[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP06.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 5[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP05.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 7[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP07.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 6[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP06.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 8[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP08.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 7[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP07.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 9[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP09.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 8[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP08.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
 <item>
-<title>[COLOR white][B]EPISÓDIO - 10[/B][/COLOR]</title>
-<link>$doregex[BP1]ARQVXT11EP10.mp4|Referer=$doregex[BP4]</link>
-<regex><name>BP4</name><expres>$pyFunction:base64.b32decode("$doregex[BP3]")</expres><page></page></regex>
-<regex><name>BP3</name><expres>(.*?).rc13</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP2</name><expres>(.*?).rcc</expres><page>https://bit.ly/rcfhd</page></regex>
-<regex><name>BP1</name><expres>  $doregex[BP2](.*?).mp4</expres><page>$doregex[BP4]</page></regex>
+<title>[B][COLOR white]EPISÓDIO - 9[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP09.mp4</link>
+<thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
+<fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
+</item>
+<item>
+<title>[B][COLOR white]EPISÓDIO - 10[/COLOR][/B]</title>
+<link>rc13=ARQVXT11EP10.mp4</link>
 <thumbnail>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/thumb.jpg</thumbnail>
 <fanart>https://skyrisk.github.io/brazucaplay/outros/series/Arquivo%20X/fanart.jpg</fanart>
 </item>
