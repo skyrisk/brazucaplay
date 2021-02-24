@@ -38,38 +38,27 @@
 </assets>
 </extension>
 </addon>
-<addon id="repository.BrazucaPlay" name="[B][COLOR white]Brazuca Play [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.3" provider-name="Brazuca Play">
+<addon id="repository.BrazucaPlay" name="[B][COLOR white]Brazuca Play [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.4" provider-name="Brazuca Play">
 <requires>
-<import addon="xbmc.python" version="2.1.0"/>
-<import addon="script.module.beautifulsoup"/>
-<import addon="script.module.simple.downloader"/>
-<import addon="script.module.t0mm0.common"/>
-<import addon="script.module.beautifulsoup4"/>
-<import addon="script.module.requests"/>
-<import addon="script.module.httplib2"/>
-<import addon="script.module.simple.downloader"/>
-<import addon="script.module.urlresolver"/>
-<import addon="script.module.simplejson"/>
-<import addon="script.module.livestreamer"/>
-<import addon="script.module.pyamf"/>
-<import addon="script.common.plugin.cache"/>
-<import addon="script.module.metahandler"/>
-<import addon="script.module.addon.common"/>
-<import addon="script.module.addon.signals"/>
+<import addon="xbmc.addon" version="12.0.0"/>
 </requires>
 <extension point="xbmc.addon.repository" name="Brazuca Play Repository">
+<dir minversion="16.0.0" maxversion="18.9.0">
 <info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
 <checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
 <datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<hashes>false</hashes>
+</dir>
+<dir minversion="18.9.1">
+<info compressed="false">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml</info>
+<checksum>https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
+<datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<hashes>false</hashes>
+</dir>
 </extension>
 <extension point="xbmc.addon.metadata">
-<news>
-[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.[CR][COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.[CR][COLOR blue]●[/COLOR] v1.1 - PEQUENAS CORREÇÕES.[CR][COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
-</news>
-<summary>Repositório Brazuca Play</summary>
-<description>[B][COLOR blue]●[/COLOR] [COLOR white]Repositório oficial do Brazuca Play - 2019[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]
-</description>
-<disclaimer>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</disclaimer>
+<summary lang="pt_br"></summary>
+<description lang="pt_br"></description>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
@@ -78,6 +67,20 @@
 <screenshot>resources/movies.jpg</screenshot>
 <screenshot>resources/series.jpg</screenshot>
 </assets>
+<news>
+[COLOR blue]●[/COLOR] v1.4 - KODI 19 MATRIX.
+[COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.
+[COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.
+[COLOR blue]●[/COLOR] v1.1 - PEQUENAS CORREÇÕES.
+[COLOR blue]●[/COLOR] v1.0 - VERSÃO INICIAL.
+</news>
+<summary>Repositório Brazuca Play</summary>
+<description>
+[B][COLOR blue]●[/COLOR] [COLOR white]Repositório oficial do Brazuca Play - 2021[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B]
+[B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]
+</description>
+<disclaimer>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</disclaimer>
 </extension>
 </addon>
 <addon id="script.video.F4mProxy" name="[B][COLOR white]F4MPROXY[/COLOR][/B]" version="2.8.7" provider-name="[B][COLOR white]Shani[/COLOR][/B]">
