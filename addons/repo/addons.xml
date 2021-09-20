@@ -13,6 +13,7 @@
 <import addon="script.module.simplejson"/>
 <import addon="script.common.plugin.cache"/>
 <import addon="script.module.metahandler"/>
+<import addon="script.module.resolveurl"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="default.py">
 <provides>video</provides>
