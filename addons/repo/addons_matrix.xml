@@ -78,11 +78,12 @@
 <disclaimer>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</disclaimer>
 </extension>
 </addon>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.44" provider-name="gujal">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.45" provider-name="gujal">
 <requires>
 <!-- <import addon="xbmc.python" version="3.0.0" /> -->
 <import addon="script.module.six" />
 <import addon="script.module.kodi-six" />
+<import addon="script.module.certifi" />
 <import addon="plugin.video.youtube" optional="true" />
 <import addon="script.module.python.twitch" optional="true" />
 <import addon="plugin.googledrive" optional="true" />
