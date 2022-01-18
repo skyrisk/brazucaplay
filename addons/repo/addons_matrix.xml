@@ -33,7 +33,7 @@
 </assets>
 </extension>
 </addon>
-<addon id="repository.BrazucaPlay" name="[B][COLOR white]Brazuca Play [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.4" provider-name="Brazuca Play">
+<addon id="repository.BrazucaPlay" name="[B][COLOR white]Brazuca Play [COLOR blue]Repo[/COLOR][/COLOR][/B]" version="1.5" provider-name="Brazuca Play">
 <requires>
 <import addon="xbmc.addon" version="12.0.0"/>
 </requires>
@@ -50,6 +50,11 @@
 <datadir zip="true">https://raw.github.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
 </dir>
+<dir>
+<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+</dir>
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary lang="pt_br"></summary>
@@ -63,6 +68,7 @@
 <screenshot>resources/series.jpg</screenshot>
 </assets>
 <news>
+[COLOR blue]●[/COLOR] v1.5 - ADD RESOLVEURL.
 [COLOR blue]●[/COLOR] v1.4 - KODI 19 MATRIX.
 [COLOR blue]●[/COLOR] v1.3 - CORREÇÕES DE BUGS.
 [COLOR blue]●[/COLOR] v1.2 - UPDATES CORRIGIDOS.
