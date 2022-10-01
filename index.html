@@ -1,170 +1,183 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-<meta charset="utf-8">
-<title>Repo - Brazuca Community</title>
-<link rel="icon" type="imagem/png" href="https://i.imgur.com/BfFiAAy.png" />
-<meta name="robots" content="noindex">
-<meta name="googlebot" content="noindex"/>
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="">
-<meta name="description" content="">
-<link rel="stylesheet" href="./pages/css/bootstrap.min.css">
-<link rel="stylesheet" href="./pages/css/animate.min.css">
-<link rel="stylesheet" href="./pages/css/et-line-font.css">
-<link rel="stylesheet" href="./pages/css/font-awesome.min.css">
-<link rel="stylesheet" href="./pages/css/vegas.min.css">
-<link rel="stylesheet" href="./pages/css/style.css">
-<link href='https://fonts.googleapis.com/css?family=Rajdhani:400,500,700' rel='stylesheet' type='text/css'>
-<script src="./pages/js/jquery.js"></script>
-<script src="./pages/js/bootstrap.min.js"></script>
-<script src="./pages/js/vegas.min.js"></script>
-<script src="./pages/js/wow.min.js"></script>
-<script src="./pages/js/smoothscroll.js"></script>
-<script src="./pages/js/custom.js"></script>
-<!--<script src="//code.jquery.com/jquery-3.0.0.min.js"></script>-->
-<script src="./pages/js/jquery.min.js"></script>
-<script src="./pages/js/jquery.cookie.js"></script>
-<script src="./pages/js/jaascript.js"></script>
-<script src="./pages/js/backup.js"></script>
-<script src="./pages/js/jquery.mb.YTPlayer.min.js"></script>
-<script src="https://kit.fontawesome.com/73f96667f9.js"></script>
-<style>
-
-a:link, a:visited {
-  text-decoration: none;
-}
-a:hover, a:active {
-    text-decoration: none;
-}
-</style>
-<script>
-jQuery( function() {
-var myPlayer = jQuery( "#bgndVideo" ).YTPlayer( {
-onReady: function( player ) {
-YTPConsole.append( player.id + " player is ready" );
-YTPConsole.append( "<br>" );
-}
-} );
-
-myPlayer.on( "YTPData", function( e ) {
-$( ".dida" ).html( e.prop.title + "<br>@" + e.prop.channelTitle );
-$( "#videoData" ).show();
-} );
-
-var YTPConsole = jQuery( "#eventListener" );
-myPlayer.on( "YTPStart YTPEnd YTPLoop YTPPause YTPBuffering YTPMuted YTPUnmuted", function( e ) {
-YTPConsole.append( "event: " + e.type + " (" + jQuery( "#bgndVideo" ).YTPGetPlayer().getPlayerState() + ") > time: " + e.time );
-YTPConsole.append( "<br>" );
-} );
-} );
-</script>
-
-</head>
-
-<body ondragstart="return false" oncontextmenu="return false" onselectstart="return false">
-
-<section id="home">
-<div class="container">
-<div class="row">
-
-<div class="col-md-offset-2 col-md-8 col-sm-12">
-<div class="home-thumb">
-<img class="wow fadeInUp" data-wow-delay="0.1s" style="width: 20%;" src="https://i.imgur.com/kjtlfSP.png"/>
-<h4 class="wow fadeInUp" data-wow-delay="0.6s">Brazuca Community - Participe do Telegram</h4>
-<div class="wow fadeInUp" data-wow-delay="1.0s">
-<a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.BrazucaPlay.zip" title="Suporte para Kodi: 16, 17 e 18" class="button">ADD-ON KODI 18</a>
-<a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.BrazucaPlay.Matrix.zip" title="Suporte para Kodi: 19" class="button">ADD-ON KODI 19</a>
-<a href="https://skyrisk.github.io/brazucaplay/addons/repository.BrazucaPlay.zip" title="Suporte para Kodi: 16, 17, 18 e 19" class="button" target="_blank">REPOSITÓRIO 1.5</a>
-<a href="#plugins" title="Somente para versões anteriores ao Kodi 19" class="button">PLUGINS</a>
-<a href="https://t.me/joinchat/IYTXUcI9xIZhMDgx" target="_blank" title="Participe do Telegram" class="button telegram">TELEGRAM</a>
-<a href="https://telegra.ph/Brazuca-Community-07-31" target="_blank" title="Informações - FAQ" class="button telegram">FAQ</a>
-</div>
-</div>
-</div>
-</div>
-
-<a id="bgndVideo" class="player" data-property="{videoURL:'C1xUergJyvA',containment:'body', stopMovieOnBlur:false, showControls:false, autoPlay:true, loop:true, vol:20, mute:false, startAt:0,  stopAt:59, opacity:1, addRaster:true, quality:'hd720', optimizeDisplay:true}"></a>
-
-</section>
-
-<section id="about">
-<div class="container">
-<div class="row">
-
-<div class="col-md-6 col-sm-12">
-<video src="https://i.imgur.com/OIyVLp9.mp4" muted  controls class="img-responsive wow fadeInUp" alt="About"></video>
-</div>
-
-<div class="col-md-6 col-sm-12">
-<div class="about-thumb">
-<div class="section-title">
-<h1 class="wow fadeIn" data-wow-delay="0.2s">Como instalar o repositório?</h1>
-<h3 class="wow fadeInUp" data-wow-delay="0.4s">Siga os passos do vídeo</h3>
-</div>
-
-<div class="wow fadeInUp" data-wow-delay="0.6s">
-<span style="color: firebrick;">●</span> Proibido a venda dos add-ons do Brazuca Community.<br />
-<span style="color: firebrick;">●</span> Não vendemos IPTV, caso ache sites ou mesmo apps é falso.
-<br />
-<span style="color: firebrick;">●</span> Não há suporte para SSIPTV ou qualquer outro app.
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</section>
-
-<section id="plugins">
-  <div class="container">
-  <div class="row">
-  
-  <div class="about-thumb">
-  <div class="section-title">
-  <h1 class="wow fadeIn" data-wow-delay="0.2s">Plugins F4M</h1>
-  <h3 class="wow fadeInUp" data-wow-delay="0.4s">Download abaixo</h3>
-  <h4 class="wow fadeInUp" data-wow-delay="0.6s"><span style="color: firebrick;">●</span>Instale primeiro o F4MProxy e depois o F4MTester.</h1>
-  <h4 class="wow fadeInUp" data-wow-delay="0.6s"><span style="color: firebrick;">●</span>Obs: Não funciona com a versão 19.0 Matrix.</h1>
-  <div class="wow fadeInUp" data-wow-delay="0.6s">
-  <a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.f4mTester-2.7.1.zip" title="Faça o download do plugin" class="button plugins">F4MTESTER</a>
-  <a href="https://skyrisk.github.io/brazucaplay/addons/script.video.F4mProxy-2.8.7.zip" title="Faça o download do plugin" class="button plugins">F4MPROXY</a>
-  </div>
-  </div>
-  </div>
-  </div>
-  </div>
-  </section>
-
-<footer>
-<div class="container">
-<div class="row">
-<div class="copyright-text">
-<h2>Copyright © 2015-2021 ● Brazuca Community</h2>
-<q class="wow fadeInUp" data-wow-delay="0.3s">
-O autor não se responsabiliza pelo conteúdo encontrado aqui nem o mau uso do mesmo. Nosso add-on funciona apenas como um agregador de links e apenas organiza os mesmos, bem como as sinopses, títulos e outros!
-</q>
-</div>
-</div>
-</div>
-</div>
-</footer>
-
-<a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
-
-
-</head>
-
-</body>
+  <head>
+    <meta charset="utf-8">
+    <title>Repo - Brazuca Community</title>
+    <link rel="icon" type="imagem/png" href="https://i.imgur.com/BfFiAAy.png" />
+    <meta name="robots" content="noindex">
+    <meta name="googlebot" content="noindex"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="./pages/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./pages/css/animate.min.css">
+    <link rel="stylesheet" href="./pages/css/et-line-font.css">
+    <link rel="stylesheet" href="./pages/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./pages/css/vegas.min.css">
+    <link rel="stylesheet" href="./pages/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Rajdhani:400,500,700' rel='stylesheet' type='text/css'>
+    <script src="./pages/js/jquery.js"></script>
+    <script src="./pages/js/bootstrap.min.js"></script>
+    <script src="./pages/js/vegas.min.js"></script>
+    <script src="./pages/js/wow.min.js"></script>
+    <script src="./pages/js/smoothscroll.js"></script>
+    <script src="./pages/js/custom.js"></script>
+    <!--<script src="//code.jquery.com/jquery-3.0.0.min.js"></script>-->
+    <script src="./pages/js/jquery.min.js"></script>
+    <script src="./pages/js/jquery.cookie.js"></script>
+    <script src="./pages/js/jaascript.js"></script>
+    <script src="./pages/js/backup.js"></script>
+    <script src="./pages/js/jquery.mb.YTPlayer.min.js"></script>
+    <script src="https://kit.fontawesome.com/73f96667f9.js"></script>
+    <style>
+      a:link, a:visited {
+      text-decoration: none;
+      }
+      a:hover, a:active {
+      text-decoration: none;
+      }
+    </style>
+    <script>
+      jQuery( function() {
+      var myPlayer = jQuery( "#bgndVideo" ).YTPlayer( {
+      onReady: function( player ) {
+      YTPConsole.append( player.id + " player is ready" );
+      YTPConsole.append( "<br>" );
+      }
+      } );
+      
+      myPlayer.on( "YTPData", function( e ) {
+      $( ".dida" ).html( e.prop.title + "<br>@" + e.prop.channelTitle );
+      $( "#videoData" ).show();
+      } );
+      
+      var YTPConsole = jQuery( "#eventListener" );
+      myPlayer.on( "YTPStart YTPEnd YTPLoop YTPPause YTPBuffering YTPMuted YTPUnmuted", function( e ) {
+      YTPConsole.append( "event: " + e.type + " (" + jQuery( "#bgndVideo" ).YTPGetPlayer().getPlayerState() + ") > time: " + e.time );
+      YTPConsole.append( "<br>" );
+      } );
+      } );
+    </script>
+  </head>
+  <body ondragstart="return false" oncontextmenu="return false" onselectstart="return false">
+    <section id="home">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-offset-2 col-md-8 col-sm-12">
+            <div class="home-thumb">
+              <img class="wow fadeInUp" data-wow-delay="0.1s" style="width: 20%;" src="https://i.imgur.com/kjtlfSP.png"/>
+              <h4 class="wow fadeInUp" data-wow-delay="0.6s">Brazuca Community - Participe do Telegram</h4>
+              <div class="wow fadeInUp" data-wow-delay="1.0s">
+                <a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.BrazucaPlay.zip" title="Suporte para Kodi: 16, 17 e 18" class="button">ADD-ON KODI 18</a>
+                <a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.BrazucaPlay.Matrix.zip" title="Suporte para Kodi: 19" class="button">ADD-ON KODI 19</a>
+                <a href="https://skyrisk.github.io/brazucaplay/addons/repository.BrazucaPlay.zip" title="Suporte para Kodi: 16, 17, 18 e 19" class="button" target="_blank">REPOSITÓRIO 1.5</a>
+                <!--<a href="#plugins" title="Somente para versões anteriores ao Kodi 19" class="button">PLUGINS</a>-->
+                <a href="https://t.me/joinchat/IYTXUcI9xIZhMDgx" target="_blank" title="Participe do Telegram" class="button telegram">TELEGRAM</a>
+                <a href="https://telegra.ph/Brazuca-Community-07-31" target="_blank" title="Informações - FAQ" class="button telegram">FAQ</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a id="bgndVideo" class="player" data-property="{videoURL:'C1xUergJyvA',containment:'body', stopMovieOnBlur:false, showControls:false, autoPlay:true, loop:true, vol:20, mute:false, startAt:0,  stopAt:59, opacity:1, addRaster:true, quality:'hd720', optimizeDisplay:true}"></a>
+    </section>
+    <section id="about">
+    <div class="container">
+    <div class="row">
+    <div class="col-md-6 col-sm-12">
+    <video src="https://i.imgur.com/OIyVLp9.mp4" muted  controls class="img-responsive wow fadeInUp" alt="About"></video>
+    </div>
+    <div class="col-md-6 col-sm-12">
+    <div class="about-thumb">
+    <div class="section-title">
+    <h1 class="wow fadeIn" data-wow-delay="0.2s">Como instalar o repositório?</h1>
+    <h3 class="wow fadeInUp" data-wow-delay="0.4s">Siga os passos do vídeo</h3>
+    </div>
+    <div class="wow fadeInUp" data-wow-delay="0.6s">
+    <span style="color: firebrick;">●</span> Proibido a venda dos add-ons do Brazuca Community.<br />
+    <span style="color: firebrick;">●</span> Não vendemos IPTV, caso ache sites ou mesmo apps é falso.
+    <br />
+    <span style="color: firebrick;">●</span> Não há suporte para SSIPTV ou qualquer outro app.
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    <!--<section id="plugins">
+      <div class="container">
+      <div class="row">
+      
+      <div class="about-thumb">
+      <div class="section-title">
+      <h1 class="wow fadeIn" data-wow-delay="0.2s">Plugins F4M</h1>
+      <h3 class="wow fadeInUp" data-wow-delay="0.4s">Download abaixo</h3>
+      <h4 class="wow fadeInUp" data-wow-delay="0.6s"><span style="color: firebrick;">●</span>Instale primeiro o F4MProxy e depois o F4MTester.</h1>
+      <h4 class="wow fadeInUp" data-wow-delay="0.6s"><span style="color: firebrick;">●</span>Obs: Não funciona com a versão 19.0 Matrix.</h1>
+      <div class="wow fadeInUp" data-wow-delay="0.6s">
+      <a href="https://skyrisk.github.io/brazucaplay/addons/plugin.video.f4mTester-2.7.1.zip" title="Faça o download do plugin" class="button plugins">F4MTESTER</a>
+      <a href="https://skyrisk.github.io/brazucaplay/addons/script.video.F4mProxy-2.8.7.zip" title="Faça o download do plugin" class="button plugins">F4MPROXY</a>
+      </div>
+      </div>
+      </div>
+      </div>
+      </div>
+      </section>-->
+    <footer>
+    <div class="container">
+    <div class="row">
+    <div class="copyright-text">
+    <h2>Copyright © 2015-2022 ● Brazuca Community</h2>
+    <q class="wow fadeInUp" data-wow-delay="0.3s">
+    O autor não se responsabiliza pelo conteúdo encontrado aqui nem o mau uso do mesmo. Nosso add-on funciona apenas como um agregador de links e apenas organiza os mesmos, bem como as sinopses, títulos e outros!
+    </q>
+    </div>
+    </div>
+    </div>
+    </div>
+    </footer>
+    <a href="#back-top" class="go-top"><i class="fa fa-angle-up"></i></a>
+    </head>
+  </body>
 </html>
 <div id="div" style="display:none">
-<table>
-<tr><th colspan="5"><hr></th></tr>
-<tr><th colspan="5">ADD-ONS:<hr></th></tr>
-<tr><td valign="top"></td><td><a href="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</a></td><td align="right"> V:</td><td align="right">1.4</td></td></tr>
-<tr><td valign="top"></td><td><a href="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</a></td><td align="right"> V:</td><td align="right">2.1.3</td></td></tr>
-<tr><td valign="top"></td><td><a href="addons/plugin.video.BrazucaPlay.Matrix.zip">addons/plugin.video.BrazucaPlay.Matrix.zip</a></td><td align="right"> V:</td><td align="right">2.1.3</td></td></tr>
-<tr><th colspan="5"><hr></th></tr>
-</table>
+  <table>
+    <tr>
+      <th colspan="5">
+        <hr>
+      </th>
+    </tr>
+    <tr>
+      <th colspan="5">
+        ADD-ONS:
+        <hr>
+      </th>
+    </tr>
+    <tr>
+      <td valign="top"></td>
+      <td><a href="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</a></td>
+      <td align="right"> V:</td>
+      <td align="right">1.5</td>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"></td>
+      <td><a href="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</a></td>
+      <td align="right"> V:</td>
+      <td align="right">2.1.4</td>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"></td>
+      <td><a href="addons/plugin.video.BrazucaPlay.Matrix.zip">addons/plugin.video.BrazucaPlay.Matrix.zip</a></td>
+      <td align="right"> V:</td>
+      <td align="right">2.1.4</td>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="5">
+        <hr>
+      </th>
+    </tr>
+  </table>
 </div>
