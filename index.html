@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
+		<title>Repo - Brazuca Community</title>
+		<link rel="icon" type="imagem/png" href="https://i.imgur.com/BfFiAAy.png" />
+		<meta name="robots" content="noindex">
+		<meta name="googlebot" content="noindex" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<link rel="stylesheet" href="./pages/css/bootstrap.min.css">
+		<link rel="stylesheet" href="./pages/css/animate.min.css">
+		<link rel="stylesheet" href="./pages/css/et-line-font.css">
+		<link rel="stylesheet" href="./pages/css/font-awesome.min.css">
+		<link rel="stylesheet" href="./pages/css/vegas.min.css">
+		<link rel="stylesheet" href="./pages/css/style.css">
+		<link href='https://fonts.googleapis.com/css?family=Rajdhani:400,500,700' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
+		<script src="./pages/js/bootstrap.min.js"></script>
+		<script src="./pages/js/vegas.min.js"></script>
+		<script src="./pages/js/wow.min.js"></script>
+		<script src="./pages/js/smoothscroll.js"></script>
+		<script src="./pages/js/custom.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+		<script src="./pages/js/jquery.cookie.js"></script>
+		<script src="./pages/js/jquery.mb.YTPlayer.min.js"></script>
+		<script src="https://kit.fontawesome.com/73f96667f9.js"></script>
+		<style>
+			a:link,
+			a:visited {
+				text-decoration: none;
+			}
+
+			a:hover,
+			a:active {
+				text-decoration: none;
+			}
+
+			// Outros
+			:root {
+				--gray-900: #121214;
+				--gray-300: #444448;
+				--primary-200: #fcd085;
+				--primary-400: #ffbc48;
+				font-size: 62.5%;
+			}
+
+			.sr-only {
+				position: absolute;
+				width: 1px;
+				height: 1px;
+				padding: 0;
+				margin: -1px;
+				overflow: hidden;
+				clip: rect(0, 0, 0, 0);
+				border-width: 0;
+				white-space: nowrap;
+			}
+
+			header {
+				text-align: center;
+				color: white;
+				padding: 3.2rem;
+				max-width: 46rem;
+				margin: auto;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			.input-wrapper {
+				position: relative;
+			}
+
+			header input {
+				padding: 1rem 1.6rem;
+				border-radius: .8rem;
+				background-color: #444448;
+				border: 0;
+				width: 100%;
+				color: white;
+				font-size: 1.6rem;
+			}
+
+			.input-wrapper i {
+				position: absolute;
+				right: 1.2rem;
+				bottom: 1.2rem;
+			}
+		</style>
+		<script>
+			jQuery(function() {
+				var myPlayer = jQuery("#bgndVideo").YTPlayer({
+					onReady: function(player) {
+						YTPConsole.append(player.id + " player is ready");
+						YTPConsole.append(" < br > ");
+					}
+				});
+				myPlayer.on("YTPData", function(e) {
+					$(".dida").html(e.prop.title + " < br > @ " + e.prop.channelTitle);
+					$("#videoData").show();
+				});
+				var YTPConsole = jQuery("#eventListener");
+				myPlayer.on("YTPStart YTPEnd YTPLoop YTPPause YTPBuffering YTPMuted YTPUnmuted", function(e) {
+					YTPConsole.append("event: " + e.type + " (" + jQuery("#bgndVideo").YTPGetPlayer().getPlayerState() + ") > time: " + e.time);
+					YTPConsole.append(" < br > ");
+				});
+			});
+		</script>
+	</head>
+	<body ondragstart="return false" onselectstart="return false">
+		<section id="home">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-offset-2 col-md-8 col-sm-12">
+						<div class="home-thumb">
+							<img class="wow fadeInUp" data-wow-delay="0.1s" style="width: 20%;" src="https://i.imgur.com/kjtlfSP.png" oncontextmenu="return false" />
+							<h4 class="wow fadeInUp" data-wow-delay="0.6s">Brazuca Community - Participe do Telegram</h4>
+							<div class="wow fadeInUp" data-wow-delay="1.0s">
+								<a href="https://skyrisk.github.io/brazucaplay/addons/repository.BrazucaPlay.zip" title="Suporte para: 16.1, 17, 18, 19, 20 e 21+" class="button" target="_blank">REPOSITÓRIO 1.5</a>
+								<a href="https://t.me/+J1xW6NcMTK5jNmQx" target="_blank" title="Participe do Telegram" class="button telegram">TELEGRAM</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<a id="bgndVideo" class="player" data-property="{videoURL:'C1xUergJyvA',containment:'body', stopMovieOnBlur:false, showControls:false, autoPlay:true, loop:true, vol:20, mute:false, startAt:0,  stopAt:59, opacity:1, addRaster:true, quality:'hd720', optimizeDisplay:true}"></a>
+		</section>
+		<section id="about">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-12">
+						<img src="https://i.imgur.com/8U1bKJf.png" class="img-responsive wow fadeInUp animated animated" alt="About" style="visibility: visible; animation-name: fadeInUp;" oncontextmenu="return false">
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<div class="about-thumb">
+							<div class="section-title">
+								<h1 class="wow fadeIn" data-wow-delay="0.2s">Gestor de arquivos</h1>
+								<h1 class="wow fadeInUp" data-wow-delay="0.6s">
+									<header>
+										<div class="input-wrapper">
+											<input id="filter" type="text" readonly="true" value="https://skyrisk.github.io/brazucaplay/" placeholder="https://skyrisk.github.io/brazucaplay/">
+										</div>
+									</header>
+							</div>
+							</h1>
+							<div class="wow fadeInUp" data-wow-delay="0.6s">
+								<span style="color: green;">●</span> Digite o link corretamente. <br />
+								<span style="color: firebrick;">●</span> Proibido a venda do Brazuca Community. <br />
+								<span style="color: firebrick;">●</span> Não vendemos IPTV, caso ache sites ou mesmo apps é falso.
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="copyright-text">
+						<h2>Copyright © 2024 ● Brazuca Community</h2>
+						<q class="wow fadeInUp" data-wow-delay="0.3s"> O autor não se responsabiliza pelo conteúdo encontrado aqui nem o mau uso do mesmo. Nosso add-on funciona apenas como um agregador de links e apenas organiza os mesmos, bem como as sinopses, títulos e outros! </q>
+					</div>
+				</div>
+			</div>
+			</div>
+		</footer>
+		<a href="#back-top" class="go-top">
+			<i class="fa fa-angle-up"></i>
+		</a>
+		</head>
+	</body>
+</html>
+<div id="div" style="display:none">
+	<table>
+		<tr>
+			<th colspan="5">
+				<hr>
+			</th>
+		</tr>
+		<tr>
+			<th colspan="5"> ADD-ONS:
+				<hr>
+			</th>
+		</tr>
+		<tr>
+			<td valign="top"></td>
+			<td>
+				<a href="addons/repository.BrazucaPlay.zip">addons/repository.BrazucaPlay.zip</a>
+			</td>
+			<td align="right"> V:</td>
+			<td align="right">1.5</td>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top"></td>
+			<td>
+				<a href="addons/plugin.video.BrazucaPlay.zip">addons/plugin.video.BrazucaPlay.zip</a>
+			</td>
+			<td align="right"> V:</td>
+			<td align="right">2.1.4</td>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top"></td>
+			<td>
+				<a href="addons/plugin.video.BrazucaPlay.Matrix.zip">addons/plugin.video.BrazucaPlay.Matrix.zip</a>
+			</td>
+			<td align="right"> V:</td>
+			<td align="right">2.1.4</td>
+			</td>
+		</tr>
+		<tr>
+			<th colspan="5">
+				<hr>
+			</th>
+		</tr>
+	</table>
+</div>
