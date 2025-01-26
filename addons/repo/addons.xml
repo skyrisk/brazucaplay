@@ -6,9 +6,6 @@
 <import addon="script.module.kodi-six"/>
 <import addon="script.module.requests"/>
 <import addon="script.module.simplejson"/>
-<import addon="script.module.beautifulsoup4"/>
-<import addon="script.module.resolveurl" optional="true"/>
-<import addon="script.module.jsbeautifier" optional="true"/>
 <import addon="inputstream.ffmpegdirect" optional="true"/>
 <import addon="script.module.inputstreamhelper" optional="true"/>
 </requires>
@@ -27,11 +24,6 @@
 <checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
 <datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
-</dir>
-<dir>
-<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 </dir>
 </extension>
 <extension point="xbmc.addon.metadata">
@@ -66,11 +58,6 @@
 <checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
 <datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
-</dir>
-<dir>
-<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 </dir>
 </extension>
 <extension point="xbmc.addon.metadata">
